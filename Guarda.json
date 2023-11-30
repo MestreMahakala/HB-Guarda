@@ -4101,22 +4101,6 @@
 			"value": 1000
 		},
 		{
-			"name": "Holy Symbol",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Holy Symbol",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": null
-		},
-		{
 			"name": "Holy Water (flask)",
 			"source": "Guarda",
 			"_copy": {
