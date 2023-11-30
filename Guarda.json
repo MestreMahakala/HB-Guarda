@@ -4243,135 +4243,7 @@
 			},
 			"rarity": "common",
 			"value": 7000
-		},
-		{
-			"name": "Imbued Wood (Fernian Ash)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Fernian Ash)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Irian Rosewood)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Irian Rosewood)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Kythrian Manchineel)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Kythrian Manchineel)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Lamannian Oak)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Lamannian Oak)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Mabaran Ebony)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Mabaran Ebony)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Risian Pine)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Risian Pine)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Shavarran Birch)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Shavarran Birch)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Xorian Wenge)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Xorian Wenge)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
+		},		
 		{
 			"name": "Immovable Rod",
 			"source": "Guarda",
@@ -10896,6 +10768,246 @@
 			}
 		},
 		{
+			"name": "Imbued Wood (Fernian Ash)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Fernian Ash ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one fire damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Irian Rosewood)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Irian Rosewood ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one radiant damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Kythrian Manchineel)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Kythrian Manchineel ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or poison damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Lamannian Oak)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Oak ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one lightning or thunder damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Mabaran Ebony)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Oak ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one necrotic damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Risian Pine)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Risian Pine ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one cold damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Shavarran Birch)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Shavarran Birch ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one force damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Xorian Wenge)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Xorian Wenge ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one psychic damage roll of the spell."
+				]
+			}
+		},
+		{
 			"name": "Holy Avenger",
 			"type": "GV",
 			"requires": [
@@ -10929,6 +11041,7 @@
 				}
 			}
 		},
+
 		{
 			"name": "Mariner's Armor",
 			"type": "GV",
