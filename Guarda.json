@@ -453,22 +453,6 @@
 			"value": 400000
 		},
 		{
-			"name": "+1 Shield (*)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "+1 Shield (*)",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 120000
-		},
-		{
 			"name": "+1 Wand of the War Mage",
 			"source": "Guarda",
 			"_copy": {
@@ -10153,7 +10137,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 150000",
+				"valueExpression": "[[baseItem.value]] + 120000",
 				"bonusAc": "+1",
 				"entries": [
 					"While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
