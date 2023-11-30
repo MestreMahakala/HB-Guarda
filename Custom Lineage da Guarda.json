@@ -2,7 +2,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "racaGuarda",
+				"json": "Custom Lineage da Guarda",
 				"abbreviation": "GUARDA",
 				"full": "G.U.A.R.D.A de Tenebris",
 				"authors": [
@@ -43,7 +43,7 @@
 	"race": [
 		{
 			"name": "Custom Lineage (aquático)",
-			"source": "racaGuarda",
+			"source": "Guarda",
 			"page": 8,
 			"lineage": true,
 			"size": [
@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Custom Lineage (voador)",
-			"source": "racaGuarda",
+			"source": "Guarda",
 			"page": 8,
 			"lineage": true,
 			"size": [
@@ -207,7 +207,7 @@
 			"_versions": [
 				{
 					"name": "Custom Lineage (voador); Darkvision",
-					"source": "racaGuarda",
+					"source": "Guarda",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
@@ -225,7 +225,7 @@
 				},
 				{
 					"name": "Custom Lineage (voador); Skill Proficiency",
-					"source": "TCE",
+					"source": "Guarda",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
