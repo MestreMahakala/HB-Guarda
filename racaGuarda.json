@@ -1,0 +1,247 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "racaGuarda",
+				"abbreviation": "GUARDA",
+				"full": "G.U.A.R.D.A de Tenebris",
+				"authors": [
+					"Mahakala"
+				],
+				"convertedBy": [
+					"Mahakala"			
+				],
+				"version": "1.0",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dependencies": {
+			"item": [
+				"DMG",
+				"TCE",
+				"GGR",
+				"PHB"
+			],
+			"itemGroup": [
+				"DMG",
+				"TCE",
+				"GGR",
+				"PHB"
+			],
+			"itemFluff": [
+				"DMG",
+				"TCE",
+				"GGR",
+				"PHB"
+			]
+		},
+		"status": "ready",
+		"dateAdded": 1608050554,
+		"dateLastModified": 1695223506,
+		"_dateLastModifiedHash": "b6b795e6fb"
+	},
+	"race": [
+		{
+			"name": "Custom Lineage (aquático)",
+			"source": "racaGuarda",
+			"page": 8,
+			"lineage": true,
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"swim": true
+			},
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"amount": 2
+					}
+				}
+			],			
+			"feats": [
+				{
+					"any": 1
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				"Em vez de escolher uma das raças do jogo para o seu personagem no 1º nível, você pode usar o custom lineage para criar sua própria raça. Além da opção disponível no livro Tasha, trouxemos para vocês a possibilide de criar raças aquáticas e voadoras. Esta é a base das criaturas aquáticas que concede o seguinte:",
+				{
+					"type": "entries",
+					"name": "Creature Type",
+					"entries": [
+						"Você é um ser humanoide. Você determina sua aparência e se assemelha a algum de seus semelhantes."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Tamanho",
+					"entries": [
+						"Você é Small ou Medium (sua escolha)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Feat",
+					"entries": [
+						"Você ganha uma {@5etools feat|feats.html} à sua escolha."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Vida aquática",
+					"entries": [
+						"Por ser um ser aquático, você tem as seguintes características: (a) Possui deslocamento de natação igual seu deslocamento de caminhada  e (b) respira debaixo d'água."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"Você pode falar, ler e escrever Comum e mais uma outra língua que você e seu Mestre(a) concordem ser apropriada para o seu personagem."
+					]
+				},
+				"Sua raça é considerada uma Linhagem Personalizada para qualquer característica do jogo que exija uma raça específica, como elfo ou anão."
+			]
+		},
+		{
+			"name": "Custom Lineage (voador)",
+			"source": "racaGuarda",
+			"page": 8,
+			"lineage": true,
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"fly": true
+			},
+			"ability": [
+				{
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"count": 3
+					}
+				}
+			],
+			"darkvision": 60,
+			"feats": [
+				{
+					"any": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"any": 1
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				"Em vez de escolher uma das raças do jogo para o seu personagem no 1º nível, você pode usar o custom lineage para criar sua própria raça. Além da opção disponível no livro Tasha, trouxemos para vocês a possibilide de criar raças aquáticas e voadoras. Esta é a base das criaturas voadoras que concede o seguinte:",
+				{
+					"type": "entries",
+					"name": "Creature Type",
+					"entries": [
+						"Você é um ser humanoide. Você determina sua aparência e se assemelha a algum de seus semelhantes."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Tamanho",
+					"entries": [
+						"Você é Small ou Medium (sua escolha)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Variable Trait",
+					"entries": [
+						"Você tem as seguinte opções de customização: (a) {@sense darkvision} com distância de 60 feet ou (b) proficiência em uma skill de sua escolha."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Voo",
+					"entries": [
+						"Devido às suas asas, você tem uma velocidade de voo igual à sua velocidade de caminhada. Você não pode usar essa velocidade de voo se estiver usando armadura média ou pesada."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"Você pode falar, ler e escrever Comum e mais uma outra língua que você e seu Mestre(a) concordem ser apropriada para o seu personagem."
+					]
+				},
+				"Sua raça é considerada uma Linhagem Personalizada para qualquer característica do jogo que exija uma raça específica, como elfo ou anão."
+			],
+			"_versions": [
+				{
+					"name": "Custom Lineage (voador); Darkvision",
+					"source": "racaGuarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Variable Trait",
+							"items": {
+								"name": "Variable Trait; Darkvision",
+								"type": "entries",
+								"entries": [
+									"You gain {@sense darkvision} with a range of 60 feet."
+								]
+							}
+						}
+					},
+					"skillProficiencies": null
+				},
+				{
+					"name": "Custom Lineage (voador); Skill Proficiency",
+					"source": "TCE",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Variable Trait",
+							"items": {
+								"name": "Variable Trait; Skill Proficiency",
+								"type": "entries",
+								"entries": [
+									"You gain proficiency in one skill of your choice."
+								]
+							}
+						}
+					},
+					"darkvision": null
+				}
+			]
+		}
+			]
+		}
