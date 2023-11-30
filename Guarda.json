@@ -9173,22 +9173,6 @@
 			"value": 20
 		},
 		{
-			"name": "Weapon of Warning",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Weapon of Warning",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 90000
-		},
-		{
 			"name": "Weaver's Tools",
 			"source": "Guarda",
 			"_copy": {
@@ -11536,7 +11520,7 @@
 				"tier": "major",
 				"rarity": "uncommon",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 6000000",
+				"valueExpression": "[[baseItem.value]] + 90000",
 				"entries": [
 					"This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when {@condition incapacitated} by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins."
 				],
