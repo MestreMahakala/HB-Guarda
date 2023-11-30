@@ -5717,134 +5717,6 @@
 			"value": 4000
 		},
 		{
-			"name": "Orb of Shielding (Fernian Basalt)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Fernian Basalt)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Irian Quartz)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Irian Quartz)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Kythrian Skarn)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Kythrian Skarn)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Lamannian Flint)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Lamannian Flint)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Mabaran Obsidian)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Mabaran Obsidian)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Risian Shale)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Risian Shale)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Shavarran Chert)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Shavarran Chert)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Xorian Marble)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Xorian Marble)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
 			"name": "Orb of Time",
 			"source": "Guarda",
 			"_copy": {
@@ -11181,6 +11053,294 @@
 					"name": "Nine Lives Stealer",
 					"source": "Guarda"
 				}
+			}
+		},
+		{
+			"name": "Orb of Shielding (Fernian Basalt)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Fernian Basalt ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take fire damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Irian Quartz)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Irian Quartz ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take radiant damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Kythrian Skarn)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Kythrian Skarn ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take acid or poison damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Lamannian Flint)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Flint ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take lightning or thunder damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Mabaran Obsidian)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Mabaran Obsidian ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take necrotic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Risian Shale)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Risian Shale ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take cold damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Shavarran Chert)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Shavarran Chert ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take force damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Xorian Marble)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Xorian Marble ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take psychic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
 			}
 		},
 		{
