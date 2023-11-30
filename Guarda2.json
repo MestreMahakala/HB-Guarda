@@ -16,9 +16,6 @@
 			}
 		],
 		"dependencies": {
-			"baseitem": [
-				"SCAG"
-			],
 			"item": [
 				"AAG", 
 				"AI", 
@@ -56,6 +53,7 @@
 				"RoT", 
 				"RoTOS", 
 				"SatO", 
+				"SCAG", 
 				"SCC", 
 				"SDW", 
 				"SKT", 
@@ -71,6 +69,8 @@
 				"XGE" 
 			],
 			"itemGroup": [
+				"AAG", 
+				"AI", 
 				"BAM", 
 				"BGDIA", 
 				"BGG", 
@@ -121,6 +121,7 @@
 				"XGE" 
 			],
 			"itemFluff": [
+				"AAG", 
 				"AI", 
 				"BAM", 
 				"BGDIA", 
@@ -177,184 +178,6 @@
 		"dateLastModified": 1695223506,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
-	"baseitem": [
-		{
-			"name": "Birdpipes",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Birdpipes",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Glaur",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Glaur",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 500
-		},
-		{
-			"name": "Hand Drum",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Hand Drum",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Longhorn",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Longhorn",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Songhorn",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Songhorn",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Tantan",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Tantan",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Thelarr",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Thelarr",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Tocken",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Tocken",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Wargong",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Wargong",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Yarting",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Yarting",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
-			"name": "Zulkoon",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Zulkoon",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		}
-	],
 	"item": [
 		{
 			"name": "+1 Amulet of the Devout",
@@ -1059,6 +882,22 @@
 			},
 			"rarity": "none",
 			"value": 100
+		},
+		{
+			"name": "Birdpipes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Birdpipes",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Bit and bridle",
@@ -3589,6 +3428,22 @@
 			"value": 3000
 		},
 		{
+			"name": "Glaur",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Glaur",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 500
+		},
+		{
 			"name": "Gloves of Missile Snaring",
 			"source": "Guarda",
 			"_copy": {
@@ -3891,6 +3746,22 @@
 			},
 			"rarity": "none",
 			"value": 7500
+		},
+		{
+			"name": "Hand Drum",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hand Drum",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Handaxe",
@@ -5027,6 +4898,22 @@
 			},
 			"rarity": "none",
 			"value": 5000
+		},
+		{
+			"name": "Longhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Longhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Longship",
@@ -8485,6 +8372,22 @@
 			"value": 2
 		},
 		{
+			"name": "Songhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Songhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Soothsalts",
 			"source": "Guarda",
 			"_copy": {
@@ -8901,6 +8804,22 @@
 			"value": 3000
 		},
 		{
+			"name": "Tantan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tantan",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Tej",
 			"source": "Guarda",
 			"_copy": {
@@ -8931,6 +8850,22 @@
 			},
 			"rarity": "none",
 			"value": 5000
+		},
+		{
+			"name": "Thelarr",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Thelarr",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Thermal Cube",
@@ -9011,6 +8946,22 @@
 			},
 			"rarity": "none",
 			"value": 5000
+		},
+		{
+			"name": "Tocken",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tocken",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Torch",
@@ -9461,6 +9412,22 @@
 			"value": 500
 		},
 		{
+			"name": "Wargong",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wargong",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Warhammer",
 			"source": "Guarda",
 			"_copy": {
@@ -9749,6 +9716,22 @@
 			"value": 100
 		},
 		{
+			"name": "Yarting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Yarting",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Yew Wand",
 			"source": "Guarda",
 			"_copy": {
@@ -9795,6 +9778,22 @@
 			},
 			"rarity": "none",
 			"value": 1000
+		},
+		{
+			"name": "Zulkoon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Zulkoon",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		}
 	],
 	"itemGroup": [
