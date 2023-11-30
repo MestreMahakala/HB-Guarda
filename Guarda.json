@@ -5029,22 +5029,6 @@
 			"value": 100
 		},
 		{
-			"name": "Mariner's Armor",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Mariner's Armor",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 20000
-		},
-		{
 			"name": "Mask of the Beast",
 			"source": "Guarda",
 			"_copy": {
@@ -11056,7 +11040,7 @@
 				"page": 181,
 				"tier": "minor",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 150000",
+				"valueExpression": "[[baseItem.value]] + 20000",
 				"modifySpeed": {
 					"equal": {
 						"swim": "walk"
