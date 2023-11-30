@@ -8917,22 +8917,6 @@
 			"value": 3500
 		},
 		{
-			"name": "Walloping Ammunition",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Walloping Ammunition",
-				"source": "XGE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 800
-		},
-		{
 			"name": "Wand",
 			"source": "Guarda",
 			"_copy": {
@@ -11511,6 +11495,30 @@
 					"name": "Vorpal Sword",
 					"source": "Guarda"
 				}
+			}
+		},
+		{
+			"name": "Walloping Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Walloping ",
+				"source": "XGE",
+				"page": 139,
+				"tier": "minor",
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 800",
+				"entries": [
+					" This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked {@condition prone}."
+				]
 			}
 		},
 		{
