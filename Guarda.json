@@ -5445,22 +5445,6 @@
 			"value": 5000
 		},
 		{
-			"name": "Moon-Touched Sword",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Moon-Touched Sword",
-				"source": "XGE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 30000
-		},
-		{
 			"name": "Moorbounder",
 			"source": "Guarda",
 			"_copy": {
@@ -11053,7 +11037,7 @@
 					"Magic Item Table B"
 				]
 			}
-		},
+		},		
 		{
 			"name": "Mithral Armor",
 			"type": "GV",
@@ -11109,6 +11093,54 @@
 					"This suit of armor is reinforced with a magically enhanced metal alloy called mizzium, which is made in Izzet foundries. While you're wearing the armor, any critical hit against you becomes a normal hit. In addition, when you are subjected to a magical effect that allows you to make a Strength or Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw."
 				]
 			}
+		},
+		{
+			"name": "Moon-Touched Sword",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Moon-Touched ",
+				"source": "XGE",
+				"page": 138,
+				"tier": "minor",
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 30000",
+				"entries": [
+					"In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet."
+				]
+			}
+		},
+		{
+			"name": "Nine Lives Stealer",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Nine Lives Stealer ",
+				"source": "DMG",
+				"page": 183,
+				"srd": true,
+				"tier": "major",
+				"rarity": "very rare",
+				"reqAttune": true,
+				"bonusWeapon": "+2",
+				"charges": "{@dice 1d8 + 1}",
+				"entries": [
+					"You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
+					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
+				],
+				"lootTables": [
+					"Magic Item Table H"
+				]
+			},
+			"hasFluffImages": true
 		},
 		{
 			"name": "Nine Lives Stealer",
