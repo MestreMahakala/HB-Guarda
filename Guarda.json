@@ -8053,22 +8053,6 @@
 			"value": 30000
 		},
 		{
-			"name": "Slumbering Dragon's Wrath Weapon",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Slumbering Dragon's Wrath Weapon",
-				"source": "FTD",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 20000
-		},
-		{
 			"name": "Slumbering Dragon-Touched Focus",
 			"source": "Guarda",
 			"_copy": {
@@ -11340,6 +11324,28 @@
 				"entries": [
 					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take psychic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Slumbering Dragon's Wrath Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Slumbering Dragon's Wrath ",
+				"source": "FTD",
+				"page": 25,
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 20000",
+				"bonusWeapon": "+1",
+				"entries": [
+					"This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties.",
+					"Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon."
 				]
 			}
 		},
