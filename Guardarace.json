@@ -25,7 +25,11 @@
 			"source": "Guarda",
 			"feats": [
 				{
-					"strixhaven initiate|scc": true
+					"choose": {
+						"durable|phb": true,
+						"healer|phb": true,
+						"magic initiate|phb": true						
+					}					
 				}
 			],
 			"skillProficiencies": [
