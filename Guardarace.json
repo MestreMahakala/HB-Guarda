@@ -55,7 +55,55 @@
 			],			
 			"fromFeature": {				
 				"feats": true
-			}
+			},
+			
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Feature: Experiência Acólita",
+					"entries": [
+						"Você poderá escolher entre as feats {@feat Durable}, {@feat healer} ou {@feat Magic Initiate} ou a lista de magias abaixo.",					
+						{
+							"type": "table",
+							"caption": "Lorehold Spells",
+							"colLabels": [
+								"Spell Level",
+								"Spells"
+							],
+							"colStyles": [
+								"col-2 text-center",
+								"col-10"
+							],
+							"rows": [
+								[
+									"1st",
+									"{@spell Ceremony|XGE}, {@spell Detect Evil and Good}"
+								],
+								[
+									"2nd",
+									"{@spell Gentle Repose}, {@spell Prayer of Healing}"
+								],
+								[
+									"3rd",
+									"{@spell Revivify}, {@spell Create Food and Water}"
+								],
+								[
+									"4th",
+									"{@spell Divination}, {@spell Blight}"
+								],
+								[
+									"5th",
+									"{@spell Flame Strike}, {@spell Legend Lore}"
+								]
+							]
+						},
+						"G.U.A.R.D.A de Tenebris"
+					],
+					"data": {
+						"isFeature": true
+					}
+				}
+			]	
 
 		
 	},
@@ -90,20 +138,20 @@
 						"detect evil and good"
 					],
 					"s2": [
-						"borrowed knowledge|scc",
-						"locate object"
+						"Gentle Repose",
+						"Prayer of Healing"
 					],
 					"s3": [
-						"speak with dead",
-						"spirit guardians"
+						"Revivify",
+						"Create Food and Water"
 					],
 					"s4": [
-						"arcane eye",
-						"stone shape"
+						"Divination",
+						"Blight"
 					],
 					"s5": [
-						"flame strike",
-						"legend lore"
+						"Flame Strike",
+						"Legend Lore"
 					]
 				}
 			}
@@ -135,15 +183,15 @@
 						],
 						[
 							"2nd",
-							"{@spell Borrowed Knowledge|SCC}, {@spell Locate Object}"
+							"{@spell Gentle Repose}, {@spell Prayer of Healing}"
 						],
 						[
 							"3rd",
-							"{@spell Speak with Dead}, {@spell Spirit Guardians}"
+							"{@spell Revivify}, {@spell Create Food and Water}"
 						],
 						[
 							"4th",
-							"{@spell Arcane Eye}, {@spell Stone Shape}"
+							"{@spell Divination}, {@spell Blight}"
 						],
 						[
 							"5th",
@@ -151,7 +199,7 @@
 						]
 					]
 				},
-				"Este é um teste do Mahakala sem fins lucrativos e muito ódio no coração"
+				"G.U.A.R.D.A de Tenebris"
 			],
 			"data": {
 				"isFeature": true
