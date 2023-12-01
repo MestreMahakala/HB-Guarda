@@ -23,9 +23,11 @@
 		{
 			"name": "Acolyte",
 			"source": "Guarda",
-			"page": 127,
-			"srd": true,
-			"basicRules": true,
+			"feats": [
+				{
+					"strixhaven initiate|scc": true
+				}
+			],
 			"skillProficiencies": [
 				{
 					"insight": true,
@@ -281,7 +283,7 @@
 		}
 									
 	]
-	
+
 }
 
 	
