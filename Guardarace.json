@@ -23,15 +23,17 @@
 		{
 			"name": "Acolyte",
 			"source": "Guarda",
-			"feats": [
-				{
-					"choose": {
-						"durable|phb": true,
-						"healer|phb": true,
-						"magic initiate|phb": true						
-					}					
-				}
-			],
+            "feats": [
+                {
+                    "durable|phb": true               
+                },
+                {
+                    "healer|phb": true
+                },
+                {
+                    "magic initiate|phb": true 
+                } 
+            ],
 			"skillProficiencies": [
 				{
 					"choose": {
