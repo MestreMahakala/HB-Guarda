@@ -79,7 +79,11 @@
 						]
 					}
 				}
-			]
+			],
+			"fromFeature": {
+				"additionalSpells": true,
+				"feats": true
+			}
 		}
 	]
 
