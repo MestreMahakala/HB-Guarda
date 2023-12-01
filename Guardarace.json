@@ -46,15 +46,10 @@
 					"anyStandard": 2
 				}
 			],
-			"startingEquipment": [ null
-			],
 			"entries": [
 				{
 					"type": "list",
-					"style": "list-hang-notitle",
-					"items": [
-						null
-					]
+					"style": "list-hang-notitle"
 				},
 				{
 					"name": "Feature: Shelter of the Faithful",
