@@ -58,8 +58,8 @@
 				{
 					"expanded": {
 						"s1": [
-							"Ceremony",
-							"Detect Evil and Good"
+							"ceremony|xge",
+							"detect evil and good"
 						],
 						"s2": [
 							"borrowed knowledge|scc",
@@ -105,7 +105,7 @@
 						"rows": [
 							[
 								"1st",
-								"{@spell Ceremony}, {@spell Detect Evil and Good}"
+								"{@spell Ceremony|XGE}, {@spell Detect Evil and Good}"
 							],
 							[
 								"2nd",
