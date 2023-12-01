@@ -25,7 +25,12 @@
 			"source": "Guarda",
             "feats": [
                 {
-                    "durable|phb": true               
+                    "durable|phb": true,
+					"ability": [
+						{
+							"con": -1
+						}
+					]               
                 },
                 {
                     "healer|phb": true
@@ -371,7 +376,8 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"athlete|phb": true               
+				"athlete|phb": true
+				               
 			},
 			{
 				"keen mind|tdcsr": true
