@@ -30,7 +30,6 @@
 			],
 			"skillProficiencies": [
 				{
-					"insight": true,
 					"choose": {
 						"from": [
 							"insight",
