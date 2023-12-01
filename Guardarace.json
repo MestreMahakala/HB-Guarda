@@ -1,0 +1,84 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Guarda",
+				"abbreviation": "D&D Wiki",
+				"full": "D&D Wiki - Featured and Quality Backgrounds",
+				"url": "G.U.A.R.D.A de Tenebris",
+				"authors": [
+					"Mahakala"
+				],
+				"convertedBy": [
+					"Mahakala"
+				],
+				"version": "1.0.0"
+			}
+		],
+		"dateAdded": 1701443714,
+		"dateLastModified": 1701443715,
+		"_dateLastModifiedHash": "3c9028610b"
+	},
+	"background": [
+		{
+			"name": "Acolyte",
+			"source": "Guarda",
+			"page": 127,
+			"srd": true,
+			"basicRules": true,
+			"skillProficiencies": [
+				{
+					"insight": true,
+					"choose": {
+						"from": [
+							"insight",
+							"medicine",														
+							"persuasion",
+							"religion"							
+						],
+						"count": 2
+					}
+				}
+			],
+			"languageProficiencies": [
+				{
+					"anyStandard": 2
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies:",
+							"entry": "{@skill Insight}, {@skill Religion}, {@skill Persuasion}, "
+						},
+						{
+							"type": "item",
+							"name": "Languages:",
+							"entry": "Two of your choice"
+						},
+						{
+							"type": "item",
+							"name": "Equipment:",
+							"entry": "A {@item holy symbol|phb} (a gift to you when you entered the priesthood), a prayer {@item book|phb} or prayer wheel, 5 sticks of incense, vestments, a set of {@item common clothes|phb}, and a belt {@item pouch|phb} containing 15 gp"
+						}
+					]
+				},
+				{
+					"name": "Feature: Shelter of the Faithful",
+					"type": "entries",
+					"entries": [
+						"As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.",
+						"You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple."
+					],
+					"data": {
+						"isFeature": true
+					}
+				}					
+			]
+		}
+	]
+}
