@@ -46,61 +46,14 @@
 					"anyStandard": 2
 				}
 			],
-			"startingEquipment": [
-				{
-					"_": [
-						{
-							"item": "holy symbol|phb",
-							"displayName": "holy symbol (a gift to you when you entered the priesthood)"
-						},
-						{
-							"special": "sticks of incense",
-							"quantity": 5
-						},
-						{
-							"special": "vestments"
-						},
-						"common clothes|phb",
-						{
-							"item": "pouch|phb",
-							"containsValue": 1500
-						}
-					]
-				},
-				{
-					"a": [
-						{
-							"item": "book|phb",
-							"displayName": "prayer book"
-						}
-					],
-					"b": [
-						{
-							"special": "prayer wheel"
-						}
-					]
-				}
+			"startingEquipment": [ null
 			],
 			"entries": [
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
 					"items": [
-						{
-							"type": "item",
-							"name": "Skill Proficiencies:",
-							"entry": "{@skill Insight}, {@skill Religion}"
-						},
-						{
-							"type": "item",
-							"name": "Languages:",
-							"entry": "Two of your choice"
-						},
-						{
-							"type": "item",
-							"name": "Equipment:",
-							"entry": "A {@item holy symbol|phb} (a gift to you when you entered the priesthood), a prayer {@item book|phb} or prayer wheel, 5 sticks of incense, vestments, a set of {@item common clothes|phb}, and a belt {@item pouch|phb} containing 15 gp"
-						}
+						null
 					]
 				},
 				{
