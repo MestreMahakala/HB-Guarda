@@ -72,7 +72,7 @@
 	},
 	{
 		"name": "Acolyte [Lista de Magia]",
-		"source": "Guarda",		
+		"source": "Guarda",				
 		"skillProficiencies": [
 			{
 				"choose": {
@@ -124,6 +124,17 @@
 		},
 		"entries": [
 		{
+			"name": "Feature: Ainda em construção",
+			"type": "entries",
+			"entries": [
+				"No beta o feature não estará em uso"
+			],
+			"data": {
+				"isFeature": true
+			}
+		},
+		{
+
 			"type": "entries",
 			"name": "Feature: Experiência Acólita",
 			"entries": [
