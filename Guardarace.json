@@ -89,8 +89,7 @@
 				"type": "entries",
 				"name": "Feature: Lorehold Initiate",
 				"entries": [
-					"You gain the {@feat Strixhaven Initiate|SCC} feat and must choose Lorehold within it.",
-					"In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Lorehold Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)",
+					"Você poderá escolher entre as feats {@feat Durable}, {@feat healer} ou {@feat Magic Initiate} ou a lista de magias abaixo.",					
 					{
 						"type": "table",
 						"caption": "Lorehold Spells",
@@ -125,7 +124,7 @@
 							]
 						]
 					},
-					"Consider customizing how your spells look when you cast them. Your Lorehold spells might create displays of golden light. You might use a tome or a scroll as a spellcasting focus, and your spell effects might reflect the appearance of the reference books you study."
+					"Este é um teste do Mahakala sem fins lucrativos e muito ódio no coração"
 				],
 				"data": {
 					"isFeature": true
