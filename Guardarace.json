@@ -87,7 +87,7 @@
 			"entries": [
 			{
 				"type": "entries",
-				"name": "Feature: Lorehold Initiate",
+				"name": "Feature: Experiência Acólita",
 				"entries": [
 					"Você poderá escolher entre as feats {@feat Durable}, {@feat healer} ou {@feat Magic Initiate} ou a lista de magias abaixo.",					
 					{
