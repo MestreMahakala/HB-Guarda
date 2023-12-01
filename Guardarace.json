@@ -25,7 +25,7 @@
 			"source": "Guarda",
             "feats": [
                 {
-                    "durable|phb": true,
+                    "actor|phb": true,
 					"ability": [
 						{
 							"con": -1
