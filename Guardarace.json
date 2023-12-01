@@ -58,7 +58,7 @@
 				{
 					"expanded": {
 						"s1": [
-							"ceremony",
+							"Ceremony",
 							"Detect Evil and Good"
 						],
 						"s2": [
@@ -83,9 +83,58 @@
 			"fromFeature": {
 				"additionalSpells": true,
 				"feats": true
+			},
+			"entries": [
+			{
+				"type": "entries",
+				"name": "Feature: Lorehold Initiate",
+				"entries": [
+					"You gain the {@feat Strixhaven Initiate|SCC} feat and must choose Lorehold within it.",
+					"In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Lorehold Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)",
+					{
+						"type": "table",
+						"caption": "Lorehold Spells",
+						"colLabels": [
+							"Spell Level",
+							"Spells"
+						],
+						"colStyles": [
+							"col-2 text-center",
+							"col-10"
+						],
+						"rows": [
+							[
+								"1st",
+								"{@spell Ceremony}, {@spell Detect Evil and Good}"
+							],
+							[
+								"2nd",
+								"{@spell Borrowed Knowledge|SCC}, {@spell Locate Object}"
+							],
+							[
+								"3rd",
+								"{@spell Speak with Dead}, {@spell Spirit Guardians}"
+							],
+							[
+								"4th",
+								"{@spell Arcane Eye}, {@spell Stone Shape}"
+							],
+							[
+								"5th",
+								"{@spell Flame Strike}, {@spell Legend Lore}"
+							]
+						]
+					},
+					"Consider customizing how your spells look when you cast them. Your Lorehold spells might create displays of golden light. You might use a tome or a scroll as a spellcasting focus, and your spell effects might reflect the appearance of the reference books you study."
+				],
+				"data": {
+					"isFeature": true
+				}
 			}
-		}
-	]
+		]
+		
+	}
+]
 
 }
 
