@@ -35,17 +35,63 @@
                 } 
             ],
 			"entries": [
-			{
-				"name": "Feature: Ainda em construção",
-				"type": "entries",
-				"entries": [
-					"No beta o feature não estará em uso"
-				],
-				"data": {
-					"isFeature": true
+				{
+					"name": "Feature: Ainda em construção",
+					"type": "entries",
+					"entries": [
+						"No beta o feature não estará em uso"
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+		
+					"type": "entries",
+					"name": "Feature: Experiência Acólita",
+					"entries": [
+						"Você poderá escolher entre as feats {@feat Durable}, {@feat healer} ou {@feat Magic Initiate} ou a lista de magias abaixo.",					
+						{
+							"type": "table",
+							"caption": "Lorehold Spells",
+							"colLabels": [
+								"Spell Level",
+								"Spells"
+							],
+							"colStyles": [
+								"col-2 text-center",
+								"col-10"
+							],
+							"rows": [
+								[
+									"1st",
+									"{@spell Ceremony|XGE}, {@spell Detect Evil and Good}"
+								],
+								[
+									"2nd",
+									"{@spell Gentle Repose}, {@spell Prayer of Healing}"
+								],
+								[
+									"3rd",
+									"{@spell Revivify}, {@spell Create Food and Water}"
+								],
+								[
+									"4th",
+									"{@spell Divination}, {@spell Blight}"
+								],
+								[
+									"5th",
+									"{@spell Flame Strike}, {@spell Legend Lore}"
+								]
+							]
+						},
+						"G.U.A.R.D.A de Tenebris"
+					],
+					"data": {
+						"isFeature": true
+					}
 				}
-			}
-		],
+			],	
 			"skillProficiencies": [
 				{
 					"choose": {
