@@ -3,9 +3,9 @@
 		"sources": [
 			{
 				"json": "Guarda",
-				"abbreviation": "D&D Wiki",
-				"full": "D&D Wiki - Featured and Quality Backgrounds",
-				"url": "G.U.A.R.D.A de Tenebris",
+				"abbreviation": "Guarda",
+				"full": "G.U.A.R.D.A de Tenebris",
+				"url": "https://github.com/TheGiddyLimit/homebrew/blob/master/background/D%26D%20Wiki%3B%20Featured%20Quality%20Backgrounds.json",
 				"authors": [
 					"Mahakala"
 				],
