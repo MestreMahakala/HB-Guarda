@@ -51,8 +51,35 @@
 				{
 					"anyStandard": 2
 				}
+			
+			],
+			
+			"additionalSpells": [
+				{
+					"expanded": {
+						"s1": [
+							"ceremony",
+							"Detect Evil and Good"
+						],
+						"s2": [
+							"borrowed knowledge|scc",
+							"locate object"
+						],
+						"s3": [
+							"speak with dead",
+							"spirit guardians"
+						],
+						"s4": [
+							"arcane eye",
+							"stone shape"
+						],
+						"s5": [
+							"flame strike",
+							"legend lore"
+						]
+					}
+				}
 			]
-
 		}
 	]
 
