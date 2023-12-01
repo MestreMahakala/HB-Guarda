@@ -25,10 +25,10 @@
 			"source": "Guarda",
             "feats": [
                 {
-                    "actor|phb": true,
+                    "durable|phb": true,
 					"ability": [
 						{
-							"con": -1
+							"con": 0
 						}
 					]               
                 },
