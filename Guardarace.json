@@ -48,43 +48,9 @@
 				{
 		
 					"type": "entries",
-					"name": "Feature: Experiência Acólita",
+					"name": "Talento Extra",
 					"entries": [
-						"Você poderá escolher entre as feats {@feat Durable}, {@feat healer} ou {@feat Magic Initiate} ou a lista de magias abaixo.",					
-						{
-							"type": "table",
-							"caption": "Lorehold Spells",
-							"colLabels": [
-								"Spell Level",
-								"Spells"
-							],
-							"colStyles": [
-								"col-2 text-center",
-								"col-10"
-							],
-							"rows": [
-								[
-									"1st",
-									"{@spell Ceremony|XGE}, {@spell Detect Evil and Good}"
-								],
-								[
-									"2nd",
-									"{@spell Gentle Repose}, {@spell Prayer of Healing}"
-								],
-								[
-									"3rd",
-									"{@spell Revivify}, {@spell Create Food and Water}"
-								],
-								[
-									"4th",
-									"{@spell Divination}, {@spell Blight}"
-								],
-								[
-									"5th",
-									"{@spell Flame Strike}, {@spell Legend Lore}"
-								]
-							]
-						},
+						"Nesta variante, você poderá escolher entre as feats {@feat Durable}, {@feat healer} ou {@feat Magic Initiate}.",					
 						"G.U.A.R.D.A de Tenebris"
 					],
 					"data": {
@@ -182,9 +148,9 @@
 		{
 
 			"type": "entries",
-			"name": "Feature: Experiência Acólita",
+			"name": "Magia Expandida",
 			"entries": [
-				"Você poderá escolher entre as feats {@feat Durable}, {@feat healer} ou {@feat Magic Initiate} ou a lista de magias abaixo.",					
+				"Nesta variante, você ganhará uma lista expandida de magias abaixo. As magias podem ser preparadas ou aprendidas, contando no numero de magias da sua classe.",					
 				{
 					"type": "table",
 					"caption": "Lorehold Spells",
@@ -226,8 +192,356 @@
 			}
 		}
 	]	
-}
-]
+},
+{
+	"name": "Anthropologist [Feat]",
+	"source": "Guarda",
+	"feats": [
+		{
+			"linguist|phb": true               
+		},
+		{
+			"flash recall|tdcsr": true
+		},
+		{
+			"actor|phb": true 
+		} 
+	],
+	"entries": [
+		{
+			"name": "Feature: Ainda em construção",
+			"type": "entries",
+			"entries": [
+				"No beta o feature não estará em uso"
+			],
+			"data": {
+				"isFeature": true
+			}
+		},
+		{
+
+			"type": "entries",
+			"name": "Talento Extra",
+			"entries": [
+				"Nesta variante, você poderá escolher entre as feats {@feat Linguist}, {@feat Flash Recall|TDCSR} ou {@feat Actor}.",					
+				"G.U.A.R.D.A de Tenebris"
+			],
+			"data": {
+				"isFeature": true
+			}
+		}
+	],	
+	"skillProficiencies": [
+		{
+			"choose": {
+				"from": [
+					"insight",
+					"religion",														
+					"history",
+					"performance"											
+				],
+				"count": 2
+			}
+		}
+	],
+	"languageProficiencies": [
+		{
+			"anyStandard": 2
+		}
+	
+	],			
+	"fromFeature": {				
+		"feats": true
+	}
+
+},
+{
+"name": "Anthropologist [Lista de Magia]",
+"source": "Guarda",				
+"skillProficiencies": [
+	{
+		"choose": {
+			"from": [
+				"insight",
+				"religion",														
+				"history",
+				"performance"							
+			],
+			"count": 2
+		}
+	}
+],
+"languageProficiencies": [
+	{
+		"anyStandard": 2
+	}
+
+],
+
+"additionalSpells": [
+	{
+		"expanded": {
+			"s1": [
+				"Entagle",
+				"Feather Fall"
+			],
+			"s2": [
+				"Darkvision",
+				"Locate Animals or Plants"
+			],
+			"s3": [
+				"Leomund's Tiny Hut",
+				"Water Breathing"
+			],
+			"s4": [
+				"Locate Creature",
+				"Leomund's Secret Chest"
+			],
+			"s5": [
+				"Skill Empowerment",
+				"Teleportation Circle"
+			]
+		}
+	}
+],
+"fromFeature": {
+	"additionalSpells": true			
+},
+"entries": [
+{
+	"name": "Feature: Ainda em construção",
+	"type": "entries",
+	"entries": [
+		"No beta o feature não estará em uso"
+	],
+	"data": {
+		"isFeature": true
+	}
+},
+{
+
+	"type": "entries",
+	"name": "Magia Expandida",
+	"entries": [
+		"Nesta variante, você ganhará uma lista expandida de magias abaixo. As magias podem ser preparadas ou aprendidas, contando no numero de magias da sua classe.",					
+		{
+			"type": "table",
+			"caption": "Lorehold Spells",
+			"colLabels": [
+				"Spell Level",
+				"Spells"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1st",
+					"{@spell Entagle}, {@spell Feather Fall}"
+				],
+				[
+					"2nd",
+					"{@spell Darkvision}, {@spell Locate Animals or Plants}"
+				],
+				[
+					"3rd",
+					"{@spell Leomund's Tiny Hut}, {@spell Water Breathing}"
+				],
+				[
+					"4th",
+					"{@spell Locate Creature}, {@spell Leomund's Secret Chest}"
+				],
+				[
+					"5th",
+					"{@spell Skill Empowermen}, {@spell Teleportation Circle}"
+				]
+			]
+		},
+		"G.U.A.R.D.A de Tenebris"
+	],
+	"data": {
+		"isFeature": true
+					}
+				}
+			]	
+	},
+	{
+		"name": "Archaeologist [Feat]",
+		"source": "Guarda",
+		"feats": [
+			{
+				"athlete|phb": true               
+			},
+			{
+				"keen mind|tdcsr": true
+			},
+			{
+				"dungeon delver|phb": true 
+			} 
+		],
+		"entries": [
+			{
+				"name": "Feature: Ainda em construção",
+				"type": "entries",
+				"entries": [
+					"No beta o feature não estará em uso"
+				],
+				"data": {
+					"isFeature": true
+				}
+			},
+			{
+	
+				"type": "entries",
+				"name": "Talento Extra",
+				"entries": [
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat  Keen Mind} ou {@feat Dungeon Delver}.",					
+					"G.U.A.R.D.A de Tenebris"
+				],
+				"data": {
+					"isFeature": true
+				}
+			}
+		],	
+		"skillProficiencies": [
+			{
+				"choose": {
+					"from": [
+						"investigation",																			
+						"history",						
+						"performance",
+						"religion"												
+					],
+					"count": 2
+				}
+			}
+		],
+		"languageProficiencies": [
+			{
+				"anyStandard": 2
+			}
+		
+		],			
+		"fromFeature": {				
+			"feats": true
+		}
+	
+	},
+	{
+	"name": "Anthropologist [Lista de Magia]",
+	"source": "Guarda",				
+	"skillProficiencies": [
+		{
+			"choose": {
+				"from": [
+					"investigation",																			
+					"history",						
+					"performance",
+					"religion"								
+				],
+				"count": 2
+			}
+		}
+	],
+	"languageProficiencies": [
+		{
+			"anyStandard": 2
+		}
+	
+	],
+	
+	"additionalSpells": [
+		{
+			"expanded": {
+				"s1": [
+					"Entagle",
+					"Feather Fall"
+				],
+				"s2": [
+					"Darkvision",
+					"Locate Animals or Plants"
+				],
+				"s3": [
+					"Leomund's Tiny Hut",
+					"Water Breathing"
+				],
+				"s4": [
+					"Locate Creature",
+					"Leomund's Secret Chest"
+				],
+				"s5": [
+					"Skill Empowerment",
+					"Teleportation Circle"
+				]
+			}
+		}
+	],
+	"fromFeature": {
+		"additionalSpells": true			
+	},
+	"entries": [
+	{
+		"name": "Feature: Ainda em construção",
+		"type": "entries",
+		"entries": [
+			"No beta o feature não estará em uso"
+		],
+		"data": {
+			"isFeature": true
+		}
+	},
+	{
+	
+		"type": "entries",
+		"name": "Magia Expandida",
+		"entries": [
+			"Nesta variante, você ganhará uma lista expandida de magias abaixo. As magias podem ser preparadas ou aprendidas, contando no numero de magias da sua classe.",					
+			{
+				"type": "table",
+				"caption": "Lorehold Spells",
+				"colLabels": [
+					"Spell Level",
+					"Spells"
+				],
+				"colStyles": [
+					"col-2 text-center",
+					"col-10"
+				],
+				"rows": [
+					[
+						"1st",
+						"{@spell Entagle}, {@spell Feather Fall}"
+					],
+					[
+						"2nd",
+						"{@spell Darkvision}, {@spell Locate Animals or Plants}"
+					],
+					[
+						"3rd",
+						"{@spell Leomund's Tiny Hut}, {@spell Water Breathing}"
+					],
+					[
+						"4th",
+						"{@spell Locate Creature}, {@spell Leomund's Secret Chest}"
+					],
+					[
+						"5th",
+						"{@spell Skill Empowermen}, {@spell Teleportation Circle}"
+					]
+				]
+			},
+			"G.U.A.R.D.A de Tenebris"
+		],
+		"data": {
+			"isFeature": true
+						}
+					}
+				]	
+		}
+
+
+	]	
 
 }
 
