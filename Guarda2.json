@@ -16,6 +16,9 @@
 			}
 		],
 		"dependencies": {
+			"baseitem": [
+				"SCAG"
+			],
 			"item": [
 				"AAG", 
 				"AI", 
@@ -53,7 +56,6 @@
 				"RoT", 
 				"RoTOS", 
 				"SatO", 
-				"SCAG", 
 				"SCC", 
 				"SDW", 
 				"SKT", 
@@ -69,8 +71,6 @@
 				"XGE" 
 			],
 			"itemGroup": [
-				"AAG", 
-				"AI", 
 				"BAM", 
 				"BGDIA", 
 				"BGG", 
@@ -121,7 +121,6 @@
 				"XGE" 
 			],
 			"itemFluff": [
-				"AAG", 
 				"AI", 
 				"BAM", 
 				"BGDIA", 
@@ -175,9 +174,187 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223506,
+		"dateLastModified": 1695223508,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
+	"baseitem": [
+		{
+			"name": "Birdpipes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Birdpipes",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Glaur",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Glaur",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 500
+		},
+		{
+			"name": "Hand Drum",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hand Drum",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Longhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Longhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Songhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Songhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Tantan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tantan",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Thelarr",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Thelarr",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Tocken",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tocken",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Wargong",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wargong",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Yarting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Yarting",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Zulkoon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Zulkoon",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		}
+	],
 	"item": [
 		{
 			"name": "+1 Amulet of the Devout",
@@ -274,22 +451,6 @@
 			},
 			"rarity": "uncommon",
 			"value": 400000
-		},
-		{
-			"name": "+1 Shield (*)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "+1 Shield (*)",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 120000
 		},
 		{
 			"name": "+1 Wand of the War Mage",
@@ -882,22 +1043,6 @@
 			},
 			"rarity": "none",
 			"value": 100
-		},
-		{
-			"name": "Birdpipes",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Birdpipes",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
 		},
 		{
 			"name": "Bit and bridle",
@@ -3428,22 +3573,6 @@
 			"value": 3000
 		},
 		{
-			"name": "Glaur",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Glaur",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 500
-		},
-		{
 			"name": "Gloves of Missile Snaring",
 			"source": "Guarda",
 			"_copy": {
@@ -3748,22 +3877,6 @@
 			"value": 7500
 		},
 		{
-			"name": "Hand Drum",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Hand Drum",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
 			"name": "Handaxe",
 			"source": "Guarda",
 			"_copy": {
@@ -3988,22 +4101,6 @@
 			"value": 1000
 		},
 		{
-			"name": "Holy Symbol",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Holy Symbol",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": null
-		},
-		{
 			"name": "Holy Water (flask)",
 			"source": "Guarda",
 			"_copy": {
@@ -4146,135 +4243,7 @@
 			},
 			"rarity": "common",
 			"value": 7000
-		},
-		{
-			"name": "Imbued Wood (Fernian Ash)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Fernian Ash)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Irian Rosewood)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Irian Rosewood)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Kythrian Manchineel)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Kythrian Manchineel)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Lamannian Oak)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Lamannian Oak)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Mabaran Ebony)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Mabaran Ebony)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Risian Pine)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Risian Pine)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Shavarran Birch)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Shavarran Birch)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
-		{
-			"name": "Imbued Wood (Xorian Wenge)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Imbued Wood (Xorian Wenge)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 15000
-		},
+		},		
 		{
 			"name": "Immovable Rod",
 			"source": "Guarda",
@@ -4900,22 +4869,6 @@
 			"value": 5000
 		},
 		{
-			"name": "Longhorn",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Longhorn",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
 			"name": "Longship",
 			"source": "Guarda",
 			"_copy": {
@@ -5074,22 +5027,6 @@
 			},
 			"rarity": "none",
 			"value": 100
-		},
-		{
-			"name": "Mariner's Armor",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Mariner's Armor",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 20000
 		},
 		{
 			"name": "Mask of the Beast",
@@ -5508,22 +5445,6 @@
 			"value": 5000
 		},
 		{
-			"name": "Moon-Touched Sword",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Moon-Touched Sword",
-				"source": "XGE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 30000
-		},
-		{
 			"name": "Moorbounder",
 			"source": "Guarda",
 			"_copy": {
@@ -5794,134 +5715,6 @@
 			},
 			"rarity": "common",
 			"value": 4000
-		},
-		{
-			"name": "Orb of Shielding (Fernian Basalt)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Fernian Basalt)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Irian Quartz)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Irian Quartz)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Kythrian Skarn)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Kythrian Skarn)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Lamannian Flint)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Lamannian Flint)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Mabaran Obsidian)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Mabaran Obsidian)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Risian Shale)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Risian Shale)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Shavarran Chert)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Shavarran Chert)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
-		},
-		{
-			"name": "Orb of Shielding (Xorian Marble)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Shielding (Xorian Marble)",
-				"source": "ERLW",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 10000
 		},
 		{
 			"name": "Orb of Time",
@@ -8260,22 +8053,6 @@
 			"value": 30000
 		},
 		{
-			"name": "Slumbering Dragon's Wrath Weapon",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Slumbering Dragon's Wrath Weapon",
-				"source": "FTD",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 20000
-		},
-		{
 			"name": "Slumbering Dragon-Touched Focus",
 			"source": "Guarda",
 			"_copy": {
@@ -8370,22 +8147,6 @@
 			},
 			"rarity": "none",
 			"value": 2
-		},
-		{
-			"name": "Songhorn",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Songhorn",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
 		},
 		{
 			"name": "Soothsalts",
@@ -8804,22 +8565,6 @@
 			"value": 3000
 		},
 		{
-			"name": "Tantan",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Tantan",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
 			"name": "Tej",
 			"source": "Guarda",
 			"_copy": {
@@ -8850,22 +8595,6 @@
 			},
 			"rarity": "none",
 			"value": 5000
-		},
-		{
-			"name": "Thelarr",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Thelarr",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
 		},
 		{
 			"name": "Thermal Cube",
@@ -8946,22 +8675,6 @@
 			},
 			"rarity": "none",
 			"value": 5000
-		},
-		{
-			"name": "Tocken",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Tocken",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
 		},
 		{
 			"name": "Torch",
@@ -9204,22 +8917,6 @@
 			"value": 3500
 		},
 		{
-			"name": "Walloping Ammunition",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Walloping Ammunition",
-				"source": "XGE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 800
-		},
-		{
 			"name": "Wand",
 			"source": "Guarda",
 			"_copy": {
@@ -9412,22 +9109,6 @@
 			"value": 500
 		},
 		{
-			"name": "Wargong",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Wargong",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
 			"name": "Warhammer",
 			"source": "Guarda",
 			"_copy": {
@@ -9490,22 +9171,6 @@
 			},
 			"rarity": "none",
 			"value": 20
-		},
-		{
-			"name": "Weapon of Warning",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Weapon of Warning",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 90000
 		},
 		{
 			"name": "Weaver's Tools",
@@ -9716,22 +9381,6 @@
 			"value": 100
 		},
 		{
-			"name": "Yarting",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Yarting",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
-		},
-		{
 			"name": "Yew Wand",
 			"source": "Guarda",
 			"_copy": {
@@ -9778,22 +9427,6 @@
 			},
 			"rarity": "none",
 			"value": 1000
-		},
-		{
-			"name": "Zulkoon",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Zulkoon",
-				"source": "SCAG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 200
 		}
 	],
 	"itemGroup": [
@@ -10152,7 +9785,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 150000",
+				"valueExpression": "[[baseItem.value]] + 120000",
 				"bonusAc": "+1",
 				"entries": [
 					"While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
@@ -10927,6 +10560,246 @@
 			}
 		},
 		{
+			"name": "Imbued Wood (Fernian Ash)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Fernian Ash ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one fire damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Irian Rosewood)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Irian Rosewood ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one radiant damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Kythrian Manchineel)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Kythrian Manchineel ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or poison damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Lamannian Oak)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Oak ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one lightning or thunder damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Mabaran Ebony)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Oak ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one necrotic damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Risian Pine)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Risian Pine ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one cold damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Shavarran Birch)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Shavarran Birch ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one force damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Xorian Wenge)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Xorian Wenge ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one psychic damage roll of the spell."
+				]
+			}
+		},
+		{
 			"name": "Holy Avenger",
 			"type": "GV",
 			"requires": [
@@ -10960,6 +10833,7 @@
 				}
 			}
 		},
+
 		{
 			"name": "Mariner's Armor",
 			"type": "GV",
@@ -10974,7 +10848,7 @@
 				"page": 181,
 				"tier": "minor",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 150000",
+				"valueExpression": "[[baseItem.value]] + 20000",
 				"modifySpeed": {
 					"equal": {
 						"swim": "walk"
@@ -10987,7 +10861,7 @@
 					"Magic Item Table B"
 				]
 			}
-		},
+		},		
 		{
 			"name": "Mithral Armor",
 			"type": "GV",
@@ -11045,6 +10919,54 @@
 			}
 		},
 		{
+			"name": "Moon-Touched Sword",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Moon-Touched ",
+				"source": "Guarda",
+				"page": 138,
+				"tier": "minor",
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 30000",
+				"entries": [
+					"In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet."
+				]
+			}
+		},
+		{
+			"name": "Nine Lives Stealer",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Nine Lives Stealer ",
+				"source": "DMG",
+				"page": 183,
+				"srd": true,
+				"tier": "major",
+				"rarity": "very rare",
+				"reqAttune": true,
+				"bonusWeapon": "+2",
+				"charges": "{@dice 1d8 + 1}",
+				"entries": [
+					"You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
+					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
+				],
+				"lootTables": [
+					"Magic Item Table H"
+				]
+			},
+			"hasFluffImages": true
+		},
+		{
 			"name": "Nine Lives Stealer",
 			"type": "GV",
 			"requires": [
@@ -11083,6 +11005,316 @@
 					"name": "Nine Lives Stealer",
 					"source": "Guarda"
 				}
+			}
+		},
+		{
+			"name": "Orb of Shielding (Fernian Basalt)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Fernian Basalt ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take fire damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Irian Quartz)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Irian Quartz ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take radiant damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Kythrian Skarn)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Kythrian Skarn ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take acid or poison damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Lamannian Flint)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Flint ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take lightning or thunder damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Mabaran Obsidian)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Mabaran Obsidian ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take necrotic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Risian Shale)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Risian Shale ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take cold damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Shavarran Chert)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Shavarran Chert ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take force damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Xorian Marble)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Xorian Marble ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"reqAttune": true,
+				"wondrous": true,
+				"entries": [
+					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take psychic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Slumbering Dragon's Wrath Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Slumbering Dragon's Wrath ",
+				"source": "FTD",
+				"page": 25,
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 20000",
+				"bonusWeapon": "+1",
+				"entries": [
+					"This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties.",
+					"Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon."
+				]
 			}
 		},
 		{
@@ -11250,6 +11482,30 @@
 			}
 		},
 		{
+			"name": "Walloping Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Walloping ",
+				"source": "XGE",
+				"page": 139,
+				"tier": "minor",
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 800",
+				"entries": [
+					" This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked {@condition prone}."
+				]
+			}
+		},
+		{
 			"name": "Weapon of Warning",
 			"type": "GV",
 			"requires": [
@@ -11264,7 +11520,7 @@
 				"tier": "major",
 				"rarity": "uncommon",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 6000000",
+				"valueExpression": "[[baseItem.value]] + 90000",
 				"entries": [
 					"This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when {@condition incapacitated} by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins."
 				],
