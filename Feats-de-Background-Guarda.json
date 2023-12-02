@@ -1,0 +1,121 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Guarda",
+				"abbreviation": "Guarda",
+				"full": "G.U.A.R.D.A de Tenebris",
+				"url": "https://github.com/TheGiddyLimit/homebrew/blob/master/background/D%26D%20Wiki%3B%20Featured%20Quality%20Backgrounds.json",
+				"authors": [
+					"Mahakala"
+				],
+				"convertedBy": [
+					"Mahakala"
+				],
+				"version": "1.0.0"
+			}
+		],
+		"dateAdded": 1701443714,
+		"dateLastModified": 1701443728,
+		"_dateLastModifiedHash": "3c9028610b"
+	},
+	"feat": [
+		{
+			"name": "Actor [Talento de Background]",
+			"source": "Guarda",
+			"page": 165,
+			"entries": [
+				"Skilled at mimicry and dramatics, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"You have advantage on Charisma ({@skill Deception}) and Charisma ({@skill Performance}) checks when trying to pass yourself off as a different person.",
+						"You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom ({@skill Insight}) check contested by your Charisma ({@skill Deception}) check allows a listener to determine that the effect is faked."
+					]
+				}
+			]
+		},
+		{
+			"name": "Athlete [Talento de Background]",
+			"source": "Guarda",
+			"page": 165,
+			"entries": [
+				"You have undergone extensive physical training to gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you are {@condition prone}, standing up uses only 5 feet of your movement.",
+						"Climbing doesn't cost you extra movement.",
+						"You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet."
+					]
+				}
+			]
+		},
+		{
+			"name": "Durable [Talento de Background]",
+			"source": "Guarda",
+			"page": 166,			
+			"entries": [
+				"Hardy and resilient, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Keen Mind [Talento de Background]",
+			"source": "Guarda",
+			"page": 167,			
+			"entries": [
+				"You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"You always know which way is north.",
+						"You always know the number of hours left before the next sunrise or sunset.",
+						"You can accurately recall anything you have seen or heard within the past month."
+					]
+				}
+			]
+		},
+		{
+			"name": "Linguist [Talento de Background]",
+			"source": "Guarda",
+			"page": 167,
+			"languageProficiencies": [
+				{
+					"any": 3
+				}
+			],
+			"entries": [
+				"You have studied languages and codes, gaining the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"You learn three languages of your choice.",
+						"You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tavern Brawler [Talento de Background]",
+			"source": "Guarda",
+			"page": 170,
+			"entries": [
+				"Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"You are proficient with improvised weapons.",
+						"Your unarmed strike uses a {@damage d4} for damage.",
+						"When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target."
+					]
+				}
+			]
+		} 
+	]
+}
