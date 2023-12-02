@@ -3834,13 +3834,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Grappler|tce": true               
+				"Grappler|tce": true
 			},
 			{
 				"Spell sniper|phb": true
 			},
 			{
-				"Mage Slayer|phb": true 
+				"Mage Slayer|phb": true
 			} 
 		],
 		"entries": [
