@@ -4826,10 +4826,10 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Martial adept|pbh": true               
+				"Martial Adept|pbh": true               
 			},
 			{
-				"Spell sniper|phb": true
+				"Spell Sniper|phb": true
 			},
 			{
 				"Athlete|phb": true 
@@ -4851,7 +4851,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat mage slayer} ou {@feat Servo Crafting|psk}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Martial Adept}, {@feat Spell Sniper} ou {@feat Athelete}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
