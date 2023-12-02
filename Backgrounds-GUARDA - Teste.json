@@ -204,7 +204,7 @@
 				"flash recall|tdcsr": true
 			},
 			{
-				"actor|guarda": true 
+				"actor [talento de background]|guarda": true
 			} 
 		],
 		"entries": [
@@ -223,7 +223,7 @@
 				"type": "entries",
 				"name": "Talento Extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Linguist}, {@feat Flash Recall|TDCSR} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Linguist}, {@feat Flash Recall|TDCSR} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -898,7 +898,7 @@
 					"magic initiate|phb": true
 				},
 				{
-					"actor|guarda": true 
+					"actor [talento de background]|guarda": true
 				} 
 			],
 			"entries": [
@@ -1071,7 +1071,7 @@
 				"flash recall|tdcsr": true
 			},
 			{
-				"actor|guarda": true 
+				"actor [talento de background]|guarda": true
 			} 
 		],
 		"entries": [
@@ -1090,7 +1090,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Linguist}, {@feat Flash Recall|TDCSR} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Linguist}, {@feat Flash Recall|TDCSR} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -1418,7 +1418,7 @@
 				"magic initiate|phb": true
 			},
 			{
-				"actor|guarda": true 
+				"actor [talento de background]|guarda": true
 			} 
 		],
 		"entries": [
@@ -1437,7 +1437,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Quicksmithing|PSK}, {@feat Magic Initiate} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Quicksmithing|PSK}, {@feat Magic Initiate} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -2110,7 +2110,7 @@
 				"tavern brawler|phb": true
 			},
 			{
-				"actor|guarda": true 
+				"actor [talento de background]|guarda": true
 			} 
 		],
 		"entries": [
@@ -2129,7 +2129,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Durable}, {@feat Tavern Brawler} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Durable}, {@feat Tavern Brawler} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -3686,7 +3686,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -4013,7 +4013,7 @@
 				"Linguist|phb": true
 			},
 			{
-				"actor|guarda": true 
+				"actor [talento de background]|guarda": true
 			} 
 		],
 		"entries": [
@@ -4032,7 +4032,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -4159,7 +4159,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -4505,7 +4505,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Linguist} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -5005,7 +5005,7 @@
 				"keen mind|phb": true
 			},
 			{
-				"actor|guarda": true 
+				"actor [talento de background]|guarda": true
 			} 
 		],
 		"entries": [
@@ -5024,7 +5024,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat Keen Mind|TDCSR} ou {@feat Actor|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat Keen Mind|TDCSR} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
