@@ -2623,13 +2623,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"grappler|pbh": true               
+				"grappler|phb": true
 			},
 			{
 				"mage slayer|phb": true
 			},
 			{
-				"martial adept|phb": true 
+				"martial adept|phb": true
 			} 
 		],
 		"entries": [
@@ -2644,11 +2644,11 @@
 				}
 			},
 			{
-
+	
 				"type": "entries",
-				"name": "Talento extra",
+				"name": "Talento Extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Grappler}, {@feat Mage Slayer} ou {@feat Martial Adept}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Grappler}, {@feat Mage Slayer} ou {@feat  Martial Adept}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
