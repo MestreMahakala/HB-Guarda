@@ -5197,7 +5197,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat mage slayer} ou {@feat Servo Crafting|psk}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Poisoner|TCE}, {@feat Spell Sniper} ou {@feat Mage Slayer}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
