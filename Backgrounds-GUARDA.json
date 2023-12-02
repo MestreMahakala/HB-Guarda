@@ -3834,13 +3834,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Grappler|tce": true
+				"grappler|phb": true
 			},
 			{
-				"Spell sniper|phb": true
+				"spell sniper|phb": true
 			},
 			{
-				"Mage Slayer|phb": true
+				"mage slayer|phb": true
 			} 
 		],
 		"entries": [
@@ -3855,11 +3855,11 @@
 				}
 			},
 			{
-
+	
 				"type": "entries",
-				"name": "Talento extra",
+				"name": "Talento Extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat mage slayer} ou {@feat Servo Crafting|psk}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Grappler}, {@feat Spell Sniper} ou {@feat  Mage Slayer}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
