@@ -4826,13 +4826,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Martial Adept|pbh": true               
+				"athlete|phb": true               
 			},
 			{
-				"Spell Sniper|phb": true
+				"spell Sniper|phb": true
 			},
 			{
-				"Athlete|phb": true 
+				"martial Adept|phb": true 
 			} 
 		],
 		"entries": [
