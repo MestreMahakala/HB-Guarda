@@ -719,13 +719,13 @@
 					"source": "Guarda",
 					"feats": [
 						{
-							"Servo Crafting|psk": true               
+							"servo crafting|psk": true               
 						},
 						{
-							"Magic Initiate|phb": true
+							"magic initiate|phb": true
 						},
 						{
-							"Martial Adept|phb": true 
+							"martial adept|phb": true 
 						} 
 					],
 					"entries": [
@@ -892,13 +892,13 @@
 			"source": "Guarda",
 			"feats": [
 				{
-					"Keen Mind|phb": true               
+					"keen mind|phb": true               
 				},
 				{
-					"Magic Initiate|phb": true
+					"magic initiate|phb": true
 				},
 				{
-					"Actor|phb": true 
+					"actor|phb": true 
 				} 
 			],
 			"entries": [
@@ -1065,13 +1065,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Linguist|phb": true               
+				"linguist|phb": true               
 			},
 			{
-				"Flash Recall|tdcsr": true
+				"flash recall|tdcsr": true
 			},
 			{
-				"Actor|phb": true 
+				"actor|phb": true 
 			} 
 		],
 		"entries": [
@@ -1238,13 +1238,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Poisoner|tce": true               
+				"poisoner|tce": true               
 			},
 			{
-				"Tavern Brawler|phb": true
+				"tavern brawler|phb": true
 			},
 			{
-				"Skulker|phb": true 
+				"skulker|phb": true 
 			} 
 		],
 		"entries": [
@@ -1412,13 +1412,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Quicksmithing|psk": true               
+				"quicksmithing|psk": true               
 			},
 			{
-				"Magic Initiate|phb": true
+				"magic initiate|phb": true
 			},
 			{
-				"Actor|phb": true 
+				"actor|phb": true 
 			} 
 		],
 		"entries": [
@@ -1585,13 +1585,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Quicksmithing|psk": true               
+				"quicksmithing|psk": true               
 			},
 			{
-				"Linguist|phb": true
+				"linguist|phb": true
 			},
 			{
-				"Durable|phb": true 
+				"durable|phb": true 
 			} 
 		],
 		"entries": [
@@ -1758,13 +1758,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Durable|phb": true               
+				"durable|phb": true               
 			},
 			{
-				"Linguist|phb": true
+				"linguist|phb": true
 			},
 			{
-				"Dungeon Delver|phb": true 
+				"dungeon delver|phb": true 
 			} 
 		],
 		"entries": [
@@ -1931,13 +1931,13 @@
 			"source": "Guarda",
 			"feats": [
 				{
-					"Healer|phb": true               
+					"healer|phb": true               
 				},
 				{
-					"Magic Initiate|phb": true
+					"magic initiate|phb": true
 				},
 				{
-					"Mage Slayer|phb": true 
+					"mage slayer|phb": true 
 				} 
 			],
 			"entries": [
@@ -2104,13 +2104,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Durable|phb": true               
+				"durable|phb": true               
 			},
 			{
-				"Tavern Brawler|phb": true
+				"tavern brawler|phb": true
 			},
 			{
-				"Actor|phb": true 
+				"actor|phb": true 
 			} 
 		],
 		"entries": [
@@ -2450,13 +2450,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Magic Initiate|phb": true               
+				"magic initiate|phb": true               
 			},
 			{
-				"Keen Mind|phb": true
+				"keen mind|phb": true
 			},
 			{
-				"Dungeon Delver|phb": true 
+				"dungeon delver|phb": true 
 			} 
 		],
 		"entries": [
@@ -2623,13 +2623,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Grappler|pbh": true               
+				"grappler|pbh": true               
 			},
 			{
-				"Mage Slayer|phb": true
+				"mage slayer|phb": true
 			},
 			{
-				"Martial Adept|phb": true 
+				"martial adept|phb": true 
 			} 
 		],
 		"entries": [
@@ -4999,13 +4999,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Magic Initiate|phb": true               
+				"magic initiate|phb": true               
 			},
 			{
-				"Keen Mind|phb": true
+				"keen mind|phb": true
 			},
 			{
-				"Actor|phb": true 
+				"actor|phb": true 
 			} 
 		],
 		"entries": [
@@ -5172,13 +5172,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Poisoner|tce": true               
+				"poisoner|tce": true               
 			},
 			{
-				"Spell sniper|phb": true
+				"spell sniper|phb": true
 			},
 			{
-				"Mage Slayer|phb": true 
+				"mage slayer|phb": true 
 			} 
 		],
 		"entries": [
@@ -5345,13 +5345,13 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Servo Crafting|psk": true               
+				"servo crafting|psk": true               
 			},
 			{
-				"Skulker|phb": true
+				"skulker|phb": true
 			},
 			{
-				"Flash Recall|tdcsr": true 
+				"flash recall|tdcsr": true 
 			} 
 		],
 		"entries": [
