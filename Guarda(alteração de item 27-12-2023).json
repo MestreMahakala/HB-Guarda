@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223508,
+		"dateLastModified": 1695223515,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -9423,7 +9423,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 12000
+			"value": 120000
 		},
 		{
 			"name": "Yahcha",
@@ -9870,7 +9870,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 100000",
+				"valueExpression": "[[baseItem.value]] + 120000",
 				"bonusWeapon": "+1",
 				"entries": [
 					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
