@@ -126,42 +126,10 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223515,
+		"dateLastModified": 1695223508,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
-		{
-			"name": "Blunderbuss",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Blunderbuss",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 18000
-		},
-		{
-			"name": "Badnews",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Badnews",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 20000
-		},
 		{
 			"name": "Birdpipes",
 			"source": "Guarda",
@@ -2946,7 +2914,7 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": 120000
+			"value": 150000
 		},
 		{
 			"name": "Elemental Gem, Blue Sapphire",
@@ -3650,7 +3618,7 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": 120000
+			"value": 200000
 		},
 		{
 			"name": "Goggles of Object Reading",
@@ -3875,22 +3843,6 @@
 			},
 			"rarity": "none",
 			"value": 500
-		},
-		{
-			"name": "Hand Mortar",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Hand Mortar",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 20000
 		},
 		{
 			"name": "Hat of Disguise",
@@ -5493,21 +5445,6 @@
 			"value": 800
 		},
 		{
-			"name": "Musket",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Musket",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"value": 20000
-		},
-		{
 			"name": "Muroosa Balm",
 			"source": "Guarda",
 			"_copy": {
@@ -5844,21 +5781,6 @@
 			"value": 10000
 		},
 		{
-			"name": "Pam Pistol",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Pam Pistol",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"value": 2000
-		},
-		{
 			"name": "Pan Flute",
 			"source": "Guarda",
 			"_copy": {
@@ -5937,22 +5859,6 @@
 			},
 			"rarity": "none",
 			"value": 200
-		},
-		{
-			"name": "Pepperbox",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Pepperbox",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 12000
 		},
 		{
 			"name": "Perfume (vial)",
@@ -6129,21 +6035,6 @@
 			},
 			"rarity": "uncommon",
 			"value": 15000
-		},
-		{
-			"name": "Pistol",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Pistol",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"value": 10000
 		},
 		{
 			"name": "Pitcher",
@@ -9423,7 +9314,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 120000
+			"value": 120
 		},
 		{
 			"name": "Yahcha",
@@ -9870,7 +9761,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 120000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"bonusWeapon": "+1",
 				"entries": [
 					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
