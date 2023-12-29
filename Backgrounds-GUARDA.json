@@ -16,7 +16,7 @@
 			}
 		],
 		"dateAdded": 1701443714,
-		"dateLastModified": 1701443738,
+		"dateLastModified": 1701443740,
 		"_dateLastModifiedHash": "3c9028610b"
 	},
 	"background": [
@@ -917,7 +917,7 @@
 					"type": "entries",
 					"name": "Talento extra",
 					"entries": [
-						"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat mage slayer} ou {@feat Servo Crafting|psk}.",					
+						"Nesta variante, você poderá escolher entre as feats {@feat Keen Mind}, {@feat Magic Initiate},  ou {@feat Actor|guarda}.",					
 						"G.U.A.R.D.A de Tenebris"
 					],
 					"data": {
@@ -2283,7 +2283,7 @@
 				"healer|phb": true
 			},
 			{
-				"spell sniper": true 
+				"spell sniper|phb": true 
 			} 
 		],
 		"entries": [
@@ -2302,7 +2302,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Durable [Talento de Background]|GUARDA}, {@feat healer} ou {@feat spell sniper}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Durable [Talento de Background]|GUARDA}, {@feat Healer} ou {@feat Spell Sniper}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -3513,7 +3513,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat mage slayer} ou {@feat Servo Crafting|psk}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Poisoner|tce}, {@feat Dungeon Delver} ou {@feat Mage Slayer}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -4091,11 +4091,11 @@
 		{
 			"expanded": {
 				"s1": [
-					"Charm person",
+					"Charm Person",
 					"Disguise Self"
 				],
 				"s2": [
-					"Calm emotions",
+					"Calm Emotions",
 					"Enthrall"
 				],
 				"s3": [
@@ -4117,24 +4117,59 @@
 		"additionalSpells": true			
 	},
 	"entries": [
-	{
-		"name": "Feature: Ainda em construção",
-		"type": "entries",
-		"entries": [
-			"No beta o feature não estará em uso"
-		],
-		"data": {
-			"isFeature": true
+		{
+			"type": "entries",
+			"name": "Lista expandida",
+			"entries": [
+				"Nesta variante, você ganhará uma lista expandida de magias abaixo. As magias podem ser preparadas ou aprendidas, contando no numero de magias da sua classe.",					
+				{
+					"type": "table",
+					"caption": "Lorehold Spells",
+					"colLabels": [
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles": [
+						"col-2 text-center",
+						"col-10"
+					],
+					"rows": [
+						[
+							"1st",
+							"{@spell Charm person}, {@spell Disguise Self}"
+						],
+						[
+							"2nd",
+							"{@spell Calm emotions}, {@spell Enthrall}"
+						],
+						[
+							"3rd",
+							"{@spell  Major Image}, {@spell Motivational Speech|ai}"
+						],
+						[
+							"4th",
+							"{@spell Charm Monster|xge}, {@spell Confusion}"
+						],
+						[
+							"5th",
+							"{@spell Dominate Person}, {@spell Rary's Telepathic Bond}"
+						]
+					]
+				},
+				"G.U.A.R.D.A de Tenebris"
+			],
+			"data": {
+				"isFeature": true
+			}
 		}
-	}
-	]
-	},
+		]
+		},
 	{
 		"name": "Outlander [Feat]",
 		"source": "Guarda",
 		"feats": [
 			{
-				"tavern brawler [talento de background]|guarda": true               
+				"Tavern Brawler [talento de background]|guarda": true               
 			},
 			{
 				"Healer|phb": true
@@ -4159,7 +4194,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete [Talento de Background]|GUARDA}, {@feat Linguist [Talento de Background]|GUARDA} ou {@feat Actor [Talento de Background]|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Tavern Brawler [Talento de Background]|GUARDA}, {@feat Healer} ou {@feat Grappler}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -4505,7 +4540,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete [Talento de Background]|GUARDA}, {@feat Linguist [Talento de Background]|GUARDA} ou {@feat Actor [Talento de Background]|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Keen Mind}, {@feat Flash Recall|tdcsr} ou {@feat Skulker}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -5024,7 +5059,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat Keen Mind [Talento de Background]|GUARDA|TDCSR} ou {@feat Actor [Talento de Background]|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Magic Initiate}, {@feat Keen Mind [Talento de Background]|GUARDA} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
