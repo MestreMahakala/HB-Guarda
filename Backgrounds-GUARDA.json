@@ -16,7 +16,7 @@
 			}
 		],
 		"dateAdded": 1701443714,
-		"dateLastModified": 1701443740,
+		"dateLastModified": 1701443741,
 		"_dateLastModifiedHash": "3c9028610b"
 	},
 	"background": [
@@ -2277,7 +2277,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"durabble [talento de background]|guarda": true               
+				"durable [talento de background]|guarda": true               
 			},
 			{
 				"healer|phb": true
