@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223515,
+		"dateLastModified": 1695223516,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -7760,6 +7760,21 @@
 			},
 			"rarity": "common",
 			"value": 2500
+		},
+		{
+			"name": "Shiftweave",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shiftweave",
+				"source": "ERLW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},			
+			"value": 10000
 		},
 		{
 			"name": "Shortbow",
