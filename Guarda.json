@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223528,
+		"dateLastModified": 1695223545,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -503,7 +503,7 @@
 			"value": 40000,
 			"source": "GUARDA",
 			"entries": [
-			"A spell component used in {@spell Summon Elemental|PHB}."
+			"A spell component used in {@spell Summon Elemental|TCE}."
 			]
 		},
 		{
@@ -513,7 +513,7 @@
 			"value": 50000,
 			"source": "GUARDA",
 			"entries": [
-			"A spell component used in {@spell Summon Celestial|PHB}."
+			"A spell component used in {@spell Summon Celestial|TCE}."
 			]
 		},
 		{
@@ -523,7 +523,7 @@
 			"value": 50000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Summon Draconic Spirit|PHB}."
+				"A spell component used in {@spell Summon Draconic Spirit|TCE}."
 			]
 		},
 		{
@@ -533,7 +533,7 @@
 			"value": 60000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Summon Fiend|PHB}."
+				"A spell component used in {@spell Summon Fiend|TCE}."
 			]
 		},
 		{
@@ -563,7 +563,7 @@
 			"value": 2500,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Borrowed Knowledge|PHB}."
+				"A spell component used in {@spell Borrowed Knowledge|SCC}."
 			]
 		},
 		{
@@ -613,7 +613,7 @@
 			"value": 5000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Incite Greed|PHB}."
+				"A spell component used in {@spell Incite Greed|AI}."
 			]
 		},
 		{
@@ -663,7 +663,7 @@
 			"value": 15000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Shadow of Moil|PHB}."
+				"A spell component used in {@spell Shadow of Moil|XGE}."
 			]
 		},
 		{
@@ -673,7 +673,7 @@
 			"value": 40000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Spirit of Death|PHB}."
+				"A spell component used in {@spell Spirit of Death|BMT}."
 			]
 		},
 		{
@@ -703,7 +703,7 @@
 			"value": 500000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Create Spelljamming Helm|PHB}."
+				"A spell component used in {@spell Create Spelljamming Helm|AAG}."
 			]
 		},
 		{
@@ -713,7 +713,7 @@
 			"value": 10000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Dawn|PHB}."
+				"A spell component used in {@spell Dawn|XGE}."
 			]
 		},
 		{
@@ -733,7 +733,7 @@
 			"value": 99900,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Infernal Calling|PHB}."
+				"A spell component used in {@spell Infernal Calling|XGE}."
 			]
 		},
 		{
@@ -823,7 +823,7 @@
 			"value": 100000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Create Homunculus|PHB}."
+				"A spell component used in {@spell Create Homunculus|XGE}."
 			]
 		},
 		{
@@ -863,7 +863,7 @@
 			"value": 50000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Fizban's Platinum Shield|PHB}."
+				"A spell component used in {@spell Fizban's Platinum Shield|FTD}."
 			]
 		},
 		{
@@ -923,7 +923,7 @@
 			"value": 10000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Soul Cage|PHB}."
+				"A spell component used in {@spell Soul Cage|XGE}."
 			]
 		},
 		{
@@ -933,7 +933,7 @@
 			"value": 50000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Tasha's Otherworldly Guise|PHB}."
+				"A spell component used in {@spell Tasha's Otherworldly Guise|TCE}."
 			]
 		},
 		{
@@ -953,7 +953,7 @@
 			"value": 200000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Create Magen|PHB}."
+				"A spell component used in {@spell Create Magen|IDRotF}."
 			]
 		},
 		{
@@ -963,7 +963,7 @@
 			"value": 50000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Draconic Transformation|PHB}."
+				"A spell component used in {@spell Draconic Transformation|FTD}."
 			]
 		},
 		{
@@ -1063,7 +1063,7 @@
 			"value": 500,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Temple of the Gods|PHB}."
+				"A spell component used in {@spell Temple of the Gods|XGE}."
 			]
 		},
 		{
@@ -1093,7 +1093,7 @@
 			"value": 50000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Mighty Fortress|PHB}."
+				"A spell component used in {@spell Mighty Fortress|XGE}."
 			]
 		},
 		{
@@ -1133,7 +1133,7 @@
 			"value": 50000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Invulnerability|PHB}."
+				"A spell component used in {@spell Invulnerability|XGE}."
 			]
 		},
 		{
