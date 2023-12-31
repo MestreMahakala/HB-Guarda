@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223519,
+		"dateLastModified": 1695223520,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -453,7 +453,7 @@
 			"value": 30000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Summon Fey|PHB}."
+				"A spell component used in {@spell Summon Fey|TCE}."
 			]
 		},
 		{
@@ -463,7 +463,7 @@
 			"value": 20000,
 			"source": "GUARDA",
 			"entries": [
-				"A spell component used in {@spell Summon Beast|PHB}."
+				"A spell component used in {@spell Summon Beast|TCE}."
 			]
 		},
 		{
@@ -483,7 +483,7 @@
 			"value": 30000,
 			"source": "GUARDA",
 			"entries": [
-			"A spell component used in {@spell Summon Undead|PHB}."
+			"A spell component used in {@spell Summon Undead|TCE}."
 			]
 		},
 		{
