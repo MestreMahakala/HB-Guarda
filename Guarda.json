@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223516,
+		"dateLastModified": 1695223517,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -355,6 +355,16 @@
 			},
 			"rarity": "uncommon",
 			"value": 400000
+		},
+		{
+			"name": "Charcoal, Incense, and Herbs",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 1000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Find Familiar|PHB}."
+			]
 		},
 		{
 			"name": "+1 Arcane Grimoire",
