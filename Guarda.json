@@ -367,6 +367,813 @@
 			]
 		},
 		{
+			"name": "Specially marked sticks, Bones, or Similar tokens",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Augury|PHB}."
+			]
+		},
+		{
+			"name": "Powdered silver",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Ceremony|PHB}."
+			]
+		},
+		{
+			"name": "Incense and a Sacrificial offering",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Divination|PHB}."
+			]
+		},
+		{
+			"name": "Sapphire",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Drawmij's Instant Summons|PHB}."
+			]
+		},
+		{
+			"name": "Holy water, Rare incense, and Powdered ruby",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Forbiddance|PHB}."
+			]
+		},
+		{
+			"name": "Pearl and an Owl feather",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 10000,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Identify|PHB}."
+			]
+		},
+		{
+			"name": "Lead-based ink",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 1000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Illusory Script|PHB}."
+			]
+		},
+		{
+			"name": "Small bit of honeycomb and Jade dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 1000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Magic Mouth|PHB}."
+			]
+		},
+		{
+			"name": "Gilded flower",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 30000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Summon Fey|PHB}."
+			]
+		},
+		{
+			"name": "a Feather, Tuft of Fur, and Fish tail inside a gilded acorn",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 20000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Summon Beast|PHB}."
+			]
+		},
+		{
+			"name": "Tears inside a gem",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 30000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Summon Shadowspawn|PHB}."
+			]
+		},
+		{
+			"name": "Gilded skull",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 30000,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Summon Undead|PHB}."
+			]
+		},
+		{
+			"name": "Pickled tentacle and an Eyeball in a platinum-inlaid vial",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 40000,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Summon Aberration|PHB}."
+			]
+		},
+		{
+			"name": "Air, a Pebble, Ash, and Water inside a Gold-inlaid vial",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 40000,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Summon Elemental|PHB}."
+			]
+		},
+		{
+			"name": "Golden reliquary",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Summon Celestial|PHB}."
+			]
+		},
+		{
+			"name": "Object with the image of a dragon engraved on it",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Summon Draconic Spirit|PHB}."
+			]
+		},
+		{
+			"name": "Humanoid blood inside a ruby vial",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 60000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Summon Fiend|PHB}."
+			]
+		},
+		{
+			"name": "Diamond",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 5000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Chromatic Orb|PHB}."
+			]
+		},
+		{
+			"name": "Gold dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Arcane Lock|PHB}."
+			]
+		},
+		{
+			"name": "Book (componente mágico)",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Borrowed Knowledge|PHB}."
+			]
+		},
+		{
+			"name": "Ruby dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 5000,
+			"source": "GUARDA",
+			"entries": [
+			"A spell component used in {@spell Continual Flame|PHB}."
+			]
+		},
+		{
+			"name": "Pair of platinum rings",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 5000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Warding Bond|PHB}."
+			]
+		},
+		{
+			"name": "Focus",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 10000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Clairvoyance|PHB}."
+			]
+		},
+		{
+			"name": "Incense and Powdered diamond",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 20000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Glyph of Warding|PHB}."
+			]
+		},
+		{
+			"name": "Gem",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 5000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Incite Greed|PHB}."
+			]
+		},
+		{
+			"name": "Holy water or Powdered silver and Iron",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 10000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Magic Circle|PHB}."
+			]
+		},
+		{
+			"name": "Diamond dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Nondetection|PHB}."
+			]
+		},
+		{
+			"name": "Diamonds",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 30000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Revivify|PHB}."
+			]
+		},
+		{
+			"name": "Exquisite chest and a Tiny replica",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 505000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Leomund's Secret Chest|PHB}."
+			]
+		},
+		{
+			"name": "Undead eyeball encased in a gem",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 15000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Shadow of Moil|PHB}."
+			]
+		},
+		{
+			"name": "Gilded playing card",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 40000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Spirit of Death|PHB}."
+			]
+		},
+		{
+			"name": "Diamond dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 10000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Stoneskin|PHB} and {@spell Greater Restoration|PHB}."
+			]
+		},
+		{
+			"name": "Agate",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Awaken|PHB}."
+			]
+		},
+		{
+			"name": "Crystal rod",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 500000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Create Spelljamming Helm|PHB}."
+			]
+		},
+		{
+			"name": "Sunburst pendant",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 10000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Dawn|PHB}."
+			]
+		},
+		{
+			"name": "Herbs, Oils, and Incense",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Hallow|PHB}."
+			]
+		},
+		{
+			"name": "Ruby",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 99900,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Infernal Calling|PHB}."
+			]
+		},
+		{
+			"name": "Incense and Ivory strips",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 25000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Legend Lore|PHB}."
+			]
+		},
+		{
+			"name": "Jewel",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Planar Binding|PHB}."
+			]
+		},
+		{
+			"name": "Diamond",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Raise Dead|PHB}."
+			]
+		},
+		{
+			"name": "Rare oils and Unguents",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Reincarnate|PHB}."
+			]
+		},
+		{
+			"name": "Focus",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Scrying|PHB}."
+			]
+		},
+		{
+			"name": "Rare chalks and Inks infused with precious gems",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 5000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Teleportation Circle|PHB}."
+			]
+		},
+		{
+			"name": "the Powder of a crushed black pearl",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Circle of Death|PHB}."
+			]
+		},
+		{
+			"name": "Statuette of yourself",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 150000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Contingency|PHB}."
+			]
+		},
+		{
+			"name": "Clay, Ash, and Mandrake root, and a Jewel-encrusted dagger",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Create Homunculus|PHB}."
+			]
+		},
+		{
+			"name": "Clay pot filled with grave dirt, Clay pot filled with brackish water, and Black onyx stone",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 15000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Create Undead|PHB}."
+			]
+		},
+		{
+			"name": "Sapphire",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Drawmij's Instant Summons|PHB}."
+			]
+		},
+		{
+			"name": "Divinatory tools and an Object from the location",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 10000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Find the Path|PHB}."
+			]
+		},
+		{
+			"name": "Platinum-plated dragon scale",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Fizban's Platinum Shield|PHB}."
+			]
+		},
+		{
+			"name": "Holy water, Rare incense, and Powdered ruby",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Forbiddance|PHB}."
+			]
+		},
+		{
+			"name": "Burning incense, Brimstone and Oil, a Knotted string, Umber hulk blood, and a Small silver rod",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 1000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Guards and Wards|PHB}."
+			]
+		},
+		{
+			"name": "Gem-encrusted bowl",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Heroes' Feast|PHB}."
+			]
+		},
+		{
+			"name": "Gem, Crystal, Reliquary, or some other Ornamental container",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Magic Jar|PHB}."
+			]
+		},
+		{
+			"name": "Bit of fleece and Jade dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Programmed Illusion|PHB}."
+			]
+		},
+		{
+			"name": "Tiny silver cage",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 10000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Soul Cage|PHB}."
+			]
+		},
+		{
+			"name": "Object engraved with a symbol of the Outer Planes",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Tasha's Otherworldly Guise|PHB}."
+			]
+		},
+		{
+			"name": "Ointment",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell True Seeing|PHB}."
+			]
+		},
+		{
+			"name": "Vial of quicksilver, a Life-sized human doll, and an Intricate crystal rod",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 200000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Create Magen|PHB}."
+			]
+		},
+		{
+			"name": "Statuette of a dragon",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Draconic Transformation|PHB}."
+			]
+		},
+		{
+			"name": "Ruby dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 150000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Forcecage|PHB}."
+			]
+		},
+		{
+			"name": "Miniature portal, a Small piece of polished marble, and a Tiny silver spoon",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Mordenkainen's Magnificent Mansion|PHB}."
+			]
+		},
+		{
+			"name": "Miniature platinum sword",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 25000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Mordenkainen's Sword|PHB}."
+			]
+		},
+		{
+			"name": "Forked, Metal rod",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 25000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Plane Shift|PHB}."
+			]
+		},
+		{
+			"name": "Small replica of you",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Project Image|PHB}."
+			]
+		},
+		{
+			"name": "Diamond",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Resurrection|PHB}."
+			]
+		},
+		{
+			"name": "Powder composed of diamond, Emerald, Ruby, and Sapphire dust",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 500000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Sequester|PHB}."
+			]
+		},
+		{
+			"name": "Snow or ice, Hair, and Powdered ruby",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 150000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Simulacrum|PHB}."
+			]
+		},
+		{
+			"name": "Mercury, Phosphorus, and Powdered diamond and Opal",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Symbol|PHB}."
+			]
+		},
+		{
+			"name": "Holy symbol",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 500,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Temple of the Gods|PHB}."
+			]
+		},
+		{
+			"name": "Diamond, Flesh of the creature, and a Vessel",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 300000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Clone|PHB}."
+			]
+		},
+		{
+			"name": "Tiny reliquary",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 100000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Holy Aura|PHB}."
+			]
+		},
+		{
+			"name": "Diamond",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Mighty Fortress|PHB}."
+			]
+		},
+		{
+			"name": "Jacinth and Ornately carved bar of silver",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 110000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Astral Projection|PHB}."
+			]
+		},
+		{
+			"name": "Diamond",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 500000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Gate|PHB}."
+			]
+		},
+		{
+			"name": "Vellum depiction or Carved statuette",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Imprisonment|PHB}."
+			]
+		},
+		{
+			"name": "Small piece of adamantine",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 50000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Invulnerability|PHB}."
+			]
+		},
+		{
+			"name": "Jade circlet",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 150000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell Shapechange|PHB}."
+			]
+		},
+		{
+			"name": "Holy water and Diamonds",
+			"type": "SCF",
+			"rarity": "none",
+			"value": 2500000,
+			"source": "GUARDA",
+			"entries": [
+				"A spell component used in {@spell True Resurrection|PHB}."
+			]
+		},
+		{
+			"name": "+1 All-Purpose Tool",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+1 All-Purpose Tool",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"value": 400000
+		},
+		
+
+		{
 			"name": "+1 Arcane Grimoire",
 			"source": "Guarda",
 			"_copy": {
