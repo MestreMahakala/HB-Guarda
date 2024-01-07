@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223545,
+		"dateLastModified": 1695223551,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -397,16 +397,6 @@
 			]
 		},
 		{
-			"name": "Sapphire",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "GUARDA",
-			"entries": [
-			"A spell component used in {@spell Drawmij's Instant Summons|PHB}."
-			]
-		},
-		{
 			"name": "Holy water, Rare incense, and Powdered ruby",
 			"type": "SCF",
 			"rarity": "none",
@@ -537,7 +527,7 @@
 			]
 		},
 		{
-			"name": "Diamond",
+			"name": "Diamond (50 PO)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 5000,
@@ -587,7 +577,7 @@
 			]
 		},
 		{
-			"name": "Focus",
+			"name": "Focus (100 PO)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
@@ -757,7 +747,7 @@
 			]
 		},
 		{
-			"name": "Diamond",
+			"name": "Diamond (500 PO)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
@@ -777,7 +767,7 @@
 			]
 		},
 		{
-			"name": "Focus",
+			"name": "Focus (1.000 PO)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
@@ -1017,7 +1007,7 @@
 			]
 		},
 		{
-			"name": "Diamond",
+			"name": "Diamond (1.000 PO)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
@@ -1087,7 +1077,7 @@
 			]
 		},
 		{
-			"name": "Diamond",
+			"name": "Diamond (500 PO)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
@@ -1107,7 +1097,7 @@
 			]
 		},
 		{
-			"name": "Diamond",
+			"name": "Diamond (5.000 PO)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500000,
