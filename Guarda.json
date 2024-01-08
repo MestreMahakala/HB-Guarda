@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223551,
+		"dateLastModified": 1695223559,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -1466,6 +1466,38 @@
 			},
 			"rarity": "none",
 			"value": 5
+		},
+		{
+			"name": "Renaissance Bullet",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Renaissance Bullet",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 30
+		},
+		{
+			"name": "Renaissance Bullets (10)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Renaissance Bullets (10)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 300
 		},
 		{
 			"name": "Arrows (20)",
