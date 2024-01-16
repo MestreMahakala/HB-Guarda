@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223590,
+		"dateLastModified": 1695223595,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -370,7 +370,6 @@
 			"name": "Pile of bones",
 			"type": "SCF",
 			"rarity": "none",
-			"value": null,
 			"weight": 20,
 			"source": "GUARDA",
 			"entries": [
@@ -381,7 +380,6 @@
 			"name": "Corpse",
 			"type": "SCF",
 			"rarity": "none",
-			"value": null,
 			"weight": 50,
 			"source": "GUARDA",
 			"entries": [
