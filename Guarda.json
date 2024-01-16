@@ -371,7 +371,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"weight": 20,
-			"value": 0,
+			"value": 1,
 			"source": "GUARDA",
 			"entries": [
 				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o esqueleto será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o esqueleto."
