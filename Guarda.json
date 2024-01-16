@@ -370,8 +370,8 @@
 			"name": "Pile of bones",
 			"type": "SCF",
 			"rarity": "none",
-			"value": 0,
 			"weight": 20,
+			"value": 0,
 			"source": "GUARDA",
 			"entries": [
 				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o esqueleto será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o esqueleto."
@@ -381,8 +381,8 @@
 			"name": "Corpse",
 			"type": "SCF",
 			"rarity": "none",
-			"value": 1,
 			"weight": 50,
+			"value": 1,
 			"source": "GUARDA",
 			"entries": [
 				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o corpo será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o corpo."
