@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223632,
+		"dateLastModified": 1695223636,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -11873,8 +11873,6 @@
 		},
 		{
 			"name": "+1 Moon Sickle",
-			"source": "TCE",
-			"page": 133,
 			"baseItem": "sickle|PHB",
 			"type": "M",
 			"rarity": "uncommon",
