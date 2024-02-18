@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223639,
+		"dateLastModified": 1695223642,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -1200,8 +1200,21 @@
 			},
 			"value": 400000
 		},
-		
-
+		{
+			"name": "+1 Moon Sickle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+1 Moon Sickle",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"value": 400000
+		},
 		{
 			"name": "+1 Arcane Grimoire",
 			"source": "Guarda",
@@ -11871,39 +11884,6 @@
 				]
 			}
 		},
-		{
-			"name": "+1 Moon Sickle",
-			"type": "M",
-			"requires": [
-				{
-					"type": "SCF",
-					"scfType": "arcane"
-				}
-			],
-			"excludes": {
-				"name": [
-					"Crystal",
-					"Orb"
-				]
-			},
-			"inherits": {
-				"namePrefix": "Moon-Touched ",
-				"source": "Guarda",
-				"page": 138,
-				"baseItem": "sickle|PHB",
-				"rarity": "uncommon",
-				"reqAttune": "by a druid or ranger",
-				"bonusWeapon": "+1",
-				"bonusSpellAttack": "+1",
-				"bonusSpellSaveDc": "+1",
-				"valueExpression": "[[baseItem.value]] + 400000",
-				"entries": [
-					"This silver-bladed sickle glimmers softly with moonlight. While holding this magic weapon, you gain a +1 bonus to attack and damage rolls made with it, and you gain a +1 bonus to spell attack rolls and the saving throw DCs of your druid and ranger spells. In addition, you can use the sickle as a spellcasting focus for your druid and ranger spells.",
-					"When you cast a spell that restores hit points, you can roll a {@dice d4} and add the number rolled to the amount of hit points restored, provided you are holding the sickle."
-				]
-			}
-		},
-
 		{
 			"name": "Moon-Touched Sword",
 			"type": "GV",
