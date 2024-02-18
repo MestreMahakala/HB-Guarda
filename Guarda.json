@@ -131,6 +131,23 @@
 	},
 	"baseitem": [
 		{
+			"name": "Vanrak's Mithral Shirt",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vanrak's Mithral Shirt",
+				"source": "WDMM",
+				"_preserve": {
+				"baseItem": true,
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 120000
+		},
+		{
 			"name": "Blunderbuss",
 			"source": "Guarda",
 			"_copy": {
