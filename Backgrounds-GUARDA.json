@@ -16,7 +16,7 @@
 			}
 		],
 		"dateAdded": 1701443714,
-		"dateLastModified": 1701443741,
+		"dateLastModified": 1701443756,
 		"_dateLastModifiedHash": "3c9028610b"
 	},
 	"background": [
@@ -108,7 +108,7 @@
 		
 		"additionalSpells": [
 			{
-				"expanded": {
+				"prepared": {
 					"s0": [
 						"Thaumaturgy#c"
 					],
@@ -275,7 +275,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Dancing Lights#c"
 				],
@@ -365,7 +365,7 @@
 								
 				},
 				{
-					"keen mind|tdcsr": true
+					"keen mind [talento de background]|guarda": true
 				},
 				{
 					"dungeon delver|phb": true 
@@ -387,7 +387,7 @@
 					"type": "entries",
 					"name": "Talento Extra",
 					"entries": [
-						"Nesta variante, você poderá escolher entre as feats {@feat Athlete [Talento de Background]|GUARDA}, {@feat  Keen Mind} ou {@feat Dungeon Delver}.",					
+						"Nesta variante, você poderá escolher entre as feats {@feat Athlete [Talento de Background]|GUARDA}, {@feat Keen Mind [Talento de Background]|GUARDA} ou {@feat Dungeon Delver}.",					
 						"G.U.A.R.D.A de Tenebris"
 					],
 					"data": {
@@ -444,7 +444,7 @@
 		
 		"additionalSpells": [
 			{
-				"expanded": {
+				"prepared": {
 					"s0": [
 						"Dancing Lights#c"
 					],
@@ -613,7 +613,7 @@
 			
 			"additionalSpells": [
 				{
-					"expanded": {
+					"prepared": {
 						"s0": [
 							"Resistence#c"
 						],
@@ -781,7 +781,7 @@
 				
 				"additionalSpells": [
 					{
-						"expanded": {
+						"prepared": {
 							"s0": [
 								"Friends#c"
 							],
@@ -867,7 +867,7 @@
 			"source": "Guarda",
 			"feats": [
 				{
-					"keen mind|phb": true               
+					"keen mind [talento de background]|guarda": true               
 				},
 				{
 					"ritual caster|phb": true
@@ -892,7 +892,7 @@
 					"type": "entries",
 					"name": "Talento extra",
 					"entries": [
-						"Nesta variante, você poderá escolher entre as feats {@feat Keen Mind}, {@feat Ritual Caster},  ou {@feat Actor|guarda}.",					
+						"Nesta variante, você poderá escolher entre as feats {@feat Keen Mind [Talento de Background]|GUARDA}, {@feat Ritual Caster},  ou {@feat Actor|guarda}.",					
 						"G.U.A.R.D.A de Tenebris"
 					],
 					"data": {
@@ -949,7 +949,7 @@
 		
 		"additionalSpells": [
 			{
-				"expanded": {
+				"prepared": {
 					"s0": [
 						"Prestidigitation#c"
 					],
@@ -1117,7 +1117,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Friends#c"
 				],
@@ -1286,7 +1286,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Prestidigitation#c"
 				],
@@ -1454,7 +1454,7 @@
 		
 		"additionalSpells": [
 			{
-				"expanded": {
+				"prepared": {
 					"s0": [
 						"Friends#c"
 					],
@@ -1622,7 +1622,7 @@
 
 	"additionalSpells": [
 {
-			"expanded": {				
+			"prepared": {				
 				"s0": [
 					"Mending#c"
 				],
@@ -1790,7 +1790,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Dancing Lights#c"
 				],
@@ -1958,7 +1958,7 @@
 		
 		"additionalSpells": [
 			{
-				"expanded": {
+				"prepared": {
 					"s0": [
 						"Druidcraft#c"
 					],
@@ -2126,7 +2126,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Druidcraft#c"
 				],
@@ -2294,7 +2294,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Resistence#c"
 				],
@@ -2383,7 +2383,7 @@
 				"ritual caster|phb": true               
 			},
 			{
-				"keen mind|phb": true
+				"keen mind [talento de background]|guarda": true
 			},
 			{
 				"dungeon delver|phb": true 
@@ -2462,7 +2462,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Prestidigitation#c"
 				],
@@ -2630,7 +2630,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				
 				"s0": [
 					"Dancing Lights#c"
@@ -2799,7 +2799,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Mending#c"
 				],
@@ -2967,7 +2967,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Thaumaturgy#c"
 				],
@@ -3135,7 +3135,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Thaumaturgy#c"
 				],
@@ -3303,7 +3303,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Resistence#c"
 				],
@@ -3471,7 +3471,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Prestidigitation#c"
 				],
@@ -3639,7 +3639,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Resistence#c"
 				],
@@ -3807,7 +3807,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				
 				"s0": [
 					"Dancing Lights#c"
@@ -3976,7 +3976,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Friends#c"
 				],
@@ -4133,7 +4133,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Druidcraft#c"
 				],
@@ -4301,7 +4301,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Prestidigitation#c"
 				],
@@ -4387,7 +4387,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Keen Mind|phb": true               
+				"keen mind [talento de background]|guarda": true               
 			},
 			{
 				"Flash Recall|tdcsr": true
@@ -4412,7 +4412,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Keen Mind}, {@feat Flash Recall|tdcsr} ou {@feat Skulker}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Keen Mind [Talento de Background]|GUARDA}, {@feat Flash Recall|tdcsr} ou {@feat Skulker}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -4469,7 +4469,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Mending#c"
 				],
@@ -4637,7 +4637,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Dancing Lights#c"
 				],
@@ -4805,7 +4805,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				
 				"s0": [
 					"Dancing Lights#c"
@@ -4895,7 +4895,7 @@
 				"ritual caster|phb": true               
 			},
 			{
-				"keen mind|phb": true
+				"keen mind [talento de background]|guarda": true
 			},
 			{
 				"actor [talento de background]|guarda": true
@@ -4974,7 +4974,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				"s0": [
 					"Friends#c"
 				],
@@ -5142,7 +5142,7 @@
 
 	"additionalSpells": [
 		{
-			"expanded": {
+			"prepared": {
 				
 				"s0": [
 					"Dancing Lights#c"
@@ -5311,7 +5311,7 @@
 	
 		"additionalSpells": [
 			{
-				"expanded": {
+				"prepared": {
 					"s0": [
 						"Prestidigitation#c"
 					],
