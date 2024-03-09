@@ -29,7 +29,7 @@
 								
 				},
 				{
-					"healer|phb": true
+					"Chef|phb": true
 				},
 				{
 					"ritual caster|phb": true 
@@ -51,7 +51,7 @@
 					"type": "entries",
 					"name": "Talento Extra",
 					"entries": [
-						"Nesta variante, você poderá escolher entre as feats {@feat Durable [Talento de Background]|GUARDA}, {@feat healer} ou {@feat Ritual Caster}.",					
+						"Nesta variante, você poderá escolher entre as feats {@feat Durable [Talento de Background]|GUARDA}, {@feat Chef} ou {@feat Ritual Caster}.",					
 						"G.U.A.R.D.A de Tenebris"
 					],
 					"data": {
@@ -1876,7 +1876,7 @@
 			"source": "Guarda",
 			"feats": [
 				{
-					"healer|phb": true               
+					"Chef|phb": true               
 				},
 				{
 					"ritual caster|phb": true
@@ -1901,7 +1901,7 @@
 					"type": "entries",
 					"name": "Talento extra",
 					"entries": [
-						"Nesta variante, você poderá escolher entre as feats {@feat Healer}, {@feat Ritual Caster} ou {@feat Defensive Duelist}.",					
+						"Nesta variante, você poderá escolher entre as feats {@feat Chef}, {@feat Ritual Caster} ou {@feat Defensive Duelist}.",					
 						"G.U.A.R.D.A de Tenebris"
 					],
 					"data": {
@@ -2215,7 +2215,7 @@
 				"durable [talento de background]|guarda": true               
 			},
 			{
-				"healer|phb": true
+				"Chef|phb": true
 			},
 			{
 				"spell sniper|phb": true 
@@ -2237,7 +2237,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Durable [Talento de Background]|GUARDA}, {@feat Healer} ou {@feat Spell Sniper}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Durable [Talento de Background]|GUARDA}, {@feat Chef} ou {@feat Spell Sniper}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -2888,7 +2888,7 @@
 				"Skulker|phb": true               
 			},
 			{
-				"healer|phb": true
+				"Chef|phb": true
 			},
 			{
 				"Servo Crafting|phb": true 
@@ -2910,7 +2910,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Skulker}, {@feat healer} ou {@feat Servo Crafting|psk}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Skulker}, {@feat Chef} ou {@feat Servo Crafting|psk}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -3056,7 +3056,7 @@
 				"Grappler|phb": true               
 			},
 			{
-				"healer|phb": true
+				"Chef|phb": true
 			},
 			{
 				"Spell Sniper|phb": true 
@@ -3078,7 +3078,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Grappler}, {@feat healer} ou {@feat Spell Sniper|psk}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Grappler}, {@feat Chef} ou {@feat Spell Sniper|psk}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -4054,7 +4054,7 @@
 				"Tavern Brawler [talento de background]|guarda": true               
 			},
 			{
-				"Healer|phb": true
+				"Chef|phb": true
 			},
 			{
 				"Grappler|phb": true 
@@ -4076,7 +4076,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Tavern Brawler [Talento de Background]|GUARDA}, {@feat Healer} ou {@feat Grappler}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Tavern Brawler [Talento de Background]|GUARDA}, {@feat Chef} ou {@feat Grappler}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
