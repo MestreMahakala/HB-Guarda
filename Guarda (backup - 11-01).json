@@ -11029,64 +11029,6 @@
 			}
 		},
 		{
-			"name": "Adamantine Ammunition",
-			"type": "GV",
-			"requires": [
-				{
-					"type": "A"
-				},
-				{
-					"type": "AF"
-				}
-			],
-			"excludes": {
-				"name": "Energy Cell"
-			},
-			"ammo": true,
-			"entries": [
-				"Ammunition made of or coated with adamantine is unusually effective when used to break objects. Whenever a piece of adamantine ammunition hits an object, the hit is a critical hit.",
-				"The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it."
-			],
-			"inherits": {
-				"namePrefix": "Adamantine ",
-				"source": "Guarda",
-				"page": 78,
-				"tier": "minor",
-				"rarity": "unknown",
-				"valueExpression": "[[baseItem.value]] + 5000",
-				"entries": [
-					"Whenever you hit an object using this ammunition, the hit is a critical hit."
-				]
-			}
-		},
-		{
-			"name": "Adamantine Weapon",
-			"type": "GV",
-			"requires": [
-				{
-					"weapon": true
-				}
-			],
-			"excludes": {
-				"net": true
-			},
-			"entries": [
-				"Melee weapons made of or coated with adamantine are unusually effective when used to break objects. Whenever an adamantine weapon hits an object, the hit is a critical hit.",
-				"The adamantine version of a melee weapon costs 500 gp more than the normal version, whether the weapon is made of the metal or coated with it."
-			],
-			"inherits": {
-				"namePrefix": "Adamantine ",
-				"source": "Guarda",
-				"page": 78,
-				"tier": "major",
-				"rarity": "unknown",
-				"valueExpression": "[[baseItem.value]] + 50000",
-				"entries": [
-					"Whenever you hit an object with this weapon, the hit is a critical hit."
-				]
-			}
-		},
-		{
 			"name": "Armor of Acid Resistance",
 			"type": "GV",
 			"requires": [
@@ -11185,26 +11127,6 @@
 					"{#itemEntry Armor of Resistance}"
 				]
 			}
-		},
-		{
-			"name": "Armor of Fungal Spores",
-			"type": "GV",
-			"requires": [
-				{
-					"type": "MA"
-				}
-			],
-			"inherits": {
-				"nameSuffix": " of Fungal Spores",
-				"source": "Guarda",
-				"page": 65,
-				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 50000",
-				"entries": [
-					"While wearing this armor, you can take a bonus action to make the armor emit poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the poisoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn."
-				]
-			},
-			"hasFluffImages": true
 		},
 		{
 			"name": "Armor of Lightning Resistance",
@@ -11332,31 +11254,6 @@
 			}
 		},
 		{
-			"name": "Armor of the Fallen",
-			"type": "GV",
-			"requires": [
-				{
-					"type": "MA"
-				},
-				{
-					"type": "HA"
-				}
-			],
-			"inherits": {
-				"nameSuffix": " of the Fallen",
-				"source": "Guarda",
-				"valueExpression": "[[baseItem.value]] + 60000",
-				"page": 65,
-				"rarity": "uncommon",
-				"reqAttune": true,
-				"entries": [
-					"While wearing this armor, you can use it to cast either {@spell Speak with Dead} or {@spell Animate Dead}. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.",
-					"Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed."
-				]
-			},
-			"hasFluffImages": true
-		},
-		{
 			"name": "Armor of Thunder Resistance",
 			"type": "GV",
 			"requires": [
@@ -11378,40 +11275,6 @@
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
-				]
-			}
-		},
-		{
-			"name": "Armor of Weightlessness",
-			"type": "GV",
-			"requires": [
-				{
-					"type": "LA"
-				},
-				{
-					"type": "MA"
-				},
-				{
-					"type": "HA"
-				}
-			],
-			"inherits": {
-				"nameSuffix": " of Weightlessness",
-				"source": "Guarda",
-				"page": 65,
-				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 35000",
-				"reqAttune": true,
-				"recharge": "dawn",
-				"rechargeAmount": "{@dice 1d4 + 1}",
-				"charges": 5,
-				"entries": [
-					"This armor has 5 charges. While you wear it, you can use a bonus action to expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: {@spell Jump} (1 charge) or {@spell Levitate} (2 charges).",
-					"This armor regains {@dice 1d4 + 1} expended charges daily at dawn."
-				],
-				"attachedSpells": [
-					"jump",
-					"levitate"
 				]
 			}
 		},
