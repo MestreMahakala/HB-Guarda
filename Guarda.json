@@ -358,6 +358,890 @@
 	],
 	"item": [
 		{
+			"name": "+1 Wraps of Unarmed Prowess",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+1 Wraps of Unarmed Prowess",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "3000 PO",
+			"value": "3000 PO"
+		},
+		{
+			"name": "Adjustable Stilts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Adjustable Stilts",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "4 PO",
+			"value": "4 PO"
+		},
+		{
+			"name": "Alchemist's Doom",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Alchemist's Doom",
+				"source": "SCC",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "75 PO",
+			"value": "75 PO"
+		},
+		{
+			"name": "Backpack Parachute",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Backpack Parachute",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "10 PO",
+			"value": "10 PO"
+		},
+		{
+			"name": "Backpack Parachute",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Backpack Parachute",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "10 PO",
+			"value": "10 PO"
+		},
+		{
+			"name": "Barking Box",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Barking Box",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "30 PO",
+			"value": "30 PO"
+		},
+		{
+			"name": "Blasted Goggles",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Blasted Goggles",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "400 PO",
+			"value": "400 PO"
+		},
+		{
+			"name": "Bloodrage Greataxe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bloodrage Greataxe",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "1600 PO",
+			"value": "1600 PO"
+		},
+		{
+			"name": "Boomerang Shield",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boomerang Shield",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "300 PO",
+			"value": "300 PO"
+		},
+		{
+			"name": "Canoe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Canoe",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "50 PO",
+			"value": "50 PO"
+		},
+		{
+			"name": "Card Sharp's Deck",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Card Sharp's Deck",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "500 PO",
+			"value": "500 PO"
+		},
+		{
+			"name": "Catapult Munition",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Catapult Munition",
+				"source": "SCC",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "50 PO",
+			"value": "50 PO"
+		},
+		{
+			"name": "Chain Mail of Weightlessness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chain Mail of Weightlessness",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "575 PO",
+			"value": "575 PO"
+		},
+		{
+			"name": "Chain Mail of the Fallen",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chain Mail of the Fallen",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "675PO",
+			"value": "675PO"
+		},
+		{
+			"name": "Condensed Order",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Condensed Order",
+				"source": "CoA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "120 PO",
+			"value": "120 PO"
+		},
+		{
+			"name": "Deck of Miscellany",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Deck of Miscellany",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "Não permitido",
+			"value": "Não permitido"
+		},
+		{
+			"name": "Deck of Wonder",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Deck of Wonder",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "Não permitido",
+			"value": "Não permitido"
+		},
+		{
+			"name": "Dragon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 PO",
+			"value": "1 PO"
+		},
+		{
+			"name": "Dried Leech",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dried Leech",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "15 PO ",
+			"value": "15 PO "
+		},
+		{
+			"name": "Fabulist Gem",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Fabulist Gem",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "400 PO",
+			"value": "400 PO"
+		},
+		{
+			"name": "Harbor Moon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Harbor Moon",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "50 PO",
+			"value": "50 PO"
+		},
+		{
+			"name": "Hooked Shortspear",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hooked Shortspear",
+				"source": "OotA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "50 PO",
+			"value": "50 PO"
+		},
+		{
+			"name": "House of Cards",
+			"source": "Guarda",
+			"_copy": {
+				"name": "House of Cards",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "200 PO",
+			"value": "200 PO"
+		},
+		{
+			"name": "Insect Repellent (block of incense)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Insect Repellent (block of incense)",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 PP",
+			"value": "1 PP"
+		},
+		{
+			"name": "Insect Repellent (greasy salve)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Insect Repellent (greasy salve)",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 PP",
+			"value": "1 PP"
+		},
+		{
+			"name": "Light Repeating Crossbow",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Light Repeating Crossbow",
+				"source": "OotA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "50 PO",
+			"value": "50 PO"
+		},
+		{
+			"name": "Matchless Pipe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Matchless Pipe",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "5 PO",
+			"value": "5 PO"
+		},
+		{
+			"name": "Menga leaves (1 ounce)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Menga leaves (1 ounce)",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "5 PO",
+			"value": "5 PO"
+		},
+		{
+			"name": "Murgaxor's Elixir of Life",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Murgaxor's Elixir of Life",
+				"source": "SCC",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "50 PO",
+			"value": "50 PO"
+		},
+		{
+			"name": "Nib",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nib",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 cp",
+			"value": "1 cp"
+		},
+		{
+			"name": "Nimblewright Detector",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nimblewright Detector",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "Não permitido",
+			"value": "Não permitido"
+		},
+		{
+			"name": "Oversized Longbow",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Oversized Longbow",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "75 PO",
+			"value": "75 PO"
+		},
+		{
+			"name": "Plate of Knight's Fellowship",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Plate of Knight's Fellowship",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "800 PO",
+			"value": "800 PO"
+		},
+		{
+			"name": "Rain Catcher",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rain Catcher",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 PO",
+			"value": "1 PO"
+		},
+		{
+			"name": "Ring of Puzzler's Wit",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Puzzler's Wit",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "",
+			"value": ""
+		},
+		{
+			"name": "Ryath Root",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ryath Root",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "50 PO",
+			"value": "50 PO"
+		},
+		{
+			"name": "Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shard",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 PP",
+			"value": "1 PP"
+		},
+		{
+			"name": "Shield of the Tortoise",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shield of the Tortoise",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "Não permitido",
+			"value": "Não permitido"
+		},
+		{
+			"name": "Sinda berries (10)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sinda berries (10)",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "Não permitido",
+			"value": "Não permitido"
+		},
+		{
+			"name": "Sling of Giant Felling",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sling of Giant Felling",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "300 PO",
+			"value": "300 PO"
+		},
+		{
+			"name": "Soul Coin",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Soul Coin",
+				"source": "CoA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "Não permitido",
+			"value": "Não permitido"
+		},
+		{
+			"name": "Sun",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sun",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "10 PP",
+			"value": "10 PP"
+		},
+		{
+			"name": "Taol",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Taol",
+				"source": "WDH",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "2 PP",
+			"value": "2 PP"
+		},
+		{
+			"name": "Tej",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tej",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "2 PP",
+			"value": "2 PP"
+		},
+		{
+			"name": "Wand of Silence",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Silence",
+				"source": "GHLoE",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "400 PO",
+			"value": "400 PO"
+		},
+		{
+			"name": "Whistle-Stick",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Whistle-Stick",
+				"source": "OGA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "2 PO",
+			"value": "2 PO"
+		},
+		{
+			"name": "Wildroot",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wildroot",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "75 gp",
+			"value": "75 gp"
+		},
+		{
+			"name": "Winged Ammunition",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Winged Ammunition",
+				"source": "BMT",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "uncommon",
+			"weight": "1 PO",
+			"value": "1 PO"
+		},
+		{
+			"name": "Wukka Nut",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wukka Nut",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "unknown",
+			"weight": "1 gp",
+			"value": "1 gp"
+		},
+		{
+			"name": "Yahcha",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Yahcha",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 gp",
+			"value": "1 gp"
+		},
+		{
+			"name": "Yklwa",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Yklwa",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "1 gp",
+			"value": "1 gp"
+		},
+		{
+			"name": "Zabou",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Zabou",
+				"source": "ToA",
+				"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+					}
+			},
+			"rarity": "none",
+			"weight": "10 gp",
+			"value": "10 gp"
+		},
+		{
 			"name": "+1 Amulet of the Devout",
 			"source": "Guarda",
 			"_copy": {
