@@ -29,7 +29,7 @@
 								
 				},
 				{
-					"Chef|phb": true
+					"Chef [Talento de Background]|Guarda": true
 				},
 				{
 					"ritual caster|phb": true 
@@ -1876,7 +1876,7 @@
 			"source": "Guarda",
 			"feats": [
 				{
-					"Chef|phb": true               
+					"Chef [Talento de Background]|Guarda": true               
 				},
 				{
 					"ritual caster|phb": true
@@ -2215,7 +2215,7 @@
 				"durable [talento de background]|guarda": true               
 			},
 			{
-				"Chef|phb": true
+				"Chef [Talento de Background]|Guarda": true
 			},
 			{
 				"spell sniper|phb": true 
@@ -2888,7 +2888,7 @@
 				"Skulker|phb": true               
 			},
 			{
-				"Chef|phb": true
+				"Chef [Talento de Background]|Guarda": true
 			},
 			{
 				"Servo Crafting|phb": true 
@@ -3056,7 +3056,7 @@
 				"Grappler|phb": true               
 			},
 			{
-				"Chef|phb": true
+				"Chef [Talento de Background]|Guarda": true
 			},
 			{
 				"Spell Sniper|phb": true 
@@ -4054,7 +4054,7 @@
 				"Tavern Brawler [talento de background]|guarda": true               
 			},
 			{
-				"Chef|phb": true
+				"Chef [Talento de Background]|Guarda": true
 			},
 			{
 				"Grappler|phb": true 
