@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223649,
+		"dateLastModified": 1695223654,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -10352,6 +10352,22 @@
 			"value": 4500
 		},
 		{
+			"name": "Survival Mantle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Survival Mantle",
+				"source": "VGM",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 120000
+		},
+		{
 			"name": "Talking Doll",
 			"source": "Guarda",
 			"_copy": {
@@ -11510,6 +11526,7 @@
 				}
 			}
 		},
+	
 		{
 			"name": "Scroll of Protection",
 			"source": "Guarda",
