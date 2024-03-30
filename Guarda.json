@@ -126,10 +126,46 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223654,
+		"dateLastModified": 1695223659,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
+		{
+			"name": "Pistol",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pistol",
+				"source": "DMG",
+				"_preserve": {
+				"baseItem": true,
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 10000
+		},
+		{
+			"name": "Musket",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Musket",
+				"source": "DMG",
+				"_preserve": {
+				"baseItem": true,
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 15000
+		},
+		
+
 		{
 			"name": "Vanrak's Mithral Shirt",
 			"source": "Guarda",
@@ -146,38 +182,6 @@
 			},
 			"rarity": "uncommon",
 			"value": 120000
-		},
-		{
-			"name": "Blunderbuss",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Blunderbuss",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 18000
-		},
-		{
-			"name": "Badnews",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Badnews",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 20000
 		},
 		{
 			"name": "Birdpipes",
@@ -5652,22 +5656,6 @@
 			"value": 500
 		},
 		{
-			"name": "Hand Mortar",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Hand Mortar",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 20000
-		},
-		{
 			"name": "Hat of Disguise",
 			"source": "Guarda",
 			"_copy": {
@@ -7268,21 +7256,6 @@
 			"value": 800
 		},
 		{
-			"name": "Musket",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Musket",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"value": 20000
-		},
-		{
 			"name": "Muroosa Balm",
 			"source": "Guarda",
 			"_copy": {
@@ -7619,21 +7592,6 @@
 			"value": 10000
 		},
 		{
-			"name": "Pam Pistol",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Pam Pistol",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"value": 2000
-		},
-		{
 			"name": "Pan Flute",
 			"source": "Guarda",
 			"_copy": {
@@ -7712,22 +7670,6 @@
 			},
 			"rarity": "none",
 			"value": 200
-		},
-		{
-			"name": "Pepperbox",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Pepperbox",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 12000
 		},
 		{
 			"name": "Perfume (vial)",
@@ -7904,21 +7846,6 @@
 			},
 			"rarity": "uncommon",
 			"value": 15000
-		},
-		{
-			"name": "Pistol",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Pistol",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"value": 10000
 		},
 		{
 			"name": "Pitcher",
