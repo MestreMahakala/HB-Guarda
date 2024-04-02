@@ -12729,11 +12729,11 @@
 			}
 		},
 		{
-			"name": "Moon-Touched Sword",
+			"name": "Moon-Touched Weapon",
 			"type": "GV",
 			"requires": [
 				{
-					"sword": true
+					"weapon": true
 				}
 			],
 			"inherits": {
@@ -12744,7 +12744,7 @@
 				"rarity": "common",
 				"valueExpression": "[[baseItem.value]] + 30000",
 				"entries": [
-					"In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet."
+					"In darkness, the unsheathed blade of this weapon sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet."
 				]
 			}
 		},
@@ -12753,7 +12753,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"sword": true
+					
 				}
 			],
 			"inherits": {
