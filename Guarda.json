@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223673,
+		"dateLastModified": 1695223678,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -714,7 +714,7 @@
 			},
 			"rarity": "none",
 			"weight": "1",
-			"value": "1 PP"
+			"value": "1"
 		},
 		{
 			"name": "Insect Repellent (greasy salve)",
@@ -731,7 +731,7 @@
 			},
 			"rarity": "none",
 			"weight": "1",
-			"value": "1 PP"
+			"value": "1"
 		},
 		{
 			"name": "Light Repeating Crossbow",
@@ -918,7 +918,7 @@
 			},
 			"rarity": "none",
 			"weight": "1",
-			"value": "1 PP"
+			"value": "1"
 		},
 		{
 			"name": "Sling of Giant Felling",
@@ -952,7 +952,7 @@
 			},
 			"rarity": "none",
 			"weight": "1",
-			"value": "10 PP"
+			"value": "10"
 		},
 		{
 			"name": "Taol",
@@ -969,7 +969,7 @@
 			},
 			"rarity": "none",
 			"weight": "1",
-			"value": "2 PP"
+			"value": "2"
 		},
 		{
 			"name": "Tej",
@@ -986,7 +986,7 @@
 			},
 			"rarity": "none",
 			"weight": "5",
-			"value": "2 PP"
+			"value": "2"
 		},
 		{
 			"name": "Wand of Silence",
