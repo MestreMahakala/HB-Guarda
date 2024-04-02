@@ -1546,7 +1546,7 @@
 				"linguist [talento de background]|guarda": true
 			},
 			{
-				"durabble [talento de background]|guarda": true 
+				"durable [talento de background]|guarda": true 
 			} 
 		],
 		"entries": [
@@ -1708,7 +1708,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"durabble [talento de background]|guarda": true               
+				"durable [talento de background]|guarda": true               
 			},
 			{
 				"linguist [talento de background]|guarda": true
@@ -2044,7 +2044,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"durabble [talento de background]|guarda": true               
+				"durable [talento de background]|guarda": true               
 			},
 			{
 				"tavern brawler [talento de background]|guarda": true
