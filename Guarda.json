@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223659,
+		"dateLastModified": 1695223668,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -365,7 +365,7 @@
 			"name": "+1 Wraps of Unarmed Prowess",
 			"source": "Guarda",
 			"_copy": {
-				"name": "+1 Wraps of Unarmed Prowess",
+				"name": "*+1 Wraps of Unarmed Prowess",
 				"source": "BMT",
 				"_preserve": {
 				"page": true,
@@ -375,7 +375,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "3000 PO",
+			"weight": "1 lb.",
 			"value": "3000 PO"
 		},
 		{
@@ -392,7 +392,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "4 PO",
+			"weight": "8 lb.",
 			"value": "4 PO"
 		},
 		{
@@ -409,7 +409,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "75 PO",
+			"weight": "1 lb.",
 			"value": "75 PO"
 		},
 		{
@@ -426,24 +426,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "10 PO",
-			"value": "10 PO"
-		},
-		{
-			"name": "Backpack Parachute",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Backpack Parachute",
-				"source": "WDH",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "unknown",
-			"weight": "10 PO",
+			"weight": "5 lb",
 			"value": "10 PO"
 		},
 		{
@@ -460,7 +443,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "30 PO",
+			"weight": "2 lb",
 			"value": "30 PO"
 		},
 		{
@@ -477,7 +460,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "400 PO",
+			"weight": "1 lb",
 			"value": "400 PO"
 		},
 		{
@@ -494,7 +477,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "1600 PO",
+			"weight": "7 lb.",
 			"value": "1600 PO"
 		},
 		{
@@ -511,7 +494,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "300 PO",
+			"weight": "6 lb.",
 			"value": "300 PO"
 		},
 		{
@@ -528,7 +511,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "50 PO",
+			"weight": "100 lb.",
 			"value": "50 PO"
 		},
 		{
@@ -545,7 +528,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "500 PO",
+			"weight": "1 lb",
 			"value": "500 PO"
 		},
 		{
@@ -562,7 +545,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "50 PO",
+			"weight": "10 lb",
 			"value": "50 PO"
 		},
 		{
@@ -579,7 +562,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "575 PO",
+			"weight": "55 lb.",
 			"value": "575 PO"
 		},
 		{
@@ -596,7 +579,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "675PO",
+			"weight": "55 lb.",
 			"value": "675PO"
 		},
 		{
@@ -613,42 +596,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "120 PO",
+			"weight": "2 lb",
 			"value": "120 PO"
-		},
-		{
-			"name": "Deck of Miscellany",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Deck of Miscellany",
-				"source": "BMT",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "uncommon",
-			"weight": "Não permitido",
-			"value": "Não permitido"
-		},
-		{
-			"name": "Deck of Wonder",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Deck of Wonder",
-				"source": "BMT",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "uncommon",
-			"weight": "Não permitido",
-			"value": "Não permitido"
 		},
 		{
 			"name": "Dragon",
@@ -664,7 +613,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 PO",
+			"weight": "2 lb",
 			"value": "1 PO"
 		},
 		{
@@ -681,7 +630,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "15 PO ",
+			"weight": "1 lb",
 			"value": "15 PO "
 		},
 		{
@@ -698,7 +647,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "400 PO",
+			"weight": "",
 			"value": "400 PO"
 		},
 		{
@@ -715,7 +664,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "50 PO",
+			"weight": "2 lb",
 			"value": "50 PO"
 		},
 		{
@@ -732,7 +681,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "50 PO",
+			"weight": "2 lb.",
 			"value": "50 PO"
 		},
 		{
@@ -749,7 +698,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "200 PO",
+			"weight": "2 lb",
 			"value": "200 PO"
 		},
 		{
@@ -766,7 +715,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 PP",
+			"weight": "1 lb",
 			"value": "1 PP"
 		},
 		{
@@ -783,7 +732,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 PP",
+			"weight": "1 lb",
 			"value": "1 PP"
 		},
 		{
@@ -800,7 +749,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "50 PO",
+			"weight": "5 lb.",
 			"value": "50 PO"
 		},
 		{
@@ -817,7 +766,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "5 PO",
+			"weight": "1 lb",
 			"value": "5 PO"
 		},
 		{
@@ -834,7 +783,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "5 PO",
+			"weight": "1 lb.",
 			"value": "5 PO"
 		},
 		{
@@ -851,7 +800,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "50 PO",
+			"weight": "1 lb.",
 			"value": "50 PO"
 		},
 		{
@@ -868,25 +817,8 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 cp",
+			"weight": "0,01 lb",
 			"value": "1 cp"
-		},
-		{
-			"name": "Nimblewright Detector",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Nimblewright Detector",
-				"source": "WDH",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "unknown",
-			"weight": "Não permitido",
-			"value": "Não permitido"
 		},
 		{
 			"name": "Oversized Longbow",
@@ -902,7 +834,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "75 PO",
+			"weight": "2 lb.",
 			"value": "75 PO"
 		},
 		{
@@ -919,7 +851,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "800 PO",
+			"weight": "65 lb.",
 			"value": "800 PO"
 		},
 		{
@@ -936,7 +868,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 PO",
+			"weight": "5 lb.",
 			"value": "1 PO"
 		},
 		{
@@ -953,7 +885,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "",
+			"weight": "1 lb",
 			"value": ""
 		},
 		{
@@ -970,7 +902,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "50 PO",
+			"weight": "1 lb",
 			"value": "50 PO"
 		},
 		{
@@ -987,42 +919,8 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 PP",
+			"weight": "1 lb",
 			"value": "1 PP"
-		},
-		{
-			"name": "Shield of the Tortoise",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Shield of the Tortoise",
-				"source": "BMT",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "uncommon",
-			"weight": "Não permitido",
-			"value": "Não permitido"
-		},
-		{
-			"name": "Sinda berries (10)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Sinda berries (10)",
-				"source": "ToA",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "unknown",
-			"weight": "Não permitido",
-			"value": "Não permitido"
 		},
 		{
 			"name": "Sling of Giant Felling",
@@ -1038,25 +936,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "300 PO",
+			"weight": "",
 			"value": "300 PO"
-		},
-		{
-			"name": "Soul Coin",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Soul Coin",
-				"source": "CoA",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "uncommon",
-			"weight": "Não permitido",
-			"value": "Não permitido"
 		},
 		{
 			"name": "Sun",
@@ -1072,7 +953,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "10 PP",
+			"weight": "1 lb",
 			"value": "10 PP"
 		},
 		{
@@ -1089,7 +970,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "2 PP",
+			"weight": "1 lb.",
 			"value": "2 PP"
 		},
 		{
@@ -1106,7 +987,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "2 PP",
+			"weight": "5 lb.",
 			"value": "2 PP"
 		},
 		{
@@ -1123,7 +1004,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "400 PO",
+			"weight": "",
 			"value": "400 PO"
 		},
 		{
@@ -1140,7 +1021,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "2 PO",
+			"weight": "1 lb.",
 			"value": "2 PO"
 		},
 		{
@@ -1157,7 +1038,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "75 gp",
+			"weight": "1 lb.",
 			"value": "75 gp"
 		},
 		{
@@ -1174,7 +1055,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "1 PO",
+			"weight": "",
 			"value": "1 PO"
 		},
 		{
@@ -1191,7 +1072,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 gp",
+			"weight": "1 lb.",
 			"value": "1 gp"
 		},
 		{
@@ -1208,7 +1089,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 gp",
+			"weight": "3 lb.",
 			"value": "1 gp"
 		},
 		{
@@ -1225,7 +1106,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 gp",
+			"weight": "3 lb.",
 			"value": "1 gp"
 		},
 		{
@@ -1242,7 +1123,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "10 gp",
+			"weight": "1 lb.",
 			"value": "10 gp"
 		},
 		{
