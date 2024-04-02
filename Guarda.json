@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223668,
+		"dateLastModified": 1695223673,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -164,8 +164,6 @@
 			"rarity": "uncommon",
 			"value": 15000
 		},
-		
-
 		{
 			"name": "Vanrak's Mithral Shirt",
 			"source": "Guarda",
@@ -375,8 +373,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "1 lb.",
-			"value": "3000 PO"
+			"weight": "1",
+			"value": "300000"
 		},
 		{
 			"name": "Adjustable Stilts",
@@ -392,8 +390,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "8 lb.",
-			"value": "4 PO"
+			"weight": "8",
+			"value": "400"
 		},
 		{
 			"name": "Alchemist's Doom",
@@ -409,8 +407,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb.",
-			"value": "75 PO"
+			"weight": "1",
+			"value": "7500"
 		},
 		{
 			"name": "Backpack Parachute",
@@ -426,8 +424,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "5 lb",
-			"value": "10 PO"
+			"weight": "5",
+			"value": "1000"
 		},
 		{
 			"name": "Barking Box",
@@ -443,8 +441,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "2 lb",
-			"value": "30 PO"
+			"weight": "2",
+			"value": "3000"
 		},
 		{
 			"name": "Blasted Goggles",
@@ -460,8 +458,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "1 lb",
-			"value": "400 PO"
+			"weight": "1",
+			"value": "40000"
 		},
 		{
 			"name": "Bloodrage Greataxe",
@@ -477,8 +475,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "7 lb.",
-			"value": "1600 PO"
+			"weight": "7",
+			"value": "160000"
 		},
 		{
 			"name": "Boomerang Shield",
@@ -494,8 +492,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "6 lb.",
-			"value": "300 PO"
+			"weight": "6",
+			"value": "30000"
 		},
 		{
 			"name": "Canoe",
@@ -511,8 +509,8 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "100 lb.",
-			"value": "50 PO"
+			"weight": "100",
+			"value": "5000"
 		},
 		{
 			"name": "Card Sharp's Deck",
@@ -528,8 +526,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "1 lb",
-			"value": "500 PO"
+			"weight": "1",
+			"value": "50000"
 		},
 		{
 			"name": "Catapult Munition",
@@ -545,8 +543,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "10 lb",
-			"value": "50 PO"
+			"weight": "10",
+			"value": "5000"
 		},
 		{
 			"name": "Chain Mail of Weightlessness",
@@ -562,8 +560,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "55 lb.",
-			"value": "575 PO"
+			"weight": "55",
+			"value": "57500"
 		},
 		{
 			"name": "Chain Mail of the Fallen",
@@ -579,7 +577,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "55 lb.",
+			"weight": "55",
 			"value": "675PO"
 		},
 		{
@@ -596,8 +594,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "2 lb",
-			"value": "120 PO"
+			"weight": "2",
+			"value": "12000"
 		},
 		{
 			"name": "Dragon",
@@ -613,8 +611,8 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "2 lb",
-			"value": "1 PO"
+			"weight": "2",
+			"value": "100"
 		},
 		{
 			"name": "Dried Leech",
@@ -630,8 +628,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "1 lb",
-			"value": "15 PO "
+			"weight": "1",
+			"value": "1500 "
 		},
 		{
 			"name": "Fabulist Gem",
@@ -648,7 +646,7 @@
 			},
 			"rarity": "uncommon",
 			"weight": "",
-			"value": "400 PO"
+			"value": "40000"
 		},
 		{
 			"name": "Harbor Moon",
@@ -664,8 +662,8 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "2 lb",
-			"value": "50 PO"
+			"weight": "2",
+			"value": "5000"
 		},
 		{
 			"name": "Hooked Shortspear",
@@ -681,8 +679,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "2 lb.",
-			"value": "50 PO"
+			"weight": "2",
+			"value": "5000"
 		},
 		{
 			"name": "House of Cards",
@@ -698,8 +696,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "2 lb",
-			"value": "200 PO"
+			"weight": "2",
+			"value": "20000"
 		},
 		{
 			"name": "Insect Repellent (block of incense)",
@@ -715,7 +713,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 lb",
+			"weight": "1",
 			"value": "1 PP"
 		},
 		{
@@ -732,7 +730,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 lb",
+			"weight": "1",
 			"value": "1 PP"
 		},
 		{
@@ -749,8 +747,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "5 lb.",
-			"value": "50 PO"
+			"weight": "5",
+			"value": "5000"
 		},
 		{
 			"name": "Matchless Pipe",
@@ -766,8 +764,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb",
-			"value": "5 PO"
+			"weight": "1",
+			"value": "500"
 		},
 		{
 			"name": "Menga leaves (1 ounce)",
@@ -783,8 +781,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb.",
-			"value": "5 PO"
+			"weight": "1",
+			"value": "500"
 		},
 		{
 			"name": "Murgaxor's Elixir of Life",
@@ -800,8 +798,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb.",
-			"value": "50 PO"
+			"weight": "1",
+			"value": "5000"
 		},
 		{
 			"name": "Nib",
@@ -817,7 +815,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "0,01 lb",
+			"weight": "0,01",
 			"value": "1 cp"
 		},
 		{
@@ -834,8 +832,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "2 lb.",
-			"value": "75 PO"
+			"weight": "2",
+			"value": "7500"
 		},
 		{
 			"name": "Plate of Knight's Fellowship",
@@ -851,8 +849,8 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "65 lb.",
-			"value": "800 PO"
+			"weight": "65",
+			"value": "80000"
 		},
 		{
 			"name": "Rain Catcher",
@@ -868,8 +866,8 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "5 lb.",
-			"value": "1 PO"
+			"weight": "5",
+			"value": "100"
 		},
 		{
 			"name": "Ring of Puzzler's Wit",
@@ -885,7 +883,7 @@
 					}
 			},
 			"rarity": "uncommon",
-			"weight": "1 lb",
+			"weight": "1",
 			"value": ""
 		},
 		{
@@ -902,8 +900,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb",
-			"value": "50 PO"
+			"weight": "1",
+			"value": "5000"
 		},
 		{
 			"name": "Shard",
@@ -919,7 +917,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 lb",
+			"weight": "1",
 			"value": "1 PP"
 		},
 		{
@@ -937,7 +935,7 @@
 			},
 			"rarity": "uncommon",
 			"weight": "",
-			"value": "300 PO"
+			"value": "30000"
 		},
 		{
 			"name": "Sun",
@@ -953,7 +951,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 lb",
+			"weight": "1",
 			"value": "10 PP"
 		},
 		{
@@ -970,7 +968,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 lb.",
+			"weight": "1",
 			"value": "2 PP"
 		},
 		{
@@ -987,7 +985,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "5 lb.",
+			"weight": "5",
 			"value": "2 PP"
 		},
 		{
@@ -1005,7 +1003,7 @@
 			},
 			"rarity": "uncommon",
 			"weight": "",
-			"value": "400 PO"
+			"value": "40000"
 		},
 		{
 			"name": "Whistle-Stick",
@@ -1021,8 +1019,8 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb.",
-			"value": "2 PO"
+			"weight": "1",
+			"value": "200"
 		},
 		{
 			"name": "Wildroot",
@@ -1038,7 +1036,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb.",
+			"weight": "1",
 			"value": "75 gp"
 		},
 		{
@@ -1056,7 +1054,7 @@
 			},
 			"rarity": "uncommon",
 			"weight": "",
-			"value": "1 PO"
+			"value": "100"
 		},
 		{
 			"name": "Wukka Nut",
@@ -1072,7 +1070,7 @@
 					}
 			},
 			"rarity": "unknown",
-			"weight": "1 lb.",
+			"weight": "1",
 			"value": "1 gp"
 		},
 		{
@@ -1089,7 +1087,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "3 lb.",
+			"weight": "3",
 			"value": "1 gp"
 		},
 		{
@@ -1106,7 +1104,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "3 lb.",
+			"weight": "3",
 			"value": "1 gp"
 		},
 		{
@@ -1123,7 +1121,7 @@
 					}
 			},
 			"rarity": "none",
-			"weight": "1 lb.",
+			"weight": "1",
 			"value": "10 gp"
 		},
 		{
@@ -1160,7 +1158,7 @@
 			"value": 1,
 			"source": "GUARDA",
 			"entries": [
-				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o esqueleto será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o esqueleto."
+				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o esqueleto será considerado medium, mas para fins de RP o personagem00de escolher de qual raça humanoide era o esqueleto."
 			]
 		},
 		{
@@ -1171,7 +1169,7 @@
 			"value": 1,
 			"source": "GUARDA",
 			"entries": [
-				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o corpo será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o corpo."
+				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o corpo será considerado medium, mas para fins de RP o personagem00de escolher de qual raça humanoide era o corpo."
 			]
 		},
 		{
@@ -1205,7 +1203,7 @@
 			]
 		},
 		{
-			"name": "Holy water, Rare incense, and Powdered ruby",
+			"name": "Holy water, Rare incense, and00wdered ruby",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
@@ -1335,7 +1333,7 @@
 			]
 		},
 		{
-			"name": "Diamond (50 PO)",
+			"name": "Diamond (5000)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 5000,
@@ -1385,7 +1383,7 @@
 			]
 		},
 		{
-			"name": "Focus (100 PO)",
+			"name": "Focus (10000)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
@@ -1395,7 +1393,7 @@
 			]
 		},
 		{
-			"name": "Incense and Powdered diamond",
+			"name": "Incense and00wdered diamond",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 20000,
@@ -1415,7 +1413,7 @@
 			]
 		},
 		{
-			"name": "Holy water or Powdered silver and Iron",
+			"name": "Holy water or00wdered silver and Iron",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
@@ -1555,7 +1553,7 @@
 			]
 		},
 		{
-			"name": "Diamond (500 PO)",
+			"name": "Diamond (50000)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
@@ -1575,7 +1573,7 @@
 			]
 		},
 		{
-			"name": "Focus (1.000 PO)",
+			"name": "Focus (1.00000)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
@@ -1595,7 +1593,7 @@
 			]
 		},
 		{
-			"name": "the Powder of a crushed black pearl",
+			"name": "the00wder of a crushed black pearl",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
@@ -1625,7 +1623,7 @@
 			]
 		},
 		{
-			"name": "Clay pot filled with grave dirt, Clay pot filled with brackish water, and Black onyx stone",
+			"name": "Clay00t filled with grave dirt, Clay00t filled with brackish water, and Black onyx stone",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 15000,
@@ -1665,7 +1663,7 @@
 			]
 		},
 		{
-			"name": "Holy water, Rare incense, and Powdered ruby",
+			"name": "Holy water, Rare incense, and00wdered ruby",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
@@ -1775,7 +1773,7 @@
 			]
 		},
 		{
-			"name": "Miniature portal, a Small piece of polished marble, and a Tiny silver spoon",
+			"name": "Miniature00rtal, a Small piece of00lished marble, and a Tiny silver spoon",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500,
@@ -1815,7 +1813,7 @@
 			]
 		},
 		{
-			"name": "Diamond (1.000 PO)",
+			"name": "Diamond (1.00000)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
@@ -1835,7 +1833,7 @@
 			]
 		},
 		{
-			"name": "Snow or ice, Hair, and Powdered ruby",
+			"name": "Snow or ice, Hair, and00wdered ruby",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 150000,
@@ -1845,7 +1843,7 @@
 			]
 		},
 		{
-			"name": "Mercury, Phosphorus, and Powdered diamond and Opal",
+			"name": "Mercury, Phosphorus, and00wdered diamond and Opal",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
@@ -1885,7 +1883,7 @@
 			]
 		},
 		{
-			"name": "Diamond (500 PO)",
+			"name": "Diamond (50000)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
@@ -1905,7 +1903,7 @@
 			]
 		},
 		{
-			"name": "Diamond (5.000 PO)",
+			"name": "Diamond (5.00000)",
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500000,
@@ -2577,10 +2575,10 @@
 			"value": 10
 		},
 		{
-			"name": "Basic Poison (vial)",
+			"name": "Basic00ison (vial)",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Basic Poison (vial)",
+				"name": "Basic00ison (vial)",
 				"source": "PHB",
 				"_preserve": {
 					"page": true,
@@ -2769,10 +2767,10 @@
 			"value": 50
 		},
 		{
-			"name": "Blasting Powder",
+			"name": "Blasting00wder",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Blasting Powder",
+				"name": "Blasting00wder",
 				"source": "EGW",
 				"_preserve": {
 					"page": true,
@@ -3905,10 +3903,10 @@
 			"value": 20
 		},
 		{
-			"name": "Component Pouch",
+			"name": "Component00uch",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Component Pouch",
+				"name": "Component00uch",
 				"source": "PHB",
 				"_preserve": {
 					"page": true,
@@ -4385,10 +4383,10 @@
 			"value": 100000
 		},
 		{
-			"name": "Drow Poison",
+			"name": "Drow00ison",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Drow Poison",
+				"name": "Drow00ison",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -4961,10 +4959,10 @@
 			"value": 35000
 		},
 		{
-			"name": "Figurine of Wondrous Power, Silver Raven",
+			"name": "Figurine of Wondrous00wer, Silver Raven",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Figurine of Wondrous Power, Silver Raven",
+				"name": "Figurine of Wondrous00wer, Silver Raven",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -5137,10 +5135,10 @@
 			"value": 3000000
 		},
 		{
-			"name": "Gauntlets of Ogre Power",
+			"name": "Gauntlets of Ogre00wer",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Gauntlets of Ogre Power",
+				"name": "Gauntlets of Ogre00wer",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -5713,10 +5711,10 @@
 			"value": 500
 		},
 		{
-			"name": "Heward's Handy Spice Pouch",
+			"name": "Heward's Handy Spice00uch",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Heward's Handy Spice Pouch",
+				"name": "Heward's Handy Spice00uch",
 				"source": "XGE",
 				"_preserve": {
 					"page": true,
@@ -6081,10 +6079,10 @@
 			"value": 10
 		},
 		{
-			"name": "Iron Pot",
+			"name": "Iron00t",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Iron Pot",
+				"name": "Iron00t",
 				"source": "PHB",
 				"_preserve": {
 					"page": true,
@@ -7521,10 +7519,10 @@
 			"value": 10
 		},
 		{
-			"name": "Pearl of Power",
+			"name": "Pearl of00wer",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Pearl of Power",
+				"name": "Pearl of00wer",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -8193,10 +8191,10 @@
 			"value": 35000
 		},
 		{
-			"name": "Potion of Poison Resistance",
+			"name": "Potion of00ison Resistance",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Potion of Poison Resistance",
+				"name": "Potion of00ison Resistance",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -8337,10 +8335,10 @@
 			"value": 50
 		},
 		{
-			"name": "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus",
+			"name": "Prehistoric Figurine of Wondrous00wer, Pyrite Plesiosaurus",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus",
+				"name": "Prehistoric Figurine of Wondrous00wer, Pyrite Plesiosaurus",
 				"source": "BGG",
 				"_preserve": {
 					"page": true,
@@ -8481,10 +8479,10 @@
 			"value": 30000
 		},
 		{
-			"name": "Purple Worm Poison",
+			"name": "Purple Worm00ison",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Purple Worm Poison",
+				"name": "Purple Worm00ison",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -11024,10 +11022,10 @@
 			"value": 1500
 		},
 		{
-			"name": "Wyvern Poison",
+			"name": "Wyvern00ison",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Wyvern Poison",
+				"name": "Wyvern00ison",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -11910,7 +11908,7 @@
 				"rarity": "uncommon",
 				"valueExpression": "[[baseItem.value]] + 50000",
 				"entries": [
-					"While wearing this armor, you can take a bonus action to make the armor emit poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the poisoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn."
+					"While wearing this armor, you can take a bonus action to make the armor emit00isonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the00isoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn."
 				]
 			},
 			"hasFluffImages": true
@@ -11966,7 +11964,7 @@
 			}
 		},
 		{
-			"name": "Armor of Poison Resistance",
+			"name": "Armor of00ison Resistance",
 			"type": "GV",
 			"requires": [
 				{
@@ -11974,7 +11972,7 @@
 				}
 			],
 			"inherits": {
-				"nameSuffix": " of Poison Resistance",
+				"nameSuffix": " of00ison Resistance",
 				"source": "Guarda",
 				"page": 8,
 				"resist": [
@@ -12492,7 +12490,7 @@
 				"bonusSpellDamage": "+1",
 				"entries": [
 					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
-					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or poison damage roll of the spell."
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or00ison damage roll of the spell."
 				]
 			}
 		},
@@ -12667,7 +12665,7 @@
 					}
 				},
 				"entries": [
-					"While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
+					"While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit00ints, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
 				],
 				"lootTables": [
 					"Magic Item Table B"
@@ -12770,7 +12768,7 @@
 				"charges": "{@dice 1d8 + 1}",
 				"entries": [
 					"You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
+					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 hit00ints, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
 				],
 				"lootTables": [
 					"Magic Item Table H"
@@ -12798,7 +12796,7 @@
 				"charges": "{@dice 1d8 + 1}",
 				"entries": [
 					"You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
+					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 hit00ints, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
 					{
 						"type": "inset",
 						"name": "Sane Magic Item Pricing Note",
@@ -12850,7 +12848,7 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take fire damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
@@ -12886,7 +12884,7 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take radiant damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
@@ -12922,8 +12920,8 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
-					"If you're holding the orb when you take acid or poison damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take acid or00ison damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
 		},
@@ -12958,7 +12956,7 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take lightning or thunder damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
@@ -12994,7 +12992,7 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take necrotic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
@@ -13030,7 +13028,7 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take cold damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
@@ -13066,7 +13064,7 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take force damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
@@ -13102,7 +13100,7 @@
 				"wondrous": true,
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
-					"An orb of shielding is a polished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"An orb of shielding is a00lished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
 					"If you're holding the orb when you take psychic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
@@ -13146,7 +13144,7 @@
 				"reqAttune": true,
 				"valueExpression": "[[baseItem.value]] + 100000",
 				"entries": [
-					"When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
+					"When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit00ints.",
 					"{@i Note: According to the SRD, it is an extra {@dice 3d6} necrotic damage.}"
 				],
 				"lootTables": [
@@ -13180,7 +13178,7 @@
 				"valueExpression": "[[baseItem.value]] + 170000",
 				"entries": [
 					"When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.",
-					"When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another {@dice d20}. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a portion of its body instead.",
+					"When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another {@dice d20}. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a00rtion of its body instead.",
 					"{@i Note: According to the SRD, it is an extra {@dice 4d6} slashing damage, although {@link this is incorrect|https://twitter.com/JeremyECrawford/status/949111823990534144}}.",
 					"In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light."
 				],
@@ -13213,7 +13211,7 @@
 				"reqAttune": true,
 				"valueExpression": "[[baseItem.value]] + 200000",
 				"entries": [
-					"Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
+					"Hit00ints lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
 					"Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes {@dice 1d4} necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom ({@skill Medicine}) check, ending the effect of such wounds on it on a success."
 				],
 				"lootTables": [
@@ -13871,10 +13869,10 @@
 			}
 		},
 		{
-			"name": "Gauntlets of Ogre Power",
+			"name": "Gauntlets of Ogre00wer",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Gauntlets of Ogre Power",
+				"name": "Gauntlets of Ogre00wer",
 				"source": "DMG"
 			}
 		},
@@ -14559,10 +14557,10 @@
 			}
 		},
 		{
-			"name": "Staff of Power",
+			"name": "Staff of00wer",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Staff of Power",
+				"name": "Staff of00wer",
 				"source": "DMG"
 			}
 		},
@@ -14775,10 +14773,10 @@
 			}
 		},
 		{
-			"name": "Wand of Polymorph",
+			"name": "Wand of00lymorph",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Wand of Polymorph",
+				"name": "Wand of00lymorph",
 				"source": "DMG"
 			}
 		},
