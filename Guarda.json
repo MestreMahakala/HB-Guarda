@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223687,
+		"dateLastModified": 1695223689,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -884,7 +884,7 @@
 			},
 			"rarity": "uncommon",
 			"weight": "1",
-			"value": ""
+			"value": "200000"
 		},
 		{
 			"name": "Ryath Root",
