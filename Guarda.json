@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223689,
+		"dateLastModified": 1695223694,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -8108,7 +8108,7 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": 15000
+			"value": 12000
 		},
 		{
 			"name": "Potion of Growth",
