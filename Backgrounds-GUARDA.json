@@ -37,16 +37,6 @@
 			],
 			"entries": [
 				{
-					"name": "Feature: Ainda em construção",
-					"type": "entries",
-					"entries": [
-						"No beta o feature não estará em uso"
-					],
-					"data": {
-						"isFeature": true
-					}
-				},
-				{
 		
 					"type": "entries",
 					"name": "Refúgio ao Fiel",
