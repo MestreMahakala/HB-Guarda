@@ -16,7 +16,7 @@
 			}
 		],
 		"dateAdded": 1701443714,
-		"dateLastModified": 1701443789,
+		"dateLastModified": 1701443794,
 		"_dateLastModifiedHash": "3c9028610b"
 	},
 	"background": [
@@ -1590,6 +1590,131 @@
 			"feats": true
 		}
 
+	},
+	{
+		"name": "Rewarded",
+		"source": "Guarda",
+		"feats": [
+			{
+				"Ritual Caster|phb": true               
+			},
+			{
+				"Servo Crafting |psk": true
+			},
+			{
+				"Thrown Arms Master|tdcsr": true 
+			} 
+		],
+		"entries": [
+			{
+				"name": "Traseira Virada para a Lua",
+				"type": "entries",
+				"entries": [
+					"Você tem maior facilidade para encontrar aquilo que precisa. Como exemplo lojas abertas no meio da noite, pessoas importantes para passar informação, ou objetos úteis para a situação atual. Desde que seja possível naquela situação, segundo o mestre.",
+					"A sorte não te sustenta o tempo todo. Em momentos chave da narrativa, ela pode não surtir efeito. Como para encontrar uma pessoa que deve ser facilmente encontrada, ou buscar informações de alta relevância.",
+					"A sorte serve principalmente para situações mundanas, onde o andamento da mesa não seria atrapalhado. Contudo, ainda sim é algo incrível e pode vir a chamar atenção indesejada ao personagem."
+				],
+				"data": {
+					"isFeature": true
+				}
+			},
+			{
+
+				"type": "entries",
+				"name": "Talento extra",
+				"entries": [
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Poisoner|TCE} ou {@feat Tavern Brawler [Talento de Background]|GUARDA}.",					
+					"G.U.A.R.D.A de Tenebris"
+				],
+				"data": {
+					"isFeature": true
+				}
+			}
+		],	
+		"skillProficiencies": [
+			{
+				"choose": {
+					"from": [
+						"stealth",
+						"survival",														
+						"persuasion",
+						"performance"								
+					],
+					"count": 2
+				}
+			}
+		],
+		"languageProficiencies": [
+			{
+				"anyStandard": 2
+			}
+		
+		],			
+		"fromFeature": {				
+			"feats": true
+		}
+	},
+	{
+		"name": "Ruined",
+		"source": "Guarda",
+		"feats": [
+			{
+				"Athlete|phb": true               
+			},
+			{
+				"Poisoner|tce": true
+			},
+			{
+				"tavern brawler [talento de background]|guarda": true 
+			} 
+		],
+		"entries": [
+			{
+				"name": "Sobrevivente das Ruínas",
+				"type": "entries",
+				"entries": [
+					"Você viveu uma grande queda livre na sua vida. Assim você passou por um um estado de desolação e ruína por grande parte de sua vida, seja devido a uma catástrofe natural, uma má sorte, conflito ou outro evento traumático. Essa experiência moldou sua visão do mundo e seu caráter de maneiras profundas. Como resultado, você desenvolveu uma habilidade única para sobreviver em ambientes civilizados hostis e perigosos.",
+					"Você é capaz de encontrar abrigos improvisados e casas abandonadas com mais facilidade, além de comida em ambientes civilizatórios (restos de comida encontrados em lixos, pedir sobras em restaurantes e tavernas, etc). Além disso, sua vivência em locais precários concede-lhe uma sensibilidade aguçada para detectar sinais de perigo nesses ambientes civilizatórios, como locais com risco de desmoronamento, insalubres e locais com riscos de crimes."
+				],
+				"data": {
+					"isFeature": true
+				}
+			},
+			{
+
+				"type": "entries",
+				"name": "Talento extra",
+				"entries": [
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Poisoner|TCE} ou {@feat Tavern Brawler [Talento de Background]|GUARDA}.",					
+					"G.U.A.R.D.A de Tenebris"
+				],
+				"data": {
+					"isFeature": true
+				}
+			}
+		],	
+		"skillProficiencies": [
+			{
+				"choose": {
+					"from": [
+						"stealth",
+						"survival",														
+						"persuasion",
+						"performance"								
+					],
+					"count": 2
+				}
+			}
+		],
+		"languageProficiencies": [
+			{
+				"anyStandard": 2
+			}
+		
+		],			
+		"fromFeature": {				
+			"feats": true
+		}
 	},
 	{
 		"name": "Sage",
