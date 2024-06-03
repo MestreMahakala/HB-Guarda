@@ -16,12 +16,12 @@
 			}
 		],
 		"dateAdded": 1701443714,
-		"dateLastModified": 1701443781,
+		"dateLastModified": 1701443789,
 		"_dateLastModifiedHash": "3c9028610b"
 	},
 	"background": [
 	{
-			"name": "Acolyte [Feat]",
+			"name": "Acolyte",
 			"source": "Guarda",
 			"feats": [
 				{
@@ -43,6 +43,18 @@
 					"entries": [
 						"Como fiel peregrino, sua devoção incansável a uma jornada espiritual fortaleceu laços profundos com os santuários ao longo do seu caminho sagrado, mesmo que você nunca tenha visitado aquele templo antes, você sabe exatamente como pedir ajuda aos templos que seguem similaridades com sua fé. Você e seus companheiros de viagem podem esperar hospitalidade calorosa e cuidado espiritual nos lugares sagrados, marcos divinos e outros locais abençoados relacionados à entidades de mesmo alinhamento da entidade que você serve.",
 						"Adicionalmente, membros desses templos estão inclinados a auxiliarem em sua jornada, podendo até mesmo auxilia-los magicamente com magias de baixo circulo, caso tenha alguém naquele templo capaz de conjurar. Caso o feitiço tenha componentes materiais consumíveis, ainda será seu trabalho providenciar."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+		
+					"type": "entries",
+					"name": "Talento Extra",
+					"entries": [
+						"Nesta variante, você poderá escolher entre as feats {@feat Durable [Talento de Background]|GUARDA}, {@feat Chef} ou {@feat Ritual Caster}.",					
+						"G.U.A.R.D.A de Tenebris"
 					],
 					"data": {
 						"isFeature": true
@@ -74,7 +86,7 @@
 		
 	},
 	{
-		"name": "Anthropologist [Feat]",
+		"name": "Anthropologist",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -89,10 +101,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Camaleão Cultural",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Depois de muito estudo ou aventuras, você desenvolveu a habilidade de se comunicar com humanoides que falam línguas desconhecidas para você. Ao observar atentamente os humanoides interagindo entre si por pelo menos um dia, você adquire conhecimento sobre um punhado de palavras, expressões e gestos importantes. Essa nova compreensão capacita você a se comunicar de forma rudimentar com esses humanoides, transcendendo barreiras linguísticas e promovendo uma compreensão básica. Porem tal compreensão não se traduz ao aprendizado da língua em questão."
 				],
 				"data": {
 					"isFeature": true
@@ -136,7 +148,7 @@
 
 	},
 	{
-			"name": "Archaeologist [Feat]",
+			"name": "Archaeologist",
 			"source": "Guarda",
 			"feats": [
 				{
@@ -152,10 +164,10 @@
 			],
 			"entries": [
 				{
-					"name": "Feature: Ainda em construção",
+					"name": "Sintonia Rupestre",
 					"type": "entries",
 					"entries": [
-						"No beta o feature não estará em uso"
+						"Você tem um conhecimento avançado sobre pedras e construções antigas. Você reconhece a arquitetura de uma dungeon, podendo dizer qual civilização pode tê-la construído ao analisar seus padrões. Além disso, você consegue determinar o valor e a originalidade de algum tesouro que seja mais antigo que um século."
 					],
 					"data": {
 						"isFeature": true
@@ -199,7 +211,7 @@
 		
 	},
 	{
-				"name": "Athlete [Feat]",
+				"name": "Athlete",
 				"source": "Guarda",
 				"feats": [
 					{
@@ -215,10 +227,10 @@
 				],
 				"entries": [
 					{
-						"name": "Feature: Ainda em construção",
+						"name": "Mente de Ferro",
 						"type": "entries",
 						"entries": [
-							"No beta o feature não estará em uso"
+							"O seu treinamento fisico supera o de uma pessoa normal, para chegar onde chegou foi necessário dias de dedicação que o levaram a próximo da exaustão. Quando você realiza uma atividade física que possa te deixar exausto você aguenta 50% mais tempo que outras pessoas sem precisar de testes."
 						],
 						"data": {
 							"isFeature": true
@@ -262,7 +274,7 @@
 			
 	},
 	{
-					"name": "Celebrity Adventurer [Feat]",
+					"name": "Celebrity Adventurer",
 					"source": "Guarda",
 					"feats": [
 						{
@@ -277,10 +289,11 @@
 					],
 					"entries": [
 						{
-							"name": "Feature: Ainda em construção",
+							"name": "Conhecimento Hereditário",
 							"type": "entries",
 							"entries": [
-								"No beta o feature não estará em uso"
+								"Você cresceu ouvindo historias e contos das grandezas de seu parente aventureiro. Seja por admiração ou por eles terem sido marteladas nas suas memórias formativas você se tornou bem próximo com essas histórias, e dando certa familiaridade com os conhecimentos necessários para uma aventura.",
+								"Graças à essa familiaridade, você poder usar um teste de Inteligência (História) para lembrar informações sobre armadinhas, magias e ou criaturas no lugar do teste normalmente solicitado."
 							],
 							"data": {
 								"isFeature": true
@@ -324,7 +337,7 @@
 				
 	},
 	{
-			"name": "Charlatan [Feat]",
+			"name": "Charlatan",
 			"source": "Guarda",
 			"feats": [
 				{
@@ -339,10 +352,10 @@
 			],
 			"entries": [
 				{
-					"name": "Feature: Ainda em construção",
+					"name": "Identidade Falsa",
 					"type": "entries",
 					"entries": [
-						"No beta o feature não estará em uso"
+						"Com a experiência que você obteve ao longo dos anos sobre o que funciona ou não para enganar as pessoas, você criou uma segunda identidade que inclui documentação, conhecidos estabelecidos e disfarce que lhe permitem assumir essa personalidade. Essa sua segunda identidade, que deve constar em sua história, não necessita de testes de enganação para se passar por ela. Você também pode usar uma ferramenta de falsificação para criar qualquer documento que comprove sua identidade."
 					],
 					"data": {
 						"isFeature": true
@@ -386,7 +399,7 @@
 		
 	},
 	{
-		"name": "Courtier [Feat]",
+		"name": "Courtier",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -401,10 +414,11 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Jogo de Palavras",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Quando você estiver em uma situação social, você possui uma facilidade de esconder as verdadeiras intenções de suas palavras entre seus aliados.",
+					"Durante uma conversa, você consegue por meio de palavras sutis passar uma mensagem simplificada, que apenas os seus aliados tem condição de entender. A mensagem é oculta em meio a um diálogo comum, que não alertaria aqueles para o qual a mensagem não foi direcionada, e que não conheça suas táticas."
 				],
 				"data": {
 					"isFeature": true
@@ -448,7 +462,7 @@
 
 	},
 	{
-		"name": "Criminal [Feat]",
+		"name": "Criminal",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -463,10 +477,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "De Olho no Jogo",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Devido a suas atividades consideradas ilícitas, você aprendeu a evitar os olhos dos governos. Você conhece o comportamento básico das organizações de segurança normais, e sabe evita-las. Como por exemplo sabendo localizar rotas de contrabando, ou encontrando possíveis contatos para evitar ser pego por crimes menores."
 				],
 				"data": {
 					"isFeature": true
@@ -511,7 +525,7 @@
 
 	},
 	{
-		"name": "Entertainer [Feat]",
+		"name": "Entertainer",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -526,10 +540,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Por Demanda Popular",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você sempre pode encontrar um lugar para se apresentar, geralmente em uma pousada ou taverna, mas possivelmente em um circo, em um teatro ou até mesmo na corte de um nobre. Nesse local, você recebe hospedagem e alimentação gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente todas as noites. Além disso, seu desempenho faz de você uma espécie de figura local. Quando estranhos reconhecem você na cidade onde você se apresentou, eles normalmente gostam de você."
 				],
 				"data": {
 					"isFeature": true
@@ -573,7 +587,7 @@
 
 	},
 	{
-		"name": "Failed Merchant [Feat]",
+		"name": "Failed Merchant",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -588,10 +602,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Cadeia de Suprimentos",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Desde o seu tempo como comerciante, você mantém conexões com atacadistas, fornecedores e outros comerciantes e empresários em diversos âmbitos. Você pode recorrer a essas conexões ao procurar itens ou informações."
 				],
 				"data": {
 					"isFeature": true
@@ -635,7 +649,7 @@
 
 	},
 	{
-		"name": "Far Traveler [Feat]",
+		"name": "Far Traveler",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -650,10 +664,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Viajado",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você é um andarilho, um viajante de terras distantes, um turista sempre seduzido pela próxima viagem e pelos segredos que novas terras podem revelar, essa curiosidade nata o expõe a novas experiencias em suas viagens. Quando interagindo com um humanoide de nacionalidade diferente da sua, que tenha uma postura neutra a seu respeito, você pode se informar sobre pontos de interesse na região, assim como boatos e pequenas fofocas."
 				],
 				"data": {
 					"isFeature": true
@@ -697,7 +711,7 @@
 
 	},
 	{
-			"name": "Fey Lost [Feat]",
+			"name": "Fey Lost",
 			"source": "Guarda",
 			"feats": [
 				{
@@ -712,10 +726,11 @@
 			],
 			"entries": [
 				{
-					"name": "Feature: Ainda em construção",
+					"name": "Cultura Feérica",
 					"type": "entries",
 					"entries": [
-						"No beta o feature não estará em uso"
+						"Você ou seus pais vieram de regiões intimamente ligadas com as forças feéricas. Em algum momento de sua vida você entrou em contato com uma dessas criaturas que o deixou ligado as energias de Feywild.", 
+						"Como resultado a energia feérica que permeia seu corpo é reconhecida por outras fadas, fazendo com que elas tenham uma postura neutra a seu respeito até que as circunstâncias mudem."
 					],
 					"data": {
 						"isFeature": true
@@ -759,7 +774,7 @@
 		
 	},
 	{
-		"name": "Fisher [Feat]",
+		"name": "Fisher",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -774,10 +789,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Pescador Experiente",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Suas habilidades e conhecimento sobre os mares e rios lhe permitem identificar se a água do local é propicia para a vida de criaturas aquaticas. Quando você usa seu equipamento de pesca para analisar a agua você consegue ter uma estimativa das criaturas que vivem no local, podendo ate mesmo descobrir se a fauna ou a flora desse ambiente aquático é perigosa. Além disso seu conhecimento de pesca te permite reconhecer se uma criatura é comestível ou venenosa."
 				],
 				"data": {
 					"isFeature": true
@@ -821,7 +836,7 @@
 
 	},
 	{
-		"name": "Folk Hero [Feat]",
+		"name": "Folk Hero",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -836,10 +851,12 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Humildão",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você pode ter ganhado poder, se tornado poderoso, ou até mesmo conquistado milhares de peças de ouro. Porém, no fundo do seu coração, você nunca esquecerá sua origem humilde.",
+					"Você sabe bem como aventureiros são inconvenientes, e quase sempre atrapalham a vida de pessoas no campo. Por isso, quando tentando uma abordagem pacífica, você consegue dialogar com pessoas simples para fazer com que elas entendam questões sobrenaturais ou complexas sem se assustarem.",
+					"Você saberia como explicar sobre a presença de um dragão para um humilde fazendeiro sem deixa-lo em pânico. Ou até mesmo conseguir mais facilmente informações sobre seres que vivem nas redondezas cercados de superstições e temores e podem possuir nomes diferentes no local onde você está."
 				],
 				"data": {
 					"isFeature": true
@@ -883,7 +900,7 @@
 
 	},
 	{
-		"name": "Gambler [Feat]",
+		"name": "Gambler",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -898,10 +915,12 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Olho na Oportunidade",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Um apostador desatento é um apostador falido, você se condicionou a sempre prestar atenção no quão experientes são seus adversários, e quais riscos você está correndo.",
+					"Quando conversando, ou negociando com alguém você consegue ler para saber o quão boa de jogo a pessoa é. Após dez minutos de diálogo, você consegue dizer se a pessoa que você está conversando tem proficiência, ou expertise em algum jogo que você seja proficiente.",
+					"Além disso, você sabe dizer quando uma pessoa está inclinada ou não para fazer uma aposta."
 				],
 				"data": {
 					"isFeature": true
@@ -945,7 +964,7 @@
 
 	},
 	{
-		"name": "Gladiator [Feat]",
+		"name": "Gladiator",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -960,10 +979,11 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Fôlego Valente",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Por motivos diversos sua vida o levou a jogos mortais em arenas e coliseus, a vida de um gladiador é sangrenta e dolorida, mas uma das tarefas mais difíceis de um gladiador é manter as massas entretidas durante esse macabro show.",
+					"Enquanto em combate ou performances de entretenimento físico você pode usar intimidação ao invés de outras habilidades sociais e sua intimidação pode usar constituição ao invés do carisma."
 				],
 				"data": {
 					"isFeature": true
@@ -1007,7 +1027,7 @@
 
 	},
 	{
-		"name": "Guild Artisan [Feat]",
+		"name": "Guild Artisan",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1022,10 +1042,11 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Juntador de Pessoas",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você aprendeu que pessoas trabalham melhor quando compartilham de um único desejo, como você sabe disso? Simples, você trabalhou no passado para uma guilda ou organização, fazendo trabalhos específicos e trabalhando em equipe em prol de um objetivo coletivo, quando se deparar com um problema onde a solução que envolva trabalho em grupo ou uso de ferramentas a qual você não é proficiente, você sabe montar uma equipe e o local mais provável para localizar pessoas que você precisa para a tarefa.",
+					"Uma vez ao dia você pode solicitar ao mestre que revele a ferramenta necessária para a solução de um problema especifico, além de informar o local, ou pessoa, que provavelmente tenha essa proficiência."
 				],
 				"data": {
 					"isFeature": true
@@ -1069,7 +1090,7 @@
 
 	},
 	{
-		"name": "Haunted One [Feat]",
+		"name": "Haunted One",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1084,10 +1105,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Coração das Trevas",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Aqueles que olham em seus olhos podem ver que você enfrentou um horror inimaginável e que não é estranho à escuridão. Embora possam temê-lo, os plebeus lhe oferecerão toda a cortesia e farão o máximo para ajudá-lo. A menos que você tenha se mostrado um perigo para eles, eles até pegarão em armas para lutar ao seu lado, caso você enfrente um inimigo sozinho."
 				],
 				"data": {
 					"isFeature": true
@@ -1131,7 +1152,7 @@
 
 	},
 	{
-		"name": "Hermit [Feat]",
+		"name": "Hermit",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1146,10 +1167,12 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Conhecimento Ancestral",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Seu tempo de estudo, meditação e reflexão o fez perceber como o mundo sempre toma os mesmos caminhos, seja na história, na guerra ou na magia. Dessa forma você aprendeu a traçar paralelos com aquilo que lhe é famíliar, e o que é novo.",
+					"Quando visitando um novo local, você pode fazer uma pergunta simples ao mestre sobre o passado do local como um todo (não envolvendo cenas específicas, ou passado recente).",
+					"A resposta é dada como uma comparação com características comuns entre mundos."
 				],
 				"data": {
 					"isFeature": true
@@ -1193,7 +1216,7 @@
 
 	},
 	{
-		"name": "Investigator [Feat]",
+		"name": "Investigator",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1208,10 +1231,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Talento de Dedução",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Devido sua vasta experiência com o ramo dos detetives, você desenvolveu uma intuição quase sobrenatural. Quando você está investigando uma área, objeto ou criatura, você pode fazer ao Mestre uma pergunta. O mestre deve dar uma resposta verdadeira, mas só responderá com “Sim”, “Não” ou “Desconhecido” se a resposta à pergunta é incognoscível ou impossível para que os mortais investigadores deduzam. Depois de fazer perguntas sobre um objeto, criatura ou área, você não pode fazer mais fazer perguntas usando esta habilidade novamente até terminar um descanso longo."
 				],
 				"data": {
 					"isFeature": true
@@ -1255,7 +1278,7 @@
 
 	},
 	{
-		"name": "Knight [Feat]",
+		"name": "Knight",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1270,10 +1293,12 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Consagração da Fama",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"A ação de um cavaleiro vale mais que seu passado, ou a sua história. Tendo uma facilidade maior de criar renome em um novo local.",
+					"Quando visitar uma região, ou mundo que você já tenha visitado anteriormente, a visão de seus atos ecoa mais facilmente. Fazendo com que aqueles que você ajudou não esqueçam disso, podendo te ajudar de volta em momentos de necessidade. Ou seus atos subversivos podem chamar a atenção de grupos que concordem com sua visão de mundo.",
+					"Na prática seu nome se espalha mais facilmente, podendo até mesmo receber atenção de autoridades locais."
 				],
 				"data": {
 					"isFeature": true
@@ -1317,7 +1342,7 @@
 
 	},
 	{
-		"name": "Mercenary Veteran [Feat]",
+		"name": "Mercenary Veteran",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1332,10 +1357,11 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Mercenário Veterano",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Seja lá qual foi a estratégia que você usou para sobreviver no mundo dos mercenários, uma coisa é necessária. Foco, e saber cumprir o objetivo a todo custo.",
+					"Quando envolvido em uma missão, você consegue reconhecer pistas sobre possíveis situações a se tornarem problemas futuros. Como exemplo, traços de um ninho de Wyvern próximo, ou amontoados de cultistas pela região. Você pode utilizar isso para possivelmente obter um novo contrato, desde que seja possível."
 				],
 				"data": {
 					"isFeature": true
@@ -1379,7 +1405,7 @@
 
 	},
 	{
-		"name": "Noble [Feat]",
+		"name": "Noble",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1394,10 +1420,11 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Filhinho(a) do Papai",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você vem de uma família nobre e como tal sempre foi assistido em receber os melhores cuidados da criadagem. Sua família ao saber de sua decisão de partir para uma vida de aventuras designa um dos melhor funcionários para que mantenha os cuidados adequados com seu bem estar e apresentação, em completa discrição para que você nunca perceba ou negue a ajuda da família.",
+					"Uma vez ao dia, a critério do mestre essa habilidade pode ser usada para invocar seu ajudante que desempenhará pequenas atividades sem que você ou seus colegas o veja ou o perceba, como arrumação de um ambiente, trazer uma refeição ou bebida nobre ou até uma troca de roupa, mas qualquer item trazido desaparece ao fim do dia."
 				],
 				"data": {
 					"isFeature": true
@@ -1441,7 +1468,7 @@
 
 	},
 	{
-		"name": "Outlander [Feat]",
+		"name": "Outlander",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1456,10 +1483,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Vida Peregrina",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você tem uma memória excelente para mapas e geografia e sempre consegue se lembrar do layout geral do terreno, assentamentos e outras características ao seu redor. Além disso, você pode encontrar comida e água fresca para você e até cinco outras pessoas por dia, desde que a terra ofereça frutas silvestres, caça pequena, água e assim por diante."
 				],
 				"data": {
 					"isFeature": true
@@ -1503,7 +1530,7 @@
 
 	},
 	{
-		"name": "Pirate [Feat]",
+		"name": "Pirate",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1518,10 +1545,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Má Reputação",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Não importa onde você esteja, as pessoas têm medo de você devido à sua reputação. Quando você está em um assentamento civilizado, você pode escapar impune de crimes menores, como recusar-se a pagar pela comida em uma taverna ou arrombar portas de uma loja local, já que a maioria das pessoas não denunciará sua atividade às autoridades."
 				],
 				"data": {
 					"isFeature": true
@@ -1565,7 +1592,7 @@
 
 	},
 	{
-		"name": "Sage [Feat]",
+		"name": "Sage",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1580,10 +1607,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Devorador de Livros",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você passou sua infância e juventude se dedicando aos estudos, debruçado sobre grandes compêndios, textos e imagens e essa dedicação lhe permitiu encontrar informações que lhe interessam mais rapidamente e de forma mais precisa. Quando analisando um texto, livro ou imagem você gasta metade do tempo determinado pelo mestre e realiza o eventuais testes relacionados a analise do conteúdo pesquisado na vantagem."
 				],
 				"data": {
 					"isFeature": true
@@ -1627,7 +1654,7 @@
 
 	},
 	{
-		"name": "Sailor [Feat]",
+		"name": "Sailor",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1642,10 +1669,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Conhecedor dos Mares",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Sua vida no mar lhe concedeu um profundo entendimento dos caprichos e padrões do oceano. Você desenvolveu um instinto inato para ler o mar e prever mudanças climáticas e padrões de marés. Quando estiver em um navio ou próximo ao mar, você pode fazer um teste de Sabedoria (Sobrevivência) para prever condições climáticas iminentes ou mudanças nas marés. Além disso, você tem vantagem em testes de Sabedoria (Percepção) para detectar perigos naturais no oceano, como rochas submersas, correntes perigosas ou tempestades que se aproximam."
 				],
 				"data": {
 					"isFeature": true
@@ -1689,7 +1716,7 @@
 
 	},
 	{
-		"name": "Soldier [Feat]",
+		"name": "Soldier",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1704,10 +1731,11 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Cultura Militar",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Sua experiência como soldado lhe concedeu um profundo entendimento da cultura militar e uma habilidade inata para ler e compreender a dinâmica das forças armadas. Você tem uma capacidade especial para avaliar rapidamente a organização e o ânimo das tropas, bem como extrair estratégias táticas das formações e posições das unidades militares. Quando você interage com militares ou observa tropas em formação, você tentar extrair estratégias as empregadas, a coesão das unidades e o moral dos soldados, com testes que vão depender do mestre.",
+					"O mestre também poderá fornecer informações adicionais com base no resultado do teste, como identificar fraquezas nas defesas inimigas, prever movimentos táticos ou reconhecer sinais de descontentamento entre as tropas aliadas."
 				],
 				"data": {
 					"isFeature": true
@@ -1751,7 +1779,7 @@
 
 	},
 	{
-		"name": "Spy[Feat]",
+		"name": "Spy",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1766,10 +1794,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Infiltrado",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você aprendeu com o passar dos anos que a melhor forma de se infiltrar para cumprir seus objetivos é ser mais um na multidão. A maneira como você anda, fala e se move é deliberadamente esquecível e totalmente incomum. Enquanto você usa roupas apropriadas para a área em que está, ninguém consegue se lembrar do seu rosto nem de quaisquer características suas, a menos que façam um esforço ativo para fazê-lo (Desde que sua aparência não se destaque muito entre as raças e estilo de vida local)."
 				],
 				"data": {
 					"isFeature": true
@@ -1813,7 +1841,7 @@
 
 	},
 	{
-		"name": "Urban Bounty Hunter [Feat]",
+		"name": "Urban Bounty Hunter",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1828,10 +1856,11 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Perseguidor Implacável",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Como caçador de recompensas, seu alvo principal são pessoas procuradas pela lei, e você aprendeu muito bem como perseguir um alvo, mesmo que ele esteja nos locais mais inacessíveis de uma cidade.",
+					"Quando perseguindo um alvo em ambiente urbano, você consegue procurar pistas deixadas pela passagem do seu alvo 50% mais rápido que o padrão, fazendo perguntas a habitantes locais em busca de rumores, ou percebendo detalhes que só os experientes perceberiam. Além disso, sua presença forte garante que o povo comum não espalhe por aí que alguém andou fazendo perguntas."
 				],
 				"data": {
 					"isFeature": true
@@ -1875,7 +1904,7 @@
 
 	},
 	{
-		"name": "Urchin [Feat]",
+		"name": "Urchin",
 		"source": "Guarda",
 		"feats": [
 			{
@@ -1890,10 +1919,10 @@
 		],
 		"entries": [
 			{
-				"name": "Feature: Ainda em construção",
+				"name": "Segredos da Cidade",
 				"type": "entries",
 				"entries": [
-					"No beta o feature não estará em uso"
+					"Você conhece os padrões secretos e o fluxo para as cidades e pode encontrar passagens na expansão urbana que outros não perceberiam. Quando você não está em combate, você (e seus companheiros liderados) podem viajar entre quaisquer dois locais da cidade duas vezes mais rápido que sua velocidade normalmente permitiria."
 				],
 				"data": {
 					"isFeature": true
