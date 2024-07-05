@@ -9215,6 +9215,22 @@
 			"value": 20000
 		},
 		{
+			"name": "Sending Stones",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sending Stones",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 100000
+		},
+		{
 			"name": "Sentinel Shield",
 			"source": "Guarda",
 			"_copy": {
