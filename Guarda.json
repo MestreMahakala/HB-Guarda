@@ -363,7 +363,7 @@
 			"name": "+1 Wraps of Unarmed Prowess",
 			"source": "Guarda",
 			"_copy": {
-				"name": "*+1 Wraps of Unarmed Prowess",
+				"name": "+1 Wraps of Unarmed Prowess",
 				"source": "BMT",
 				"_preserve": {
 				"page": true,
