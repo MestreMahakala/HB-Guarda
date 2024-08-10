@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223748,
+		"dateLastModified": 1695223755,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -13341,7 +13341,7 @@
 				"source": "BMT",
 				"page": 69,
 				"rarity": "uncommon",
-				"valueExpression": "100",
+				"valueExpression": "[[baseItem.value]] + 100",
 				"entries": [
 					"Ranged weapon attack rolls made with this ammunition ignore half and three-quarters cover. In addition, attacking at long range doesn't impose disadvantage on ranged weapon attack rolls made with this ammunition."
 				]
