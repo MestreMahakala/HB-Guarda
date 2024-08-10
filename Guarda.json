@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223745,
+		"dateLastModified": 1695223748,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -4316,10 +4316,10 @@
 			"value": 100000
 		},
 		{
-			"name": "Drow posion",
+			"name": "Drow Poison",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Drow posion",
+				"name": "Drow Poison",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -8124,10 +8124,10 @@
 			"value": 35000
 		},
 		{
-			"name": "Potion of posion Resistance",
+			"name": "Potion of Poison Resistance",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Potion of posion Resistance",
+				"name": "Potion of Poison Resistance",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -8412,10 +8412,10 @@
 			"value": 30000
 		},
 		{
-			"name": "Purple Worm posion",
+			"name": "Purple Worm Poison",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Purple Worm posion",
+				"name": "Purple Worm Poison",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -10971,10 +10971,10 @@
 			"value": 1500
 		},
 		{
-			"name": "Wyvern posion",
+			"name": "Wyvern Poison",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Wyvern posion",
+				"name": "Wyvern Poison",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -11857,7 +11857,7 @@
 				"rarity": "uncommon",
 				"valueExpression": "[[baseItem.value]] + 50000",
 				"entries": [
-					"While wearing this armor, you can take a bonus action to make the armor emit posionous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the posioned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn."
+					"While wearing this armor, you can take a bonus action to make the armor emit Poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the Poisoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn."
 				]
 			},
 			"hasFluffImages": true
@@ -11913,7 +11913,7 @@
 			}
 		},
 		{
-			"name": "Armor of posion Resistance",
+			"name": "Armor of Poison Resistance",
 			"type": "GV",
 			"requires": [
 				{
@@ -11921,7 +11921,7 @@
 				}
 			],
 			"inherits": {
-				"nameSuffix": " of posion Resistance",
+				"nameSuffix": " of Poison Resistance",
 				"source": "Guarda",
 				"page": 8,
 				"resist": [
@@ -12465,7 +12465,7 @@
 				"bonusSpellDamage": "+1",
 				"entries": [
 					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
-					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or posion damage roll of the spell."
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or Poison damage roll of the spell."
 				]
 			}
 		},
@@ -12896,7 +12896,7 @@
 				"valueExpression": "[[baseItem.value]] + 10000",
 				"entries": [
 					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
-					"If you're holding the orb when you take acid or posion damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+					"If you're holding the orb when you take acid or Poison damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
 				]
 			}
 		},
