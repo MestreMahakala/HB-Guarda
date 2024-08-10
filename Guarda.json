@@ -13348,6 +13348,1480 @@
 			}
 		}
 	],
+	"itemFluff": [
+		{
+			"name": "Alchemy Jug",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Alchemy Jug",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Amulet of Health",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of Health",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Amulet of Proof Against Detection and Location",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of Proof Against Detection and Location",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Amulet of the Planes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of the Planes",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Animated Shield",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Animated Shield",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Apparatus of Kwalish",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Apparatus of Kwalish",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Armor of Invulnerability",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Armor of Invulnerability",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Armor of Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Armor of Resistance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Arrow of Slaying (*)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Arrow of Slaying (*)",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Atlas of Endless Horizons",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Atlas of Endless Horizons",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Axe of the Dwarvish Lords",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Axe of the Dwarvish Lords",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bag of Holding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bag of Holding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Belt of Dwarvenkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Belt of Dwarvenkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of Elvenkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of Elvenkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of Speed",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of Speed",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of Striding and Springing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of Striding and Springing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of the Winterlands",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of the Winterlands",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bowl of Commanding Water Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bowl of Commanding Water Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bracers of Archery",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracers of Archery",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bracers of Defense",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracers of Defense",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Brazier of Commanding Fire Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Brazier of Commanding Fire Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Brooch of Shielding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Brooch of Shielding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Broom of Flying",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Broom of Flying",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cape of the Mountebank",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cape of the Mountebank",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cauldron of Rebirth",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cauldron of Rebirth",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Censer of Controlling Air Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Censer of Controlling Air Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Chime of Opening",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chime of Opening",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Circlet of Blasting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Circlet of Blasting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of Displacement",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of Displacement",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of Elvenkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of Elvenkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of Protection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of the Manta Ray",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of the Manta Ray",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Crook of Rao",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Crook of Rao",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Crystalline Chronicle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Crystalline Chronicle",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Cube of Force",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cube of Force",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cubic Gate",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cubic Gate",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Daern's Instant Fortress",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Daern's Instant Fortress",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dagger of Venom",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dagger of Venom",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dancing Sword",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dancing Sword",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Decanter of Endless Water",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Decanter of Endless Water",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Deck of Many Things",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Deck of Many Things",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Defender",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Defender",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Demon Armor",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Demon Armor",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Demonomicon of Iggwilv",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Demonomicon of Iggwilv",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Devotee's Censer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Devotee's Censer",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Dimensional Shackles",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dimensional Shackles",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dragon Scale Mail",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon Scale Mail",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dragon Slayer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon Slayer",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Driftglobe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Driftglobe",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dust of Disappearance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dust of Disappearance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dust of Sneezing and Choking",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dust of Sneezing and Choking",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dwarven Plate",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dwarven Plate",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dwarven Thrower",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dwarven Thrower",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Efreeti Bottle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Efreeti Bottle",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Efreeti Chain",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Efreeti Chain",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Elemental Gem",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Elemental Gem",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Elven Chain",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Elven Chain",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Eversmoking Bottle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Eversmoking Bottle",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Eyes of Charming",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Eyes of Charming",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Eyes of the Eagle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Eyes of the Eagle",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Feywild Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Feywild Shard",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Flame Tongue",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Flame Tongue",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Folding Boat",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Folding Boat",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Frost Brand",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Frost Brand",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Fulminating Treatise",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Fulminating Treatise",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Gauntlets of Ogre Power",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gauntlets of Ogre Power",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Gem of Brightness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gem of Brightness",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Gem of Seeing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gem of Seeing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Giant Slayer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Giant Slayer",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Gloves of Missile Snaring",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gloves of Missile Snaring",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Goggles of Night",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Goggles of Night",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Hammer of Thunderbolts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hammer of Thunderbolts",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Headband of Intellect",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Headband of Intellect",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Helm of Comprehending Languages",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of Comprehending Languages",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Helm of Telepathy",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of Telepathy",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Helm of Teleportation",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of Teleportation",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Heward's Handy Haversack",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Heward's Handy Haversack",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Holy Avenger",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Holy Avenger",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Horn of Blasting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Horn of Blasting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Immovable Rod",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Immovable Rod",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Anstruth Harp",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Anstruth Harp",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Canaith Mandolin",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Canaith Mandolin",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Cli Lyre",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Cli Lyre",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Doss Lute",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Doss Lute",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Fochlucan Bandore",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Fochlucan Bandore",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Ollamh Harp",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Ollamh Harp",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Iron Bands of Bilarro",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Iron Bands of Bilarro",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Javelin of Lightning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Javelin of Lightning",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Keoghtom's Ointment",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Keoghtom's Ointment",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Lantern of Revealing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Lantern of Revealing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mace of Disruption",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Disruption",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mace of Smiting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Smiting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mace of Terror",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Terror",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mantle of Spell Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mantle of Spell Resistance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Medallion of Thoughts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Medallion of Thoughts",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mighty Servant of Leuk-o",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mighty Servant of Leuk-o",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Mirror of Life Trapping",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mirror of Life Trapping",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mizzium Apparatus",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mizzium Apparatus",
+				"source": "GGR"
+			}
+		},
+		{
+			"name": "Moodmark Paint",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Moodmark Paint",
+				"source": "GGR"
+			}
+		},
+		{
+			"name": "Moonblade",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Moonblade",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Nature's Mantle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nature's Mantle",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Necklace of Adaptation",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Necklace of Adaptation",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Necklace of Fireballs",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Necklace of Fireballs",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Necklace of Prayer Beads",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Necklace of Prayer Beads",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Nine Lives Stealer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nine Lives Stealer",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Nolzur's Marvelous Pigments",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nolzur's Marvelous Pigments",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Oathbow",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Oathbow",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Orb of Dragonkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Orb of Dragonkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Periapt of Health",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Periapt of Health",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Periapt of Wound Closure",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Periapt of Wound Closure",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Pipes of Haunting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pipes of Haunting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Pipes of the Sewers",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pipes of the Sewers",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Quiver of Ehlonna",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quiver of Ehlonna",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Air Elemental Command",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Air Elemental Command",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Animal Influence",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Animal Influence",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Evasion",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Evasion",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Feather Falling",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Feather Falling",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Free Action",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Free Action",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Invisibility",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Invisibility",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Mind Shielding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Mind Shielding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Protection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Regeneration",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Regeneration",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Resistance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Shooting Stars",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Shooting Stars",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Spell Storing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Spell Storing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Spell Turning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Spell Turning",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Telekinesis",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Telekinesis",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of the Ram",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of the Ram",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Water Walking",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Water Walking",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of X-ray Vision",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of X-ray Vision",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of Eyes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of Eyes",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of Stars",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of Stars",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of the Archmagi",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of the Archmagi",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of Useful Items",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of Useful Items",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rod of Absorption",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rod of Absorption",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rod of Lordly Might",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rod of Lordly Might",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rod of Rulership",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rod of Rulership",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rope of Entanglement",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rope of Entanglement",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Scarab of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scarab of Protection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sending Stones",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sending Stones",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Shadowfell Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shadowfell Shard",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Shield of Missile Attraction",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shield of Missile Attraction",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Skyblinder Staff",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Skyblinder Staff",
+				"source": "GGR"
+			}
+		},
+		{
+			"name": "Slippers of Spider Climbing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Slippers of Spider Climbing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sovereign Glue",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sovereign Glue",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Spellguard Shield",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellguard Shield",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Charming",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Charming",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Fire",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Fire",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Frost",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Frost",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Healing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Healing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Power",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Power",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Swarming Insects",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Swarming Insects",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of the Adder",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Adder",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of the Python",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Python",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of the Woodlands",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Woodlands",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Thunder and Lightning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Thunder and Lightning",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Withering",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Withering",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Stone of Controlling Earth Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stone of Controlling Earth Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Stone of Good Luck",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stone of Good Luck",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sun Blade",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sun Blade",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sword of Life Stealing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sword of Life Stealing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sword of Sharpness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sword of Sharpness",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Talisman of the Sphere",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Talisman of the Sphere",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Talisman of Ultimate Evil",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Talisman of Ultimate Evil",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Tentacle Rod",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tentacle Rod",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Trident of Fish Command",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Trident of Fish Command",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Universal Solvent",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Universal Solvent",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Vicious Weapon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vicious Weapon",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Vorpal Sword",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vorpal Sword",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Binding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Binding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Enemy Detection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Enemy Detection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Fear",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Fear",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Fireballs",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Fireballs",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Lightning Bolts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Lightning Bolts",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Magic Detection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Magic Detection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Magic Missiles",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Magic Missiles",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Paralysis",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Paralysis",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Polymorph",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Polymorph",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Secrets",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Secrets",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Web",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Web",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wind Fan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wind Fan",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Winged Boots",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Winged Boots",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wings of Flying",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wings of Flying",
+				"source": "DMG"
+			}
+		}
+	],
 	"book": [
 		{
 			"name": "Guarda",
