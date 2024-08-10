@@ -11,8 +11,7 @@
 				"convertedBy": [
 					"Mahakala"
 				],
-				"version": "1.0",
-				"targetSchema": "1.0.0"
+				"version": "1.0"
 			}
 		],
 		"dependencies": {
@@ -126,7 +125,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223755,
+		"dateLastModified": 1695223759,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -137,11 +136,11 @@
 				"name": "Pistol",
 				"source": "DMG",
 				"_preserve": {
-				"baseItem": true,
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
+					"baseItem": true,
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
 				}
 			},
 			"rarity": "uncommon",
@@ -154,11 +153,11 @@
 				"name": "Musket",
 				"source": "DMG",
 				"_preserve": {
-				"baseItem": true,
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
+					"baseItem": true,
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
 				}
 			},
 			"rarity": "uncommon",
@@ -171,11 +170,11 @@
 				"name": "Vanrak's Mithral Shirt",
 				"source": "WDMM",
 				"_preserve": {
-				"baseItem": true,
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
+					"baseItem": true,
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
 				}
 			},
 			"rarity": "uncommon",
@@ -366,15 +365,15 @@
 				"name": "+1 Wraps of Unarmed Prowess",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "1",
-			"value": "300000"
+			"weight": 1,
+			"value": 300000
 		},
 		{
 			"name": "Adjustable Stilts",
@@ -383,15 +382,15 @@
 				"name": "Adjustable Stilts",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "8",
-			"value": "400"
+			"weight": 8,
+			"value": 400
 		},
 		{
 			"name": "Alchemist's Doom",
@@ -400,15 +399,15 @@
 				"name": "Alchemist's Doom",
 				"source": "SCC",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "7500"
+			"weight": 1,
+			"value": 7500
 		},
 		{
 			"name": "Backpack Parachute",
@@ -417,15 +416,15 @@
 				"name": "Backpack Parachute",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "5",
-			"value": "1000"
+			"weight": 5,
+			"value": 1000
 		},
 		{
 			"name": "Barking Box",
@@ -434,15 +433,15 @@
 				"name": "Barking Box",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "2",
-			"value": "3000"
+			"weight": 2,
+			"value": 3000
 		},
 		{
 			"name": "Blasted Goggles",
@@ -451,15 +450,15 @@
 				"name": "Blasted Goggles",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "1",
-			"value": "40000"
+			"weight": 1,
+			"value": 40000
 		},
 		{
 			"name": "Bloodrage Greataxe",
@@ -468,15 +467,15 @@
 				"name": "Bloodrage Greataxe",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "7",
-			"value": "160000"
+			"weight": 7,
+			"value": 160000
 		},
 		{
 			"name": "Boomerang Shield",
@@ -485,15 +484,15 @@
 				"name": "Boomerang Shield",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "6",
-			"value": "30000"
+			"weight": 6,
+			"value": 30000
 		},
 		{
 			"name": "Canoe",
@@ -502,15 +501,15 @@
 				"name": "Canoe",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "100",
-			"value": "5000"
+			"weight": 100,
+			"value": 5000
 		},
 		{
 			"name": "Card Sharp's Deck",
@@ -519,15 +518,15 @@
 				"name": "Card Sharp's Deck",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "1",
-			"value": "50000"
+			"weight": 1,
+			"value": 50000
 		},
 		{
 			"name": "Catapult Munition",
@@ -536,15 +535,15 @@
 				"name": "Catapult Munition",
 				"source": "SCC",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "10",
-			"value": "5000"
+			"weight": 10,
+			"value": 5000
 		},
 		{
 			"name": "Condensed Order",
@@ -553,15 +552,15 @@
 				"name": "Condensed Order",
 				"source": "CoA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "2",
-			"value": "12000"
+			"weight": 2,
+			"value": 12000
 		},
 		{
 			"name": "Dragon",
@@ -570,15 +569,15 @@
 				"name": "Dragon",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "2",
-			"value": "100"
+			"weight": 2,
+			"value": 100
 		},
 		{
 			"name": "Fabulist Gem",
@@ -587,15 +586,14 @@
 				"name": "Fabulist Gem",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "",
-			"value": "40000"
+			"value": 40000
 		},
 		{
 			"name": "Harbor Moon",
@@ -604,15 +602,15 @@
 				"name": "Harbor Moon",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "2",
-			"value": "5000"
+			"weight": 2,
+			"value": 5000
 		},
 		{
 			"name": "Hooked Shortspear",
@@ -621,15 +619,15 @@
 				"name": "Hooked Shortspear",
 				"source": "OotA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "2",
-			"value": "5000"
+			"weight": 2,
+			"value": 5000
 		},
 		{
 			"name": "House of Cards",
@@ -638,15 +636,15 @@
 				"name": "House of Cards",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "2",
-			"value": "20000"
+			"weight": 2,
+			"value": 20000
 		},
 		{
 			"name": "Insect Repellent (block of incense)",
@@ -655,15 +653,15 @@
 				"name": "Insect Repellent (block of incense)",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "1",
-			"value": "1"
+			"weight": 1,
+			"value": 1
 		},
 		{
 			"name": "Insect Repellent (greasy salve)",
@@ -672,15 +670,15 @@
 				"name": "Insect Repellent (greasy salve)",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "1",
-			"value": "1"
+			"weight": 1,
+			"value": 1
 		},
 		{
 			"name": "Light Repeating Crossbow",
@@ -689,15 +687,15 @@
 				"name": "Light Repeating Crossbow",
 				"source": "OotA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "5",
-			"value": "5000"
+			"weight": 5,
+			"value": 5000
 		},
 		{
 			"name": "Matchless Pipe",
@@ -706,15 +704,15 @@
 				"name": "Matchless Pipe",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "500"
+			"weight": 1,
+			"value": 500
 		},
 		{
 			"name": "Menga leaves (1 ounce)",
@@ -723,15 +721,15 @@
 				"name": "Menga leaves (1 ounce)",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "500"
+			"weight": 1,
+			"value": 500
 		},
 		{
 			"name": "Murgaxor's Elixir of Life",
@@ -740,15 +738,15 @@
 				"name": "Murgaxor's Elixir of Life",
 				"source": "SCC",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "5000"
+			"weight": 1,
+			"value": 5000
 		},
 		{
 			"name": "Nib",
@@ -757,15 +755,15 @@
 				"name": "Nib",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "0,01",
-			"value": "1 cp"
+			"weight": 0.01,
+			"value": 1
 		},
 		{
 			"name": "Oversized Longbow",
@@ -774,15 +772,15 @@
 				"name": "Oversized Longbow",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "2",
-			"value": "7500"
+			"weight": 2,
+			"value": 7500
 		},
 		{
 			"name": "Plate of Knight's Fellowship",
@@ -791,15 +789,15 @@
 				"name": "Plate of Knight's Fellowship",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "65",
-			"value": "80000"
+			"weight": 65,
+			"value": 80000
 		},
 		{
 			"name": "Rain Catcher",
@@ -808,15 +806,15 @@
 				"name": "Rain Catcher",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "5",
-			"value": "100"
+			"weight": 5,
+			"value": 100
 		},
 		{
 			"name": "Ring of Puzzler's Wit",
@@ -825,15 +823,15 @@
 				"name": "Ring of Puzzler's Wit",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "1",
-			"value": "200000"
+			"weight": 1,
+			"value": 200000
 		},
 		{
 			"name": "Ryath Root",
@@ -842,15 +840,15 @@
 				"name": "Ryath Root",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "5000"
+			"weight": 1,
+			"value": 5000
 		},
 		{
 			"name": "Shard",
@@ -859,15 +857,15 @@
 				"name": "Shard",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "1",
-			"value": "1"
+			"weight": 1,
+			"value": 1
 		},
 		{
 			"name": "Sling of Giant Felling",
@@ -876,15 +874,14 @@
 				"name": "Sling of Giant Felling",
 				"source": "BMT",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "",
-			"value": "30000"
+			"value": 30000
 		},
 		{
 			"name": "Sun",
@@ -893,15 +890,15 @@
 				"name": "Sun",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "1",
-			"value": "10"
+			"weight": 1,
+			"value": 10
 		},
 		{
 			"name": "Taol",
@@ -910,15 +907,15 @@
 				"name": "Taol",
 				"source": "WDH",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "1",
-			"value": "2"
+			"weight": 1,
+			"value": 2
 		},
 		{
 			"name": "Tej",
@@ -927,15 +924,15 @@
 				"name": "Tej",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "5",
-			"value": "2"
+			"weight": 5,
+			"value": 2
 		},
 		{
 			"name": "Wand of Silence",
@@ -944,15 +941,14 @@
 				"name": "Wand of Silence",
 				"source": "GHLoE",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "uncommon",
-			"weight": "",
-			"value": "40000"
+			"value": 40000
 		},
 		{
 			"name": "Whistle-Stick",
@@ -961,15 +957,15 @@
 				"name": "Whistle-Stick",
 				"source": "OGA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "200"
+			"weight": 1,
+			"value": 200
 		},
 		{
 			"name": "Wildroot",
@@ -978,15 +974,15 @@
 				"name": "Wildroot",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "75 gp"
+			"weight": 1,
+			"value": 7500
 		},
 		{
 			"name": "Wukka Nut",
@@ -995,15 +991,15 @@
 				"name": "Wukka Nut",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "unknown",
-			"weight": "1",
-			"value": "1 gp"
+			"weight": 1,
+			"value": 100
 		},
 		{
 			"name": "Yahcha",
@@ -1012,15 +1008,15 @@
 				"name": "Yahcha",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "3",
-			"value": "1 gp"
+			"weight": 3,
+			"value": 100
 		},
 		{
 			"name": "Yklwa",
@@ -1029,15 +1025,15 @@
 				"name": "Yklwa",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "3",
-			"value": "1 gp"
+			"weight": 3,
+			"value": 100
 		},
 		{
 			"name": "Zabou",
@@ -1046,15 +1042,15 @@
 				"name": "Zabou",
 				"source": "ToA",
 				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
 			},
 			"rarity": "none",
-			"weight": "1",
-			"value": "10 gp"
+			"weight": 1,
+			"value": 1000
 		},
 		{
 			"name": "+1 Amulet of the Devout",
@@ -1077,7 +1073,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 1000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Find Familiar|PHB}."
 			]
@@ -1088,7 +1084,7 @@
 			"rarity": "none",
 			"weight": 20,
 			"value": 1,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o esqueleto será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o esqueleto."
 			]
@@ -1099,7 +1095,7 @@
 			"rarity": "none",
 			"weight": 50,
 			"value": 1,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o corpo será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o corpo."
 			]
@@ -1109,7 +1105,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Augury|PHB}."
 			]
@@ -1119,9 +1115,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Ceremony|PHB}."
+				"A spell component used in {@spell Ceremony|PHB}."
 			]
 		},
 		{
@@ -1129,19 +1125,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Divination|PHB}."
-			]
-		},
-		{
-			"name": "Holy water, Rare incense, and powdered ruby",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "GUARDA",
-			"entries": [
-				"A spell component used in {@spell Forbiddance|PHB}."
+				"A spell component used in {@spell Divination|PHB}."
 			]
 		},
 		{
@@ -1149,9 +1135,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Identify|PHB}."
+				"A spell component used in {@spell Identify|PHB}."
 			]
 		},
 		{
@@ -1159,7 +1145,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 1000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Illusory Script|PHB}."
 			]
@@ -1169,7 +1155,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 1000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Magic Mouth|PHB}."
 			]
@@ -1179,7 +1165,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 30000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Summon Fey|TCE}."
 			]
@@ -1189,7 +1175,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 20000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Summon Beast|TCE}."
 			]
@@ -1199,7 +1185,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 30000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Summon Shadowspawn|PHB}."
 			]
@@ -1209,9 +1195,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 30000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Summon Undead|TCE}."
+				"A spell component used in {@spell Summon Undead|TCE}."
 			]
 		},
 		{
@@ -1219,9 +1205,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 40000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Summon Aberration|PHB}."
+				"A spell component used in {@spell Summon Aberration|PHB}."
 			]
 		},
 		{
@@ -1229,9 +1215,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 40000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Summon Elemental|TCE}."
+				"A spell component used in {@spell Summon Elemental|TCE}."
 			]
 		},
 		{
@@ -1239,9 +1225,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Summon Celestial|TCE}."
+				"A spell component used in {@spell Summon Celestial|TCE}."
 			]
 		},
 		{
@@ -1249,7 +1235,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Summon Draconic Spirit|TCE}."
 			]
@@ -1259,7 +1245,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 60000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Summon Fiend|TCE}."
 			]
@@ -1269,7 +1255,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 5000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Chromatic Orb|PHB}."
 			]
@@ -1279,7 +1265,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Arcane Lock|PHB}."
 			]
@@ -1289,7 +1275,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Borrowed Knowledge|SCC}."
 			]
@@ -1299,9 +1285,9 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 5000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
-			"A spell component used in {@spell Continual Flame|PHB}."
+				"A spell component used in {@spell Continual Flame|PHB}."
 			]
 		},
 		{
@@ -1309,7 +1295,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 5000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Warding Bond|PHB}."
 			]
@@ -1319,7 +1305,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Clairvoyance|PHB}."
 			]
@@ -1329,7 +1315,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 20000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Glyph of Warding|PHB}."
 			]
@@ -1339,7 +1325,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 5000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Incite Greed|AI}."
 			]
@@ -1349,7 +1335,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Magic Circle|PHB}."
 			]
@@ -1359,7 +1345,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Nondetection|PHB}."
 			]
@@ -1369,7 +1355,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 30000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Revivify|PHB}."
 			]
@@ -1379,7 +1365,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 505000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Leomund's Secret Chest|PHB}."
 			]
@@ -1389,7 +1375,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 15000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Shadow of Moil|XGE}."
 			]
@@ -1399,7 +1385,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 40000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Spirit of Death|BMT}."
 			]
@@ -1409,7 +1395,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Stoneskin|PHB} and {@spell Greater Restoration|PHB}."
 			]
@@ -1419,7 +1405,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Awaken|PHB}."
 			]
@@ -1429,7 +1415,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Create Spelljamming Helm|AAG}."
 			]
@@ -1439,7 +1425,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Dawn|XGE}."
 			]
@@ -1449,7 +1435,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Hallow|PHB}."
 			]
@@ -1459,7 +1445,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 99900,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Infernal Calling|XGE}."
 			]
@@ -1469,7 +1455,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 25000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Legend Lore|PHB}."
 			]
@@ -1479,7 +1465,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Planar Binding|PHB}."
 			]
@@ -1489,7 +1475,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Raise Dead|PHB}."
 			]
@@ -1499,7 +1485,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Reincarnate|PHB}."
 			]
@@ -1509,7 +1495,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Scrying|PHB}."
 			]
@@ -1519,7 +1505,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 5000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Teleportation Circle|PHB}."
 			]
@@ -1529,7 +1515,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Circle of Death|PHB}."
 			]
@@ -1539,7 +1525,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 150000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Contingency|PHB}."
 			]
@@ -1549,7 +1535,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Create Homunculus|XGE}."
 			]
@@ -1559,7 +1545,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 15000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Create Undead|PHB}."
 			]
@@ -1569,7 +1555,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Drawmij's Instant Summons|PHB}."
 			]
@@ -1579,7 +1565,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Find the Path|PHB}."
 			]
@@ -1589,7 +1575,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Fizban's Platinum Shield|FTD}."
 			]
@@ -1599,7 +1585,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Forbiddance|PHB}."
 			]
@@ -1609,7 +1595,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 1000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Guards and Wards|PHB}."
 			]
@@ -1619,7 +1605,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Heroes' Feast|PHB}."
 			]
@@ -1629,7 +1615,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Magic Jar|PHB}."
 			]
@@ -1639,7 +1625,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Programmed Illusion|PHB}."
 			]
@@ -1649,7 +1635,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 10000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Soul Cage|XGE}."
 			]
@@ -1659,7 +1645,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Tasha's Otherworldly Guise|TCE}."
 			]
@@ -1669,7 +1655,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell True Seeing|PHB}."
 			]
@@ -1679,7 +1665,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 200000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Create Magen|IDRotF}."
 			]
@@ -1689,7 +1675,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Draconic Transformation|FTD}."
 			]
@@ -1699,7 +1685,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 150000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Forcecage|PHB}."
 			]
@@ -1709,7 +1695,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Mordenkainen's Magnificent Mansion|PHB}."
 			]
@@ -1719,7 +1705,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 25000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Mordenkainen's Sword|PHB}."
 			]
@@ -1729,7 +1715,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 25000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Plane Shift|PHB}."
 			]
@@ -1739,7 +1725,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Project Image|PHB}."
 			]
@@ -1749,7 +1735,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Resurrection|PHB}."
 			]
@@ -1759,7 +1745,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Sequester|PHB}."
 			]
@@ -1769,7 +1755,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 150000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Simulacrum|PHB}."
 			]
@@ -1779,7 +1765,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Symbol|PHB}."
 			]
@@ -1789,7 +1775,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Temple of the Gods|XGE}."
 			]
@@ -1799,7 +1785,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 300000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Clone|PHB}."
 			]
@@ -1809,7 +1795,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 100000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Holy Aura|PHB}."
 			]
@@ -1819,7 +1805,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Mighty Fortress|XGE}."
 			]
@@ -1829,7 +1815,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 110000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Astral Projection|PHB}."
 			]
@@ -1839,7 +1825,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 500000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Gate|PHB}."
 			]
@@ -1849,7 +1835,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Imprisonment|PHB}."
 			]
@@ -1859,7 +1845,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 50000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Invulnerability|XGE}."
 			]
@@ -1869,7 +1855,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 150000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell Shapechange|PHB}."
 			]
@@ -1879,7 +1865,7 @@
 			"type": "SCF",
 			"rarity": "none",
 			"value": 2500000,
-			"source": "GUARDA",
+			"source": "Guarda",
 			"entries": [
 				"A spell component used in {@spell True Resurrection|PHB}."
 			]
@@ -2506,9 +2492,9 @@
 			"rarity": "none",
 			"value": 10
 		},
-		{			
+		{
 			"name": "Basic Poison (vial)",
-			"source": "GUARDA",
+			"source": "Guarda",
 			"page": 153,
 			"srd": true,
 			"basicRules": true,
@@ -9303,7 +9289,7 @@
 					"tier": true,
 					"lootTables": true
 				}
-			},			
+			},
 			"value": 10000
 		},
 		{
@@ -11281,7 +11267,6 @@
 				}
 			}
 		},
-	
 		{
 			"name": "Scroll of Protection",
 			"source": "Guarda",
@@ -12236,7 +12221,7 @@
 			"ammo": true,
 			"inherits": {
 				"namePrefix": "Dried Leech ",
-				"source": "BMT",
+				"source": "Guarda",
 				"page": 67,
 				"rarity": "uncommon",
 				"valueExpression": "[[baseItem.value]] + 1500",
@@ -12728,7 +12713,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					
+					"sword": true
 				}
 			],
 			"inherits": {
@@ -13338,7 +13323,7 @@
 			"ammo": true,
 			"inherits": {
 				"namePrefix": "Winged ",
-				"source": "BMT",
+				"source": "Guarda",
 				"page": 69,
 				"rarity": "uncommon",
 				"valueExpression": "[[baseItem.value]] + 100",
@@ -14825,11 +14810,14 @@
 	"book": [
 		{
 			"name": "Guarda",
-			"id": "GUARDA",
+			"id": "Guarda",
 			"source": "Guarda",
 			"group": "homebrew",
-			"coverUrl": "https://i.ibb.co/0tpKVHh/smi-cover.png",
-			"published": "01/12/2023",
+			"cover": {
+				"type": "external",
+				"url": "https://i.ibb.co/0tpKVHh/smi-cover.png"
+			},
+			"published": "2023-12-01",
 			"author": "Mahakala",
 			"contents": [
 				{
@@ -14848,5 +14836,20 @@
 				}
 			]
 		}
-	]	
+	],
+	"bookData": [
+		{
+			"id": "Guarda",
+			"source": "Guarda",
+			"data": [
+				{
+					"type": "section",
+					"name": "Guarda",
+					"entries": [
+						"#TODO"
+					]
+				}
+			]
+		}
+	]
 }
