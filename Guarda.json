@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223719,
+		"dateLastModified": 1695223722,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -579,23 +579,6 @@
 			"rarity": "none",
 			"weight": "2",
 			"value": "100"
-		},
-		{
-			"name": "Dried Leech",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Dried Leech",
-				"source": "BMT",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "uncommon",
-			"weight": "1",
-			"value": "1500 "
 		},
 		{
 			"name": "Fabulist Gem",
@@ -5101,10 +5084,10 @@
 			"value": 3000000
 		},
 		{
-			"name": "Gauntlets of Ogrepower",
+			"name": "Gauntlets of Ogre Power",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Gauntlets of Ogrepower",
+				"name": "Gauntlets of Ogre Power",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -12253,6 +12236,32 @@
 			}
 		},
 		{
+			"name": "Dried Leech",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"excludes": {
+				"name": "Energy Cell"
+			},
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Dried Leech ",
+				"source": "BMT",
+				"page": 67,
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 1500",
+				"entries": [
+					"This leech has been dried and imbued with a mote of animating magic. If you hit a creature with a ranged attack roll using this ammunition, the leech springs to life and sinks its teeth into the target, dealing {@damage 1d4} piercing damage at the start of each of the target's turns. If the leech deals at least 10 damage or the target dies, the leech falls off. A creature, including the target, can use its action to detach the leech. Once a leech is no longer attached to its target, the leech dies and is no longer magical."
+				]
+			}
+		},
+		{
 			"name": "Flame Tongue",
 			"type": "GV",
 			"requires": [
@@ -13851,10 +13860,10 @@
 			}
 		},
 		{
-			"name": "Gauntlets of Ogrepower",
+			"name": "Gauntlets of Ogre Power",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Gauntlets of Ogrepower",
+				"name": "Gauntlets of Ogre Power",
 				"source": "DMG"
 			}
 		},
