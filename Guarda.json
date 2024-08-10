@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223740,
+		"dateLastModified": 1695223745,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -2506,21 +2506,22 @@
 			"rarity": "none",
 			"value": 10
 		},
-		{
+		{			
 			"name": "Basic Poison (vial)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Basic Posion (vial)",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
+			"source": "GUARDA",
+			"page": 153,
+			"srd": true,
+			"basicRules": true,
+			"type": "G",
 			"rarity": "none",
-			"value": 10000
+			"value": 10000,
+			"poison": true,
+			"entries": [
+				"You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take {@damage 1d4} poison damage. Once applied, the poison retains potency for 1 minute before drying."
+			],
+			"miscTags": [
+				"CNS"
+			]
 		},
 		{
 			"name": "Basket",
