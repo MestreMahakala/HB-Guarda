@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223728,
+		"dateLastModified": 1695223729,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -987,23 +987,6 @@
 			"rarity": "unknown",
 			"weight": "1",
 			"value": "75 gp"
-		},
-		{
-			"name": "Winged Ammunition",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Winged Ammunition",
-				"source": "BMT",
-				"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-					}
-			},
-			"rarity": "uncommon",
-			"weight": "",
-			"value": "100"
 		},
 		{
 			"name": "Wukka Nut",
@@ -13335,6 +13318,32 @@
 					"name": "Weapon of Warning",
 					"source": "Guarda"
 				}
+			}
+		},
+		{
+			"name": "Winged Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"excludes": {
+				"name": "Energy Cell"
+			},
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Winged ",
+				"source": "BMT",
+				"page": 69,
+				"rarity": "uncommon",
+				"valueExpression": "100",
+				"entries": [
+					"Ranged weapon attack rolls made with this ammunition ignore half and three-quarters cover. In addition, attacking at long range doesn't impose disadvantage on ranged weapon attack rolls made with this ammunition."
+				]
 			}
 		}
 	],
