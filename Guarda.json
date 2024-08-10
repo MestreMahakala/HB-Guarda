@@ -126,7 +126,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223735,
+		"dateLastModified": 1695223738,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -2507,10 +2507,10 @@
 			"value": 10
 		},
 		{
-			"name": "Basic posion (vial)",
+			"name": "Basic Poison (vial)",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Basic posion (vial)",
+				"name": "Basic Posion (vial)",
 				"source": "PHB",
 				"_preserve": {
 					"page": true,
