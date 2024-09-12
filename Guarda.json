@@ -1,4 +1,5 @@
 {
+	
 	"_meta": {
 		"sources": [
 			{
@@ -373,7 +374,7 @@
 			},
 			"rarity": "uncommon",
 			"weight": 1,
-			"value": 300000
+			"value": "300000"
 		},
 		{
 			"name": "Adjustable Stilts",
@@ -11463,27 +11464,6 @@
 			}
 		},
 		{
-			"name": "+2 Armor",
-			"type": "GV",
-			"requires": [
-				{
-					"armor": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "+2 ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "very rare",
-				"valueExpression": "[[baseItem.value]] + 600000",
-				"bonusAc": "+2",
-				"entries": [
-					"You have a {=bonusAc} bonus to AC while wearing this armor."
-				]
-			}
-		},
-		{
 			"name": "+2 Shield (*)",
 			"type": "GV",
 			"requires": [
@@ -11532,114 +11512,6 @@
 				],
 				"lootTables": [
 					"Magic Item Table G"
-				]
-			}
-		},
-		{
-			"name": "+3 Ammunition",
-			"type": "GV",
-			"requires": [
-				{
-					"type": "A"
-				},
-				{
-					"type": "AF"
-				}
-			],
-			"ammo": true,
-			"inherits": {
-				"namePrefix": "+3 ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "minor",
-				"rarity": "very rare",
-				"valueExpression": "[[baseItem.value]] + 40000",
-				"bonusWeapon": "+3",
-				"entries": [
-					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
-					{
-						"type": "inset",
-						"name": "Sane Magic Item Pricing Note",
-						"entries": [
-							"Price is per each individual piece of ammunition"
-						]
-					}
-				],
-				"lootTables": [
-					"Magic Item Table D"
-				]
-			}
-		},
-		{
-			"name": "+3 Armor",
-			"type": "GV",
-			"requires": [
-				{
-					"armor": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "+3 ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "legendary",
-				"valueExpression": "[[baseItem.value]] + 2400000",
-				"bonusAc": "+3",
-				"entries": [
-					"You have a {=bonusAc} bonus to AC while wearing this armor."
-				]
-			}
-		},
-		{
-			"name": "+3 Shield (*)",
-			"type": "GV",
-			"requires": [
-				{
-					"type": "S"
-				}
-			],
-			"entries": [
-				"{@note * This generic variant has the same name and source as the item {@item +3 shield|Guarda}}.",
-				"While holding this shield, you have a +3 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
-			],
-			"inherits": {
-				"namePrefix": "+3 ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "very rare",
-				"valueExpression": "[[baseItem.value]] + 2400000",
-				"bonusAc": "+3",
-				"entries": [
-					"While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
-				]
-			}
-		},
-		{
-			"name": "+3 Weapon",
-			"type": "GV",
-			"requires": [
-				{
-					"weapon": true
-				}
-			],
-			"excludes": {
-				"net": true
-			},
-			"inherits": {
-				"namePrefix": "+3 ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "very rare",
-				"valueExpression": "[[baseItem.value]] + 1600000",
-				"bonusWeapon": "+3",
-				"entries": [
-					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
-				],
-				"lootTables": [
-					"Magic Item Table H"
 				]
 			}
 		},
@@ -12057,121 +11929,6 @@
 			}
 		},
 		{
-			"name": "Arrow of Slaying (*)",
-			"type": "GV",
-			"requires": [
-				{
-					"type": "A"
-				},
-				{
-					"type": "AF"
-				}
-			],
-			"excludes": {
-				"page": 268
-			},
-			"ammo": true,
-			"entries": [
-				"{@note * This generic variant has the same name and source as the item {@item Arrow of Slaying|Guarda}}.",
-				"An {@italic arrow of slaying} is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both {@italic arrows of dragon slaying} and {@italic arrows of blue dragon slaying}. If a creature belonging to the type, race, or group associated with an {@italic arrow of slaying} takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra {@dice 6d10} piercing damage on a failed save, or half as much extra damage on a successful one.",
-				"Once an {@italic arrow of slaying} deals its extra damage to a creature, it becomes a nonmagical arrow.",
-				"Other types of magic ammunition of this kind exist, such as bolts of slaying meant for a crossbow, though arrows are most common."
-			],
-			"inherits": {
-				"nameSuffix": " of Slaying",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "minor",
-				"rarity": "very rare",
-				"valueExpression": "[[baseItem.value]] + 60000",
-				"entries": [
-					"{=baseName/at} {=baseName/l} of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both {@i {=baseName/l}s of dragon slaying} and {@i {=baseName/l}s of blue dragon slaying}. If a creature belonging to the type, race, or group associated with {=baseName/a} {=baseName/l} of slaying takes damage from the {=baseName/l}, the creature must make a DC 17 Constitution saving throw, taking an extra {@dice 6d10} piercing damage on a failed save, or half as much extra damage on a successful one.",
-					"Once {=baseName/a} {=baseName/l} of slaying deals its extra damage to a creature, it becomes a nonmagical {=baseName/l}.",
-					{
-						"type": "inset",
-						"name": "Sane Magic Item Pricing Note",
-						"entries": [
-							"Price is per each individual piece of ammunition"
-						]
-					}
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Arrow of Slaying (*)",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
-			"name": "Dancing Sword",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "Dancing ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "very rare",
-				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 200000",
-				"entries": [
-					"You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.",
-					"While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.",
-					"After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it."
-				],
-				"lootTables": [
-					"Magic Item Table H"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Dancing Sword",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
-			"name": "Defender",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "Defender ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "legendary",
-				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 2400000",
-				"bonusWeapon": "+3",
-				"bonusAc": "+1",
-				"entries": [
-					"You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
-					"The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it."
-				],
-				"lootTables": [
-					"Magic Item Table I"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Defender",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
 			"name": "Dragon Slayer",
 			"type": "GV",
 			"requires": [
@@ -12185,7 +11942,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "rare",
-				"valueExpression": "[[baseItem.value]] + 800000",
+				"valueExpression": "[[baseItem.value]] + 400000",
 				"bonusWeapon": "+1",
 				"bonusAc": "+1",
 				"entries": [
@@ -12245,7 +12002,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 500000",
+				"valueExpression": "[[baseItem.value]] + 400000",
 				"entries": [
 					"You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra {@dice 2d6} fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword."
 				],
@@ -12257,109 +12014,6 @@
 			"fluff": {
 				"_itemFluff": {
 					"name": "Flame Tongue",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
-			"name": "Frost Brand",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "Frost Brand ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "very rare",
-				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 220000",
-				"entries": [
-					"When you hit with an attack using this magic sword, the target takes an extra {@dice 1d6} cold damage. In addition, while you hold the sword, you have resistance to fire damage.",
-					"In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
-					"When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour."
-				],
-				"lootTables": [
-					"Magic Item Table H"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Frost Brand",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
-			"name": "Giant Slayer",
-			"type": "GV",
-			"requires": [
-				{
-					"axe": true
-				},
-				{
-					"sword": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "Giant Slayer ",
-				"source": "Guarda",
-				"page": 8,
-				"tier": "major",
-				"rarity": "rare",
-				"valueExpression": "[[baseItem.value]] + 700000",
-				"bonusWeapon": "+1",
-				"bonusAc": "+1",
-				"entries": [
-					"You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-					"When you hit a giant with it, the giant takes an extra {@dice 2d6} damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall {@condition prone}. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls."
-				],
-				"lootTables": [
-					"Magic Item Table G"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Giant Slayer",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
-			"name": "Holy Avenger",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "Holy Avenger ",
-				"source": "Guarda",
-				"page": 174,
-				"tier": "major",
-				"rarity": "legendary",
-				"reqAttune": "by a paladin",
-				"valueExpression": "[[baseItem.value]] + 16500000",
-				"bonusWeapon": "+3",
-				"bonusAc": "+3",
-				"entries": [
-					"You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra {@dice 2d10} radiant damage.",
-					"While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet."
-				],
-				"lootTables": [
-					"Magic Item Table I"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Holy Avenger",
 					"source": "Guarda"
 				}
 			}
@@ -12682,7 +12336,7 @@
 				"source": "Guarda",
 				"page": 179,
 				"rarity": "rare",
-				"valueExpression": "[[baseItem.value]] + 150000",
+				"valueExpression": "[[baseItem.value]] + 650000",
 				"entries": [
 					"This suit of armor is reinforced with a magically enhanced metal alloy called mizzium, which is made in Izzet foundries. While you're wearing the armor, any critical hit against you becomes a normal hit. In addition, when you are subjected to a magical effect that allows you to make a Strength or Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw."
 				]
@@ -12706,75 +12360,6 @@
 				"entries": [
 					"In darkness, the unsheathed blade of this weapon sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet."
 				]
-			}
-		},
-		{
-			"name": "Nine Lives Stealer",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "Nine Lives Stealer ",
-				"source": "Guarda",
-				"page": 183,
-				"srd": true,
-				"tier": "major",
-				"rarity": "very rare",
-				"reqAttune": true,
-				"bonusWeapon": "+2",
-				"charges": "{@dice 1d8 + 1}",
-				"entries": [
-					"You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 Hitpoints, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
-				],
-				"lootTables": [
-					"Magic Item Table H"
-				]
-			},
-			"hasFluffImages": true
-		},
-		{
-			"name": "Nine Lives Stealer",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true
-				}
-			],
-			"inherits": {
-				"namePrefix": "Nine Lives Stealer ",
-				"source": "Guarda",
-				"page": 183,
-				"tier": "major",
-				"rarity": "very rare",
-				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 800000",
-				"bonusWeapon": "+2",
-				"charges": "{@dice 1d8 + 1}",
-				"entries": [
-					"You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-					"The sword has {@dice 1d8 + 1} charges. If you score a critical hit against a creature that has fewer than 100 Hitpoints, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
-					{
-						"type": "inset",
-						"name": "Sane Magic Item Pricing Note",
-						"entries": [
-							"The price is for a fully charged item."
-						]
-					}
-				],
-				"lootTables": [
-					"Magic Item Table H"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Nine Lives Stealer",
-					"source": "Guarda"
-				}
 			}
 		},
 		{
@@ -13120,41 +12705,6 @@
 			}
 		},
 		{
-			"name": "Sword of Sharpness",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true,
-					"dmgType": "S"
-				}
-			],
-			"inherits": {
-				"nameSuffix": " of Sharpness",
-				"source": "Guarda",
-				"page": 206,
-				"tier": "major",
-				"rarity": "very rare",
-				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 170000",
-				"entries": [
-					"When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.",
-					"When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another {@dice d20}. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off aportion of its body instead.",
-					"{@i Note: According to the SRD, it is an extra {@dice 4d6} slashing damage, although {@link this is incorrect|https://twitter.com/JeremyECrawford/status/949111823990534144}}.",
-					"In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light."
-				],
-				"lootTables": [
-					"Magic Item Table H"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Sword of Sharpness",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
 			"name": "Sword of Wounding",
 			"type": "GV",
 			"requires": [
@@ -13213,40 +12763,6 @@
 			"fluff": {
 				"_itemFluff": {
 					"name": "Vicious Weapon",
-					"source": "Guarda"
-				}
-			}
-		},
-		{
-			"name": "Vorpal Sword",
-			"type": "GV",
-			"requires": [
-				{
-					"sword": true,
-					"dmgType": "S"
-				}
-			],
-			"inherits": {
-				"namePrefix": "Vorpal ",
-				"source": "Guarda",
-				"page": 209,
-				"tier": "major",
-				"rarity": "legendary",
-				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 2400000",
-				"bonusWeapon": "+3",
-				"entries": [
-					"You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.",
-					"When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra {@dice 6d8} slashing damage from the hit."
-				],
-				"lootTables": [
-					"Magic Item Table I"
-				]
-			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Vorpal Sword",
 					"source": "Guarda"
 				}
 			}
