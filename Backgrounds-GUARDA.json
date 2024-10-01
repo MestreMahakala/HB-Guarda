@@ -16,7 +16,7 @@
 			}
 		],
 		"dateAdded": 1701443714,
-		"dateLastModified": 1701443799,
+		"dateLastModified": 1701443800,
 		"_dateLastModifiedHash": "3c9028610b"
 	},
 	"background": [
@@ -529,7 +529,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Thrown Arms Master|tdcsr": true               
+				"Thrown Arms Master [Talento de Background]|guarda": true               
 			},
 			{
 				"ritual caster|phb": true
@@ -554,7 +554,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Thrown Arms Master|tdcsr}, {@feat Ritual Caster} ou {@feat Actor [Talento de Background]|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Thrown Arms Master [Talento de Background]|GUARDA}, {@feat Ritual Caster} ou {@feat Actor [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -591,7 +591,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Thrown Arms Master|tdcsr": true               
+				"Thrown Arms Master [Talento de Background]|guarda": true               
 			},
 			{
 				"linguist [talento de background]|guarda": true
@@ -616,7 +616,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Thrown Arms Master|tdcsr}, {@feat Linguist [Talento de Background]|GUARDA} ou {@feat Durable [Talento de Background]|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Thrown Arms Master [Talento de Background]|GUARDA}, {@feat Linguist [Talento de Background]|GUARDA} ou {@feat Durable [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -1031,7 +1031,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Thrown Arms Master|tdcsr": true               
+				"Thrown Arms Master [Talento de Background]|guarda": true               
 			},
 			{
 				"linguist [talento de background]|guarda": true
@@ -1057,7 +1057,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Thrown Arms Master|tdcsr}, {@feat Linguist [Talento de Background]|GUARDA} ou {@feat dungeon delver}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Thrown Arms Master [Talento de Background]|GUARDA}, {@feat Linguist [Talento de Background]|GUARDA} ou {@feat dungeon delver}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -1288,7 +1288,7 @@
 				"Martial adept|phb": true
 			},
 			{
-				"Thrown Arms Master|tdcsr": true 
+				"Thrown Arms Master [Talento de Background]|guarda": true 
 			} 
 		],
 		"entries": [
@@ -1602,7 +1602,7 @@
 				"Servo Crafting |psk": true
 			},
 			{
-				"Thrown Arms Master|tdcsr": true 
+				"Thrown Arms Master [Talento de Background]|guarda": true 
 			} 
 		],
 		"entries": [
