@@ -16,7 +16,7 @@
 			}
 		],
 		"dateAdded": 1701443714,
-		"dateLastModified": 1701443794,
+		"dateLastModified": 1701443799,
 		"_dateLastModifiedHash": "3c9028610b"
 	},
 	"background": [
@@ -1623,7 +1623,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Poisoner|TCE} ou {@feat Tavern Brawler [Talento de Background]|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete [Talento de Background]|GUARDA}, {@feat Poisoner|TCE} ou {@feat Tavern Brawler [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
@@ -1659,7 +1659,7 @@
 		"source": "Guarda",
 		"feats": [
 			{
-				"Athlete|phb": true               
+				"Athlete [talento de background]|guarda": true               
 			},
 			{
 				"Poisoner|tce": true
@@ -1685,7 +1685,7 @@
 				"type": "entries",
 				"name": "Talento extra",
 				"entries": [
-					"Nesta variante, você poderá escolher entre as feats {@feat Athlete}, {@feat Poisoner|TCE} ou {@feat Tavern Brawler [Talento de Background]|GUARDA}.",					
+					"Nesta variante, você poderá escolher entre as feats {@feat Athlete [Talento de Background]|GUARDA}, {@feat Poisoner|TCE} ou {@feat Tavern Brawler [Talento de Background]|GUARDA}.",					
 					"G.U.A.R.D.A de Tenebris"
 				],
 				"data": {
