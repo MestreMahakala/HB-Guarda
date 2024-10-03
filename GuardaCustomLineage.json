@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223530,
+		"dateLastModified": 1695223532,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -336,7 +336,7 @@
 							},
 							"skillProficiencies": [
 								{
-									"Stealth": true
+									"stealth": true
 								}
 							]
 						}
@@ -359,7 +359,7 @@
 							},
 							"skillProficiencies": [
 								{
-									"Persuasion": true
+									"persuasion": true
 								}
 							]
 						}
