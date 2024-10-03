@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223515,
+		"dateLastModified": 1695223518,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -246,7 +246,7 @@
 		},
 		{
 			"name": "Ratling",
-			"source": "Guarda",
+			"source": "HB",
 			"page": 25,
 			"lineage": "VRGR",
 			"size": [
@@ -285,10 +285,10 @@
 					"type": "entries",
 					"name": "Onde cabe um, cabe dois",
 					"entries": [
-						"Você pode terminar seus turnos no mesmo espaço que criaturas aliadas, e viceversa, sem nenhuma penalidade. No máximo duas criaturas podem ficar no mesmo espaço por meio dessa habilidade."
+						"Você pode terminar seus turnos no mesmo espaço que criaturas aliadas, e vice-versa, sem nenhuma penalidade. No máximo duas criaturas podem ficar no mesmo espaço por meio dessa habilidade."
 					]
 				},
-			{
+				{
 					"type": "entries",
 					"name": "Descendência Roedora",
 					"entries": [
@@ -299,16 +299,16 @@
 								{
 									"type": "item",
 									"name": "Rato da Cidade",
-									"entry": "Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}"
+									"entry": "Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
 								},
 								{
 									"type": "item",
 									"name": "Camundongo",
-									"entry": "Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuation}."
+									"entry": "Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuasion}."
 								},
 								{
 									"type": "item",
-									"name": "Rato do Esgotos",
+									"name": "Rato do Esgoto",
 									"entry": "Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
 								}
 							],
@@ -322,70 +322,77 @@
 			"_versions": [
 				{
 					"name": "Rato da Cidade",
-					"source": "Guarda",
+					"source": "HB",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
 							"replace": "Descendência Roedora",
-							"items": {
-								"name": "Rato da Cidade",
-								"type": "entries",
-								"entries": [
-									"Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
-								]
-							},
-							"skillProficiencies": [
+							"items": [
 								{
-									"Stealth": true
+									"type": "entries",
+									"name": "Rato da Cidade",
+									"entries": [
+										"Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
+									]
 								}
 							]
-						}
+						},
+						"skillProficiencies": [
+							{
+								"Stealth": true
+							}
+						]
 					},
 					"swim": null
 				},
 				{
 					"name": "Camundongo",
-					"source": "Guarda",
+					"source": "MPMM",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
 							"replace": "Descendência Roedora",
-							"items": {
-								"name": "Camundongo",
-								"type": "entries",
-								"entries": [
-									"Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuation}."
-								]
-							},
-							"skillProficiencies": [
+							"items": [
 								{
-									"Persuation": true
+									"type": "entries",
+									"name": "Camundongo",
+									"entries": [
+										"Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuasion}."
+									]
 								}
 							]
-						}
+						},
+						"skillProficiencies": [
+							{
+								"Persuasion": true
+							}
+						]
 					},
 					"swim": null,
 					"climb": null
 				},
 				{
-					"name": "Camundongo",
-					"source": "Guarda",
+					"name": "Rato do Esgoto",
+					"source": "MPMM",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
 							"replace": "Descendência Roedora",
-							"items": {
-								"name": "Rato do Esgotos",
-								"type": "entries",
-								"entries": [
-									"Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
-								]
-							}							
-						}
+							"items": [
+								{
+									"type": "entries",
+									"name": "Rato do Esgoto",
+									"entries": [
+										"Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
+									]
+								}
+							]
+						}						
 					},
-					"swim": true
+					"swim": 30,
+					"climb": null
 				}
 			]
-		}
+		}				
 			]
 		}
