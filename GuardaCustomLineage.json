@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223539,
+		"dateLastModified": 1695223542,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -261,7 +261,7 @@
 			],
 			"skillProficiencies": [
 				{
-					"perception": true,
+					"persuasion": true,
 					"stealth": true
 				}
 			],
@@ -342,13 +342,13 @@
 							},
 							"skillProficiencies": [
 								{
-									"Stealth": true,
-									"Persuation": false
+									"stealth": true,
+									"persuasion": false
 								}
 							]
 						}
 					},
-					"swim": null
+					"swim": false
 				},
 				{
 					"name": "Camundongo",
@@ -366,14 +366,14 @@
 							},
 							"skillProficiencies": [
 								{
-									"Persuasion": true,
-									"Stealth": false									
+									"persuasion": true,
+									"stealth": false									
 								}
 							]
 						}
 					},
-					"swim": null,
-					"climb": null
+					"swim": false,
+					"climb": false
 				},
 				{
 					"name": "Rato dos Esgotos",
