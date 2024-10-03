@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223506,
+		"dateLastModified": 1695223509,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -241,6 +241,149 @@
 						}
 					},
 					"darkvision": null
+				}
+			]
+		},
+		{
+			"name": "Ratling",
+			"source": "HB",
+			"page": 25,
+			"lineage": "VRGR",
+			"size": [
+				"S"
+			],
+			"speed": 30,
+			"climb": true,
+			"swim": true,
+			"darkvision": 60,
+			"traitTags": [
+				"Natural Weapon"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Mordida",
+					"entries": [
+						"Você possui uma arma natural na forma de uma mordida, que causa 1d6 de dano perfurante. Quando usada para atacar objetos o dano pode ser considerado cortante para fins de imunidade e resistência, além de ser dobrado contra objetos mundanos."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Olfato Aguçado",
+					"entries": [
+						"Você tem vantagem em testes de Sabedoria (Percepção) que dependem do olfato."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visão no Escuro",
+					"entries": [
+						"Você tem visão no escuro de 60 pés"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Onde cabe um, cabe dois",
+					"entries": [
+						"Você pode terminar seus turnos no mesmo espaço que criaturas aliadas, e viceversa, sem nenhuma penalidade. No máximo duas criaturas podem ficar no mesmo espaço por meio dessa habilidade."
+					]
+				},
+			{
+					"type": "entries",
+					"name": "Descendência Roedora",
+					"entries": [
+						"Escolha uma das seguintes opções:",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Rato da Cidade",
+									"entry": "Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}"
+								},
+								{
+									"type": "item",
+									"name": "Camundongo",
+									"entry": "Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuation}."
+								},
+								{
+									"type": "item",
+									"name": "Rato do Esgotos",
+									"entry": "Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
+								}
+							],
+							"style": "list-hang-notitle"
+						}
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true,
+			"_versions": [
+				{
+					"name": "Rato da Cidade",
+					"source": "HB",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Descendência Roedora",
+							"items": {
+								"name": "Rato da Cidade",
+								"type": "entries",
+								"entries": [
+									"Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
+								]
+							},
+							"skillProficiencies": [
+								{
+									"Stealth": true
+								}
+							]
+						}
+					},
+					"swim": null
+				},
+				{
+					"name": "Camundongo",
+					"source": "MPMM",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Descendência Roedora",
+							"items": {
+								"name": "Camundongo",
+								"type": "entries",
+								"entries": [
+									"Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuation}."
+								]
+							},
+							"skillProficiencies": [
+								{
+									"Persuation": true
+								}
+							]
+						}
+					},
+					"swim": null,
+					"climb": null
+				},
+				{
+					"name": "Camundongo",
+					"source": "MPMM",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Descendência Roedora",
+							"items": {
+								"name": "Rato do Esgotos",
+								"type": "entries",
+								"entries": [
+									"Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
+								]
+							},
+							"swim": null
+						}
+					}
 				}
 			]
 		}
