@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223545,
+		"dateLastModified": 1695223549,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -363,11 +363,14 @@
 									"Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuasion}."
 								]
 							},
-							"skillProficiencies": [
-								{
-									"stealth": null								
-								}
-							]
+							"skillProficiencies": null,
+							"overwrite": {
+								"skillProficiencies": [
+										{
+											"persuasion": true								
+										}
+									]
+							}
 						}
 					},
 					"swim": null,
