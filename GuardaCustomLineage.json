@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223512,
+		"dateLastModified": 1695223515,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -246,7 +246,7 @@
 		},
 		{
 			"name": "Ratling",
-			"source": "HB",
+			"source": "Guarda",
 			"page": 25,
 			"lineage": "VRGR",
 			"size": [
@@ -380,10 +380,10 @@
 								"entries": [
 									"Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
 								]
-							},
-							"swim": true
+							}							
 						}
-					}
+					},
+					"swim": true
 				}
 			]
 		}
