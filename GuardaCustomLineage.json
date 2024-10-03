@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223532,
+		"dateLastModified": 1695223535,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -259,6 +259,12 @@
 			"traitTags": [
 				"Natural Weapon"
 			],
+			"skillProficiencies": [
+				{
+					"perception": true,
+					"stealth": true
+				}
+			],
 			"entries": [
 				{
 					"type": "entries",
@@ -336,7 +342,8 @@
 							},
 							"skillProficiencies": [
 								{
-									"stealth": true
+									"Stealth": true,
+									"Persuation": false
 								}
 							]
 						}
@@ -359,7 +366,8 @@
 							},
 							"skillProficiencies": [
 								{
-									"persuasion": true
+									"Persuasion": true,
+									"Stealth": false									
 								}
 							]
 						}
@@ -386,6 +394,7 @@
 					"swim": 30
 				}
 			]
-		}	
+		}
+	
 			]
 		}
