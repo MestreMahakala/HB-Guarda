@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223535,
+		"dateLastModified": 1695223537,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -246,7 +246,7 @@
 		},
 		{
 			"name": "Ratling",
-			"source": "HB",
+			"source": "Guarda",
 			"page": 25,
 			"lineage": "VRGR",
 			"size": [
@@ -328,7 +328,7 @@
 			"_versions": [
 				{
 					"name": "Rato da Cidade",
-					"source": "HB",
+					"source": "Guarda",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
