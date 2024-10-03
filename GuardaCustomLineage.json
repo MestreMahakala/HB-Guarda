@@ -37,7 +37,7 @@
 		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223526,
+		"dateLastModified": 1695223529,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -332,6 +332,29 @@
 								"type": "entries",
 								"entries": [
 									"Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
+								]
+							},
+							"skillProficiencies": [
+								{
+									"Stealth": true
+								}
+							]
+						}
+					},
+					"swim": null
+				},
+				{
+					"name": "Gostoso do krl",
+					"source": "HB",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Descendência Roedora",
+							"items": {
+								"name": "Gostosão",
+								"type": "entries",
+								"entries": [
+									"Teste do gostoso Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
 								]
 							},
 							"skillProficiencies": [
