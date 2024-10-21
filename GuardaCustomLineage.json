@@ -9,35 +9,14 @@
 					"Mahakala"
 				],
 				"convertedBy": [
-					"Mahakala"			
+					"Mahakala"
 				],
-				"version": "1.0",
-				"targetSchema": "1.0.0"
+				"version": "1.0"
 			}
 		],
-		"dependencies": {
-			"item": [
-				"DMG",
-				"TCE",
-				"GGR",
-				"PHB"
-			],
-			"itemGroup": [
-				"DMG",
-				"TCE",
-				"GGR",
-				"PHB"
-			],
-			"itemFluff": [
-				"DMG",
-				"TCE",
-				"GGR",
-				"PHB"
-			]
-		},
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223561,
+		"dateLastModified": 1695223558,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -68,7 +47,7 @@
 						"amount": 2
 					}
 				}
-			],			
+			],
 			"feats": [
 				{
 					"any": 1
@@ -252,9 +231,11 @@
 			"size": [
 				"S"
 			],
-			"speed": 30,
-			"climb": true,
-			"swim": true,
+			"speed": {
+				"walk": 30,
+				"swim": 30,
+				"climb": 30
+			},
 			"darkvision": 60,
 			"traitTags": [
 				"Natural Weapon"
@@ -294,7 +275,7 @@
 						"Você pode terminar seus turnos no mesmo espaço que criaturas aliadas, e viceversa, sem nenhuma penalidade. No máximo duas criaturas podem ficar no mesmo espaço por meio dessa habilidade."
 					]
 				},
-			{
+				{
 					"type": "entries",
 					"name": "Descendência Roedora",
 					"entries": [
@@ -339,18 +320,21 @@
 								"entries": [
 									"Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
 								]
-							},
-							"skillProficiencies": [
-								{
-									"persuasion": null
-								}
-							]
+							}
 						}
 					},
-					"swim": null
+					"speed": {
+						"walk": 30,
+						"climb": 30
+					},
+					"skillProficiencies": [
+						{
+							"stealth": true
+						}
+					]
 				},
 				{
-					"name": "Camundongo",
+					"name": "Camundongo 2",
 					"source": "Guarda",
 					"_mod": {
 						"entries": {
@@ -362,19 +346,15 @@
 								"entries": [
 									"Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuasion}."
 								]
-							},
-							"skillProficiencies": null,
-							"overwrite": {
-								"skillProficiencies": [
-										{
-											"persuasion": true								
-										}
-									]
 							}
 						}
 					},
-					"swim": null,
-					"climb": null
+					"speed": 30,
+					"skillProficiencies": [
+						{
+							"persuasion": true
+						}
+					]
 				},
 				{
 					"name": "Rato dos Esgotos",
@@ -392,10 +372,12 @@
 							}
 						}
 					},
-					"swim": 30
+					"speed": {
+						"walk": 30,
+						"swim": 30
+					}
 				}
 			]
 		}
-	
-			]
-		}
+	]
+}
