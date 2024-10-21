@@ -16,7 +16,7 @@
 		],
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223558,
+		"dateLastModified": 1695223559,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -334,7 +334,7 @@
 					]
 				},
 				{
-					"name": "Camundongo 2",
+					"name": "Camundongo",
 					"source": "Guarda",
 					"_mod": {
 						"entries": {
