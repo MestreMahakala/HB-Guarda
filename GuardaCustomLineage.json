@@ -16,7 +16,7 @@
 		],
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223559,
+		"dateLastModified": 1695223561,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -334,7 +334,7 @@
 					]
 				},
 				{
-					"name": "Camundongo",
+					"name": "Camundongo 2",
 					"source": "Guarda",
 					"_mod": {
 						"entries": {
@@ -378,6 +378,73 @@
 					}
 				}
 			]
+		},
+		{
+			"name": "Elfo (Avariel)",
+			"source": "HB",
+			"page": 5,
+			"lineage": "VRGR",
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"fly": true
+			},
+			"darkvision": 60,
+			
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"Insight",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Asas",
+					"entries": [
+						"Você tem um par de asas que lhe concedem uma velocidade de voo igual à sua velocidade de caminhada, exceto se estiver usando armadura média ou pesada. Largas e emplumadas, elas podem atingir até 10 pés quando totalmente estendidas."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Transe",
+					"entries": [
+						"Você não precisa dormir, e magia não pode fazer você dormir. Você pode terminar um Long Rest em 4 horas se passar essas horas em uma meditação semelhante a um transe, durante a qual você retém a consciência."
+
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ancestralidade feérica",
+					"entries": [
+						"Você tem Vantagem em testes de resistência que faz para evitar ou terminar a condição Charmed"
+
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visão no Escuro",
+					"entries": [
+						"Você tem Visão no escuro com um alcance de 60 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sentidos Aguçados",
+					"entries": [
+						"Você tem proficiência na perícia Insight, Perception ou Survival."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
 		}
 	]
 }
