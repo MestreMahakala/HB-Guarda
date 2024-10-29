@@ -16,7 +16,7 @@
 		],
 		"status": "ready",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223561,
+		"dateLastModified": 1695223566,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -381,7 +381,7 @@
 		},
 		{
 			"name": "Elfo (Avariel)",
-			"source": "HB",
+			"source": "GUARDA",
 			"page": 5,
 			"lineage": "VRGR",
 			"size": [
