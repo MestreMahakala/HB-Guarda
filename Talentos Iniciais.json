@@ -1,0 +1,2443 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "Guarda",
+                "abbreviation": "GUARDA",
+                "full": "G.U.A.R.D.A de Tenebris",
+                "authors": [
+                    "Mahakala"
+                ],
+                "convertedBy": [
+                    "Mahakala"
+                ],
+                "version": "1.0"
+            }
+        ],
+        "status": "ready",
+        "dateAdded": 1608050554,
+        "dateLastModified": 1695223566,
+        "_dateLastModifiedHash": "b6b795e6fb"
+    },
+    "feat": [
+{
+    "name": "Scion of the Outer Planes [Inicial]",
+    "source": "Guarda",
+    "page": 12,
+    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "wis",
+                        "cha"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "wis",
+                        "cha"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+	"category": "O",
+    "resist": [
+        {
+            "choose": {
+                "from": [
+                    "poison",
+                    "necrotic",
+                    "radiant",
+                    "force",
+                    "psychic"
+                ]
+            }
+        }
+    ],
+    "additionalSpells": [
+        {
+            "name": "Chaotic Outer Plane",
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "minor illusion#c"
+                ]
+            }
+        },
+        {
+            "name": "Evil Outer Plane",
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "chill touch#c"
+                ]
+            }
+        },
+        {
+            "name": "Good Outer Plane",
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "sacred flame#c"
+                ]
+            }
+        },
+        {
+            "name": "Lawful Outer Plane",
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "guidance#c"
+                ]
+            }
+        },
+        {
+            "name": "The Outlands",
+            "ability": {
+                "choose": [
+                    "int",
+                    "wis",
+                    "cha"
+                ]
+            },
+            "known": {
+                "_": [
+                    "mage hand#c"
+                ]
+            }
+        }
+    ],
+    "entries": [
+        "Your connection to an Outer Plane infuses you with the energy there. Choose a type of plane listed in the Planar Infusion table. Your choice gives you resistance to a damage type and the ability to cast a cantrip, as specified in the table. You can cast this cantrip without material components, and your spellcasting ability for it is Intelligence, Wisdom, or Charisma (choose when you select this feat).",
+        {
+            "type": "table",
+            "colStyles": [
+                "col-4",
+                "col-4",
+                "col-4"
+            ],
+            "colLabels": [
+                "Plane",
+                "Damage Resistance",
+                "Cantrip"
+            ],
+            "rows": [
+                [
+                    "Chaotic Outer Plane",
+                    "Poison",
+                    "{@spell Minor illusion}"
+                ],
+                [
+                    "Evil Outer Plane",
+                    "Necrotic",
+                    "{@spell Chill touch}"
+                ],
+                [
+                    "Good Outer Plane",
+                    "Radiant",
+                    "{@spell Sacred flame}"
+                ],
+                [
+                    "Lawful Outer Plane",
+                    "Force",
+                    "{@spell Guidance}"
+                ],
+                [
+                    "The Outlands",
+                    "Psychic",
+                    "{@spell Mage hand}"
+                ]
+            ]
+        }
+    ]
+},
+        {
+			"name": "Squire of Solamnia [Inicial]",
+			"source": "Guarda",
+			"page": 34,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "cha"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "cha"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+	"category": "O",
+			"entries": [
+				"Your training in the ways of the Knights of Solamnia grants you these benefits:",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Mount Up",
+							"entries": [
+								"Mounting or dismounting costs you only 5 feet of movement."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Precise Strike",
+							"entries": [
+								"Once per turn, when you make a weapon attack roll against a creature, you can cause the attack roll to have advantage. If the attack hits, you roll a {@dice d8} and add the number rolled as a bonus to the attack's damage roll. You can use this benefit a number of times equal to your proficiency bonus, but a use is expended only if the attack hits. You regain all expended uses when you finish a long rest."
+							]
+						}
+					]
+				},
+				{
+					"type": "inset",
+					"name": "Membership in Knightly Orders",
+					"entries": [
+						"Knights of Solamnia are only ever members of one of their organization's orders. In the course of their training, most knights begin as members of the Knights of the Crown and then move on to join other orders. Whether a character follows this path or another, they retain what they learned as a member of an order even if they join another. Characters can change what knightly order they're a part of, but they always have access to any Knight of Solamnia feats they've acquired."
+					]
+				}
+			]
+		},
+		{
+			"name": "Initiate of High Sorcery [Inicial]",
+			"source": "Guarda",
+			"page": 32,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "int",
+                        "cha"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "int",
+                        "cha"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+	"category": "O",
+			"additionalSpells": [
+				{
+					"name": "Nuitari",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							{
+								"choose": "level=0|class=Wizard"
+							}
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1e": [
+									{
+										"choose": {
+											"from": [
+												"dissonant whispers",
+												"false life",
+												"hex",
+												"ray of sickness"
+											],
+											"count": 2
+										}
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Lunitari",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							{
+								"choose": "level=0|class=Wizard"
+							}
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1e": [
+									{
+										"choose": {
+											"from": [
+												"color spray",
+												"disguise self",
+												"feather fall",
+												"longstrider"
+											],
+											"count": 2
+										}
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Solinari",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							{
+								"choose": "level=0|class=Wizard"
+							}
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1e": [
+									{
+										"choose": {
+											"from": [
+												"comprehend languages",
+												"detect evil and good",
+												"protection from evil and good",
+												"shield"
+											],
+											"count": 2
+										}
+									}
+								]
+							}
+						}
+					}
+				}
+			],
+			"entries": [
+				"You've received training from magic-users affiliated with the Mages of High Sorcery.",
+				"Choose one of the three moons of Krynn to influence your magic: the black moon, Nuitari; the red moon, Lunitari; or the white moon, Solinari. You learn one cantrip of your choice from the wizard spell list and two 1st-level spells based on the moon you choose, as specified in the Lunar Spells table.",
+				{
+					"type": "table",
+					"caption": "Lunar Spells",
+					"colLabels": [
+						"Moon",
+						"1st-Level Spell"
+					],
+					"colStyles": [
+						"col-1",
+						"col-11"
+					],
+					"rows": [
+						[
+							"Nuitari",
+							"Choose two from {@spell dissonant whispers}, {@spell false life}, {@spell hex}, and {@spell ray of sickness}"
+						],
+						[
+							"Lunitari",
+							"Choose two from {@spell color spray}, {@spell disguise self}, {@spell feather fall}, and {@spell longstrider}"
+						],
+						[
+							"Solinari",
+							"Choose two from {@spell comprehend languages}, {@spell detect evil and good}, {@spell protection from evil and good}, and {@spell shield}"
+						]
+					]
+				},
+				"You can cast each of the chosen 1st-level spells without a spell slot, and you must finish a long rest before you can cast them in this way again. You can also cast the spells using any spell slots you have.",
+				"Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Charisma (choose when you select this feat)."
+			],
+			"hasFluffImages": true
+        },
+        {
+			"name": "Rune Shaper [Inicial]",
+			"source": "Guarda",
+			"page": 18,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "wis",
+                        "int"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "wis",
+                        "int"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+	"category": "O",
+			"additionalSpells": [
+				{
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									"comprehend languages"
+								]
+							}
+						}
+					}
+				}
+			],
+			"entries": [
+				"You've studied the magic of Giant runes, granting you the following benefits:",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Comprehend Languages",
+							"entries": [
+								"You learn the {@spell comprehend languages} spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have."
+							]
+						},
+						{
+							"type": "item",
+							"name": "Rune Magic",
+							"entries": [
+								"You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.",
+								"You can also invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending a spell slot or using material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Your spellcasting ability for this feat is Intelligence, Wisdom, or Charisma (choose when you select this feat).",
+								"Each time you gain a level, you can replace one of the runes you know with another one from the Rune Spells table.",
+								{
+									"type": "table",
+									"colStyles": [
+										"col-2",
+										"col-10"
+									],
+									"colLabels": [
+										"Rune",
+										"Spell"
+									],
+									"rows": [
+										[
+											"Cloud",
+											"{@spell Fog cloud}"
+										],
+										[
+											"Death",
+											"{@spell Inflict wounds}"
+										],
+										[
+											"Dragon",
+											"{@spell Chromatic orb}"
+										],
+										[
+											"Enemy",
+											"{@spell Disguise self}"
+										],
+										[
+											"Fire",
+											"{@spell Burning hands}"
+										],
+										[
+											"Friend",
+											"{@spell Speak with animals}"
+										],
+										[
+											"Frost",
+											"{@spell Armor of Agathys}"
+										],
+										[
+											"Hill",
+											"{@spell Goodberry}"
+										],
+										[
+											"Journey",
+											"{@spell Longstrider}"
+										],
+										[
+											"King",
+											"{@spell Command}"
+										],
+										[
+											"Mountain",
+											"{@spell Entangle}"
+										],
+										[
+											"Stone",
+											"{@spell Sanctuary}"
+										],
+										[
+											"Storm",
+											"{@spell Thunderwave}"
+										]
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+        },
+		{
+			"name": "Strike of the Giants [Inicial]",
+			"source": "Guarda",
+			"page": 19,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "con"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "con"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+	"category": "O",
+			"entries": [
+				"You have absorbed primeval magic that gives you an echo of the might of giants. When you take this feat, choose one of the benefits listed below. Once per turn, when you hit a target with a melee weapon attack or a ranged weapon attack using a thrown weapon, you can imbue the attack with an additional effect depending on the benefit you chose:",
+				{
+					"type": "entries",
+					"name": "Cloud Strike",
+					"entries": [
+						"The target takes an extra {@damage 1d4} thunder damage. If the target is a creature, it must succeed on a Wisdom saving throw, or you become invisible to it until the start of your next turn or until immediately after you make an attack roll or cast a spell."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Fire Strike",
+					"entries": [
+						"The target takes an extra {@damage 1d10} fire damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Frost Strike",
+					"entries": [
+						"The target takes an extra {@damage 1d6} cold damage. If the target is a creature, it must succeed on a Constitution saving throw, or its speed is reduced to 0 until the start of your next turn."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Hill Strike",
+					"entries": [
+						"The target takes an extra {@damage 1d6} damage of the weapon's type. If the target is a creature, it must succeed on a Strength saving throw or have the prone condition."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Stone Strike",
+					"entries": [
+						"The target takes an extra {@damage 1d6} force damage. If the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet from you in a straight line."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Storm Strike",
+					"entries": [
+						"The target takes an extra {@damage 1d6} lightning damage. If the target is a creature, it must succeed on a Constitution saving throw, or it has disadvantage on attack rolls until the start of your next turn.",
+						"The saving throw DC for these effects equals 8 + your proficiency bonus + your Strength or Constitution modifier.",
+						"You can use this feat a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+					]
+				}
+			]
+        },
+		{
+			"name": "Strixhaven Initiate [Inicial]",
+			"source": "Guarda",
+			"page": 36,
+    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "int",
+                        "wis",
+                        "cha"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "int",
+                        "wis",
+                        "cha"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+	"category": "O",
+			"additionalSpells": [
+				{
+					"name": "Lorehold 1",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"light#c",
+							"sacred flame#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=cleric;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Lorehold 2",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"light#c",
+							"thaumaturgy#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=cleric;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Lorehold 3",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"sacred flame#c",
+							"thaumaturgy#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=cleric;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Prismari 1",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"fire bolt#c",
+							"prestidigitation#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=bard;sorcerer"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Prismari 2",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"fire bolt#c",
+							"ray of frost#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=bard;sorcerer"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Prismari 3",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"prestidigitation#c",
+							"ray of frost#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=bard;sorcerer"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Quandrix 1",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"druidcraft#c",
+							"guidance#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=druid;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Quandrix 2",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"druidcraft#c",
+							"mage hand#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=druid;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Quandrix 3",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"guidance#c",
+							"mage hand#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=druid;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Silverquill 1",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"sacred flame#c",
+							"thaumaturgy#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=bard;cleric"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Silverquill 2",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"sacred flame#c",
+							"vicious mockery#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=bard;cleric"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Silverquill 3",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"thaumaturgy#c",
+							"vicious mockery#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=bard;cleric"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Witherbloom 1",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"chill touch#c",
+							"druidcraft#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=druid;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Witherbloom 2",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"chill touch#c",
+							"spare the dying#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=druid;wizard"
+									}
+								]
+							}
+						}
+					}
+				},
+				{
+					"name": "Witherbloom 3",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"known": {
+						"_": [
+							"druidcraft#c",
+							"spare the dying#c"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=druid;wizard"
+									}
+								]
+							}
+						}
+					}
+				}
+			],
+			"entries": [
+				"You have studied some magical theory and have learned a few spells associated with Strixhaven University.",
+				"Choose one of Strixhaven's colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom. You learn two cantrips and one 1st-level spell based on the college you choose, as specified in the Strixhaven Spells table.",
+				"You can cast the chosen 1st-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have.",
+				"Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Charisma (choose when you select this feat).",
+				{
+					"type": "table",
+					"caption": "Strixhaven Spells",
+					"colLabels": [
+						"College",
+						"Cantrips",
+						"1st-Level Spell"
+					],
+					"colStyles": [
+						"col-2",
+						"col-5",
+						"col-5"
+					],
+					"rows": [
+						[
+							"Lorehold",
+							"Choose two from {@spell light}, {@spell sacred flame}, and {@spell thaumaturgy}.",
+							"Choose one 1st-level {@filter cleric or wizard spell|spells|level=1|class=cleric;wizard}."
+						],
+						[
+							"Prismari",
+							"Choose two from {@spell fire bolt}, {@spell prestidigitation}, and {@spell ray of frost}.",
+							"Choose one 1st-level {@filter bard or sorcerer spell|spells|level=1|class=bard;sorcerer}."
+						],
+						[
+							"Quandrix",
+							"Choose two from {@spell druidcraft}, {@spell guidance}, and {@spell mage hand}.",
+							"Choose one 1st-level {@filter druid or wizard spell|spells|level=1|class=druid;wizard}."
+						],
+						[
+							"Silverquill",
+							"Choose two from {@spell sacred flame}, {@spell thaumaturgy}, and {@spell vicious mockery}.",
+							"Choose one 1st-level {@filter bard or cleric spell|spells|level=1|class=bard;cleric}."
+						],
+						[
+							"Witherbloom",
+							"Choose two from {@spell chill touch}, {@spell druidcraft}, and {@spell spare the dying}.",
+							"Choose one 1st-level {@filter druid or wizard spell|spells|level=1|class=druid;wizard}."
+						]
+					]
+				}
+			]
+        },
+		{
+			"name": "Tough [Inicial]",
+			"source": "Guarda",
+			"page": 202,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"con",
+								"wis"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"con",
+								"wis"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"category": "O",
+			"entries": [
+				"Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points."
+			]
+        },
+			{
+			"name": "Tavern Brawler [Inicial]",
+			"source": "Guarda",
+			"page": 170,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "wis"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "wis"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+    "category": "O",
+    "entries": [
+        "Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:",
+        {
+            "type": "list",
+            "items": [
+                "You are proficient with improvised weapons.",
+                "Your unarmed strike uses a {@damage d4} for damage.",
+                "When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target."
+            ]
+        }
+			]
+        },
+			{
+			"name": "Skilled (Dex, con wis) [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "dex",
+                        "con",
+                        "wis"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "dex",
+                        "con",
+                        "wis"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+			"freeRules2024": true,
+			"category": "O",
+			"repeatable": true,
+			"skillToolLanguageProficiencies": [
+				{
+					"choose": [
+						{
+							"from": [
+								"anySkill",
+								"anyTool"
+							],
+							"count": 3
+						}
+					]
+				}
+			],
+			"entries": [
+				"You gain proficiency in any combination of three {@table Skill List; Skills|XPHB|skills} or {@filter tools|items|type=tools;artisan's tools;instrument;gaming set;vehicle (land);vehicle (water)} of your choice.",
+				{
+					"type": "entries",
+					"name": "Repeatable",
+					"entries": [
+						"You can take this feat more than once."
+					]
+				}
+			]
+		},
+	    		{
+			"name": "Skilled (str, int, cha) [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "int",
+                        "cha"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "int",
+                        "cha"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+			"freeRules2024": true,
+			"category": "O",
+			"repeatable": true,
+			"skillToolLanguageProficiencies": [
+				{
+					"choose": [
+						{
+							"from": [
+								"anySkill",
+								"anyTool"
+							],
+							"count": 3
+						}
+					]
+				}
+			],
+			"entries": [
+				"You gain proficiency in any combination of three {@table Skill List; Skills|XPHB|skills} or {@filter tools|items|type=tools;artisan's tools;instrument;gaming set;vehicle (land);vehicle (water)} of your choice.",
+				{
+					"type": "entries",
+					"name": "Repeatable",
+					"entries": [
+						"You can take this feat more than once."
+					]
+				}
+			]
+		},  
+	    		{
+			"name": "Savage Attacker [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "con"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "con"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+			"freeRules2024": true,
+			"category": "O",
+			"entries": [
+				"You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target."
+			]
+		},
+	            {
+			"name": "Musician [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "cha"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "str",
+                        "dex",
+                        "cha"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+			"category": "O",
+			"toolProficiencies": [
+				{
+					"anyMusicalInstrument": 3
+				}
+			],
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Instrument Training",
+					"entries": [
+						"You gain proficiency with three Musical Instruments of your choice."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Encouraging Song",
+					"entries": [
+						"As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus."
+					]
+				}
+			]
+		},
+	        {
+			"name": "Magic Initiate (wizard) [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			    "ability": [
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "wis",
+                        "int"
+                    ],
+                    "weights": [
+                        2,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "choose": {
+                "weighted": {
+                    "from": [
+                        "con",
+                        "wis",
+                        "int"
+                    ],
+                    "weights": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+			"freeRules2024": true,
+			"category": "O",
+			"repeatable": true,
+			"additionalSpells": [
+				{
+					"name": "Wizard Spells",
+					"ability": "int",
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=Wizard"
+									}
+								]
+							}
+						}
+					},
+					"known": {
+						"_": [
+							{
+								"choose": "level=0|class=Wizard",
+								"count": 2
+							}
+						]
+					}
+				}
+			],
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Two Cantrips",
+					"entries": [
+						"You learn two cantrips of your choice from the {@filter Wizard|spells|level=0;1|class=Wizard} spell list. spell list choose Wisdom, inteligence or charisma is your spellcasting ability for this feat's spells."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Level 1 Spell",
+					"entries": [
+						"Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spell Change",
+					"entries": [
+						"Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Repeatable",
+					"entries": [
+						"You can take this feat more than once, but you must choose a different spell list each time."
+					]
+				}
+			],
+			"_versions": [
+
+				{
+					"name": "Magic Initiate; Wizard [Inicial]",
+					"source": "XPHB",
+					"_mod": {
+						"entries": [
+							{
+								"mode": "replaceArr",
+								"replace": "Two Cantrips",
+								"items": {
+									"name": "Two Cantrips",
+									"entries": [
+										"You learn two cantrips of your choice from the {@filter Wizard|spells|level=0;1|class=Wizard} spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)."
+									]
+								}
+							},
+							{
+								"mode": "replaceArr",
+								"replace": "Level 1 Spell",
+								"items": {
+									"name": "Level 1 Spell",
+									"entries": [
+										"Choose a level 1 spell from the {@filter Wizard|spells|level=0;1|class=Wizard} spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have."
+									]
+								}
+							}
+						]
+					},
+					"additionalSpells": [
+						{
+							"ability": {
+								"choose": [
+									"int",
+									"wis",
+									"cha"
+								]
+							},
+							"innate": {
+								"_": {
+									"daily": {
+										"1": [
+											{
+												"choose": "level=1|class=Wizard"
+											}
+										]
+									}
+								}
+							},
+							"known": {
+								"_": [
+									{
+										"choose": "level=0|class=Wizard",
+										"count": 2
+									}
+								]
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Magic Initiate (Druid) [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"con",
+								"wis"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"con",
+								"wis"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"freeRules2024": true,
+			"category": "O",
+			"repeatable": true,
+			"additionalSpells": [
+				{
+					"name": "Druid Spells",
+					"ability": {
+						"choose": [
+							"int",
+							"wis",
+							"cha"
+						]
+					},
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=Druid"
+									}
+								]
+							}
+						}
+					},
+					"known": {
+						"_": [
+							{
+								"choose": "level=0|class=Druid",
+								"count": 2
+							}
+						]
+					}
+				}
+			],
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Two Cantrips",
+					"entries": [
+						"You learn two cantrips of your choice from the, {@filter Druid|spells|level=0;1|class=Druid} spell list choose Wisdom, inteligence or charisma is your spellcasting ability for this feat's spells."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Level 1 Spell",
+					"entries": [
+						"Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spell Change",
+					"entries": [
+						"Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Repeatable",
+					"entries": [
+						"You can take this feat more than once, but you must choose a different spell list each time."
+					]
+				}
+			],
+			"_versions": [
+				{
+					"name": "Magic Initiate; Druid",
+					"source": "XPHB",
+					"_mod": {
+						"entries": [
+							{
+								"mode": "replaceArr",
+								"replace": "Two Cantrips",
+								"items": {
+									"name": "Two Cantrips",
+									"entries": [
+										"You learn two cantrips of your choice from the {@filter Druid|spells|level=0;1|class=Druid} spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)."
+									]
+								}
+							},
+							{
+								"mode": "replaceArr",
+								"replace": "Level 1 Spell",
+								"items": {
+									"name": "Level 1 Spell",
+									"entries": [
+										"Choose a level 1 spell from the {@filter Druid|spells|level=0;1|class=Druid} spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have."
+									]
+								}
+							}
+						]
+					},
+					"additionalSpells": [
+						{
+							"ability": {
+								"choose": [
+									"int",
+									"wis",
+									"cha"
+								]
+							},
+							"innate": {
+								"_": {
+									"daily": {
+										"1": [
+											{
+												"choose": "level=1|class=Druid"
+											}
+										]
+									}
+								}
+							},
+							"known": {
+								"_": [
+									{
+										"choose": "level=0|class=Druid",
+										"count": 2
+									}
+								]
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Magic Initiate (Cleric) [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Two Cantrips",
+					"entries": [
+						"You learn two cantrips of your choice from the {@filter Cleric|spells|level=0;1|class=Cleric}. Wisdom is your spellcasting ability for this feat's spells."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Level 1 Spell",
+					"entries": [
+						"Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spell Change",
+					"entries": [
+						"Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Repeatable",
+					"entries": [
+						"You can take this feat more than once, but you must choose a different spell list each time."
+					]
+				}
+			],
+			"_versions": [
+				{
+					"name": "Magic Initiate; Cleric [Inicial]",
+					"source": "XPHB",
+					"_mod": {
+						"entries": [
+							{
+								"mode": "replaceArr",
+								"replace": "Two Cantrips",
+								"items": {
+									"name": "Two Cantrips",
+									"entries": [
+										"You learn two cantrips of your choice from the {@filter Cleric|spells|level=0;1|class=Cleric} spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)."
+									]
+								}
+							},
+							{
+								"mode": "replaceArr",
+								"replace": "Level 1 Spell",
+								"items": {
+									"name": "Level 1 Spell",
+									"entries": [
+										"Choose a level 1 spell from the {@filter Cleric|spells|level=0;1|class=Cleric} spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have."
+									]
+								}
+							}
+						]
+					},
+					"additionalSpells": [
+						{
+							"ability": {
+								"choose": [
+									"int",
+									"wis",
+									"cha"
+								]
+							},
+							"innate": {
+								"_": {
+									"daily": {
+										"1": [
+											{
+												"choose": "level=1|class=Cleric"
+											}
+										]
+									}
+								}
+							},
+							"known": {
+								"_": [
+									{
+										"choose": "level=0|class=Cleric",
+										"count": 2
+									}
+								]
+							}
+						}
+					]
+				}
+			]
+		},
+        {
+			"name": "Lucky (Con, Int, Cha) [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"con",
+								"int",
+								"cha"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"con",
+								"int",
+								"cha"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"category": "O",
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Luck Points",
+					"entries": [
+						"You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Advantage",
+					"entries": [
+						"When you roll a {@dice d20} for a {@variantrule D20 Test|XPHB}, you can spend 1 Luck Point to give yourself Advantage on the roll."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Disadvantage",
+					"entries": [
+						"When a creature rolls a {@dice d20} for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll."
+					]
+				}
+			]
+		},
+        {
+			"name": "Lucky (dex, wis, cha) [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"category": "O",
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Luck Points",
+					"entries": [
+						"You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Advantage",
+					"entries": [
+						"When you roll a {@dice d20} for a {@variantrule D20 Test|XPHB}, you can spend 1 Luck Point to give yourself Advantage on the roll."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Disadvantage",
+					"entries": [
+						"When a creature rolls a {@dice d20} for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll."
+					]
+				}
+			]
+		},
+        {
+			"name": "Healer [Inicial]",
+			"source": "Guarda",
+			"page": 201,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"con",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"con",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"category": "O",
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Battle Medic",
+					"entries": [
+						"If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a {@action Utilize|XPHB} action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Healing Rerolls",
+					"entries": [
+						"Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll."
+					]
+				}
+			],
+			"hasFluffImages": true
+		},
+        {
+			"name": "Crafter [Inicial]",
+			"source": "Guarda",
+			"page": 200,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"int"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"int"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"category": "O",
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"carpenter's tools",
+							"leatherworker's tools",
+							"mason's tools",
+							"potter's tools",
+							"smith's tools",
+							"tinker's tools",
+							"weaver's tools",
+							"woodcarver's tools"
+						],
+						"count": 3
+					}
+				}
+			],
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Tool Proficiency",
+					"entries": [
+						"You gain proficiency with three different Artisan's Tools of your choice from the Fast Crafting table."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Discount",
+					"entries": [
+						"Whenever you buy a nonmagical item, you receive a 20 percent discount on it."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Fast Crafting",
+					"entries": [
+						"When you finish a Long Rest, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.",
+						{
+							"type": "table",
+							"caption": "Fast Crafting",
+							"colStyles": [
+								"col-3",
+								"col-9"
+							],
+							"colLabels": [
+								"Artisan's Tools",
+								"Crafted Gear"
+							],
+							"rows": [
+								[
+									"{@item Carpenter's Tools|XPHB}",
+									"{@item Ladder|XPHB}, {@item Torch|XPHB}"
+								],
+								[
+									"{@item Leatherworker's Tools|XPHB}",
+									"{@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Pouch|XPHB}"
+								],
+								[
+									"{@item Mason's Tools|XPHB}",
+									"{@item Block and Tackle|XPHB}"
+								],
+								[
+									"{@item Potter's Tools|XPHB}",
+									"{@item Jug|XPHB}, {@item Lamp|XPHB}"
+								],
+								[
+									"{@item Smith's Tools|XPHB}",
+									"{@item Ball Bearings|XPHB}, {@item Bucket|XPHB}, {@item Caltrops|XPHB}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}"
+								],
+								[
+									"{@item Tinker's Tools|XPHB}",
+									"{@item Bell|XPHB}, {@item Shovel|XPHB}, {@item Tinderbox|XPHB}"
+								],
+								[
+									"{@item Weaver's Tools|XPHB}",
+									"{@item Basket|XPHB}, {@item Rope|XPHB}, {@item Net|XPHB}, {@item Tent|XPHB}"
+								],
+								[
+									"{@item Woodcarver's Tools|XPHB}",
+									"{@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}"
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+        {
+			"name": "Alert (Str, dex, int) [Inicial]",
+			"source": "Guarda",
+			"page": 200,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"int",
+								"wis"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"int",
+								"wis"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"freeRules2024": true,
+			"category": "O",
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Initiative Proficiency",
+					"entries": [
+						"When you roll Initiative, you can add your Proficiency Bonus to the roll."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Initiative Swap",
+					"entries": [
+						"Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the {@condition Incapacitated|XPHB} condition."
+					]
+				}
+			]
+		},
+        {
+			"name": "Alert (dex, con, int) [Inicial]",
+			"source": "Guarda",
+			"page": 200,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"con",
+								"int"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"con",
+								"int"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"freeRules2024": true,
+			"category": "O",
+			"entries": [
+				"You gain the following benefits.",
+				{
+					"type": "entries",
+					"name": "Initiative Proficiency",
+					"entries": [
+						"When you roll Initiative, you can add your Proficiency Bonus to the roll."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Initiative Swap",
+					"entries": [
+						"Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the {@condition Incapacitated|XPHB} condition."
+					]
+				}
+			]
+		},
+        {
+			"name": "Artificer Initiate [Inicial]",
+			"source": "Guarda",
+			"page": 79,
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"con",
+								"int"
+							],
+							"weights": [
+								2,
+								1
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"dex",
+								"con",
+								"int"
+							],
+							"weights": [
+								1,
+								1,
+								1
+							]
+						}
+					}
+				}
+			],
+			"category": "O",
+			"toolProficiencies": [
+				{
+					"anyArtisansTool": 1
+				}
+			],
+			"additionalSpells": [
+				{
+					"ability": "int",
+					"innate": {
+						"_": {
+							"daily": {
+								"1": [
+									{
+										"choose": "level=1|class=Artificer"
+									}
+								]
+							}
+						}
+					},
+					"known": {
+						"_": [
+							{
+								"choose": "level=0|class=Artificer"
+							}
+						]
+					}
+				}
+			],
+			"entries": [
+				"You've learned some of an artificer's inventiveness:",
+				{
+					"type": "list",
+					"items": [
+						"You learn one cantrip of your choice from the {@filter artificer spell list|spells|level=0;1|class=artificer}, and you learn one 1st-level spell of your choice from {@filter that list|spells|level=0;1|class=artificer}. Intelligence is your spellcasting ability for these spells.",
+						"You can cast this feat's 1st-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have.",
+						"You gain proficiency with one type of {@filter artisan's tools|items|type=artisan's tools} of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability."
+					]
+				}
+			]
+		}
+    ]
+}
