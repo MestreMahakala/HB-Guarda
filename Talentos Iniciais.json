@@ -17,7 +17,7 @@
         "status": "ready",
 		"edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223569,
+        "dateLastModified": 1695223572,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "feat": [
@@ -1258,7 +1258,7 @@
 			]
         },
 			{
-			"name": "Skilled (Dex, con wis) [Inicial]",
+			"name": "Skilled (Dex, Con, Cha) [Inicial]",
 			"source": "Guarda",
 			"page": 201,
 			    "ability": [
@@ -1268,7 +1268,7 @@
                     "from": [
                         "dex",
                         "con",
-                        "wis"
+                        "cha"
                     ],
                     "weights": [
                         2,
@@ -1283,7 +1283,7 @@
                     "from": [
                         "dex",
                         "con",
-                        "wis"
+                        "cha"
                     ],
                     "weights": [
                         1,
