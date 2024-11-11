@@ -1,0 +1,2226 @@
+{
+	"fileType": "content-blocklist",
+	"moduleVersion": "3.0.2-noble-prerelease-25-3",
+	"blocklist": [
+		{
+			"displayName": "Spinosaurus",
+			"hash": "spinosaurus_tob1-2023",
+			"category": "item",
+			"source": "*"
+		},
+		{
+			"displayName": "Aarakocra (DMG)",
+			"hash": "aarakocra_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aarakocra (EEPC)",
+			"hash": "aarakocra_eepc",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar (DMG)",
+			"hash": "aasimar_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar (Fallen)",
+			"hash": "aasimar%20(fallen)_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar (Protector)",
+			"hash": "aasimar%20(protector)_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar (Scourge)",
+			"hash": "aasimar%20(scourge)_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar (VGM)",
+			"hash": "aasimar_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar; Necrotic Shroud",
+			"hash": "aasimar%3b%20necrotic%20shroud_mpmm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar; Radiant Consumption",
+			"hash": "aasimar%3b%20radiant%20consumption_mpmm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Aasimar; Radiant Soul",
+			"hash": "aasimar%3b%20radiant%20soul_mpmm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Bugbear (ERLW)",
+			"hash": "bugbear_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Bugbear (VGM)",
+			"hash": "bugbear_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Centaur (GGR)",
+			"hash": "centaur_ggr",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Centaur (MOT)",
+			"hash": "centaur_mot",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Centaur (UACAM)",
+			"hash": "centaur_uacentaursminotaurs",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Changeling (ERLW)",
+			"hash": "changeling_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Changeling (UAEB)",
+			"hash": "changeling_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Changeling (UARoE)",
+			"hash": "changeling_uaracesofeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Dwarf (Duergar)",
+			"hash": "dwarf%20(duergar)_mtf",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Elf (Eladrin) (DMG)",
+			"hash": "elf%20(eladrin)_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Elf (Eladrin) (MTF)",
+			"hash": "elf%20(eladrin)_mtf",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Elf (Eladrin) (UAEaG)",
+			"hash": "elf%20(eladrin)_uaeladrinandgith",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Elf (Sea)",
+			"hash": "elf%20(sea)_mtf",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Fairy (UA21FF)",
+			"hash": "fairy_ua2021folkofthefeywild",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Fairy (WBtW)",
+			"hash": "fairy_wbtw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Firbolg (VGM)",
+			"hash": "firbolg_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Genasi (Air) (EEPC)",
+			"hash": "genasi%20(air)_eepc",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Genasi (EEPC)",
+			"hash": "genasi_eepc",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Genasi (Earth) (EEPC)",
+			"hash": "genasi%20(earth)_eepc",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Genasi (Fire) (EEPC)",
+			"hash": "genasi%20(fire)_eepc",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Genasi (Water) (EEPC)",
+			"hash": "genasi%20(water)_eepc",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gith (Githyanki) (MTF)",
+			"hash": "gith%20(githyanki)_mtf",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gith (Githyanki) (UAEaG)",
+			"hash": "gith%20(githyanki)_uaeladrinandgith",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gith (Githzerai) (MTF)",
+			"hash": "gith%20(githzerai)_mtf",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gith (Githzerai) (UAEaG)",
+			"hash": "gith%20(githzerai)_uaeladrinandgith",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gith (MTF)",
+			"hash": "gith_mtf",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gith (UAEaG)",
+			"hash": "gith_uaeladrinandgith",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gnome (Deep) (DMG)",
+			"hash": "gnome%20(deep)_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gnome (Deep) (MTF)",
+			"hash": "gnome%20(deep)_mtf",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Gnome (Deep/Svirfneblin)",
+			"hash": "gnome%20(deep%2fsvirfneblin)_scag",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (DMG)",
+			"hash": "goblin_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (Dankwood)",
+			"hash": "goblin%20(dankwood)_awm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (ERLW)",
+			"hash": "goblin_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (GGR)",
+			"hash": "goblin_ggr",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (Ixalan)",
+			"hash": "goblin%20(ixalan)_psx",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (PSZ)",
+			"hash": "goblin_psz",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (VGM)",
+			"hash": "goblin_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (Zendikar; Grotag Tribe)",
+			"hash": "goblin%20(zendikar%3b%20grotag%20tribe)_psz",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (Zendikar; Lavastep Tribe)",
+			"hash": "goblin%20(zendikar%3b%20lavastep%20tribe)_psz",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goblin (Zendikar; Tuktuk Tribe)",
+			"hash": "goblin%20(zendikar%3b%20tuktuk%20tribe)_psz",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Goliath (VGM)",
+			"hash": "goliath_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Harengon (WBtW)",
+			"hash": "harengon_wbtw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Hobgoblin (DMG)",
+			"hash": "hobgoblin_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Hobgoblin (ERLW)",
+			"hash": "hobgoblin_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Hobgoblin (UA21FF)",
+			"hash": "hobgoblin_ua2021folkofthefeywild",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Hobgoblin (VGM)",
+			"hash": "hobgoblin_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Kenku (DMG)",
+			"hash": "kenku_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Kenku (VGM)",
+			"hash": "kenku_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Kobold (DMG)",
+			"hash": "kobold_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Kobold (UA21DO)",
+			"hash": "kobold_ua2021draconicoptions",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Kobold (VGM)",
+			"hash": "kobold_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Lizardfolk (DMG)",
+			"hash": "lizardfolk_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Lizardfolk (VGM)",
+			"hash": "lizardfolk_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Minotaur (Amonkhet)",
+			"hash": "minotaur%20(amonkhet)_psa",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Minotaur (GGR)",
+			"hash": "minotaur_ggr",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Minotaur (Krynn)",
+			"hash": "minotaur%20(krynn)_uawaterborneadventures",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Minotaur (MOT)",
+			"hash": "minotaur_mot",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Minotaur (UACAM)",
+			"hash": "minotaur_uacentaursminotaurs",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Orc (DMG)",
+			"hash": "orc_dmg",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Orc (EGW)",
+			"hash": "orc_egw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Orc (ERLW)",
+			"hash": "orc_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Orc (Ixalan)",
+			"hash": "orc%20(ixalan)_psx",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Orc (VGM)",
+			"hash": "orc_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Satyr (MOT)",
+			"hash": "satyr_mot",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Beasthide) (ERLW)",
+			"hash": "shifter%20(beasthide)_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Beasthide) (UAEB)",
+			"hash": "shifter%20(beasthide)_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Beasthide) (UARoE)",
+			"hash": "shifter%20(beasthide)_uaracesofeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Cliffwalk)",
+			"hash": "shifter%20(cliffwalk)_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (ERLW)",
+			"hash": "shifter_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Longstride)",
+			"hash": "shifter%20(longstride)_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Longtooth) (ERLW)",
+			"hash": "shifter%20(longtooth)_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Longtooth) (UAEB)",
+			"hash": "shifter%20(longtooth)_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Longtooth) (UARoE)",
+			"hash": "shifter%20(longtooth)_uaracesofeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Razorclaw)",
+			"hash": "shifter%20(razorclaw)_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Swiftstride) (ERLW)",
+			"hash": "shifter%20(swiftstride)_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Swiftstride) (UARoE)",
+			"hash": "shifter%20(swiftstride)_uaracesofeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (UAEB)",
+			"hash": "shifter_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (UARoE)",
+			"hash": "shifter_uaracesofeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Wildhunt) (ERLW)",
+			"hash": "shifter%20(wildhunt)_erlw",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Wildhunt) (UAEB)",
+			"hash": "shifter%20(wildhunt)_uaeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Shifter (Wildhunt) (UARoE)",
+			"hash": "shifter%20(wildhunt)_uaracesofeberron",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Tabaxi (VGM)",
+			"hash": "tabaxi_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Tortle (TTP)",
+			"hash": "tortle_ttp",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Triton (MOT)",
+			"hash": "triton_mot",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Triton (VGM)",
+			"hash": "triton_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "Yuan-ti Pureblood",
+			"hash": "yuan-ti%20pureblood_vgm",
+			"category": "race",
+			"source": "*"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AAG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "AAG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AATM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AL"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ALElementalEvil"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AWM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AZfyT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AitFR-AVT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AitFR-DN"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AitFR-FCD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AitFR-ISF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "AitFR-THP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "BAM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "BGG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "BMT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "CM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "CRCotN"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "CoA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "CoS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "CoS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "DC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "DD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "DIP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "DMG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "DMG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "DSotDQ"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "DSotDQ"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "DoD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "DoSI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "EEPC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "EEPC"
+		},
+		{
+			"displayName": "Genasi (Air)",
+			"hash": "genasi%20(air)_eepc",
+			"category": "race",
+			"source": "EEPC"
+		},
+		{
+			"displayName": "Genasi (Earth)",
+			"hash": "genasi%20(earth)_eepc",
+			"category": "race",
+			"source": "EEPC"
+		},
+		{
+			"displayName": "Genasi (Fire)",
+			"hash": "genasi%20(fire)_eepc",
+			"category": "race",
+			"source": "EEPC"
+		},
+		{
+			"displayName": "Genasi (Water)",
+			"hash": "genasi%20(water)_eepc",
+			"category": "race",
+			"source": "EEPC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "EET"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "EFR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "EGW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "EGW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Shifter (Beasthide)",
+			"hash": "shifter%20(beasthide)_erlw",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Shifter (Longtooth)",
+			"hash": "shifter%20(longtooth)_erlw",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Shifter (Swiftstride)",
+			"hash": "shifter%20(swiftstride)_erlw",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Shifter (Wildhunt)",
+			"hash": "shifter%20(wildhunt)_erlw",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ESK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "FS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "FTD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "FTD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "GoS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "GotSF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "HAT-LMI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "HAT-TG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "HF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "HFFotM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "HftT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "HoL"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "HotDQ"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "IDRotF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "IMR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "JttRC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "KKW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "KftGV"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "LK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "LLK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "LMoP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "LR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "LoX"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MCV1SC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MCV2DC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MCV3MC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MCV4EC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MFF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MGELFT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MOT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MPMM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MPP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Gith (Githyanki)",
+			"hash": "gith%20(githyanki)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Gith (Githzerai)",
+			"hash": "gith%20(githzerai)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MaBJoV"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "MisMV1"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "NRH-ASS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "NRH-AT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-AVitW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "NRH-AVitW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "NRH-AWoL"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "NRH-AWoL"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "NRH-CoI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "NRH-TCMC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "NRH-TLT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "OGA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "OoW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "OotA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PHB"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "PHB"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PSA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PSD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PSI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PSK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PSX"
+		},
+		{
+			"displayName": "Goblin (Ixalan)",
+			"hash": "goblin%20(ixalan)_psx",
+			"category": "race",
+			"source": "PSX"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PSZ"
+		},
+		{
+			"displayName": "Goblin (Zendikar; Grotag Tribe)",
+			"hash": "goblin%20(zendikar%3b%20grotag%20tribe)_psz",
+			"category": "race",
+			"source": "PSZ"
+		},
+		{
+			"displayName": "Goblin (Zendikar; Lavastep Tribe)",
+			"hash": "goblin%20(zendikar%3b%20lavastep%20tribe)_psz",
+			"category": "race",
+			"source": "PSZ"
+		},
+		{
+			"displayName": "Goblin (Zendikar; Tuktuk Tribe)",
+			"hash": "goblin%20(zendikar%3b%20tuktuk%20tribe)_psz",
+			"category": "race",
+			"source": "PSZ"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PaBTSO"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "PotA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "RMBRE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "RMR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "RoT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "RoTOS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "RtG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SAC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SADS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SCC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SCC-ARiR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SCC-CK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SCC-HfMT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SCC-TMM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SDW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SKT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SLW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SatO"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "Screen"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ScreenDungeonKit"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ScreenSpelljammer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ScreenWildernessKit"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "SjA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TCE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "TCE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TDCSR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "TDCSR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TLK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TTP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP-AtG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP-DiT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP-TFoF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP-THSoT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP-TSC"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP-ToH"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "TftYP-WPM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ToA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "ToA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ToFW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "ToR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020Feats"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020Feats"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020PsionicOptionsRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020PsionicOptionsRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SpellsAndMagicTattoos"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020SpellsAndMagicTattoos"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt1"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020SubclassesPt1"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt2"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020SubclassesPt2"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt3"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020SubclassesPt3"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt4"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020SubclassesPt4"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt5"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020SubclassesPt5"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2020SubclassesRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2021DraconicOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2021FolkOfTheFeywild"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2021GothicLineages"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2021MagesOfStrixhaven"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2021TravelersOfTheMultiverse"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2022GiantOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2022HeroesOfKrynn"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2022HeroesOfKrynnRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UA2022WondersOfTheMultiverse"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAATrioOfSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAArtificer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAArtificerRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UABarbarianAndMonk"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UABarbarianPrimalPaths"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UABardAndPaladin"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UABardBardColleges"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UACentaursMinotaurs"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAClassFeatureVariants"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAClericDivineDomains"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAClericDruidWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UADruid"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "Shifter (Beasthide)",
+			"hash": "shifter%20(beasthide)_uaeberron",
+			"category": "race",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "Shifter (Cliffwalk)",
+			"hash": "shifter%20(cliffwalk)_uaeberron",
+			"category": "race",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "Shifter (Longstride)",
+			"hash": "shifter%20(longstride)_uaeberron",
+			"category": "race",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "Shifter (Longtooth)",
+			"hash": "shifter%20(longtooth)_uaeberron",
+			"category": "race",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "Shifter (Razorclaw)",
+			"hash": "shifter%20(razorclaw)_uaeberron",
+			"category": "race",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "Shifter (Wildhunt)",
+			"hash": "shifter%20(wildhunt)_uaeberron",
+			"category": "race",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAEladrinAndGith"
+		},
+		{
+			"displayName": "Gith (Githyanki)",
+			"hash": "gith%20(githyanki)_uaeladrinandgith",
+			"category": "race",
+			"source": "UAEladrinAndGith"
+		},
+		{
+			"displayName": "Gith (Githzerai)",
+			"hash": "gith%20(githzerai)_uaeladrinandgith",
+			"category": "race",
+			"source": "UAEladrinAndGith"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAElfSubraces"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAFeats"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAFeatsForRaces"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAFeatsForSkills"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAFiendishOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAFighter"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAFighterRangerRogue"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAFighterRogueWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAGiantSoulSorcerer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAGothicHeroes"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAGreyhawkInitiative"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAKitsOfOld"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UALightDarkUnderdark"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UALightDarkUnderdark"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAMassCombat"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAModernMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAModifyingClasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAMonk"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAOfShipsAndSea"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAOrderDomain"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAPaladin"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAPrestigeClassesRunMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UARacesOfEberron"
+		},
+		{
+			"displayName": "Shifter (Beasthide)",
+			"hash": "shifter%20(beasthide)_uaracesofeberron",
+			"category": "race",
+			"source": "UARacesOfEberron"
+		},
+		{
+			"displayName": "Shifter (Longtooth)",
+			"hash": "shifter%20(longtooth)_uaracesofeberron",
+			"category": "race",
+			"source": "UARacesOfEberron"
+		},
+		{
+			"displayName": "Shifter (Swiftstride)",
+			"hash": "shifter%20(swiftstride)_uaracesofeberron",
+			"category": "race",
+			"source": "UARacesOfEberron"
+		},
+		{
+			"displayName": "Shifter (Wildhunt)",
+			"hash": "shifter%20(wildhunt)_uaracesofeberron",
+			"category": "race",
+			"source": "UARacesOfEberron"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UARacesOfRavnica"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UARanger"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UARangerAndRogue"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UARevisedClassOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UARevisedSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UASidekicks"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UASorcerer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UASorcererAndWarlock"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAStarterSpells"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAThatOldBlackMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UATheFaithful"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UATheMysticClass"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UATheRangerRevised"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAThreePillarExperience"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAThreeSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAVariantRules"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAWGE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAWarlockAndWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAWaterborneAdventures"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "UAWizardRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "US"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "VD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Aasimar (Fallen)",
+			"hash": "aasimar%20(fallen)_vgm",
+			"category": "race",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Aasimar (Protector)",
+			"hash": "aasimar%20(protector)_vgm",
+			"category": "race",
+			"source": "VGM"
+		},
+		{
+			"displayName": "Aasimar (Scourge)",
+			"hash": "aasimar%20(scourge)_vgm",
+			"category": "race",
+			"source": "VGM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "VRGR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "VRGR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "WDH"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "WDH"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "WDMM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "XGE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "item",
+			"source": "XGE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "background",
+			"source": "XMtS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "spell",
+			"source": "HWCS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "spell",
+			"source": "HWAitW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "HWAitW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "HWCS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "DoDk"
+		}
+	]
+}

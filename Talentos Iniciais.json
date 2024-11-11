@@ -17,7 +17,7 @@
         "status": "ready",
 		"edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223572,
+        "dateLastModified": 1695223574,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "feat": [
@@ -1322,7 +1322,7 @@
 			]
 		},
 	    		{
-			"name": "Skilled (str, int, cha) [Inicial]",
+			"name": "Skilled (Str, Int, Cha) [Inicial]",
 			"source": "Guarda",
 			"page": 201,
 			    "ability": [
