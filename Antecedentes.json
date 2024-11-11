@@ -114,11 +114,11 @@
                     }
                 }
             ],
-            "toolProficiencies": [
-                {
-                    "any": true
-                }
-            ],
+			"toolProficiencies": [
+				{
+					"any": 1
+				}
+			],
 			"languageProficiencies": [
 				{
 					"common": true,
@@ -234,11 +234,11 @@
                     }
                 }
             ],
-            "toolProficiencies": [
-                {
-                    "any": true
-                }
-            ],
+			"toolProficiencies": [
+				{
+					"any": 1
+				}
+			],
 "languageProficiencies": [
 {
 "common": true,
@@ -354,11 +354,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -474,11 +474,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -594,11 +594,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -714,11 +714,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -834,11 +834,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -954,11 +954,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -1074,11 +1074,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -1194,11 +1194,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -1314,11 +1314,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -1434,11 +1434,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -1554,11 +1554,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -1674,11 +1674,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -1794,11 +1794,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
     "languageProficiencies": [
         {
             "common": true,
@@ -1915,11 +1915,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
     "languageProficiencies": [
         {
             "common": true,
@@ -2035,11 +2035,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -2155,11 +2155,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -2275,11 +2275,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -2395,11 +2395,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -2515,11 +2515,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
     "languageProficiencies": [
         {
             "common": true,
@@ -2635,11 +2635,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -2756,11 +2756,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
     "languageProficiencies": [
         {
             "common": true,
@@ -2876,11 +2876,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
     "languageProficiencies": [
         {
             "common": true,
@@ -2997,11 +2997,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -3117,11 +3117,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
     "languageProficiencies": [
         {
             "common": true,
@@ -3237,11 +3237,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -3357,11 +3357,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -3478,11 +3478,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -3598,11 +3598,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -3718,11 +3718,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -3838,11 +3838,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -3958,11 +3958,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
     "languageProficiencies": [
         {
             "common": true,
@@ -4079,11 +4079,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -4199,11 +4199,11 @@
             }
         }
     ],
-    "toolProficiencies": [
-        {
-            "any": true
-        }
-    ],
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
 "languageProficiencies": [
 {
 "common": true,
@@ -4253,11 +4253,11 @@
                     }
                 }
             ],
-            "toolProficiencies": [
-                {
-                    "any": true
-                }
-            ],
+			"toolProficiencies": [
+				{
+					"any": 1
+				}
+			],
 			"languageProficiencies": [
 				{
 					"common": true,
