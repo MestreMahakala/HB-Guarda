@@ -1,0 +1,4284 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "Guarda",
+                "abbreviation": "GUARDA",
+                "full": "G.U.A.R.D.A de Tenebris",
+                "authors": [
+                    "Mahakala"
+                ],
+                "convertedBy": [
+                    "Mahakala"
+                ],
+                "version": "1.0"
+            }
+        ],
+        "status": "ready",
+		"edition": "one",
+        "dateAdded": 1608050554,
+        "dateLastModified": 1695223566,
+        "_dateLastModifiedHash": "b6b795e6fb"
+    },
+    "background": [
+        {
+            "name": "Acolyte",
+            "source": "GUARDA",
+            "page": 178,
+            "freeRules2024": true,
+            "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+            "skillProficiencies": [
+                {
+                    "choose": {
+                        "from": [
+                            "insight",
+                            "religion",
+                            "persuasion",
+                            "medicine"
+                        ],
+                        "count": 2
+                    }
+                }
+            ],
+            "toolProficiencies": [
+                {
+                    "any": true
+                }
+            ],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 2
+				}
+			],
+            "entries": [
+                {
+                    "name": "Talento de antecedente: Refúgio ao fiel",
+                    "type": "entries",
+                    "entries": [
+                        "Como fiel peregrino, sua devoção incansável a uma jornada espiritual fortaleceu laços profundos com os santuários ao longo do seu caminho sagrado, mesmo que você nunca tenha visitado aquele templo antes, você sabe exatamente como pedir ajuda aos templos que seguem similaridades com sua fé. Você e seus companheiros de viagem podem esperar hospitalidade calorosa e cuidado espiritual nos lugares sagrados, marcos divinos e outros locais abençoados relacionados à entidades de mesmo alinhamento da entidade que você serve.",
+                        "You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple."
+                    ],
+                    "data": {
+                        "isFeature": true
+                    }
+                }
+            ],
+            "hasFluff": true,
+            "hasFluffImages": true
+        },
+        {
+            "name": "Archaeologist",
+            "source": "GUARDA",
+            "page": 178,
+            "freeRules2024": true,
+            "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+            "skillProficiencies": [
+                {
+                    "choose": {
+                        "from": [
+                            "Religion",
+                            "Investigation",
+                            "History",
+                            "Survival"
+                        ],
+                        "count": 2
+                    }
+                }
+            ],
+            "toolProficiencies": [
+                {
+                    "any": true
+                }
+            ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+            "entries": [
+                {
+                    "name": "Talento de antecedente: Sintonia rupestre",
+                    "type": "entries",
+                    "entries": [
+                        "Você tem um conhecimento avançado sobre pedras e construções antigas. Você reconhece a arquitetura de uma dungeon, podendo dizer qual civilização pode tê-la construído ao analisar seus padrões. Além disso, você consegue determinar o valor e a originalidade de algum tesouro que seja mais antigo que um século.",
+                        "."
+                    ],
+                    "data": {
+                        "isFeature": true
+                    }
+                }
+            ],
+            "hasFluff": true,
+            "hasFluffImages": true
+        },
+{
+    "name": "Anthropologist",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Insight",
+                    "Religion",
+                    "History",
+                    "Performance"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Camaleão cultural",
+            "type": "entries",
+            "entries": [
+                "Depois de muito estudo ou aventuras, você desenvolveu a habilidade de se comunicar com humanoides que falam línguas desconhecidas para você. Ao observar atentamente os humanoides interagindo entre si por pelo menos um dia, você adquire conhecimento sobre um punhado de palavras, expressões e gestos importantes. Essa nova compreensão capacita você a se comunicar de forma rudimentar com esses humanoides, transcendendo barreiras linguísticas e promovendo uma compreensão básica. Porem tal compreensão não se traduz ao aprendizado da língua em questão.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Athlete",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Athletics",
+                    "Acrobatics",
+                    "Performance",
+                    "Intimidation"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Mente de Ferro",
+            "type": "entries",
+            "entries": [
+                "O seu treinamento fisico supera o de uma pessoa normal, para chegar onde chegou foi necessário dias de dedicação que o levaram a próximo da exaustão. Quando você realiza uma atividade física que possa te deixar exausto você aguenta 50% mais tempo que outras pessoas sem precisar de testes.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Celebrity Adventurer's Scion",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "history",
+                    "persuasion",
+                    "perception",
+                    "performance"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Conhecimento Hereditário",
+            "type": "entries",
+            "entries": [
+                "Uma vez por dia de aventura, você pode pedir para tentar se lembrar de alguma história  sobre armadilhas, magias, criaturas e lugares que já te foram contados. Você recebe uma resposta na forma de uma história daquilo que você tenta lembrar, sem detalhes específicos. O mestre rola secretamente de forma privada com uma chance de 33% da história ser equivocada ou exagerada.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Charlatan",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "performance",
+                    "insight",
+                    "deception",
+                    "prestidigitation"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Identidade Falsa",
+            "type": "entries",
+            "entries": [
+                "Com a experiência que você obteve ao longo dos anos sobre o que funciona ou não para enganar as pessoas, você criou uma segunda identidade que inclui documentação, conhecidos estabelecidos e disfarce que lhe permitem assumir essa personalidade. Essa sua segunda identidade, que deve constar em sua história, não necessita de testes de enganação para se passar por ela. Você também pode usar uma ferramenta de falsificação para criar qualquer documento que comprove sua identidade.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Courtier",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "History",
+                    "Deception",
+                    "Insight",
+                    "Persuation"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Jogo de palavras",
+            "type": "entries",
+            "entries": [
+                "Quando você estiver em uma situação social, você possui uma facilidade de esconder as verdadeiras intenções de suas palavras entre seus aliados.",
+                "Durante uma conversa, você consegue por meio de palavras sutis passar uma mensagem simplificada, que apenas os seus aliados tem condição de entender. A mensagem é oculta em meio a um diálogo comum, que não alertaria aqueles para o qual a mensagem não foi direcionada, e que não conheça suas táticas."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Criminal",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "deception",
+                    "intimidation",
+                    "prestidigitation",
+                    "stealth"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: De olho no jogo.",
+            "type": "entries",
+            "entries": [
+                "Devido a suas atividades consideradas ilícitas, você aprendeu a evitar os olhos dos governos. Você conhece o comportamento básico das organizações de segurança normais, e sabe evita-las. Como por exemplo sabendo localizar rotas de contrabando, ou encontrando possíveis contatos para evitar ser pego por crimes menores.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Entertainer",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "acrobatics",
+                    "performance",
+                    "prestidigitation",
+                    "persuasion"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Por demanda popular.",
+            "type": "entries",
+            "entries": [
+                "Você sempre pode encontrar um lugar para se apresentar, geralmente em uma pousada ou taverna, mas possivelmente em um circo, em um teatro ou até mesmo na corte de um nobre. Nesse local, você recebe hospedagem e alimentação gratuitas de padrão modesto ou confortável (dependendo da qualidade do estabelecimento), desde que se apresente todas as noites. Além disso, seu desempenho faz de você uma espécie de figura local. Quando estranhos reconhecem você na cidade onde você se apresentou, eles normalmente gostam de você.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Merchant",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "invistigation",
+                    "history",
+                    "deception",
+                    "persuasion"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Cadeia de suprimentos",
+            "type": "entries",
+            "entries": [
+                "Desde o seu tempo como comerciante, você mantém conexões com atacadistas, fornecedores e outros comerciantes e empresários em diversos âmbitos. Você pode recorrer a essas conexões ao procurar itens ou informações.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Far Traveler",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Invistigation",
+                    "Insight",
+                    "Perception",
+                    "Survival"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Viajado.",
+            "type": "entries",
+            "entries": [
+                "Você é um andarilho, um viajante de terras distantes, um turista sempre seduzido pela próxima viagem e pelos segredos que novas terras podem revelar, essa curiosidade nata o expõe a novas experiencias em suas viagens. Quando interagindo com um humanoide de nacionalidade diferente da sua, que tenha uma postura neutra a seu respeito, você pode se informar sobre pontos de interesse na região, assim como boatos e pequenas fofocas.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Farmer",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "animal handling",
+                    "nature",
+                    "athletics",
+                    "survival"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Experiente.",
+            "type": "entries",
+            "entries": [
+                "Você tem uma familiaridade com a natureza e entendeu o funcionamento dela. Graças a isso você é capaz de discernir o clima que virá em um futuro breve. Além disso, você é capaz de identificar se algo não natural esta afetando o clima do ambiente.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Feylost",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Performance",
+                    "Deception",
+                    "Nature",
+                    "Survival"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Cultura Feérica",
+            "type": "entries",
+            "entries": [
+                "Você ou seus pais vieram de regiões intimamente ligadas com as forças feéricas. Em algum momento de sua vida você entrou em contato com uma dessas criaturas que o deixou ligado as energias de Feywild.",
+                "Como resultado a energia feérica que permeia seu corpo é reconhecida por outras fadas, fazendo com que elas tenham uma postura neutra a seu respeito até que as circunstâncias mudem."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Fisher",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "History",
+                    "Survival",
+                    "Deception",
+                    "Animal Handling"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Pescador experiente",
+            "type": "entries",
+            "entries": [
+                "Suas habilidades e conhecimento sobre os mares e rios lhe permitem identificar se a água do local é propicia para a vida de criaturas aquaticas. Quando você usa seu equipamento de pesca para analisar a agua você consegue ter uma estimativa das criaturas que vivem no local, podendo ate mesmo descobrir se a fauna ou a flora desse ambiente aquático é perigosa. Além disso seu conhecimento de pesca te permite reconhecer se uma criatura é comestível ou venenosa.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Folk hero",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Insight",
+                    "Animal Handling",
+                    "Survival",
+                    "Athletics"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "anyStandard": 2
+        }
+    ],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Humildão",
+            "type": "entries",
+            "entries": [
+                "Você pode ter ganhado poder, se tornado poderoso, ou até mesmo conquistado milhares de peças de ouro. Porém, no fundo do seu coração, você nunca esquecerá sua origem humilde.",
+                "Você sabe bem como aventureiros são inconvenientes, e quase sempre atrapalham a vida de pessoas no campo. Por isso, quando tentando uma abordagem pacífica, você consegue dialogar com pessoas simples para fazer com que elas entendam questões sobrenaturais ou complexas sem se assustarem.",
+                "Você saberia como explicar sobre a presença de um dragão para um humilde fazendeiro sem deixa-lo em pânico. Ou até mesmo conseguir mais facilmente informações sobre seres que vivem nas redondezas cercados de superstições e temores e podem possuir nomes diferentes no local onde você está."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Gambler",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Deception",
+                    "Insight",
+                    "Sleigth of Hand",
+                    "Stealth"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "anyStandard": 2
+        }
+    ],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Olho na oportunidade",
+            "type": "entries",
+            "entries": [
+                "Um apostador desatento é um apostador falido, você se condicionou a sempre prestar atenção no quão experientes são seus adversários, e quais riscos você está correndo.",
+                "Quando conversando, ou negociando com alguém você consegue ler para saber o quão boa de jogo a pessoa é. Após dez minutos de diálogo, você consegue dizer se a pessoa que você está conversando tem proficiência, ou expertise em algum jogo que você seja proficiente Além disso, você sabe dizer quando uma pessoa está inclinada ou não para fazer uma aposta."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Gladiator",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Acrobatics",
+                    "Athletics",
+                    "Intimidation",
+                    "Performance"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Fôlego valente",
+            "type": "entries",
+            "entries": [
+                "Por motivos diversos sua vida o levou a jogos mortais em arenas e coliseus, a vida de um gladiador é sangrenta e dolorida, mas uma das tarefas mais difíceis de um gladiador é manter as massas entretidas durante esse macabro show.",
+                "Enquanto em combate ou performances de entretenimento físico você pode usar intimidação ao invés de outras habilidades sociais e sua intimidação pode usar constituição ao invés do carisma."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Guard",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "athletics",
+                    "perception",
+                    "insight",
+                    "investigation"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Vigilante.",
+            "type": "entries",
+            "entries": [
+                "Você é treinado para passar horas em vigília, capaz de manter-se em condições de boa atenção. Durante um descanso longo, você é capaz de dormir apenas 4 horas, desde que as outras 4 horas do descanso sejam usadas apenas para ficar em vigia.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Guide",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "athletics",
+                    "survival",
+                    "nature",
+                    "animal handling"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Vida peregrina.",
+            "type": "entries",
+            "entries": [
+                "Você tem uma memória excelente para mapas e geografia e sempre consegue se lembrar do layout geral do terreno, assentamentos e outras características ao seu redor. Além disso, você pode encontrar comida e água fresca para você e até cinco outras pessoas por dia, desde que a terra ofereça frutas silvestres, caça pequena, água e assim por diante.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Guild Artisan",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "insight",
+                    "sleight of hand",
+                    "persuasion",
+                    "history"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Juntador de pessoas",
+            "type": "entries",
+            "entries": [
+                "Você aprendeu que pessoas trabalham melhor quando compartilham de um único desejo, como você sabe disso? Simples, você trabalhou no passado para uma guilda ou organização, fazendo trabalhos específicos e trabalhando em equipe em prol de um objetivo coletivo, quando se deparar com um problema onde a solução que envolva trabalho em grupo ou uso de ferramentas a qual você não é proficiente, você sabe montar uma equipe e o local mais provável para localizar pessoas que você precisa para a tarefa.",
+                "Uma vez ao dia você pode solicitar ao mestre que revele a ferramenta necessária para a solução de um problema especifico, além de informar o local, ou pessoa, que provavelmente tenha essa proficiência."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Haunted One",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Arcana",
+                    "Investigation",
+                    "Religion",
+                    "Survival"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "anyStandard": 2
+        }
+    ],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Coração das trevas",
+            "type": "entries",
+            "entries": [
+                "Aqueles que olham em seus olhos podem ver que você enfrentou um horror inimaginável e que não é estranho à escuridão. Embora possam temê-lo, os plebeus lhe oferecerão toda a cortesia e farão o máximo para ajudá-lo. A menos que você tenha se mostrado um perigo para eles, eles até pegarão em armas para lutar ao seu lado, caso você enfrente um inimigo sozinho.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Hermit",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "medicine",
+                    "religion",
+                    "nature",
+                    "insight"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Conhecimento ancestral",
+            "type": "entries",
+            "entries": [
+                "Seu tempo de estudo, meditação e reflexão o fez perceber como o mundo sempre toma os mesmos caminhos, seja na história, na guerra ou na magia. Dessa forma você aprendeu a traçar paralelos com aquilo que lhe é famíliar, e o que é novo.",
+                "Quando visitando um novo local, você pode fazer uma pergunta simples ao mestre sobre o passado do local como um todo (não envolvendo cenas específicas, ou passado recente).",
+                "A resposta é dada como uma comparação com características comuns entre mundos."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Investigator",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Insight",
+                    "Investigation",
+                    "Perception",
+                    "Survival"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "anyStandard": 2
+        }
+    ],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Talento de dedução",
+            "type": "entries",
+            "entries": [
+                "Devido sua vasta experiência com o ramo dos detetives, você desenvolveu uma, intuição quase sobrenatural. Quando você está investigando uma área, objeto ou criatura, você pode fazer ao Mestre uma pergunta. O mestre deve dar uma resposta verdadeira, mas só responderá com “Sim”, “Não” ou “Desconhecido” se a resposta à pergunta é incognoscível ou impossível para que os mortais investigadores deduzam. Depois de fazer perguntas sobre um objeto, criatura ou área, você não pode fazer mais fazer perguntas usando esta habilidade novamente até terminar um descanso longo.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Knight",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Persuasion",
+                    "History",
+                    "Intimidation",
+                    "Religion"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "anyStandard": 2
+        }
+    ],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Renome do Cavaleiro",
+            "type": "entries",
+            "entries": [
+                "A ação de um cavaleiro vale mais que seu passado, ou a sua história. Tendo uma facilidade maior de criar renome em um novo local.",
+                "Quando visitar uma região, ou mundo que você já tenha visitado anteriormente, a visão de seus atos ecoa mais facilmente. Fazendo com que aqueles que você ajudou não esqueçam disso, podendo te ajudar de volta em momentos de necessidade. Ou seus atos subversivos podem chamar a atenção de grupos que concordem com sua visão de mundo.",
+                "Na prática, seu nome se espalha mais facilmente, podendo até mesmo receber atenção de autoridades locais."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Mercenary Veteran",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "athletics",
+                    "persuasion",
+                    "acrobatics",
+                    "perception"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Fama",
+            "type": "entries",
+            "entries": [
+                "Você criou um nome de mercenários nos seus tempos antes da guarda. Uma fama boa, ou não, mas que te garante uma notoriedade entre aventureiros e aqueles que trabalham no ramo. Quando se apresentar em sua terra Natal, você dispensa apresentações para profissionais da lei, ou outros mercenários. Quanto mais você se aventura, mais longe sua fama e suas histórias podem ir, caso se encaixa na aventura. Te facilitando conseguir crédito para favores menores, como uma carroça, cavalo ou audiência com alguém importante.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Noble",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Persuasion",
+                    "History",
+                    "Intimidation",
+                    "Religion"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "anyStandard": 2
+        }
+    ],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Filhinho(a) do papai",
+            "type": "entries",
+            "entries": [
+                "Você vem de uma família nobre e como tal sempre foi assistido em receber os melhores cuidados da criadagem. Sua família, ao saber de sua decisão de partir para uma vida de aventuras, designa um dos melhores funcionários para que mantenha os cuidados adequados com seu bem-estar e apresentação, em completa discrição para que você nunca perceba ou negue a ajuda da família.",
+                "Uma vez ao dia, a critério do mestre, essa habilidade pode ser usada para invocar seu ajudante que desempenhará pequenas atividades sem que você ou seus colegas o vejam ou percebam, como arrumação de um ambiente, trazer uma refeição ou bebida nobre ou até uma troca de roupa. No entanto, qualquer item trazido desaparece ao fim do dia."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Pirate",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Athletics",
+                    "Perception",
+                    "Deception",
+                    "Sleight of Hand"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Má reputação",
+            "type": "entries",
+            "entries": [
+                "Não importa onde você esteja, as pessoas têm medo de você devido à sua reputação. Quando você está em um assentamento civilizado, você pode escapar impune de crimes menores, como recusar-se a pagar pela comida em uma taverna ou arrombar portas de uma loja local, já que a maioria das pessoas não denunciará sua atividade às autoridades.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Rewarded",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "insight",
+                    "persuasion",
+                    "deception",
+                    "religion"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Traseira virada para a Lua",
+            "type": "entries",
+            "entries": [
+                "Você tem maior facilidade para encontrar aquilo que precisa. Como exemplo lojas abertas no meio da noite, pessoas importantes para passar informação, ou objetos úteis para a situação atual. Desde que seja possível naquela situação, segundo o mestre.",
+                "A sorte não te sustenta o tempo todo. Em momentos chave da narrativa, ela pode não surtir efeito. Como para encontrar uma pessoa que deve ser facilmente encontrada, ou buscar informações de alta relevância.",
+                "A sorte serve principalmente para situações mundanas, onde o andamento da mesa não seria atrapalhado. Contudo, ainda sim é algo incrível e pode vir a chamar atenção indesejada ao personagem."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Ruined",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "stealth",
+                    "survival",
+                    "persuasion",
+                    "performance"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Sobrevivente das ruínas",
+            "type": "entries",
+            "entries": [
+                "Você viveu uma grande queda livre na sua vida. Assim você passou por um um estado de desolação e ruína por grande parte de sua vida, seja devido a uma catástrofe natural, uma má sorte, conflito ou outro evento traumático. Essa experiência moldou sua visão do mundo e seu caráter de maneiras profundas. Como resultado, você desenvolveu uma habilidade única para sobreviver em ambientes civilizados hostis e perigosos.",
+                "Você é capaz de encontrar abrigos improvisados e casas abandonadas com mais facilidade, além de comida em ambientes civilizatórios (restos de comida encontrados em lixos, pedir sobras em restaurantes e tavernas, etc). Além disso, sua vivência em locais precários concede-lhe uma sensibilidade aguçada para detectar sinais de perigo nesses ambientes civilizatórios, como locais com risco de desmoronamento, insalubres e locais com riscos de crimes."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Sailor",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Athletics",
+                    "Perception",
+                    "Stealth",
+                    "Sleight of Hand"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Conhecedor dos mares",
+            "type": "entries",
+            "entries": [
+                "Sua vida no mar lhe concedeu um profundo entendimento dos caprichos e padrões do oceano. Você desenvolveu um instinto inato para ler o mar e prever mudanças climáticas e padrões de marés. Quando estiver em um navio ou próximo ao mar, você pode fazer um teste de Sabedoria (Sobrevivência) para prever condições climáticas iminentes ou mudanças nas marés. Além disso, você tem vantagem em testes de Sabedoria (Percepção) para detectar perigos naturais no oceano, como rochas submersas, correntes perigosas ou tempestades que se aproximam.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Sage",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Arcana",
+                    "History",
+                    "Medicine",
+                    "Religion"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Devorador de livros",
+            "type": "entries",
+            "entries": [
+                "Você passou sua infância e juventude se dedicando aos estudos, debruçado sobre grandes compêndios, textos e imagens e essa dedicação lhe permitiu encontrar informações que lhe interessam mais rapidamente e de forma mais precisa. Quando analisando um texto, livro ou imagem você gasta metade do tempo determinado pelo mestre e realiza o eventuais testes relacionados a analise do conteúdo pesquisado na vantagem.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Scribe",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "investigation",
+                    "perception",
+                    "history",
+                    "insight"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Poliglota",
+            "type": "entries",
+            "entries": [
+                "Você viu e estudou todos os tipos de manuscritos, tendo um amplo conhecimento quando o assunto é linguagem escrita e seus alfabetos. Ao ler algo escrito em um idioma que você não conhece e que seja parte de uma lingua do PHB ou DMG, você consegue discernir o idioma escrito.",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Soldier",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Athletics",
+                    "Intimidation",
+                    "Survival",
+                    "Medicine"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "common": true,
+            "anyStandard": 2
+        }
+    ],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Cultura militar",
+            "type": "entries",
+            "entries": [
+                "Sua experiência como soldado lhe concedeu um profundo entendimento da cultura militar e uma habilidade inata para ler e compreender a dinâmica das forças armadas. Você tem uma capacidade especial para avaliar rapidamente a organização e o ânimo das tropas, bem como extrair estratégias táticas das formações e posições das unidades militares.",
+                "Quando você interage com militares ou observa tropas em formação, você tentar extrair estratégias as empregadas, a coesão das unidades e o moral dos soldados, com testes que vão depender do mestre.",
+                "O mestre também poderá fornecer informações adicionais com base no resultado do teste, como identificar fraquezas nas defesas inimigas, prever movimentos táticos ou reconhecer sinais de descontentamento entre as tropas aliadas."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Spy",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Deception",
+                    "Intimidation",
+                    "Performance",
+                    "Stealth"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Infiltrado",
+            "type": "entries",
+            "entries": [
+                "Você aprendeu com o passar dos anos que a melhor forma de se infiltrar para cumprir seus objetivos é ser mais um na multidão. A maneira como você anda, fala e se move é deliberadamente esquecível e totalmente incomum. Enquanto você usa roupas apropriadas para a área em que está, ninguém consegue se lembrar do seu rosto nem de quaisquer características suas, a menos que façam um esforço ativo para fazê-lo (Desde que sua aparência não se destaque muito entre as raças e estilo de vida local).",
+                "."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+{
+    "name": "Urban Bounty Hunter",
+    "source": "GUARDA",
+    "page": 178,
+    "freeRules2024": true,
+    "edition": "one",
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+    "skillProficiencies": [
+        {
+            "choose": {
+                "from": [
+                    "Deception",
+                    "Insight",
+                    "Persuasion",
+                    "Stealth"
+                ],
+                "count": 2
+            }
+        }
+    ],
+    "toolProficiencies": [
+        {
+            "any": true
+        }
+    ],
+"languageProficiencies": [
+{
+"common": true,
+"anyStandard": 2
+}
+],
+    "entries": [
+        {
+            "name": "Talento de antecedente: Perseguidor implacável",
+            "type": "entries",
+            "entries": [
+                "Como caçador de recompensas, seu alvo principal são pessoas procuradas pela lei, e você aprendeu muito bem como perseguir um alvo, mesmo que ele esteja nos locais mais inacessíveis de uma cidade.",
+                "Quando perseguindo um alvo em ambiente urbano, você consegue procurar pistas deixadas pela passagem do seu alvo 50% mais rápido que o padrão, fazendo perguntas a habitantes locais em busca de rumores, ou percebendo detalhes que só os experientes perceberiam. Além disso, sua presença forte garante que o povo comum não espalhe por aí que alguém andou fazendo perguntas."
+            ],
+            "data": {
+                "isFeature": true
+            }
+        }
+    ],
+    "hasFluff": true,
+    "hasFluffImages": true
+},
+        {
+            "name": "Wayfarer",
+            "source": "GUARDA",
+            "page": 178,
+            "freeRules2024": true,
+            "edition": "one",
+            "feats": [
+                {
+                    "anyFromCategory": {
+                        "category": "O",
+                        "count": 1
+                    }
+                }
+            ],
+            "skillProficiencies": [
+                {
+                    "choose": {
+                        "from": [
+                            "Sleight of hand",
+                            "Stealth",
+                            "Acrobatics",
+                            "Deception"
+                        ],
+                        "count": 2
+                    }
+                }
+            ],
+            "toolProficiencies": [
+                {
+                    "any": true
+                }
+            ],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 2
+				}
+			],
+            "entries": [
+                {
+                    "name": "Talento de antecedente: Segredos da cidade",
+                    "type": "entries",
+                    "entries": [
+                        "Você conhece os padrões secretos e o fluxo para as cidades e pode encontrar passagens na expansão urbana que outros não perceberiam. Quando você não está em combate, você (e seus companheiros liderados) podem viajar entre quaisquer dois locais da cidade duas vezes mais rápido que sua velocidade normalmente permitiria.",
+                        "."
+                    ],
+                    "data": {
+                        "isFeature": true
+                    }
+                }
+            ],
+            "hasFluff": true,
+            "hasFluffImages": true
+        }
+    ]
+}

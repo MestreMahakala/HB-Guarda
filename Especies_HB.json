@@ -1,0 +1,616 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Guarda",
+				"abbreviation": "GUARDA",
+				"full": "G.U.A.R.D.A de Tenebris",
+				"authors": [
+					"Mahakala"
+				],
+				"convertedBy": [
+					"Mahakala"
+				],
+				"version": "1.0"
+			}
+		],
+		"status": "ready",
+		"edition": "one",
+		"dateAdded": 1608050554,
+		"dateLastModified": 1695223569,
+		"_dateLastModifiedHash": "b6b795e6fb"
+	},
+	"race": [
+		{
+			"name": "Custom Lineage (aquático)",
+			"source": "Guarda",
+			"page": 8,
+			"lineage": true,
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"swim": true
+			},
+			"feats": [
+				{
+					"any": 1
+				}
+			],
+			"entries": [
+				"Em vez de escolher uma das raças do jogo para o seu personagem no 1º nível, você pode usar o custom lineage para criar sua própria raça. Além da opção disponível no livro Tasha, trouxemos para vocês a possibilide de criar raças aquáticas e voadoras. Esta é a base das criaturas aquáticas que concede o seguinte:",
+				{
+					"type": "entries",
+					"name": "Creature Type",
+					"entries": [
+						"Você é um ser humanoide. Você determina sua aparência e se assemelha a algum de seus semelhantes."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Tamanho",
+					"entries": [
+						"Você é Small ou Medium (sua escolha)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Feat",
+					"entries": [
+						"Você ganha uma {@5etools feat|feats.html} à sua escolha."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Vida aquática",
+					"entries": [
+						"Por ser um ser aquático, você tem as seguintes características: (a) Possui deslocamento de natação igual seu deslocamento de caminhada  e (b) respira debaixo d'água."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"Você pode falar, ler e escrever Comum e mais uma outra língua que você e seu Mestre(a) concordem ser apropriada para o seu personagem."
+					]
+				},
+				"Sua raça é considerada uma Linhagem Personalizada para qualquer característica do jogo que exija uma raça específica, como elfo ou anão."
+			]
+		},
+		{
+			"name": "Custom Lineage (voador)",
+			"source": "Guarda",
+			"page": 8,
+			"lineage": true,
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"fly": true
+			},
+			"darkvision": 60,
+			"feats": [
+				{
+					"any": 1
+				}
+			],
+			"skillProficiencies": [
+				{
+					"any": 1
+				}
+			],
+			"entries": [
+				"Em vez de escolher uma das raças do jogo para o seu personagem no 1º nível, você pode usar o custom lineage para criar sua própria raça. Além da opção disponível no livro Tasha, trouxemos para vocês a possibilide de criar raças aquáticas e voadoras. Esta é a base das criaturas voadoras que concede o seguinte:",
+				{
+					"type": "entries",
+					"name": "Creature Type",
+					"entries": [
+						"Você é um ser humanoide. Você determina sua aparência e se assemelha a algum de seus semelhantes."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Tamanho",
+					"entries": [
+						"Você é Small ou Medium (sua escolha)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Variable Trait",
+					"entries": [
+						"Você tem as seguinte opções de customização: (a) {@sense darkvision} com distância de 60 feet ou (b) proficiência em uma skill de sua escolha."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Voo",
+					"entries": [
+						"Devido às suas asas, você tem uma velocidade de voo igual à sua velocidade de caminhada. Você não pode usar essa velocidade de voo se estiver usando armadura média ou pesada."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"Você pode falar, ler e escrever Comum e mais uma outra língua que você e seu Mestre(a) concordem ser apropriada para o seu personagem."
+					]
+				},
+				"Sua raça é considerada uma Linhagem Personalizada para qualquer característica do jogo que exija uma raça específica, como elfo ou anão."
+			],
+			"_versions": [
+				{
+					"name": "Custom Lineage (voador); Darkvision",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Variable Trait",
+							"items": {
+								"name": "Variable Trait; Darkvision",
+								"type": "entries",
+								"entries": [
+									"You gain {@sense darkvision} with a range of 60 feet."
+								]
+							}
+						}
+					},
+					"skillProficiencies": null
+				},
+				{
+					"name": "Custom Lineage (voador); Skill Proficiency",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Variable Trait",
+							"items": {
+								"name": "Variable Trait; Skill Proficiency",
+								"type": "entries",
+								"entries": [
+									"You gain proficiency in one skill of your choice."
+								]
+							}
+						}
+					},
+					"darkvision": null
+				}
+			]
+		},
+		{
+			"name": "Ratling",
+			"source": "Guarda",
+			"page": 25,
+			"lineage": "VRGR",
+			"size": [
+				"S"
+			],
+			"speed": {
+				"walk": 30,
+				"swim": 30,
+				"climb": 30
+			},
+			"darkvision": 60,
+			"traitTags": [
+				"Natural Weapon"
+			],
+			"skillProficiencies": [
+				{
+					"persuasion": true,
+					"stealth": true
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Mordida",
+					"entries": [
+						"Você possui uma arma natural na forma de uma mordida, que causa 1d6 de dano perfurante. Quando usada para atacar objetos o dano pode ser considerado cortante para fins de imunidade e resistência, além de ser dobrado contra objetos mundanos."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Olfato Aguçado",
+					"entries": [
+						"Você tem vantagem em testes de Sabedoria (Percepção) que dependem do olfato."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visão no Escuro",
+					"entries": [
+						"Você tem visão no escuro de 60 pés"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Onde cabe um, cabe dois",
+					"entries": [
+						"Você pode terminar seus turnos no mesmo espaço que criaturas aliadas, e viceversa, sem nenhuma penalidade. No máximo duas criaturas podem ficar no mesmo espaço por meio dessa habilidade."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Descendência Roedora",
+					"entries": [
+						"Escolha uma das seguintes opções:",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Rato da Cidade",
+									"entry": "Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}"
+								},
+								{
+									"type": "item",
+									"name": "Camundongo",
+									"entry": "Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuation}."
+								},
+								{
+									"type": "item",
+									"name": "Rato do Esgotos",
+									"entry": "Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
+								}
+							],
+							"style": "list-hang-notitle"
+						}
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true,
+			"_versions": [
+				{
+					"name": "Rato da Cidade",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Descendência Roedora",
+							"items": {
+								"name": "Rato da Cidade",
+								"type": "entries",
+								"entries": [
+									"Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. Além disso, você é proficiente na perícia {@skill Stealth}."
+								]
+							}
+						}
+					},
+					"speed": {
+						"walk": 30,
+						"climb": 30
+					},
+					"skillProficiencies": [
+						{
+							"stealth": true
+						}
+					]
+				},
+				{
+					"name": "Camundongo",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Descendência Roedora",
+							"items": {
+								"name": "Camundongo",
+								"type": "entries",
+								"entries": [
+									"Você tem vantagem em testes de resistência {@condition frightened}. Além disso, você é proficiente na perícia {@skill Persuasion}."
+								]
+							}
+						}
+					},
+					"speed": 30,
+					"skillProficiencies": [
+						{
+							"persuasion": true
+						}
+					]
+				},
+				{
+					"name": "Rato dos Esgotos",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Descendência Roedora",
+							"items": {
+								"name": "Rato do Esgotos",
+								"type": "entries",
+								"entries": [
+									"Você tem um deslocamento de natação igual ao seu deslocamento de caminhada. Você pode prender a respiração por até 15 minutos."
+								]
+							}
+						}
+					},
+					"speed": {
+						"walk": 30,
+						"swim": 30
+					}
+				}
+			]
+		},
+		{
+			"name": "Elfo (Avariel)",
+			"source": "GUARDA",
+			"page": 5,
+			"lineage": "VRGR",
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"fly": true
+			},
+			"darkvision": 60,
+			
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"Insight",
+							"perception",
+							"survival"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Asas",
+					"entries": [
+						"Você tem um par de asas que lhe concedem uma velocidade de voo igual à sua velocidade de caminhada, exceto se estiver usando armadura média ou pesada. Largas e emplumadas, elas podem atingir até 10 pés quando totalmente estendidas."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Transe",
+					"entries": [
+						"Você não precisa dormir, e magia não pode fazer você dormir. Você pode terminar um Long Rest em 4 horas se passar essas horas em uma meditação semelhante a um transe, durante a qual você retém a consciência."
+
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ancestralidade feérica",
+					"entries": [
+						"Você tem Vantagem em testes de resistência que faz para evitar ou terminar a condição Charmed"
+
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visão no Escuro",
+					"entries": [
+						"Você tem Visão no escuro com um alcance de 60 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sentidos Aguçados",
+					"entries": [
+						"Você tem proficiência na perícia Insight, Perception ou Survival."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+{
+			"name": "Eryndor",
+			"source": "Guarda",
+			"page": 8,
+			"lineage": true,
+			"creatureTypes": [
+				"fey"
+			],
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"swim": 30
+			},
+			"darkvision": 60,
+			"traitTags": [
+				"Natural Weapon"
+			],
+			"skillProficiencies": [
+				{
+					"nature": true,
+						"any": 1
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Marcas selvagens",
+					"entries": [
+						"A aparecencia de um Eryndor não tem grandes diferenças da raça original, contudo a benção concede algumas características aleatóriamente.",
+						{
+							"type": "table",
+							"caption": "Marcas selvagens",
+							"colLabels": [
+								"d8",
+								"Hunger"
+							],
+							"colStyles": [
+								"col-2 text-center",
+								"col-10"
+							],
+							"rows": [
+								[
+									"1",
+									"A cor de seus cabelos ou pelos assume tons anormais para a raça "
+								],
+								[
+									"2",
+									"Os seus olhos mudam de cor e forma, assumindo cores fortes ou pupilas animalescos "
+								],
+								[
+									"3",
+									"Seu peso é o dobro / metade do padrão de sua raça "
+								],
+								[
+									"4",
+									"Algumas partes do seu corpo se tornam de um animal (cascos, orelhas, etc...)"
+								],
+								[
+									"5",
+									"Seus pelos ou cabelos crescem anormalmente rápido"
+								],
+								[
+									"6",
+									"Seu corpo é anormalmente frio"
+								],
+																[
+									"7",
+									"As cores de seus olhos, cabelos e pêlos muda sempre que você dorme "
+								],
+								[
+									"8",
+									"Cheiro de flores, grama ou semelhantes costumam ser emitidos de você"
+								]
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Armas bestiais",
+					"entries": [
+						"Você pode fazer seus dentes e unhas crescerem ficando afiados como uma adaga as tornando arma natural na forma de uma presas e garras, que causa {@damage 1d4} de dano perfurante ou cortante e {@damage 1d4} de dano de veneno. Ao acertar um ataque, você pode deixar o alvo envenenado com um teste de con (CD 8 + prof + con) até o final do seu próximo turno, você pode envenenar um número de vocês igual a sua proficiência por descanso longo"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Agilidade felina",
+					"entries": [
+						"Como uma ação bônus, você pode pular um número de pés igual a cinco vezes sua proficiência. Você pode fazer isso somente se sua velocidade for maior que 0. Você pode usá-la um número de vezes igual ao sua proficiência, e você recupera os usos em um descanso longo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Origem da benção",
+					"entries": [
+						"Escolha uma das seguintes opções:",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Floresta",
+									"entry": "Constituição da selva: você tem vantagens em testes contra a condição envenenada e resistência a dano de veneno."
+								},
+								{
+									"type": "item",
+									"name": "Mar",
+									"entry": "Nascido para a água:  Você ganha deslocamento de natação igual ao de caminhada e pode respirar normalmente dentro da água"
+								},
+								{
+									"type": "item",
+									"name": "Céu",
+									"entry": "Peso pena: Você pode desacelerar sua queda ou permitir que você plane. Quando você cai e não está incapacitado, você pode subtrair até 100 pés da queda ao calcular o dano da queda, e você pode se mover o seu deslocamento de caminhada durante a queda"
+								},
+								{
+									"type": "item",
+									"name": "Subterrâneo",
+									"entry": "Sentidos da terra: Como uma Ação Bônus, você ganha Tremorsense com um alcance de 60 pés por 10 minutos. Você deve estar tocando uma superfície de pedra para usar este Tremorsense. Você pode fazer isso um número de vezes igual a sua Proficiência, e recupera os usos gastos quando termina um Descanso Longo"
+								}
+							],
+							"style": "list-hang-notitle"
+						}
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true,
+			"_versions": [
+				{
+					"name": "Eryndor (Floresta)",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Origem da benção",
+							"items": {
+								"name": "Constituição da selva",
+								"type": "entries",
+								"entries": [
+									"você tem vantagens em testes contra a condição envenenada e resistência a dano de veneno."
+								]
+							}
+						}
+					},
+					"speed": 30
+				},
+				{
+					"name": "Eryndor (Mar)",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Origem da benção",
+							"items": {
+								"name": "Nascido para a água",
+								"type": "entries",
+								"entries": [
+									"Você ganha deslocamento de natação igual ao de caminhada e pode respirar normalmente dentro da água"
+								]
+							}
+						}
+					},
+					"speed": {
+						"walk": 30,
+						"swim": 30
+					}
+				},
+				{
+					"name": "Eryndor (Céu)",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Origem da benção",
+							"items": {
+								"name": "Peso pena",
+								"type": "entries",
+								"entries": [
+									"Você pode desacelerar sua queda ou permitir que você plane. Quando você cai e não está incapacitado, você pode subtrair até 100 pés da queda ao calcular o dano da queda, e você pode se mover o seu deslocamento de caminhada durante a queda"
+								]
+							}
+						}
+					},
+					"speed": 30
+				},
+				{
+					"name": "Eryndor (Subterrâneo)",
+					"source": "Guarda",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Origem da benção",
+							"items": {
+								"name": "Sentidos da terra",
+								"type": "entries",
+								"entries": [
+									"Como uma Ação Bônus, você ganha Tremorsense com um alcance de 60 pés por 10 minutos. Você deve estar tocando uma superfície de pedra para usar este Tremorsense. Você pode fazer isso um número de vezes igual a sua Proficiência, e recupera os usos gastos quando termina um Descanso Longo"
+								]
+							}
+						}
+					 },
+					"speed":30
+				}
+			]
+		}
+	]
+}
