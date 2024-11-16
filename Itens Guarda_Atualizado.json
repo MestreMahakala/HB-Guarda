@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223783,
+		"dateLastModified": 1695223786,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -2938,10 +2938,10 @@
 		"value": 50000
 	},
 	{
-		"name": "Necklace of Prayer Beads (        Wind walking)",
+		"name": "Necklace of Prayer Beads (Wind walking)",
 		"source": "Guarda",
 		"_copy": {
-			"name": "Necklace of Prayer Beads (        Wind walking)",
+			"name": "Necklace of Prayer Beads (Wind walking)",
 			"source": "DMG",
 			"_preserve": {
 				"page": true,
