@@ -1,0 +1,8943 @@
+{
+	
+	"_meta": {
+		"sources": [
+			{
+				"json": "Guarda",
+				"abbreviation": "Guarda",
+				"full": "G.U.A.R.D.A de Tenebris",
+				"authors": [
+					"Mahakala"
+				],
+				"convertedBy": [
+					"Mahakala"
+				],
+				"version": "1.0"
+				
+			}
+		],
+		"dependencies": {
+			"baseitem": [
+				"SCAG"
+			],
+			"item": [
+				"AAG",
+				"AI",
+				"BGG",
+				"BMT",
+				"CM",
+				"CoS",
+				"CRCotN",
+				"DC",
+				"DMG",
+				"DSotDQ",
+				"EET",
+				"EGW",
+				"ERLW",
+				"FTD",
+				"GGR",
+				"GoS",
+				"HftT",
+				"HotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"LMoP",
+				"LoX",
+				"MM",
+				"MOT",
+				"MTF",
+				"OotA",
+				"PaBTSO",
+				"PHB",
+				"PotA",
+				"RMBRE",
+				"RoT",
+				"RoTOS",
+				"SatO",
+				"SCC",
+				"SDW",
+				"SKT",
+				"TCE",
+				"TDCSR",
+				"TftYP",
+				"ToA",
+				"VGM",
+				"VRGR",
+				"WBtW",
+				"WDH",
+				"WDMM",
+				"XGE"
+			],
+			"itemGroup": [
+				"BGG",
+				"BMT",
+				"CRCotN",
+				"DMG",
+				"EGW",
+				"ERLW",
+				"FTD",
+				"GGR",
+				"KftGV",
+				"OotA",
+				"PaBTSO",
+				"PHB",
+				"PotA",
+				"SCAG",
+				"TCE",
+				"TDCSR",
+				"TftYP",
+				"VGM",
+				"WBtW"
+			],
+			"itemFluff": [
+				"AI",
+				"BGG",
+				"BMT",
+				"CM",
+				"CoS",
+				"CRCotN",
+				"DMG",
+				"DSotDQ",
+				"EGW",
+				"ERLW",
+				"FTD",
+				"GGR",
+				"HotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"MOT",
+				"MTF",
+				"OotA",
+				"PaBTSO",
+				"PHB",
+				"PotA",
+				"RoT",
+				"SatO",
+				"SKT",
+				"TCE",
+				"TDCSR",
+				"ToA",
+				"VRGR",
+				"WBtW",
+				"WDH",
+				"XGE"
+			]
+		},
+		"status": "ready",
+		"edition": "one",
+		"dateAdded": 1608050554,
+		"dateLastModified": 1695223769,
+		"_dateLastModifiedHash": "b6b795e6fb"
+	},
+	"baseitem": [
+		{
+			"name": "Pistol",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pistol",
+				"source": "DMG",
+				"_preserve": {
+					"baseItem": true,
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 10000
+		},
+		{
+			"name": "Musket",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Musket",
+				"source": "DMG",
+				"_preserve": {
+					"baseItem": true,
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 15000
+		},
+		{
+			"name": "Vanrak's Mithral Shirt",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vanrak's Mithral Shirt",
+				"source": "WDMM",
+				"_preserve": {
+					"baseItem": true,
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 120000
+		},
+		{
+			"name": "Birdpipes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Birdpipes",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Glaur",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Glaur",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 500
+		},
+		{
+			"name": "Hand Drum",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hand Drum",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Longhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Longhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Songhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Songhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Tantan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tantan",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Thelarr",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Thelarr",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Tocken",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tocken",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Wargong",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wargong",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Yarting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Yarting",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		},
+		{
+			"name": "Zulkoon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Zulkoon",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 200
+		}
+	],
+"item": [
+	{
+		"name": "Greatclub",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Greatclub",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Greatsword",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Greatsword",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Green Chromatic Rose",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Green Chromatic Rose",
+			"source": "WBtW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 35000
+	},
+	{
+		"name": "Gruul Guild Signet",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Gruul Guild Signet",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 10000
+	},
+	{
+		"name": "Gruul Keyrune",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Gruul Keyrune",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 150000
+	},
+	{
+		"name": "Guardian Emblem",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Guardian Emblem",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Halberd",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Halberd",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2000
+	},
+	{
+		"name": "Half Plate Armor",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Half Plate Armor",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 75000
+	},
+	{
+		"name": "Hammer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hammer",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Hand Crossbow",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hand Crossbow",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 7500
+	},
+	{
+		"name": "Hand Drum",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hand Drum",
+			"source": "SCAG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Handaxe",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Handaxe",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Handmortar",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Handmortar",
+			"source": "CR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 20000
+	},
+	{
+		"name": "Harbor Moon",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Harbor Moon",
+			"source": "WDH",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Hat of Disguise",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hat of Disguise",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 50000
+	},
+	{
+		"name": "Hat of Vermin",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hat of Vermin",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Hat of Wizardry",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hat of Wizardry",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Headband of Intellect",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Headband of Intellect",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 400000
+	},
+	{
+		"name": "Healer's Kit",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Healer's Kit",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Heart Weaver's Primer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Heart Weaver's Primer",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 300000
+	},
+	{
+		"name": "Heavy Crossbow",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Heavy Crossbow",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Helm of Comprehending Languages",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Helm of Comprehending Languages",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 100000
+	},
+	{
+		"name": "Helm of Telepathy",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Helm of Telepathy",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 80000
+	},
+	{
+		"name": "Helm of Teleportation",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Helm of Teleportation",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 2000000
+	},
+	{
+		"name": "Helm of the Gods",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Helm of the Gods",
+			"source": "MOT",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 120000
+	},
+	{
+		"name": "Helm of Underwater Action",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Helm of Underwater Action",
+			"source": "GoS",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 40000
+	},
+	{
+		"name": "Hempen Rope (50 feet)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hempen Rope (50 feet)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Herbalism Kit",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Herbalism Kit",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Hew",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hew",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 130000
+	},
+	{
+		"name": "Heward's Handy Haversack",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Heward's Handy Haversack",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Heward's Handy Spice Pouch",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Heward's Handy Spice Pouch",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Hide Armor",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hide Armor",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Holy Water (flask)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Holy Water (flask)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2500
+	},
+	{
+		"name": "Hooded Lantern",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hooded Lantern",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Hook of Fisher's Delight",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hook of Fisher's Delight",
+			"source": "IDRotF",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 60000
+	},
+	{
+		"name": "Hooked Shortspear",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hooked Shortspear",
+			"source": "OotA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "unknown",
+		"value": 5000
+	},
+	{
+		"name": "Hoopak",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hoopak",
+			"source": "DSotDQ",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Horn",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Horn",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 300
+	},
+	{
+		"name": "Horn of Blasting",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Horn of Blasting",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Horn of Silent Alarm",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Horn of Silent Alarm",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 15000
+	},
+	{
+		"name": "Horn of Valhalla, Brass",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Horn of Valhalla, Brass",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 1200000
+	},
+	{
+		"name": "Horn of Valhalla, Silver",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Horn of Valhalla, Silver",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 2000000
+	},
+	{
+		"name": "Horseshoes of Speed",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Horseshoes of Speed",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Hourglass",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hourglass",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2500
+	},
+	{
+		"name": "House of Cards",
+		"source": "Guarda",
+		"_copy": {
+			"name": "House of Cards",
+			"source": "BMT",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Hunk of Cheese",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hunk of Cheese",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Hunting Trap",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Hunting Trap",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Iggwilv's Horn",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Iggwilv's Horn",
+			"source": "DitLCoT",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 120000
+	},
+	{
+		"name": "Illuminator's Tattoo",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Illuminator's Tattoo",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 7000
+	},
+	{
+		"name": "Immovable Rod",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Immovable Rod",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 120000
+	},
+	{
+		"name": "Inescapable Lash",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Inescapable Lash",
+			"source": "TDCSR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 900000
+	},
+	{
+		"name": "Ink (1-ounce bottle)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ink (1-ounce bottle)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Ink Pen",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ink Pen",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Insect Repellent (block of incense)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Insect Repellent (block of incense)",
+			"source": "ToA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Insect Repellent (greasy salve)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Insect Repellent (greasy salve)",
+			"source": "ToA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Insignia of Claws",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Insignia of Claws",
+			"source": "HotDQ",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 140000
+	},
+	{
+		"name": "Instrument of Illusions",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Instrument of Illusions",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Instrument of Scribing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Instrument of Scribing",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 8000
+	},
+	{
+		"name": "Instrument of the Bards, Canaith Mandolin",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Instrument of the Bards, Canaith Mandolin",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 550000
+	},
+	{
+		"name": "Instrument of the Bards, Cli Lyre",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Instrument of the Bards, Cli Lyre",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 550000
+	},
+	{
+		"name": "Instrument of the Bards, Doss Lute",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Instrument of the Bards, Doss Lute",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 200000
+	},
+	{
+		"name": "Instrument of the Bards, Fochlucan Bandore",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Instrument of the Bards, Fochlucan Bandore",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 250000
+	},
+	{
+		"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 225000
+	},
+	{
+		"name": "Ioun Stone, Awareness",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ioun Stone, Awareness",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Ioun Stone, Protection",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ioun Stone, Protection",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Ioun Stone, Reserve",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ioun Stone, Reserve",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 800000
+	},
+	{
+		"name": "Ioun Stone, Sustenance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ioun Stone, Sustenance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 50000
+	},
+	{
+		"name": "Iron",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Iron",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Iron Bands of Bilarro",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Iron Bands of Bilarro",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Iron Pot",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Iron Pot",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Iron Spike",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Iron Spike",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Iron Spikes (10)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Iron Spikes (10)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Izzet Guild Signet",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Izzet Guild Signet",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 10000
+	},
+	{
+		"name": "Izzet Keyrune",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Izzet Keyrune",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 120000
+	},
+	{
+		"name": "Javelin",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Javelin",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Javelin of Lightning",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Javelin of Lightning",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 50000
+	},
+	{
+		"name": "Jeweler's Tools",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Jeweler's Tools",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2500
+	},
+	{
+		"name": "Jug",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Jug",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Kagonesti Forest Shroud",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Kagonesti Forest Shroud",
+			"source": "DSotDQ",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Keelboat",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Keelboat",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 300
+	},
+	{
+		"name": "Keg of Alchemist's Fire",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Keg of Alchemist's Fire",
+			"source": "LoX",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 20000
+	},
+	{
+		"name": "Keoghtom's Ointment",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Keoghtom's Ointment",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 25000
+	},
+	{
+		"name": "Keycharm",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Keycharm",
+			"source": "ERLW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 7000
+	},
+	{
+		"name": "Knave's Eye Patch",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Knave's Eye Patch",
+			"source": "WDH",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 75000
+	},
+	{
+		"name": "Ladder (10-foot)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ladder (10-foot)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Lamp",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lamp",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Lance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lance",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Lantern of Revealing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lantern of Revealing",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 140000
+	},
+	{
+		"name": "Lantern of Tracking",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lantern of Tracking",
+			"source": "IDRotF",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 40000
+	},
+	{
+		"name": "Lash of Immolation",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lash of Immolation",
+			"source": "BGG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 800000
+	},
+	{
+		"name": "Leather Armor",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Leather Armor",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Leatherworker's Tools",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Leatherworker's Tools",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Libram of Souls and Flesh",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Libram of Souls and Flesh",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 160000
+	},
+	{
+		"name": "Light Crossbow",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Light Crossbow",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2500
+	},
+	{
+		"name": "Light Hammer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Light Hammer",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Light Repeating Crossbow",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Light Repeating Crossbow",
+			"source": "OotA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "unknown",
+		"value": 5000
+	},
+	{
+		"name": "Lightbringer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lightbringer",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 140000
+	},
+	{
+		"name": "Linen (1 sq. yd.)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Linen (1 sq. yd.)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Living Gloves",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Living Gloves",
+			"source": "ERLW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Loaf of Bread",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Loaf of Bread",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Lock",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lock",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Lock of Trickery",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lock of Trickery",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 15000
+	},
+	{
+		"name": "Longbow",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Longbow",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Longhorn",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Longhorn",
+			"source": "SCAG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Longship",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Longship",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Longsword",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Longsword",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1500
+	},
+	{
+		"name": "Lorehold Primer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lorehold Primer",
+			"source": "SCC",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Luminous War Pick",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Luminous War Pick",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 150000
+	},
+	{
+		"name": "Lute",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lute",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 3500
+	},
+	{
+		"name": "Lyre",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lyre",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 3000
+	},
+	{
+		"name": "Lyre of Building",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Lyre of Building",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 500000
+	},
+	{
+		"name": "Mace",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mace",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Mace of Disruption",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mace of Disruption",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 100000
+	},
+	{
+		"name": "Mace of Smiting",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mace of Smiting",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 250000
+	},
+	{
+		"name": "Mace of Terror",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mace of Terror",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Magnifying Glass",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Magnifying Glass",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Malice",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Malice",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Manacles",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Manacles",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Mantle of Spell Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mantle of Spell Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 600000
+	},
+	{
+		"name": "Map or Scroll Case",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Map or Scroll Case",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 100
+	},
+	{
+		"name": "Mask of the Beast",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mask of the Beast",
+			"source": "ToA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Mason's Tools",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mason's Tools",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Masque Charm",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Masque Charm",
+			"source": "SCC",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 30000
+	},
+	{
+		"name": "Masquerade Tattoo",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Masquerade Tattoo",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 15000
+	},
+	{
+		"name": "Mastiff",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mastiff",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2500
+	},
+	{
+		"name": "Matchless Pipe",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Matchless Pipe",
+			"source": "WDH",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "unknown",
+		"value": 500
+	},
+	{
+		"name": "Maul",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Maul",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Medal of Muscle",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Medal of Muscle",
+			"source": "CRCotN",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 15000
+	},
+	{
+		"name": "Medal of the Conch",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Medal of the Conch",
+			"source": "CRCotN",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Medal of the Horizonback",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Medal of the Horizonback",
+			"source": "CRCotN",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 22500
+	},
+	{
+		"name": "Medal of the Meat Pie",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Medal of the Meat Pie",
+			"source": "CRCotN",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Medal of the Wetlands",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Medal of the Wetlands",
+			"source": "CRCotN",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 17000
+	},
+	{
+		"name": "Medal of Wit",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Medal of Wit",
+			"source": "CRCotN",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 20000
+	},
+	{
+		"name": "Medallion of Thoughts",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Medallion of Thoughts",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Menga leaves (1 ounce)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Menga leaves (1 ounce)",
+			"source": "ToA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "unknown",
+		"value": 500
+	},
+	{
+		"name": "Merchant's Scale",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Merchant's Scale",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 500
+	},
+	{
+		"name": "Mess Kit",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mess Kit",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Midnight Tears",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Midnight Tears",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 30000
+	},
+	{
+		"name": "Military Saddle",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Military Saddle",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2000
+	},
+	{
+		"name": "Mind Crystal (Careful)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mind Crystal (Careful)",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Mind Crystal (Distant)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mind Crystal (Distant)",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 10000
+	},
+	{
+		"name": "Mind Crystal (Empowered)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mind Crystal (Empowered)",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 7000
+	},
+	{
+		"name": "Mind Crystal (Extended)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mind Crystal (Extended)",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Mind Crystal (Heightened)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mind Crystal (Heightened)",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Mind Crystal (Quickened)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mind Crystal (Quickened)",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Mind Crystal (Subtle)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mind Crystal (Subtle)",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 20000
+	},
+	{
+		"name": "Miner's Pick",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Miner's Pick",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 200
+	},
+	{
+		"name": "Mirror of the Past",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mirror of the Past",
+			"source": "TftYP",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 600000
+	},
+	{
+		"name": "Mizzium Apparatus",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mizzium Apparatus",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 150000
+	},
+	{
+		"name": "Mizzium Mortar",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mizzium Mortar",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Monster Hunter's Pack",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Monster Hunter's Pack",
+			"source": "VRGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 4600
+	},
+	{
+		"name": "Moodmark Paint",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Moodmark Paint",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Moorbounder",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Moorbounder",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 40000
+	},
+	{
+		"name": "Morningstar",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Morningstar",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1500
+	},
+	{
+		"name": "Mule",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Mule",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 800
+	},
+	{
+		"name": "Murgaxor's Elixir of Life",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Murgaxor's Elixir of Life",
+			"source": "SCC",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "unknown",
+		"value": 5000
+	},
+	{
+		"name": "Muroosa Balm",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Muroosa Balm",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Musket",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Musket",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 20000
+	},
+	{
+		"name": "Musket (CR)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Musket (CR)",
+			"source": "CR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 15000
+	},
+	{
+		"name": "Narycrash",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Narycrash",
+			"source": "DSotDQ",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Nature's Mantle",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Nature's Mantle",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 50000
+	},
+	{
+		"name": "Necklace of Adaptation",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Adaptation",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 100000
+	},
+	{
+		"name": "Necklace of Fireballs",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Fireballs",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 50000
+	},
+	{
+		"name": "Necklace of Prayer Beads (        Wind walking)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Prayer Beads (        Wind walking)",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 400000
+	},
+	{
+		"name": "Necklace of Prayer Beads (Blessing)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Prayer Beads (Blessing)",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Necklace of Prayer Beads (Curing)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Prayer Beads (Curing)",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Necklace of Prayer Beads (Favor)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Prayer Beads (Favor)",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 150000
+	},
+	{
+		"name": "Necklace of Prayer Beads (Smiting)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Prayer Beads (Smiting)",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 50000
+	},
+	{
+		"name": "Necklace of Prayer Beads (Summons)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Necklace of Prayer Beads (Summons)",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 240000
+	},
+	{
+		"name": "Needle of Mending",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Needle of Mending",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Net",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Net",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 100
+	},
+	{
+		"name": "Netherese Ring of Protection",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Netherese Ring of Protection",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 300000
+	},
+	{
+		"name": "Nib",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Nib",
+			"source": "WDH",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 100
+	},
+	{
+		"name": "Night Caller",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Night Caller",
+			"source": "TftYP",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 120000
+	},
+	{
+		"name": "Oil (flask)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Oil (flask)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 100
+	},
+	{
+		"name": "Oil of Etherealness",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Oil of Etherealness",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 150000
+	},
+	{
+		"name": "Oil of Slipperiness",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Oil of Slipperiness",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 60000
+	},
+	{
+		"name": "Oil of Taggit",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Oil of Taggit",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 40000
+	},
+	{
+		"name": "Olisuba Leaf",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Olisuba Leaf",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 5000
+	},
+	{
+		"name": "Opal of the Ild Rune",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Opal of the Ild Rune",
+			"source": "SKT",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 250000
+	},
+	{
+		"name": "Orb",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orb",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 2000
+	},
+	{
+		"name": "Orb of Direction",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orb of Direction",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 3000
+	},
+	{
+		"name": "Orb of Gonging",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orb of Gonging",
+			"source": "WDMM",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 4000
+	},
+	{
+		"name": "Orb of the Stein Rune",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orb of the Stein Rune",
+			"source": "SKT",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 200000
+	},
+	{
+		"name": "Orb of Time",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orb of Time",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2000
+	},
+	{
+		"name": "Orc Stone",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orc Stone",
+			"source": "IDRotF",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 25000
+	},
+	{
+		"name": "Orzhov Guild Signet",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orzhov Guild Signet",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Orzhov Keyrune",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Orzhov Keyrune",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 150000
+	},
+	{
+		"name": "Outer Essence Shard (Chaotic)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Outer Essence Shard (Chaotic)",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 500000
+	},
+	{
+		"name": "Outer Essence Shard (Evil)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Outer Essence Shard (Evil)",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 300000
+	},
+	{
+		"name": "Outer Essence Shard (Good)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Outer Essence Shard (Good)",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 400000
+	},
+	{
+		"name": "Outer Essence Shard (Lawful)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Outer Essence Shard (Lawful)",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 500000
+	},
+	{
+		"name": "Oversized Longbow",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Oversized Longbow",
+			"source": "WDH",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "unknown",
+		"value": 7500
+	},
+	{
+		"name": "Ox",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ox",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 1500
+	},
+	{
+		"name": "Pack Saddle",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pack Saddle",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Padded Armor",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Padded Armor",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Painter's Supplies",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Painter's Supplies",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 1000
+	},
+	{
+		"name": "Pale Tincture",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pale Tincture",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 10000
+	},
+	{
+		"name": "Palm Pistol",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Palm Pistol",
+			"source": "CR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 2000
+	},
+	{
+		"name": "Pan Flute",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pan Flute",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 1200
+	},
+	{
+		"name": "Paper (one sheet)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Paper (one sheet)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 200
+	},
+	{
+		"name": "Paper Bird",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Paper Bird",
+			"source": "WDH",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 5000
+	},
+	{
+		"name": "Parchment (one sheet)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Parchment (one sheet)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 100
+	},
+	{
+		"name": "Pariah's Shield",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pariah's Shield",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 500000
+	},
+	{
+		"name": "Pearl of Power",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pearl of Power",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 80000
+	},
+	{
+		"name": "Pepper",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pepper",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 200
+	},
+	{
+		"name": "Pepperbox",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pepperbox",
+			"source": "CR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 12000
+	},
+	{
+		"name": "Perfume (vial)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Perfume (vial)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Perfume of Bewitching",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Perfume of Bewitching",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 7000
+	},
+	{
+		"name": "Periapt of Health",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Periapt of Health",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 100000
+	},
+	{
+		"name": "Periapt of Proof against Poison",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Periapt of Proof against Poison",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 2500000
+	},
+	{
+		"name": "Periapt of Wound Closure",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Periapt of Wound Closure",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 70000
+	},
+	{
+		"name": "Philter of Love",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Philter of Love",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 12000
+	},
+	{
+		"name": "Piercer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Piercer",
+			"source": "AI",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 500000
+	},
+	{
+		"name": "Pig",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pig",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 300
+	},
+	{
+		"name": "Pike",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pike",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Pipe of Remembrance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pipe of Remembrance",
+			"source": "GoS",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Pipe of Smoke Monsters",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pipe of Smoke Monsters",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 2000
+	},
+	{
+		"name": "Pipes of Haunting",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pipes of Haunting",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 80000
+	},
+	{
+		"name": "Pipes of the Sewers",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pipes of the Sewers",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 15000
+	},
+	{
+		"name": "Pistol",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pistol",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 10000
+	},
+	{
+		"name": "Pistol (CR)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pistol (CR)",
+			"source": "CR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 7500
+	},
+	{
+		"name": "Pitcher",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pitcher",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 200
+	},
+	{
+		"name": "Piton",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Piton",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Piwafwi of Fire Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Piwafwi of Fire Resistance",
+			"source": "OotA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 100000
+	},
+	{
+		"name": "Pixie Dust",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pixie Dust",
+			"source": "WBtW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Plainscow",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Plainscow",
+			"source": "TDCSR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 20000
+	},
+	{
+		"name": "Planecaller's Codex",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Planecaller's Codex",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 400000
+	},
+	{
+		"name": "Plate Armor",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Plate Armor",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 150
+	},
+	{
+		"name": "Plate of Knight's Fellowship",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Plate of Knight's Fellowship",
+			"source": "BMT",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 80000
+	},
+	{
+		"name": "Platinum",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Platinum",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 50000
+	},
+	{
+		"name": "Playing Card Set",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Playing Card Set",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Poisoner's Kit",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Poisoner's Kit",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 5000
+	},
+	{
+		"name": "Pole (10-foot)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pole (10-foot)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Pole of Angling",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pole of Angling",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Pole of Collapsing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pole of Collapsing",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 3000
+	},
+	{
+		"name": "Pony",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pony",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 3000
+	},
+	{
+		"name": "Portable Hole",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Portable Hole",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 600000
+	},
+	{
+		"name": "Portable Ram",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Portable Ram",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 400
+	},
+	{
+		"name": "Pot of Awakening",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pot of Awakening",
+			"source": "XGE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 3000
+	},
+	{
+		"name": "Potion of Acid Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Acid Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Advantage",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Advantage",
+			"source": "WBtW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 10000
+	},
+	{
+		"name": "Potion of Animal Friendship",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Animal Friendship",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 10000
+	},
+	{
+		"name": "Potion of Aqueous Form",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Aqueous Form",
+			"source": "MOT",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Potion of Clairvoyance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Clairvoyance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Potion of Climbing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Climbing",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Potion of Cold Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Cold Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Comprehension",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Comprehension",
+			"source": "WDMM",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 7000
+	},
+	{
+		"name": "Potion of Diminution",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Diminution",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 12500
+	},
+	{
+		"name": "Potion of Fire Breath",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Fire Breath",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 15000
+	},
+	{
+		"name": "Potion of Fire Giant Strength",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Fire Giant Strength",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Potion of Fire Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Fire Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Force Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Force Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 35000
+	},
+	{
+		"name": "Potion of Frost Giant Strength",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Frost Giant Strength",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Potion of Gaseous Form",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Gaseous Form",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Potion of Greater Healing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Greater Healing",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 12500
+	},
+	{
+		"name": "Potion of Growth",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Growth",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 12500
+	},
+	{
+		"name": "Potion of Healing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Healing",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 5000
+	},
+	{
+		"name": "Potion of Heroism",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Heroism",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Hill Giant Strength",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Hill Giant Strength",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Potion of Invulnerability",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Invulnerability",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 100000
+	},
+	{
+		"name": "Potion of Lightning Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Lightning Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Maximum Power",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Maximum Power",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 35000
+	},
+	{
+		"name": "Potion of Mind Control (beast)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Mind Control (beast)",
+			"source": "TftYP",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 12500
+	},
+	{
+		"name": "Potion of Mind Control (humanoid)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Mind Control (humanoid)",
+			"source": "TftYP",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 25000
+	},
+	{
+		"name": "Potion of Mind Reading",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Mind Reading",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 25000
+	},
+	{
+		"name": "Potion of Necrotic Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Necrotic Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 35000
+	},
+	{
+		"name": "Potion of Poison Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Poison Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Psionic Fortitude",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Psionic Fortitude",
+			"source": "PaBTSO",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Potion of Psychic Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Psychic Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 35000
+	},
+	{
+		"name": "Potion of Radiant Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Radiant Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 35000
+	},
+	{
+		"name": "Potion of Stone Giant Strength",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Stone Giant Strength",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Potion of Superior Healing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Superior Healing",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Thunder Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Thunder Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Potion of Watchful Rest",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Watchful Rest",
+			"source": "WDMM",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 10000
+	},
+	{
+		"name": "Potion of Water Breathing",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potion of Water Breathing",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 5000
+	},
+	{
+		"name": "Potter's Tools",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Potter's Tools",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 1000
+	},
+	{
+		"name": "Pouch",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pouch",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon",
+			"source": "BGG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 100000
+	},
+	{
+		"name": "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus",
+			"source": "BGG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 130000
+	},
+	{
+		"name": "Pressure Capsule",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pressure Capsule",
+			"source": "GoS",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 1000
+	},
+	{
+		"name": "Pride Silk",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pride Silk",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 10000
+	},
+	{
+		"name": "Pride Silk Outfit",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pride Silk Outfit",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 50000
+	},
+	{
+		"name": "Priest's Pack",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Priest's Pack",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 1900
+	},
+	{
+		"name": "Prismari Primer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Prismari Primer",
+			"source": "SCC",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Propeller Helm",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Propeller Helm",
+			"source": "WDMM",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Prosthetic Limb",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Prosthetic Limb",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "common",
+		"value": 60000
+	},
+	{
+		"name": "Protective Verses",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Protective Verses",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 250000
+	},
+	{
+		"name": "Psi Crystal",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Psi Crystal",
+			"source": "IDRotF",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Purple Worm Poison",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Purple Worm Poison",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 120000
+	},
+	{
+		"name": "Pyroconverger",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Pyroconverger",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 40000
+	},
+	{
+		"name": "Quaal's Feather Token, Anchor",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quaal's Feather Token, Anchor",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 10000
+	},
+	{
+		"name": "Quaal's Feather Token, Bird",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quaal's Feather Token, Bird",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 120000
+	},
+	{
+		"name": "Quaal's Feather Token, Fan",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quaal's Feather Token, Fan",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 10000
+	},
+	{
+		"name": "Quaal's Feather Token, Swan Boat",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quaal's Feather Token, Swan Boat",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 40000
+	},
+	{
+		"name": "Quaal's Feather Token, Tree",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quaal's Feather Token, Tree",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 8000
+	},
+	{
+		"name": "Quaal's Feather Token, Whip",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quaal's Feather Token, Whip",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 30000
+	},
+	{
+		"name": "Quandrix Primer",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quandrix Primer",
+			"source": "SCC",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Quarterstaff",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quarterstaff",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 200
+	},
+	{
+		"name": "Quiver",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quiver",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 100
+	},
+	{
+		"name": "Quiver of Ehlonna",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Quiver of Ehlonna",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 80000
+	},
+	{
+		"name": "Rain Catcher",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Rain Catcher",
+			"source": "ToA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 100
+	},
+	{
+		"name": "Rakdos Guild Signet",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Rakdos Guild Signet",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 30000
+	},
+	{
+		"name": "Rakdos Keyrune",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Rakdos Keyrune",
+			"source": "GGR",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 15000
+	},
+	{
+		"name": "Rapier",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Rapier",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 2500
+	},
+	{
+		"name": "Rations (1 day)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Rations (1 day)",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Red Chromatic Rose",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Red Chromatic Rose",
+			"source": "WBtW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 10000
+	},
+	{
+		"name": "Reliquary",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Reliquary",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 500
+	},
+	{
+		"name": "Renaissance Bullet",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Renaissance Bullet",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 300
+	},
+	{
+		"name": "Renaissance Bullet (10)",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Renaissance Bullet (10)",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 300
+	},
+	{
+		"name": "Reszur",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Reszur",
+			"source": "PotA",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 120000
+	},
+	{
+		"name": "Reveler's Concertina",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Reveler's Concertina",
+			"source": "TCE",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 800000
+	},
+	{
+		"name": "Riding Horse",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Riding Horse",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 7500
+	},
+	{
+		"name": "Riding Saddle",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Riding Saddle",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 1000
+	},
+	{
+		"name": "Ring Mail",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring Mail",
+			"source": "PHB",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "none",
+		"value": 3000
+	},
+	{
+		"name": "Ring of Acid Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Acid Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Ring of Animal Influence",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Animal Influence",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 120000
+	},
+	{
+		"name": "Ring of Cold Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Cold Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Ring of Evasion",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Evasion",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 150000
+	},
+	{
+		"name": "Ring of Feather Falling",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Feather Falling",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 35000
+	},
+	{
+		"name": "Ring of Fire Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Fire Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Ring of Force Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Force Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 125000
+	},
+	{
+		"name": "Ring of Free Action",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Free Action",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 2000000
+	},
+	{
+		"name": "Ring of Jumping",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Jumping",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 20000
+	},
+	{
+		"name": "Ring of Lightning Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Lightning Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Ring of Mind Shielding",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Mind Shielding",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 50000
+	},
+	{
+		"name": "Ring of Necrotic Resistance",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Necrotic Resistance",
+			"source": "DMG",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "rare",
+		"value": 80000
+	},
+	{
+		"name": "Ring of Obscuring",
+		"source": "Guarda",
+		"_copy": {
+			"name": "Ring of Obscuring",
+			"source": "EGW",
+			"_preserve": {
+				"page": true,
+				"type": true,
+				"tier": true,
+				"lootTables": true
+			}
+		},
+		"rarity": "uncommon",
+		"value": 50000
+	}		  
+	],
+	"itemGroup": [
+		{
+			"name": "Absorbing Tattoo",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Absorbing Tattoo",
+				"source": "TCE",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "\\|TCE$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 2400000
+		},
+		{
+			"name": "Armor of Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Armor of Resistance",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 600000,
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Armor of Resistance",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Carpet of Flying",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Carpet of Flying",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 1200000
+		},
+		{
+			"name": "Dragon Scale Mail",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon Scale Mail",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 400000,
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Dragon Scale Mail",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Elemental Gem",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Elemental Gem",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 96000,
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Elemental Gem",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Guild Signet",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Guild Signet",
+				"source": "GGR",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "\\|GGR$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 150000
+		},
+		{
+			"name": "Potion of Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Resistance",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 30000
+		},
+		{
+			"name": "Ring of Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Resistance",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true,
+					"hasFluffImages": true
+				}
+			},
+			"value": 600000,
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Ring of Resistance",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Scroll of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 18000
+		},
+		{
+			"name": "Sword of Answering",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sword of Answering",
+				"source": "DMG",
+				"_mod": {
+					"items": [
+						{
+							"mode": "replaceTxt",
+							"replace": "$",
+							"with": "|Guarda",
+							"flags": "i"
+						}
+					]
+				},
+				"_preserve": {
+					"page": true,
+					"tier": true,
+					"lootTables": true,
+					"wondrous": true
+				}
+			},
+			"value": 3600000
+		}
+	],
+	"magicvariant": [
+		{
+			"name": "+1 Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "+1 ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 1200",
+				"bonusWeapon": "+1",
+				"entries": [
+					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
+					{
+						"type": "inset",
+						"name": "Sane Magic Item Pricing Note",
+						"entries": [
+							"Price is per each individual piece of ammunition"
+						]
+					}
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				]
+			}
+		},
+		{
+			"name": "+1 Armor",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "+1 ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 150000",
+				"bonusAc": "+1",
+				"entries": [
+					"You have a {=bonusAc} bonus to AC while wearing this armor."
+				]
+			}
+		},
+		{
+			"name": "+1 Shield (*)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "S"
+				}
+			],
+			"entries": [
+				"{@note * This generic variant has the same name and source as the item {@item +1 shield|Guarda}}.",
+				"While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+			],
+			"inherits": {
+				"namePrefix": "+1 ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 120000",
+				"bonusAc": "+1",
+				"entries": [
+					"While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+				]
+			}
+		},
+		{
+			"name": "+1 Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"excludes": {
+				"net": true
+			},
+			"inherits": {
+				"namePrefix": "+1 ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 120000",
+				"bonusWeapon": "+1",
+				"entries": [
+					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
+				],
+				"lootTables": [
+					"Magic Item Table F"
+				]
+			}
+		},
+		{
+			"name": "+2 Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "+2 ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "minor",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"bonusWeapon": "+2",
+				"entries": [
+					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
+					{
+						"type": "inset",
+						"name": "Sane Magic Item Pricing Note",
+						"entries": [
+							"Price is per each individual piece of ammunition"
+						]
+					}
+				],
+				"lootTables": [
+					"Magic Item Table C"
+				]
+			}
+		},
+		{
+			"name": "+2 Shield (*)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "S"
+				}
+			],
+			"entries": [
+				"{@note * This generic variant has the same name and source as the item {@item +2 shield|Guarda}}.",
+				"While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+			],
+			"inherits": {
+				"namePrefix": "+2 ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"bonusAc": "+2",
+				"entries": [
+					"While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+				]
+			}
+		},
+		{
+			"name": "+2 Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"excludes": {
+				"net": true
+			},
+			"inherits": {
+				"namePrefix": "+2 ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 400000",
+				"bonusWeapon": "+2",
+				"entries": [
+					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
+				],
+				"lootTables": [
+					"Magic Item Table G"
+				]
+			}
+		},
+		{
+			"name": "Adamantine Armor",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "HA"
+				},
+				{
+					"type": "MA"
+				}
+			],
+			"excludes": {
+				"name": "Hide Armor"
+			},
+			"inherits": {
+				"namePrefix": "Adamantine ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 150000",
+				"entries": [
+					"This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
+				]
+			}
+		},
+		{
+			"name": "Adamantine Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"excludes": {
+				"name": "Energy Cell"
+			},
+			"ammo": true,
+			"entries": [
+				"Ammunition made of or coated with adamantine is unusually effective when used to break objects. Whenever a piece of adamantine ammunition hits an object, the hit is a critical hit.",
+				"The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it."
+			],
+			"inherits": {
+				"namePrefix": "Adamantine ",
+				"source": "Guarda",
+				"page": 78,
+				"tier": "minor",
+				"rarity": "unknown",
+				"valueExpression": "[[baseItem.value]] + 5000",
+				"entries": [
+					"Whenever you hit an object using this ammunition, the hit is a critical hit."
+				]
+			}
+		},
+		{
+			"name": "Adamantine Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"excludes": {
+				"net": true
+			},
+			"entries": [
+				"Melee weapons made of or coated with adamantine are unusually effective when used to break objects. Whenever an adamantine weapon hits an object, the hit is a critical hit.",
+				"The adamantine version of a melee weapon costs 500 gp more than the normal version, whether the weapon is made of the metal or coated with it."
+			],
+			"inherits": {
+				"namePrefix": "Adamantine ",
+				"source": "Guarda",
+				"page": 78,
+				"tier": "major",
+				"rarity": "unknown",
+				"valueExpression": "[[baseItem.value]] + 50000",
+				"entries": [
+					"Whenever you hit an object with this weapon, the hit is a critical hit."
+				]
+			}
+		},
+		{
+			"name": "Armor of Acid Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Acid Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"acid"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Cold Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Cold Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"cold"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Fire Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Fire Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"fire"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Force Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Force Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"force"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Fungal Spores",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "MA"
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Fungal Spores",
+				"source": "Guarda",
+				"page": 65,
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 50000",
+				"entries": [
+					"While wearing this armor, you can take a bonus action to make the armor emit Poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the Poisoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn."
+				]
+			},
+			"hasFluffImages": true
+		},
+		{
+			"name": "Armor of Lightning Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Lightning Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"lightning"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Necrotic Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Necrotic Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"necrotic"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Poison Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Poison Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"poison"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Psychic Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Psychic Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"psychic"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Radiant Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Radiant Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"radiant"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of the Fallen",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "MA"
+				},
+				{
+					"type": "HA"
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of the Fallen",
+				"source": "Guarda",
+				"valueExpression": "[[baseItem.value]] + 60000",
+				"page": 65,
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"entries": [
+					"While wearing this armor, you can use it to cast either {@spell Speak with Dead} or {@spell Animate Dead}. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.",
+					"Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed."
+				]
+			},
+			"hasFluffImages": true
+		},
+		{
+			"name": "Armor of Thunder Resistance",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Thunder Resistance",
+				"source": "Guarda",
+				"page": 8,
+				"resist": [
+					"thunder"
+				],
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 600000",
+				"hasRefs": true,
+				"entries": [
+					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Weightlessness",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "LA"
+				},
+				{
+					"type": "MA"
+				},
+				{
+					"type": "HA"
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Weightlessness",
+				"source": "Guarda",
+				"page": 65,
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 35000",
+				"reqAttune": true,
+				"recharge": "dawn",
+				"rechargeAmount": "{@dice 1d4 + 1}",
+				"charges": 5,
+				"entries": [
+					"This armor has 5 charges. While you wear it, you can use a bonus action to expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: {@spell Jump} (1 charge) or {@spell Levitate} (2 charges).",
+					"This armor regains {@dice 1d4 + 1} expended charges daily at dawn."
+				],
+				"attachedSpells": [
+					"jump",
+					"levitate"
+				]
+			}
+		},
+		{
+			"name": "Dragon Slayer",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Dragon Slayer ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 400000",
+				"bonusWeapon": "+1",
+				"bonusAc": "+1",
+				"entries": [
+					"You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+					"When you hit a dragon with this weapon, the dragon takes an extra {@dice 3d6} damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns."
+				],
+				"lootTables": [
+					"Magic Item Table G"
+				]
+			},
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Dragon Slayer",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Dried Leech",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"excludes": {
+				"name": "Energy Cell"
+			},
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Dried Leech ",
+				"source": "Guarda",
+				"page": 67,
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 1500",
+				"entries": [
+					"This leech has been dried and imbued with a mote of animating magic. If you hit a creature with a ranged attack roll using this ammunition, the leech springs to life and sinks its teeth into the target, dealing {@damage 1d4} piercing damage at the start of each of the target's turns. If the leech deals at least 10 damage or the target dies, the leech falls off. A creature, including the target, can use its action to detach the leech. Once a leech is no longer attached to its target, the leech dies and is no longer magical."
+				]
+			}
+		},
+		{
+			"name": "Flame Tongue",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Flame Tongue ",
+				"source": "Guarda",
+				"page": 8,
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 400000",
+				"entries": [
+					"You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra {@dice 2d6} fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword."
+				],
+				"lootTables": [
+					"Magic Item Table G"
+				]
+			},
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Flame Tongue",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Imbued Wood (Fernian Ash)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Fernian Ash ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one fire damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Irian Rosewood)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Irian Rosewood ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one radiant damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Kythrian Manchineel)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Kythrian Manchineel ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one acid or Poison damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Lamannian Oak)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Oak ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one lightning or thunder damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Mabaran Ebony)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Oak ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one necrotic damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Risian Pine)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Risian Pine ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one cold damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Shavarran Birch)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Shavarran Birch ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one force damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Imbued Wood (Xorian Wenge)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Crystal",
+					"Orb"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Xorian Wenge ",
+				"source": "Guarda",
+				"page": 277,
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "15000",
+				"bonusSpellDamage": "+1",
+				"entries": [
+					"An imbued wood focus is a rod, staff, or wand cut from a tree infused with extraplanar energy. If you're a spellcaster, you can use this item as a spellcasting focus.",
+					"When you cast a damage-dealing spell using this item as your spellcasting focus, you gain a +1 bonus to one psychic damage roll of the spell."
+				]
+			}
+		},
+		{
+			"name": "Mariner's Armor",
+			"type": "GV",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Mariner's ",
+				"source": "Guarda",
+				"page": 181,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 20000",
+				"modifySpeed": {
+					"equal": {
+						"swim": "walk"
+					}
+				},
+				"entries": [
+					"While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 Hitpoints, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				]
+			}
+		},
+		{
+			"name": "Mithral Armor",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "HA"
+				},
+				{
+					"type": "MA"
+				}
+			],
+			"excludes": {
+				"name": "Hide Armor"
+			},
+			"inherits": {
+				"namePrefix": "Mithral ",
+				"source": "Guarda",
+				"page": 182,
+				"tier": "minor",
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 80000",
+				"strength": null,
+				"stealth": false,
+				"entries": [
+					"Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ({@skill Stealth}) checks or has a Strength requirement, the mithral version of the armor doesn't."
+				],
+				"lootTables": [
+					"Magic Item Table B"
+				]
+			}
+		},
+		{
+			"name": "Mizzium Armor",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "HA"
+				},
+				{
+					"type": "MA"
+				}
+			],
+			"excludes": {
+				"name": "Hide Armor"
+			},
+			"inherits": {
+				"namePrefix": "Mizzium ",
+				"source": "Guarda",
+				"page": 179,
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 650000",
+				"entries": [
+					"This suit of armor is reinforced with a magically enhanced metal alloy called mizzium, which is made in Izzet foundries. While you're wearing the armor, any critical hit against you becomes a normal hit. In addition, when you are subjected to a magical effect that allows you to make a Strength or Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw."
+				]
+			}
+		},
+		{
+			"name": "Moon-Touched Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Moon-Touched ",
+				"source": "Guarda",
+				"page": 138,
+				"tier": "minor",
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 30000",
+				"entries": [
+					"In darkness, the unsheathed blade of this weapon sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Fernian Basalt)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Fernian Basalt ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take fire damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Irian Quartz)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Irian Quartz ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take radiant damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Kythrian Skarn)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Kythrian Skarn ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take acid or Poison damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Lamannian Flint)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Lamannian Flint ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take lightning or thunder damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Mabaran Obsidian)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Mabaran Obsidian ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take necrotic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Risian Shale)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Risian Shale ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take cold damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Shavarran Chert)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Shavarran Chert ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take force damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Orb of Shielding (Xorian Marble)",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "SCF",
+					"scfType": "arcane"
+				}
+			],
+			"excludes": {
+				"name": [
+					"Staff",
+					"Rod",
+					"Wand"
+				]
+			},
+			"inherits": {
+				"namePrefix": "Xorian Marble ",
+				"source": "Guarda",
+				"page": 278,
+				"otherSources": [
+					{
+						"source": "UAWGE",
+						"page": 114
+					}
+				],
+				"rarity": "common",
+				"reqAttune": true,
+				"wondrous": true,
+				"valueExpression": "[[baseItem.value]] + 10000",
+				"entries": [
+					"An orb of shielding is apolished, spherical chunk of crystal or stone aligned to one of the planes of existence. If you're a spellcaster, you can use this orb as a spellcasting focus.",
+					"If you're holding the orb when you take psychic damage, you can use your reaction to reduce the damage by {@dice 1d4} (to a minimum of 0)."
+				]
+			}
+		},
+		{
+			"name": "Slumbering Dragon's Wrath Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Slumbering Dragon's Wrath ",
+				"source": "Guarda",
+				"page": 25,
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 20000",
+				"bonusWeapon": "+1",
+				"entries": [
+					"This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties.",
+					"Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon."
+				]
+			}
+		},
+		{
+			"name": "Sword of Life Stealing",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Life Stealing",
+				"source": "Guarda",
+				"page": 206,
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 100000",
+				"entries": [
+					"When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary Hitpoints.",
+					"{@i Note: According to the SRD, it is an extra {@dice 3d6} necrotic damage.}"
+				],
+				"lootTables": [
+					"Magic Item Table G"
+				]
+			},
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Sword of Life Stealing",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Sword of Wounding",
+			"type": "GV",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Wounding",
+				"source": "Guarda",
+				"page": 207,
+				"tier": "major",
+				"rarity": "rare",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 200000",
+				"entries": [
+					"Hitpoints lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
+					"Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes {@dice 1d4} necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom ({@skill Medicine}) check, ending the effect of such wounds on it on a success."
+				],
+				"lootTables": [
+					"Magic Item Table G"
+				]
+			}
+		},
+		{
+			"name": "Vicious Weapon",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"excludes": {
+				"net": true
+			},
+			"entries": [
+				"When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.",
+				"{@i Note: According to the SRD, it is an extra {@dice 2d6} damage.}"
+			],
+			"inherits": {
+				"namePrefix": "Vicious ",
+				"source": "Guarda",
+				"page": 209,
+				"tier": "major",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 35000",
+				"entries": [
+					"When you roll a 20 with this magic weapon, the target takes an extra 7 {=dmgType} damage.",
+					"{@i Note: According to the SRD, it is an extra {@dice 2d6} {=dmgType} damage.}"
+				],
+				"lootTables": [
+					"Magic Item Table G"
+				]
+			},
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Vicious Weapon",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Walloping Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Walloping ",
+				"source": "Guarda",
+				"page": 139,
+				"tier": "minor",
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 800",
+				"entries": [
+					" This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked {@condition prone}."
+				]
+			}
+		},
+		{
+			"name": "Weapon of Warning",
+			"type": "GV",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Warning",
+				"source": "Guarda",
+				"page": 213,
+				"tier": "major",
+				"rarity": "uncommon",
+				"reqAttune": true,
+				"valueExpression": "[[baseItem.value]] + 90000",
+				"entries": [
+					"This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, except when {@condition incapacitated} by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins."
+				],
+				"lootTables": [
+					"Magic Item Table F"
+				]
+			},
+			"hasFluffImages": true,
+			"fluff": {
+				"_itemFluff": {
+					"name": "Weapon of Warning",
+					"source": "Guarda"
+				}
+			}
+		},
+		{
+			"name": "Winged Ammunition",
+			"type": "GV",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF"
+				}
+			],
+			"excludes": {
+				"name": "Energy Cell"
+			},
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Winged ",
+				"source": "Guarda",
+				"page": 69,
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 100",
+				"entries": [
+					"Ranged weapon attack rolls made with this ammunition ignore half and three-quarters cover. In addition, attacking at long range doesn't impose disadvantage on ranged weapon attack rolls made with this ammunition."
+				]
+			}
+		}
+	],
+	"itemFluff": [
+		{
+			"name": "Alchemy Jug",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Alchemy Jug",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Amulet of Health",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of Health",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Amulet of Proof Against Detection and Location",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of Proof Against Detection and Location",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Amulet of the Planes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of the Planes",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Animated Shield",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Animated Shield",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Apparatus of Kwalish",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Apparatus of Kwalish",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Armor of Invulnerability",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Armor of Invulnerability",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Armor of Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Armor of Resistance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Arrow of Slaying (*)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Arrow of Slaying (*)",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Atlas of Endless Horizons",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Atlas of Endless Horizons",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Axe of the Dwarvish Lords",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Axe of the Dwarvish Lords",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bag of Holding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bag of Holding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Belt of Dwarvenkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Belt of Dwarvenkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of Elvenkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of Elvenkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of Speed",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of Speed",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of Striding and Springing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of Striding and Springing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Boots of the Winterlands",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of the Winterlands",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bowl of Commanding Water Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bowl of Commanding Water Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bracers of Archery",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracers of Archery",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Bracers of Defense",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracers of Defense",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Brazier of Commanding Fire Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Brazier of Commanding Fire Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Brooch of Shielding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Brooch of Shielding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Broom of Flying",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Broom of Flying",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cape of the Mountebank",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cape of the Mountebank",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cauldron of Rebirth",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cauldron of Rebirth",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Censer of Controlling Air Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Censer of Controlling Air Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Chime of Opening",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chime of Opening",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Circlet of Blasting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Circlet of Blasting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of Displacement",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of Displacement",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of Elvenkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of Elvenkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of Protection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cloak of the Manta Ray",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of the Manta Ray",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Crook of Rao",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Crook of Rao",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Crystalline Chronicle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Crystalline Chronicle",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Cube of Force",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cube of Force",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Cubic Gate",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cubic Gate",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Daern's Instant Fortress",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Daern's Instant Fortress",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dagger of Venom",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dagger of Venom",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dancing Sword",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dancing Sword",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Decanter of Endless Water",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Decanter of Endless Water",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Deck of Many Things",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Deck of Many Things",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Defender",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Defender",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Demon Armor",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Demon Armor",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Demonomicon of Iggwilv",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Demonomicon of Iggwilv",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Devotee's Censer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Devotee's Censer",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Dimensional Shackles",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dimensional Shackles",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dragon Scale Mail",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon Scale Mail",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dragon Slayer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon Slayer",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Driftglobe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Driftglobe",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dust of Disappearance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dust of Disappearance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dust of Sneezing and Choking",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dust of Sneezing and Choking",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dwarven Plate",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dwarven Plate",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Dwarven Thrower",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dwarven Thrower",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Efreeti Bottle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Efreeti Bottle",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Efreeti Chain",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Efreeti Chain",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Elemental Gem",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Elemental Gem",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Elven Chain",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Elven Chain",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Eversmoking Bottle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Eversmoking Bottle",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Eyes of Charming",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Eyes of Charming",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Eyes of the Eagle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Eyes of the Eagle",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Feywild Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Feywild Shard",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Flame Tongue",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Flame Tongue",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Folding Boat",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Folding Boat",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Frost Brand",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Frost Brand",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Fulminating Treatise",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Fulminating Treatise",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Gauntlets of Ogre Power",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gauntlets of Ogre Power",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Gem of Brightness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gem of Brightness",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Gem of Seeing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gem of Seeing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Giant Slayer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Giant Slayer",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Gloves of Missile Snaring",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gloves of Missile Snaring",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Goggles of Night",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Goggles of Night",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Hammer of Thunderbolts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hammer of Thunderbolts",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Headband of Intellect",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Headband of Intellect",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Helm of Comprehending Languages",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of Comprehending Languages",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Helm of Telepathy",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of Telepathy",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Helm of Teleportation",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of Teleportation",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Heward's Handy Haversack",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Heward's Handy Haversack",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Holy Avenger",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Holy Avenger",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Horn of Blasting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Horn of Blasting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Immovable Rod",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Immovable Rod",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Anstruth Harp",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Anstruth Harp",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Canaith Mandolin",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Canaith Mandolin",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Cli Lyre",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Cli Lyre",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Doss Lute",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Doss Lute",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Fochlucan Bandore",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Fochlucan Bandore",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Instrument of the Bards, Ollamh Harp",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Instrument of the Bards, Ollamh Harp",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Iron Bands of Bilarro",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Iron Bands of Bilarro",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Javelin of Lightning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Javelin of Lightning",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Keoghtom's Ointment",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Keoghtom's Ointment",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Lantern of Revealing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Lantern of Revealing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mace of Disruption",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Disruption",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mace of Smiting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Smiting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mace of Terror",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Terror",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mantle of Spell Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mantle of Spell Resistance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Medallion of Thoughts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Medallion of Thoughts",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mighty Servant of Leuk-o",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mighty Servant of Leuk-o",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Mirror of Life Trapping",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mirror of Life Trapping",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Mizzium Apparatus",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mizzium Apparatus",
+				"source": "GGR"
+			}
+		},
+		{
+			"name": "Moodmark Paint",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Moodmark Paint",
+				"source": "GGR"
+			}
+		},
+		{
+			"name": "Moonblade",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Moonblade",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Nature's Mantle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nature's Mantle",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Necklace of Adaptation",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Necklace of Adaptation",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Necklace of Fireballs",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Necklace of Fireballs",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Necklace of Prayer Beads",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Necklace of Prayer Beads",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Nine Lives Stealer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nine Lives Stealer",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Nolzur's Marvelous Pigments",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nolzur's Marvelous Pigments",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Oathbow",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Oathbow",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Orb of Dragonkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Orb of Dragonkind",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Periapt of Health",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Periapt of Health",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Periapt of Wound Closure",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Periapt of Wound Closure",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Pipes of Haunting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pipes of Haunting",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Pipes of the Sewers",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pipes of the Sewers",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Quiver of Ehlonna",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quiver of Ehlonna",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Air Elemental Command",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Air Elemental Command",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Animal Influence",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Animal Influence",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Evasion",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Evasion",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Feather Falling",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Feather Falling",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Free Action",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Free Action",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Invisibility",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Invisibility",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Mind Shielding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Mind Shielding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Protection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Regeneration",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Regeneration",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Resistance",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Shooting Stars",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Shooting Stars",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Spell Storing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Spell Storing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Spell Turning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Spell Turning",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Telekinesis",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Telekinesis",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of the Ram",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of the Ram",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of Water Walking",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Water Walking",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ring of X-ray Vision",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of X-ray Vision",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of Eyes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of Eyes",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of Stars",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of Stars",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of the Archmagi",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of the Archmagi",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Robe of Useful Items",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of Useful Items",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rod of Absorption",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rod of Absorption",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rod of Lordly Might",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rod of Lordly Might",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rod of Rulership",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rod of Rulership",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Rope of Entanglement",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rope of Entanglement",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Scarab of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scarab of Protection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sending Stones",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sending Stones",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Shadowfell Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shadowfell Shard",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Shield of Missile Attraction",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shield of Missile Attraction",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Skyblinder Staff",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Skyblinder Staff",
+				"source": "GGR"
+			}
+		},
+		{
+			"name": "Slippers of Spider Climbing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Slippers of Spider Climbing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sovereign Glue",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sovereign Glue",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Spellguard Shield",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellguard Shield",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Charming",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Charming",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Fire",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Fire",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Frost",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Frost",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Healing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Healing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Power",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Power",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Swarming Insects",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Swarming Insects",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of the Adder",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Adder",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of the Python",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Python",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of the Woodlands",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Woodlands",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Thunder and Lightning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Thunder and Lightning",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Staff of Withering",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Withering",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Stone of Controlling Earth Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stone of Controlling Earth Elementals",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Stone of Good Luck",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stone of Good Luck",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sun Blade",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sun Blade",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sword of Life Stealing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sword of Life Stealing",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Sword of Sharpness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sword of Sharpness",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Talisman of the Sphere",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Talisman of the Sphere",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Talisman of Ultimate Evil",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Talisman of Ultimate Evil",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Tentacle Rod",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tentacle Rod",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Trident of Fish Command",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Trident of Fish Command",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Universal Solvent",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Universal Solvent",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Vicious Weapon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vicious Weapon",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Vorpal Sword",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vorpal Sword",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Binding",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Binding",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Enemy Detection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Enemy Detection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Fear",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Fear",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Fireballs",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Fireballs",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Lightning Bolts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Lightning Bolts",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Magic Detection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Magic Detection",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Magic Missiles",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Magic Missiles",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Paralysis",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Paralysis",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Polymorph",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Polymorph",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Secrets",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Secrets",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wand of Web",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Web",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wind Fan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wind Fan",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Winged Boots",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Winged Boots",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Wings of Flying",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wings of Flying",
+				"source": "DMG"
+			}
+		}
+	],
+	"book": [
+		{
+			"name": "Guarda",
+			"id": "Guarda",
+			"source": "Guarda",
+			"group": "homebrew",
+			"cover": {
+				"type": "external",
+				"url": "https://i.ibb.co/0tpKVHh/smi-cover.png"
+			},
+			"published": "2023-12-01",
+			"author": "Mahakala",
+			"contents": [
+				{
+					"name": "Sane Magic Item Prices: Expanded",
+					"headers": [
+						"Introduction",
+						"Consumables",
+						"Combat Items",
+						"Non-combat Items",
+						"Summoning Items",
+						"Gamechanging Items",
+						"Items that Won't be priced",
+						"Expansion: Guildmaster's Guide to Ravnica",
+						"Expansion: Tasha's Cauldron of Everything"
+					]
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "Guarda",
+			"source": "Guarda",
+			"data": [
+				{
+					"type": "section",
+					"name": "Guarda",
+					"entries": [
+						"#TODO"
+					]
+				}
+			]
+		}
+	]
+}
