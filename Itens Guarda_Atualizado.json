@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223787,
+		"dateLastModified": 1695223789,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -2936,102 +2936,6 @@
 		},
 		"rarity": "rare",
 		"value": 50000
-	},
-	{
-		"name": "Necklace of Prayer Beads (Wind walking)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Necklace of Prayer Beads (Wind walking)",
-			"source": "DMG",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "rare",
-		"value": 400000
-	},
-	{
-		"name": "Necklace of Prayer Beads (Blessing)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Necklace of Prayer Beads (Blessing)",
-			"source": "DMG",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "rare",
-		"value": 40000
-	},
-	{
-		"name": "Necklace of Prayer Beads (Curing)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Necklace of Prayer Beads (Curing)",
-			"source": "DMG",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "rare",
-		"value": 80000
-	},
-	{
-		"name": "Necklace of Prayer Beads (Favor)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Necklace of Prayer Beads (Favor)",
-			"source": "DMG",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "rare",
-		"value": 150000
-	},
-	{
-		"name": "Necklace of Prayer Beads (Smiting)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Necklace of Prayer Beads (Smiting)",
-			"source": "DMG",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "rare",
-		"value": 50000
-	},
-	{
-		"name": "Necklace of Prayer Beads (Summons)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Necklace of Prayer Beads (Summons)",
-			"source": "DMG",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "rare",
-		"value": 240000
 	},
 	{
 		"name": "Needle of Mending",
