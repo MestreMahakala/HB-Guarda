@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223778,
+		"dateLastModified": 1695223781,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -2874,22 +2874,6 @@
 		"value": 20000
 	},
 	{
-		"name": "Musket (CR)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Musket (CR)",
-			"source": "CR",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "common",
-		"value": 15000
-	},
-	{
 		"name": "Narycrash",
 		"source": "Guarda",
 		"_copy": {
@@ -3514,22 +3498,6 @@
 		"value": 10000
 	},
 	{
-		"name": "Palm Pistol",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Palm Pistol",
-			"source": "CR",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "none",
-		"value": 2000
-	},
-	{
 		"name": "Pan Flute",
 		"source": "Guarda",
 		"_copy": {
@@ -3640,22 +3608,6 @@
 		},
 		"rarity": "none",
 		"value": 200
-	},
-	{
-		"name": "Pepperbox",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Pepperbox",
-			"source": "CR",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "none",
-		"value": 12000
 	},
 	{
 		"name": "Perfume (vial)",
@@ -3880,22 +3832,6 @@
 		},
 		"rarity": "none",
 		"value": 10000
-	},
-	{
-		"name": "Pistol (CR)",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Pistol (CR)",
-			"source": "CR",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "none",
-		"value": 7500
 	},
 	{
 		"name": "Pitcher",
