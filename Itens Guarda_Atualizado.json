@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223769,
+		"dateLastModified": 1695223772,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -552,22 +552,6 @@
 		},
 		"rarity": "common",
 		"value": 500
-	},
-	{
-		"name": "Handmortar",
-		"source": "Guarda",
-		"_copy": {
-			"name": "Handmortar",
-			"source": "CR",
-			"_preserve": {
-				"page": true,
-				"type": true,
-				"tier": true,
-				"lootTables": true
-			}
-		},
-		"rarity": "common",
-		"value": 20000
 	},
 	{
 		"name": "Harbor Moon",
