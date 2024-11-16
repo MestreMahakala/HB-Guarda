@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223789,
+		"dateLastModified": 1695223792,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -5130,10 +5130,10 @@
 		"value": 300
 	},
 	{
-		"name": "Renaissance Bullet (10)",
+		"name": "Renaissance Bullets (10)",
 		"source": "Guarda",
 		"_copy": {
-			"name": "Renaissance Bullet (10)",
+			"name": "Renaissance Bullets (10)",
 			"source": "DMG",
 			"_preserve": {
 				"page": true,
