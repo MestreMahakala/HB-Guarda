@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223769,
+		"dateLastModified": 1695223774,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -375,83 +375,14 @@
 				}
 			},
 			"rarity": "uncommon",
-			"weight": 1,
-			"value": "300000"
+			"value": 120000
 		},
 		{
-			"name": "Adjustable Stilts",
+			"name": "+1 All-Purpose Tool",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Adjustable Stilts",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 8,
-			"value": 400
-		},
-		{
-			"name": "Alchemist's Doom",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Alchemist's Doom",
-				"source": "SCC",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 7500
-		},
-		{
-			"name": "Backpack Parachute",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Backpack Parachute",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 5,
-			"value": 1000
-		},
-		{
-			"name": "Barking Box",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Barking Box",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 2,
-			"value": 3000
-		},
-		{
-			"name": "Blasted Goggles",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Blasted Goggles",
-				"source": "BMT",
+				"name": "+1 All-Purpose Tool",
+				"source": "TCE",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -460,600 +391,7 @@
 				}
 			},
 			"rarity": "uncommon",
-			"weight": 1,
-			"value": 40000
-		},
-		{
-			"name": "Bloodrage Greataxe",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Bloodrage Greataxe",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"weight": 7,
-			"value": 160000
-		},
-		{
-			"name": "Boomerang Shield",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Boomerang Shield",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"weight": 6,
-			"value": 30000
-		},
-		{
-			"name": "Canoe",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Canoe",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 100,
-			"value": 5000
-		},
-		{
-			"name": "Card Sharp's Deck",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Card Sharp's Deck",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"weight": 1,
-			"value": 50000
-		},
-		{
-			"name": "Catapult Munition",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Catapult Munition",
-				"source": "SCC",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 10,
-			"value": 5000
-		},
-		{
-			"name": "Condensed Order",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Condensed Order",
-				"source": "CoA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"weight": 2,
-			"value": 12000
-		},
-		{
-			"name": "Dragon",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Dragon",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 2,
-			"value": 100
-		},
-		{
-			"name": "Fabulist Gem",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Fabulist Gem",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 40000
-		},
-		{
-			"name": "Harbor Moon",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Harbor Moon",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 2,
-			"value": 5000
-		},
-		{
-			"name": "Hooked Shortspear",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Hooked Shortspear",
-				"source": "OotA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 2,
-			"value": 5000
-		},
-		{
-			"name": "House of Cards",
-			"source": "Guarda",
-			"_copy": {
-				"name": "House of Cards",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"weight": 2,
-			"value": 20000
-		},
-		{
-			"name": "Insect Repellent (block of incense)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Insect Repellent (block of incense)",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 1,
-			"value": 1
-		},
-		{
-			"name": "Insect Repellent (greasy salve)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Insect Repellent (greasy salve)",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 1,
-			"value": 1
-		},
-		{
-			"name": "Light Repeating Crossbow",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Light Repeating Crossbow",
-				"source": "OotA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 5,
-			"value": 5000
-		},
-		{
-			"name": "Matchless Pipe",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Matchless Pipe",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 500
-		},
-		{
-			"name": "Menga leaves (1 ounce)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Menga leaves (1 ounce)",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 500
-		},
-		{
-			"name": "Murgaxor's Elixir of Life",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Murgaxor's Elixir of Life",
-				"source": "SCC",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 5000
-		},
-		{
-			"name": "Nib",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Nib",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 0.01,
-			"value": 1
-		},
-		{
-			"name": "Oversized Longbow",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Oversized Longbow",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 2,
-			"value": 7500
-		},
-		{
-			"name": "Plate of Knight's Fellowship",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Plate of Knight's Fellowship",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"weight": 65,
-			"value": 80000
-		},
-		{
-			"name": "Rain Catcher",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Rain Catcher",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 5,
-			"value": 100
-		},
-		{
-			"name": "Ring of Puzzler's Wit",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Ring of Puzzler's Wit",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"weight": 1,
-			"value": 200000
-		},
-		{
-			"name": "Ryath Root",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Ryath Root",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 5000
-		},
-		{
-			"name": "Shard",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Shard",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 1,
-			"value": 1
-		},
-		{
-			"name": "Sling of Giant Felling",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Sling of Giant Felling",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 30000
-		},
-		{
-			"name": "Sun",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Sun",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 1,
-			"value": 10
-		},
-		{
-			"name": "Taol",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Taol",
-				"source": "WDH",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 1,
-			"value": 2
-		},
-		{
-			"name": "Tej",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Tej",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 5,
-			"value": 2
-		},
-		{
-			"name": "Wand of Silence",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Wand of Silence",
-				"source": "GHLoE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 40000
-		},
-		{
-			"name": "Whistle-Stick",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Whistle-Stick",
-				"source": "OGA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 200
-		},
-		{
-			"name": "Wildroot",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Wildroot",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 7500
-		},
-		{
-			"name": "Wukka Nut",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Wukka Nut",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "unknown",
-			"weight": 1,
-			"value": 100
-		},
-		{
-			"name": "Yahcha",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Yahcha",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 3,
-			"value": 100
-		},
-		{
-			"name": "Yklwa",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Yklwa",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 3,
-			"value": 100
-		},
-		{
-			"name": "Zabou",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Zabou",
-				"source": "ToA",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"weight": 1,
-			"value": 1000
+			"value": 400000
 		},
 		{
 			"name": "+1 Amulet of the Devout",
@@ -1069,838 +407,6 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": 400000
-		},
-		{
-			"name": "Charcoal, Incense, and Herbs",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 1000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Find Familiar|PHB}."
-			]
-		},
-		{
-			"name": "Pile of bones",
-			"type": "SCF",
-			"rarity": "none",
-			"weight": 20,
-			"value": 1,
-			"source": "Guarda",
-			"entries": [
-				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o esqueleto será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o esqueleto."
-			]
-		},
-		{
-			"name": "Corpse",
-			"type": "SCF",
-			"rarity": "none",
-			"weight": 50,
-			"value": 1,
-			"source": "Guarda",
-			"entries": [
-				"Trata-se de componente da magia {@spell Animate Dead|PHB}. Para fins mecânicos, o corpo será considerado medium, mas para fins de RP o personagem pode escolher de qual raça humanoide era o corpo."
-			]
-		},
-		{
-			"name": "Specially marked sticks, Bones, or Similar tokens",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Augury|PHB}."
-			]
-		},
-		{
-			"name": "Powdered silver",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Ceremony|PHB}."
-			]
-		},
-		{
-			"name": "Incense and a Sacrificial offering",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Divination|PHB}."
-			]
-		},
-		{
-			"name": "Pearl and an Owl feather",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 10000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Identify|PHB}."
-			]
-		},
-		{
-			"name": "Lead-based ink",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 1000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Illusory Script|PHB}."
-			]
-		},
-		{
-			"name": "Small bit of honeycomb and Jade dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 1000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Magic Mouth|PHB}."
-			]
-		},
-		{
-			"name": "Gilded flower",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 30000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Fey|TCE}."
-			]
-		},
-		{
-			"name": "a Feather, Tuft of Fur, and Fish tail inside a gilded acorn",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 20000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Beast|TCE}."
-			]
-		},
-		{
-			"name": "Tears inside a gem",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 30000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Shadowspawn|PHB}."
-			]
-		},
-		{
-			"name": "Gilded skull",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 30000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Undead|TCE}."
-			]
-		},
-		{
-			"name": "Pickled tentacle and an Eyeball in a platinum-inlaid vial",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 40000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Aberration|PHB}."
-			]
-		},
-		{
-			"name": "Air, a Pebble, Ash, and Water inside a Gold-inlaid vial",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 40000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Elemental|TCE}."
-			]
-		},
-		{
-			"name": "Golden reliquary",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Celestial|TCE}."
-			]
-		},
-		{
-			"name": "Object with the image of a dragon engraved on it",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Draconic Spirit|TCE}."
-			]
-		},
-		{
-			"name": "Humanoid blood inside a ruby vial",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 60000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Summon Fiend|TCE}."
-			]
-		},
-		{
-			"name": "Diamond (50 PO)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 5000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Chromatic Orb|PHB}."
-			]
-		},
-		{
-			"name": "Gold dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Arcane Lock|PHB}."
-			]
-		},
-		{
-			"name": "Book (componente mágico)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Borrowed Knowledge|SCC}."
-			]
-		},
-		{
-			"name": "Ruby dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 5000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Continual Flame|PHB}."
-			]
-		},
-		{
-			"name": "Pair of platinum rings",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 5000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Warding Bond|PHB}."
-			]
-		},
-		{
-			"name": "Focus (100 PO)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 10000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Clairvoyance|PHB}."
-			]
-		},
-		{
-			"name": "Incense and powdered diamond",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 20000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Glyph of Warding|PHB}."
-			]
-		},
-		{
-			"name": "Gem",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 5000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Incite Greed|AI}."
-			]
-		},
-		{
-			"name": "Holy water or powdered silver and Iron",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 10000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Magic Circle|PHB}."
-			]
-		},
-		{
-			"name": "Diamond dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Nondetection|PHB}."
-			]
-		},
-		{
-			"name": "Diamonds",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 30000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Revivify|PHB}."
-			]
-		},
-		{
-			"name": "Exquisite chest and a Tiny replica",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 505000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Leomund's Secret Chest|PHB}."
-			]
-		},
-		{
-			"name": "Undead eyeball encased in a gem",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 15000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Shadow of Moil|XGE}."
-			]
-		},
-		{
-			"name": "Gilded playing card",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 40000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Spirit of Death|BMT}."
-			]
-		},
-		{
-			"name": "Diamond dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 10000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Stoneskin|PHB} and {@spell Greater Restoration|PHB}."
-			]
-		},
-		{
-			"name": "Agate",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Awaken|PHB}."
-			]
-		},
-		{
-			"name": "Crystal rod",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 500000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Create Spelljamming Helm|AAG}."
-			]
-		},
-		{
-			"name": "Sunburst pendant",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 10000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Dawn|XGE}."
-			]
-		},
-		{
-			"name": "Herbs, Oils, and Incense",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Hallow|PHB}."
-			]
-		},
-		{
-			"name": "Ruby",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 99900,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Infernal Calling|XGE}."
-			]
-		},
-		{
-			"name": "Incense and Ivory strips",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 25000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Legend Lore|PHB}."
-			]
-		},
-		{
-			"name": "Jewel",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Planar Binding|PHB}."
-			]
-		},
-		{
-			"name": "Diamond (500 PO)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Raise Dead|PHB}."
-			]
-		},
-		{
-			"name": "Rare oils and Unguents",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Reincarnate|PHB}."
-			]
-		},
-		{
-			"name": "Focus (1.000 PO)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Scrying|PHB}."
-			]
-		},
-		{
-			"name": "Rare chalks and Inks infused with precious gems",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 5000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Teleportation Circle|PHB}."
-			]
-		},
-		{
-			"name": "the powder of a crushed black pearl",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Circle of Death|PHB}."
-			]
-		},
-		{
-			"name": "Statuette of yourself",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 150000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Contingency|PHB}."
-			]
-		},
-		{
-			"name": "Clay, Ash, and Mandrake root, and a Jewel-encrusted dagger",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Create Homunculus|XGE}."
-			]
-		},
-		{
-			"name": "Clay pot filled with grave dirt, Clay pot filled with brackish water, and Black onyx stone",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 15000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Create Undead|PHB}."
-			]
-		},
-		{
-			"name": "Sapphire",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Drawmij's Instant Summons|PHB}."
-			]
-		},
-		{
-			"name": "Divinatory tools and an Object from the location",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 10000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Find the Path|PHB}."
-			]
-		},
-		{
-			"name": "Platinum-plated dragon scale",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Fizban's Platinum Shield|FTD}."
-			]
-		},
-		{
-			"name": "Holy water, Rare incense, and powdered ruby",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Forbiddance|PHB}."
-			]
-		},
-		{
-			"name": "Burning incense, Brimstone and Oil, a Knotted string, Umber hulk blood, and a Small silver rod",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 1000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Guards and Wards|PHB}."
-			]
-		},
-		{
-			"name": "Gem-encrusted bowl",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Heroes' Feast|PHB}."
-			]
-		},
-		{
-			"name": "Gem, Crystal, Reliquary, or some other Ornamental container",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Magic Jar|PHB}."
-			]
-		},
-		{
-			"name": "Bit of fleece and Jade dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Programmed Illusion|PHB}."
-			]
-		},
-		{
-			"name": "Tiny silver cage",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 10000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Soul Cage|XGE}."
-			]
-		},
-		{
-			"name": "Object engraved with a symbol of the Outer Planes",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Tasha's Otherworldly Guise|TCE}."
-			]
-		},
-		{
-			"name": "Ointment",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell True Seeing|PHB}."
-			]
-		},
-		{
-			"name": "Vial of quicksilver, a Life-sized human doll, and an Intricate crystal rod",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 200000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Create Magen|IDRotF}."
-			]
-		},
-		{
-			"name": "Statuette of a dragon",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Draconic Transformation|FTD}."
-			]
-		},
-		{
-			"name": "Ruby dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 150000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Forcecage|PHB}."
-			]
-		},
-		{
-			"name": "Miniature portal, a Small piece of polished marble, and a Tiny silver spoon",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Mordenkainen's Magnificent Mansion|PHB}."
-			]
-		},
-		{
-			"name": "Miniature platinum sword",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 25000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Mordenkainen's Sword|PHB}."
-			]
-		},
-		{
-			"name": "Forked, Metal rod",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 25000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Plane Shift|PHB}."
-			]
-		},
-		{
-			"name": "Small replica of you",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Project Image|PHB}."
-			]
-		},
-		{
-			"name": "Diamond (1.000 PO)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Resurrection|PHB}."
-			]
-		},
-		{
-			"name": "Powder composed of diamond, Emerald, Ruby, and Sapphire dust",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 500000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Sequester|PHB}."
-			]
-		},
-		{
-			"name": "Snow or ice, Hair, and powdered ruby",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 150000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Simulacrum|PHB}."
-			]
-		},
-		{
-			"name": "Mercury, Phosphorus, and powdered diamond and Opal",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Symbol|PHB}."
-			]
-		},
-		{
-			"name": "Holy symbol",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 500,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Temple of the Gods|XGE}."
-			]
-		},
-		{
-			"name": "Diamond, Flesh of the creature, and a Vessel",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 300000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Clone|PHB}."
-			]
-		},
-		{
-			"name": "Tiny reliquary",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 100000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Holy Aura|PHB}."
-			]
-		},
-		{
-			"name": "Diamond (500 PO)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Mighty Fortress|XGE}."
-			]
-		},
-		{
-			"name": "Jacinth and Ornately carved bar of silver",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 110000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Astral Projection|PHB}."
-			]
-		},
-		{
-			"name": "Diamond (5.000 PO)",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 500000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Gate|PHB}."
-			]
-		},
-		{
-			"name": "Vellum depiction or Carved statuette",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Imprisonment|PHB}."
-			]
-		},
-		{
-			"name": "Small piece of adamantine",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 50000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Invulnerability|XGE}."
-			]
-		},
-		{
-			"name": "Jade circlet",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 150000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell Shapechange|PHB}."
-			]
-		},
-		{
-			"name": "Holy water and Diamonds",
-			"type": "SCF",
-			"rarity": "none",
-			"value": 2500000,
-			"source": "Guarda",
-			"entries": [
-				"A spell component used in {@spell True Resurrection|PHB}."
-			]
-		},
-		{
-			"name": "+1 All-Purpose Tool",
-			"source": "Guarda",
-			"_copy": {
-				"name": "+1 All-Purpose Tool",
-				"source": "TCE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"value": 400000
-		},
-		{
-			"name": "+1 Moon Sickle",
-			"source": "Guarda",
-			"_copy": {
-				"name": "+1 Moon Sickle",
-				"source": "TCE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
 			"value": 400000
 		},
 		{
@@ -1941,6 +447,38 @@
 			"_copy": {
 				"name": "+1 Dragonhide Belt",
 				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 400000
+		},
+		{
+			"name": "+1 Fate Dealer's Deck",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+1 Fate Dealer's Deck",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "+1 Moon Sickle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+1 Moon Sickle",
+				"source": "TCE",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2000,6 +538,166 @@
 			"value": 80000
 		},
 		{
+			"name": "+2 All-Purpose Tool",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 All-Purpose Tool",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
+		},
+		{
+			"name": "+2 Amulet of the Devout",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Amulet of the Devout",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
+		},
+		{
+			"name": "+2 Arcane Grimoire",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Arcane Grimoire",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 950000
+		},
+		{
+			"name": "+2 Bloodwell Vial",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Bloodwell Vial",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 950000
+		},
+		{
+			"name": "+2 Dragonhide Belt",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Dragonhide Belt",
+				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 850000
+		},
+		{
+			"name": "+2 Moon Sickle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Moon Sickle",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
+		},
+		{
+			"name": "+2 Rhythm-Maker's Drum",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Rhythm-Maker's Drum",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
+		},
+		{
+			"name": "+2 Rod of the Pact Keeper",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Rod of the Pact Keeper",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
+		},
+		{
+			"name": "+2 Wand of the War Mage",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Wand of the War Mage",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
+		},
+		{
+			"name": "+2 Wraps of Unarmed Prowess",
+			"source": "Guarda",
+			"_copy": {
+				"name": "+2 Wraps of Unarmed Prowess",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
 			"name": "Abacus",
 			"source": "Guarda",
 			"_copy": {
@@ -2048,6 +746,22 @@
 			"value": 100000
 		},
 		{
+			"name": "Adjustable Stilts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Adjustable Stilts",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 400
+		},
+		{
 			"name": "Airship",
 			"source": "Guarda",
 			"_copy": {
@@ -2061,7 +775,39 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2000000
+			"value": 4000000
+		},
+		{
+			"name": "Alchemical Compendium",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Alchemical Compendium",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 180000
+		},
+		{
+			"name": "Alchemist's Doom",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Alchemist's Doom",
+				"source": "SCC",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 7500
 		},
 		{
 			"name": "Alchemist's Fire (flask)",
@@ -2109,7 +855,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 20
+			"value": 0
 		},
 		{
 			"name": "Ale (Mug)",
@@ -2125,7 +871,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 4
+			"value": 0
 		},
 		{
 			"name": "Amulet",
@@ -2144,6 +890,22 @@
 			"value": 500
 		},
 		{
+			"name": "Amulet of Health",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of Health",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 2000000
+		},
+		{
 			"name": "Amulet of Proof against Detection and Location",
 			"source": "Guarda",
 			"_copy": {
@@ -2158,6 +920,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 42000
+		},
+		{
+			"name": "Amulet of Protection from Turning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Amulet of Protection from Turning",
+				"source": "TftYP",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 50000
 		},
 		{
 			"name": "Amulet of the Drunkard",
@@ -2192,6 +970,22 @@
 			"value": 5000
 		},
 		{
+			"name": "Arcane Oil",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Arcane Oil",
+				"source": "GHLoE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity":"rare",
+			"value": 20000
+		},
+		{
 			"name": "Arrow",
 			"source": "Guarda",
 			"_copy": {
@@ -2205,13 +999,13 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
-			"name": "Renaissance Bullet",
+			"name": "Arrow-Catching Shield",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Renaissance Bullet",
+				"name": "Arrow-Catching Shield",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -2220,24 +1014,8 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "none",
-			"value": 30
-		},
-		{
-			"name": "Renaissance Bullets (10)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Renaissance Bullets (10)",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 300
+			"rarity": "rare",
+			"value": 250000
 		},
 		{
 			"name": "Arrows (20)",
@@ -2269,7 +1047,55 @@
 				}
 			},
 			"rarity": "none",
-			"value": null
+			"value": 7500
+		},
+		{
+			"name": "Astral Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Astral Shard",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 240000
+		},
+		{
+			"name": "Astromancy Archive",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Astromancy Archive",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
+			"name": "Atlas of Endless Horizons",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Atlas of Endless Horizons",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
 		},
 		{
 			"name": "Axe Beak",
@@ -2304,6 +1130,22 @@
 			"value": 32000
 		},
 		{
+			"name": "Azorius Keyrune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Azorius Keyrune",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
+		},
+		{
 			"name": "Backpack",
 			"source": "Guarda",
 			"_copy": {
@@ -2318,6 +1160,22 @@
 			},
 			"rarity": "none",
 			"value": 200
+		},
+		{
+			"name": "Backpack Parachute",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Backpack Parachute",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 1000
 		},
 		{
 			"name": "Bag of Holding",
@@ -2413,23 +1271,7 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": null
-		},
-		{
-			"name": "Ball Bearing",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Ball Bearing",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 0.1
+			"value": 20000
 		},
 		{
 			"name": "Ball Bearings (bag of 1,000)",
@@ -2448,6 +1290,38 @@
 			"value": 100
 		},
 		{
+			"name": "Banner of the Krig Rune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Banner of the Krig Rune",
+				"source": "SKT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Barking Box",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Barking Box",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 3000
+		},
+		{
 			"name": "Barrel",
 			"source": "Guarda",
 			"_copy": {
@@ -2462,6 +1336,22 @@
 			},
 			"rarity": "none",
 			"value": 200
+		},
+		{
+			"name": "Barrier Tattoo (Medium)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Barrier Tattoo (Medium)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 90000
 		},
 		{
 			"name": "Barrier Tattoo (Small)",
@@ -2493,24 +1383,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
 			"name": "Basic Poison (vial)",
 			"source": "Guarda",
-			"page": 153,
-			"srd": true,
-			"basicRules": true,
-			"type": "G",
+			"_copy": {
+				"name": "Basic Poison (vial)",
+				"source": "PHB",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
 			"rarity": "none",
-			"value": 10000,
-			"poison": true,
-			"entries": [
-				"You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take {@damage 1d4} poison damage. Once applied, the poison retains potency for 1 minute before drying."
-			],
-			"miscTags": [
-				"CNS"
-			]
+			"value": 10000
 		},
 		{
 			"name": "Basket",
@@ -2526,7 +1415,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 40
+			"value": 0
+		},
+		{
+			"name": "Battering Shield",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Battering Shield",
+				"source": "EGW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Battleaxe",
@@ -2545,6 +1450,22 @@
 			"value": 1000
 		},
 		{
+			"name": "Bead of Force",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bead of Force",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
 			"name": "Bead of Nourishment",
 			"source": "Guarda",
 			"_copy": {
@@ -2558,7 +1479,7 @@
 				}
 			},
 			"rarity": "common",
-			"value": 0
+			"value": 100
 		},
 		{
 			"name": "Bead of Refreshment",
@@ -2574,7 +1495,7 @@
 				}
 			},
 			"rarity": "common",
-			"value": 0
+			"value": 100
 		},
 		{
 			"name": "Bedroll",
@@ -2609,6 +1530,70 @@
 			"value": 100
 		},
 		{
+			"name": "Bell Branch",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bell Branch",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
+			"name": "Belt of Dwarvenkind",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Belt of Dwarvenkind",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
+		},
+		{
+			"name": "Belt of Hill Giant Strength",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Belt of Hill Giant Strength",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
+		},
+		{
+			"name": "Birdpipes",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Birdpipes",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Bit and bridle",
 			"source": "Guarda",
 			"_copy": {
@@ -2639,6 +1624,22 @@
 			},
 			"rarity": "none",
 			"value": 40000
+		},
+		{
+			"name": "Black Chromatic Rose",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Black Chromatic Rose",
+				"source": "WBtW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 35000
 		},
 		{
 			"name": "Black Ghost Orchid Seed",
@@ -2686,13 +1687,29 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
-			"name": "Blasting powder",
+			"name": "Blasted Goggles",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Blasting powder",
+				"name": "Blasted Goggles",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 40000
+		},
+		{
+			"name": "Blasting Powder",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Blasting Powder",
 				"source": "EGW",
 				"_preserve": {
 					"page": true,
@@ -2753,6 +1770,22 @@
 			"value": 60000
 		},
 		{
+			"name": "Bloodrage Greataxe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bloodrage Greataxe",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 160000
+		},
+		{
 			"name": "Blowgun",
 			"source": "Guarda",
 			"_copy": {
@@ -2782,7 +1815,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
 		},
 		{
 			"name": "Blowgun Needles (50)",
@@ -2801,6 +1834,22 @@
 			"value": 100
 		},
 		{
+			"name": "Blue Chromatic Rose",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Blue Chromatic Rose",
+				"source": "WBtW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 35000
+		},
+		{
 			"name": "Book",
 			"source": "Guarda",
 			"_copy": {
@@ -2815,6 +1864,22 @@
 			},
 			"rarity": "none",
 			"value": 2500
+		},
+		{
+			"name": "Boomerang Shield",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boomerang Shield",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 30000
 		},
 		{
 			"name": "Boots of Elvenkind",
@@ -2849,10 +1914,10 @@
 			"value": 10000
 		},
 		{
-			"name": "Boots of Striding and Springing",
+			"name": "Boots of Levitation",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Boots of Striding and Springing",
+				"name": "Boots of Levitation",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -2861,8 +1926,24 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 40000
+			"rarity": "rare",
+			"value": 120000
+		},
+		{
+			"name": "Boots of Speed",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boots of Speed",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
 		},
 		{
 			"name": "Boots of the Vigilant",
@@ -2881,22 +1962,6 @@
 			"value": 150000
 		},
 		{
-			"name": "Boots of the Winterlands",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Boots of the Winterlands",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 45000
-		},
-		{
 			"name": "Boros Guild Signet",
 			"source": "Guarda",
 			"_copy": {
@@ -2911,6 +1976,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 60000
+		},
+		{
+			"name": "Boros Keyrune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Boros Keyrune",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
 		},
 		{
 			"name": "Bottle of Boundless Coffee",
@@ -2945,6 +2026,22 @@
 			"value": 8000
 		},
 		{
+			"name": "Bracer of Flying Daggers",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracer of Flying Daggers",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
 			"name": "Bracers of Archery",
 			"source": "Guarda",
 			"_copy": {
@@ -2961,6 +2058,54 @@
 			"value": 84000
 		},
 		{
+			"name": "Bracers of Asmodeus",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracers of Asmodeus",
+				"source": "CoA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Bracers of Celerity",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracers of Celerity",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 235000
+		},
+		{
+			"name": "Bracers of Defense",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Bracers of Defense",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 125000
+		},
+		{
 			"name": "Breastplate",
 			"source": "Guarda",
 			"_copy": {
@@ -2975,6 +2120,22 @@
 			},
 			"rarity": "none",
 			"value": 40000
+		},
+		{
+			"name": "Breastplate of Balance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Breastplate of Balance",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
 		},
 		{
 			"name": "Breathing Bubble",
@@ -3041,22 +2202,6 @@
 			"value": 60000
 		},
 		{
-			"name": "Broom of Flying",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Broom of Flying",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 900000
-		},
-		{
 			"name": "Bucket",
 			"source": "Guarda",
 			"_copy": {
@@ -3070,7 +2215,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
 			"name": "Bullseye Lantern",
@@ -3121,6 +2266,22 @@
 			"value": 50000
 		},
 		{
+			"name": "Butcher's Bib",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Butcher's Bib",
+				"source": "EGW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
 			"name": "Calligrapher's Supplies",
 			"source": "Guarda",
 			"_copy": {
@@ -3150,7 +2311,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
 			"name": "Caltrops (bag of 20)",
@@ -3198,7 +2359,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1
+			"value": 0
 		},
 		{
 			"name": "Candle of the Deep",
@@ -3215,6 +2376,22 @@
 			},
 			"rarity": "common",
 			"value": 100
+		},
+		{
+			"name": "Canian Fork",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Canian Fork",
+				"source": "CoA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 1800000
 		},
 		{
 			"name": "Canoe",
@@ -3246,7 +2423,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
 			"name": "Cap of Water Breathing",
@@ -3263,6 +2440,38 @@
 			},
 			"rarity": "uncommon",
 			"value": 45000
+		},
+		{
+			"name": "Cape of the Mountebank",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cape of the Mountebank",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
+		},
+		{
+			"name": "Card Sharp's Deck",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Card Sharp's Deck",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 50000
 		},
 		{
 			"name": "Carpenter's Tools",
@@ -3345,6 +2554,38 @@
 			"value": 1500
 		},
 		{
+			"name": "Catapult Munition",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Catapult Munition",
+				"source": "SCC",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 5000
+		},
+		{
+			"name": "Cauldron of Plenty",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cauldron of Plenty",
+				"source": "IDRotF",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
 			"name": "Chain (10 feet)",
 			"source": "Guarda",
 			"_copy": {
@@ -3377,6 +2618,38 @@
 			"value": 7500
 		},
 		{
+			"name": "Chain Mail of the Fallen",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chain Mail of the Fallen",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 67500
+		},
+		{
+			"name": "Chain Mail of Weightlessness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chain Mail of Weightlessness",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 57500
+		},
+		{
 			"name": "Chain Shirt",
 			"source": "Guarda",
 			"_copy": {
@@ -3406,7 +2679,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1
+			"value": 0
 		},
 		{
 			"name": "Chariot",
@@ -3439,6 +2712,22 @@
 			},
 			"rarity": "common",
 			"value": 5000
+		},
+		{
+			"name": "Charm of Plant Command",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Charm of Plant Command",
+				"source": "GoS",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 30000
 		},
 		{
 			"name": "Chest",
@@ -3486,7 +2775,39 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
+		},
+		{
+			"name": "Chime of Opening",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chime of Opening",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 45000
+		},
+		{
+			"name": "Chromatic Rose",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Chromatic Rose",
+				"source": "WBtW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 35000
 		},
 		{
 			"name": "Chunk of Meat",
@@ -3502,7 +2823,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 30
+			"value": 0
 		},
 		{
 			"name": "Cinnamon",
@@ -3553,6 +2874,38 @@
 			"value": 10000
 		},
 		{
+			"name": "Claw of the Wyrm Rune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Claw of the Wyrm Rune",
+				"source": "SKT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 170000
+		},
+		{
+			"name": "Claws of the Umber Hulk",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Claws of the Umber Hulk",
+				"source": "PotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
 			"name": "Cleansing Stone",
 			"source": "Guarda",
 			"_copy": {
@@ -3599,6 +2952,22 @@
 			},
 			"rarity": "common",
 			"value": 2500
+		},
+		{
+			"name": "Cloak of Displacement",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of Displacement",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 900000
 		},
 		{
 			"name": "Cloak of Elvenkind",
@@ -3649,6 +3018,22 @@
 			"value": 180000
 		},
 		{
+			"name": "Cloak of the Bat",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Cloak of the Bat",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
 			"name": "Cloak of the Manta Ray",
 			"source": "Guarda",
 			"_copy": {
@@ -3662,7 +3047,7 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": 130000
+			"value": 60000
 		},
 		{
 			"name": "Clockwork Amulet",
@@ -3679,6 +3064,22 @@
 			},
 			"rarity": "common",
 			"value": 20000
+		},
+		{
+			"name": "Clothes of Mending",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Clothes of Mending",
+				"source": "XGE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 2000
 		},
 		{
 			"name": "Clothing, cold weather",
@@ -3726,7 +3127,39 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
+		},
+		{
+			"name": "Coat of Lies",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Coat of Lies",
+				"source": "GHLoE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Coat of the Crest",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Coat of the Crest",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
 		},
 		{
 			"name": "Cobbler's Tools",
@@ -3790,7 +3223,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
 			"name": "Common Glamerweave",
@@ -3822,13 +3255,13 @@
 				}
 			},
 			"rarity": "none",
-			"value": 20
+			"value": 0
 		},
 		{
-			"name": "Component pouch",
+			"name": "Component Pouch",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Component pouch",
+				"name": "Component Pouch",
 				"source": "PHB",
 				"_preserve": {
 					"page": true,
@@ -3839,6 +3272,22 @@
 			},
 			"rarity": "none",
 			"value": 2500
+		},
+		{
+			"name": "Condensed Order",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Condensed Order",
+				"source": "CoA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 12000
 		},
 		{
 			"name": "Cook's Utensils",
@@ -3870,7 +3319,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
 			"name": "Costume Clothes",
@@ -3902,7 +3351,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
 			"name": "Cow",
@@ -3966,7 +3415,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
 			"name": "Crossbow Bolt Case",
@@ -4017,6 +3466,22 @@
 			"value": 200
 		},
 		{
+			"name": "Crown of the Wrath Bringer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Crown of the Wrath Bringer",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
 			"name": "Crystal",
 			"source": "Guarda",
 			"_copy": {
@@ -4065,6 +3530,54 @@
 			"value": 200
 		},
 		{
+			"name": "Dagger of Blindsight",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dagger of Blindsight",
+				"source": "WDMM",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
+			"name": "Dagger of Denial",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dagger of Denial",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 180000
+		},
+		{
+			"name": "Dagger of Venom",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dagger of Venom",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
 			"name": "Dark Shard Amulet",
 			"source": "Guarda",
 			"_copy": {
@@ -4094,7 +3607,71 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
+		},
+		{
+			"name": "Deck of Illusions",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Deck of Illusions",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 1500
+		},
+		{
+			"name": "Deck of Oracles",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Deck of Oracles",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Delver's Claws",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Delver's Claws",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
+		},
+		{
+			"name": "Devotee's Censer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Devotee's Censer",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
 		},
 		{
 			"name": "Dice Set",
@@ -4110,7 +3687,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
+		},
+		{
+			"name": "Dimensional Shackles",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dimensional Shackles",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
 		},
 		{
 			"name": "Dimir Guild Signet",
@@ -4161,6 +3754,38 @@
 			"value": 2500
 		},
 		{
+			"name": "Docent",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Docent",
+				"source": "ERLW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Dodecahedron of Doom",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dodecahedron of Doom",
+				"source": "WDMM",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
+		},
+		{
 			"name": "Dogsled",
 			"source": "Guarda",
 			"_copy": {
@@ -4175,6 +3800,22 @@
 			},
 			"rarity": "none",
 			"value": 2000
+		},
+		{
+			"name": "Donjon's Sundering Sphere",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Donjon's Sundering Sphere",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Donkey",
@@ -4241,6 +3882,38 @@
 			"value": 5000
 		},
 		{
+			"name": "Dragon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 100
+		},
+		{
+			"name": "Dragon Wing Bow",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragon Wing Bow",
+				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
 			"name": "Dragonchess Set",
 			"source": "Guarda",
 			"_copy": {
@@ -4255,6 +3928,22 @@
 			},
 			"rarity": "none",
 			"value": 100
+		},
+		{
+			"name": "Dragonguard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Dragonguard",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
 		},
 		{
 			"name": "Dread Helm",
@@ -4369,6 +4058,22 @@
 			"value": 1200
 		},
 		{
+			"name": "Duplicitous Manuscript",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Duplicitous Manuscript",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 160000
+		},
+		{
 			"name": "Dust of Deliciousness",
 			"source": "Guarda",
 			"_copy": {
@@ -4449,6 +4154,22 @@
 			"value": 10000
 		},
 		{
+			"name": "Eagle Whistle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Eagle Whistle",
+				"source": "TftYP",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 1000000
+		},
+		{
 			"name": "Ear Horn of Hearing",
 			"source": "Guarda",
 			"_copy": {
@@ -4479,6 +4200,22 @@
 			},
 			"rarity": "common",
 			"value": 15000
+		},
+		{
+			"name": "Earthboard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Earthboard",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 1200000
 		},
 		{
 			"name": "Earworm",
@@ -4529,11 +4266,11 @@
 			"value": 120000
 		},
 		{
-			"name": "Elemental Gem, Blue Sapphire",
+			"name": "Elemental Essence Shard (Air)",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Elemental Gem, Blue Sapphire",
-				"source": "DMG",
+				"name": "Elemental Essence Shard (Air)",
+				"source": "TCE",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4541,15 +4278,15 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 50000
+			"rarity": "rare",
+			"value": 300000
 		},
 		{
-			"name": "Elemental Gem, Emerald",
+			"name": "Elemental Essence Shard (Earth)",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Elemental Gem, Emerald",
-				"source": "DMG",
+				"name": "Elemental Essence Shard (Earth)",
+				"source": "TCE",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4557,15 +4294,15 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 50000
+			"rarity": "rare",
+			"value": 450000
 		},
 		{
-			"name": "Elemental Gem, Red Corundum",
+			"name": "Elemental Essence Shard (Fire)",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Elemental Gem, Red Corundum",
-				"source": "DMG",
+				"name": "Elemental Essence Shard (Fire)",
+				"source": "TCE",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4573,15 +4310,15 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 50000
+			"rarity": "rare",
+			"value": 300000
 		},
 		{
-			"name": "Elemental Gem, Yellow Diamond",
+			"name": "Elemental Essence Shard (Water)",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Elemental Gem, Yellow Diamond",
-				"source": "DMG",
+				"name": "Elemental Essence Shard (Water)",
+				"source": "TCE",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4589,8 +4326,8 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 50000
+			"rarity": "rare",
+			"value": 250000
 		},
 		{
 			"name": "Elephant",
@@ -4607,6 +4344,22 @@
 			},
 			"rarity": "none",
 			"value": 20000
+		},
+		{
+			"name": "Elven Chain",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Elven Chain",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
 		},
 		{
 			"name": "Emblem",
@@ -4801,22 +4554,6 @@
 			"value": 15000
 		},
 		{
-			"name": "Eyes of Minute Seeing",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Eyes of Minute Seeing",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 70000
-		},
-		{
 			"name": "Eyes of the Eagle",
 			"source": "Guarda",
 			"_copy": {
@@ -4831,6 +4568,70 @@
 			},
 			"rarity": "uncommon",
 			"value": 20000
+		},
+		{
+			"name": "Fabulist Gem",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Fabulist Gem",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 40000
+		},
+		{
+			"name": "Far Realm Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Far Realm Shard",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Fargab",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Fargab",
+				"source": "DSotDQ",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 50000
+		},
+		{
+			"name": "Feather of Diatryma Summoning",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Feather of Diatryma Summoning",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
 		},
 		{
 			"name": "Feather Token",
@@ -4862,7 +4663,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
 			"name": "Feywild Shard",
@@ -4881,10 +4682,122 @@
 			"value": 35000
 		},
 		{
-			"name": "Figurine of Wondrous power, Silver Raven",
+			"name": "Figurine of Wondrous Power, Bronze Griffon",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Figurine of Wondrous power, Silver Raven",
+				"name": "Figurine of Wondrous Power, Bronze Griffon",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Figurine of Wondrous Power, Ebony Fly",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Figurine of Wondrous Power, Ebony Fly",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
+			"name": "Figurine of Wondrous Power, Golden Lions",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Figurine of Wondrous Power, Golden Lions",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
+			"name": "Figurine of Wondrous Power, Ivory Goats",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Figurine of Wondrous Power, Ivory Goats",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Figurine of Wondrous Power, Marble Elephant",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Figurine of Wondrous Power, Marble Elephant",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
+			"name": "Figurine of Wondrous Power, Onyx Dog",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Figurine of Wondrous Power, Onyx Dog",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
+			"name": "Figurine of Wondrous Power, Serpentine Owl",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Figurine of Wondrous Power, Serpentine Owl",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
+			"name": "Figurine of Wondrous Power, Silver Raven",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Figurine of Wondrous Power, Silver Raven",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -4977,6 +4890,22 @@
 			"value": 1000
 		},
 		{
+			"name": "Flamefriend Lantern",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Flamefriend Lantern",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
+		},
+		{
 			"name": "Flask",
 			"source": "Guarda",
 			"_copy": {
@@ -4990,7 +4919,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
+		},
+		{
+			"name": "Flayer Slayer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Flayer Slayer",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Flour",
@@ -5006,7 +4951,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
 		},
 		{
 			"name": "Flute",
@@ -5025,6 +4970,22 @@
 			"value": 200
 		},
 		{
+			"name": "Flying Chariot",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Flying Chariot",
+				"source": "MOT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
 			"name": "Forgery Kit",
 			"source": "Guarda",
 			"_copy": {
@@ -5039,6 +5000,22 @@
 			},
 			"rarity": "none",
 			"value": 1500
+		},
+		{
+			"name": "Fulminating Treatise",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Fulminating Treatise",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 240000
 		},
 		{
 			"name": "Galley",
@@ -5057,6 +5034,22 @@
 			"value": 3000000
 		},
 		{
+			"name": "Gauntlets of Flaming Fury",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gauntlets of Flaming Fury",
+				"source": "BGDIA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
 			"name": "Gauntlets of Ogre Power",
 			"source": "Guarda",
 			"_copy": {
@@ -5070,7 +5063,71 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": 300000
+			"value": 400000
+		},
+		{
+			"name": "Gauntlets of Rage",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gauntlets of Rage",
+				"source": "CoA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 1500000
+		},
+		{
+			"name": "Gavel of the Venn Rune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gavel of the Venn Rune",
+				"source": "SKT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
+		},
+		{
+			"name": "Gem of Brightness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gem of Brightness",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 3000
+		},
+		{
+			"name": "Gem of Seeing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gem of Seeing",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 320000
 		},
 		{
 			"name": "Ginger",
@@ -5137,6 +5194,38 @@
 			"value": 3000
 		},
 		{
+			"name": "Glass-Studded Armor",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Glass-Studded Armor",
+				"source": "GHLoE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
+			"name": "Glaur",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Glaur",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 500
+		},
+		{
 			"name": "Gloves of Missile Snaring",
 			"source": "Guarda",
 			"_copy": {
@@ -5183,6 +5272,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 160000
+		},
+		{
+			"name": "Glowrune Pigment",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Glowrune Pigment",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 50000
 		},
 		{
 			"name": "Gluebomb",
@@ -5297,6 +5402,22 @@
 			"value": 200
 		},
 		{
+			"name": "Grasping Whip",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Grasping Whip",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 125000
+		},
+		{
 			"name": "Greataxe",
 			"source": "Guarda",
 			"_copy": {
@@ -5326,7 +5447,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 20
+			"value": 0
 		},
 		{
 			"name": "Greatsword",
@@ -5345,6 +5466,22 @@
 			"value": 5000
 		},
 		{
+			"name": "Green Chromatic Rose",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Green Chromatic Rose",
+				"source": "WBtW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 35000
+		},
+		{
 			"name": "Gruul Guild Signet",
 			"source": "Guarda",
 			"_copy": {
@@ -5359,6 +5496,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 10000
+		},
+		{
+			"name": "Gruul Keyrune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Gruul Keyrune",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Guardian Emblem",
@@ -5441,6 +5594,22 @@
 			"value": 7500
 		},
 		{
+			"name": "Hand Drum",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hand Drum",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Handaxe",
 			"source": "Guarda",
 			"_copy": {
@@ -5455,6 +5624,22 @@
 			},
 			"rarity": "none",
 			"value": 500
+		},
+		{
+			"name": "Harbor Moon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Harbor Moon",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 5000
 		},
 		{
 			"name": "Hat of Disguise",
@@ -5537,6 +5722,22 @@
 			"value": 500
 		},
 		{
+			"name": "Heart Weaver's Primer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Heart Weaver's Primer",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
 			"name": "Heavy Crossbow",
 			"source": "Guarda",
 			"_copy": {
@@ -5583,6 +5784,38 @@
 			},
 			"rarity": "uncommon",
 			"value": 80000
+		},
+		{
+			"name": "Helm of Teleportation",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of Teleportation",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 2000000
+		},
+		{
+			"name": "Helm of the Gods",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Helm of the Gods",
+				"source": "MOT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
 		},
 		{
 			"name": "Helm of Underwater Action",
@@ -5633,10 +5866,26 @@
 			"value": 500
 		},
 		{
-			"name": "Heward's Handy Spice pouch",
+			"name": "Hew",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Heward's Handy Spice pouch",
+				"name": "Hew",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 130000
+		},
+		{
+			"name": "Heward's Handy Spice Pouch",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Heward's Handy Spice Pouch",
 				"source": "XGE",
 				"_preserve": {
 					"page": true,
@@ -5697,6 +5946,38 @@
 			"value": 500
 		},
 		{
+			"name": "Hook of Fisher's Delight",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hook of Fisher's Delight",
+				"source": "IDRotF",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 60000
+		},
+		{
+			"name": "Hooked Shortspear",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Hooked Shortspear",
+				"source": "OotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 5000
+		},
+		{
 			"name": "Hoopak",
 			"source": "Guarda",
 			"_copy": {
@@ -5710,7 +5991,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
 			"name": "Horn",
@@ -5729,6 +6010,22 @@
 			"value": 300
 		},
 		{
+			"name": "Horn of Blasting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Horn of Blasting",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
 			"name": "Horn of Silent Alarm",
 			"source": "Guarda",
 			"_copy": {
@@ -5743,6 +6040,22 @@
 			},
 			"rarity": "common",
 			"value": 15000
+		},
+		{
+			"name": "Horseshoes of Speed",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Horseshoes of Speed",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
 		},
 		{
 			"name": "Hourglass",
@@ -5761,6 +6074,22 @@
 			"value": 2500
 		},
 		{
+			"name": "House of Cards",
+			"source": "Guarda",
+			"_copy": {
+				"name": "House of Cards",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 20000
+		},
+		{
 			"name": "Hunk of Cheese",
 			"source": "Guarda",
 			"_copy": {
@@ -5774,7 +6103,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
 			"name": "Hunting Trap",
@@ -5791,6 +6120,22 @@
 			},
 			"rarity": "none",
 			"value": 500
+		},
+		{
+			"name": "Iggwilv's Horn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Iggwilv's Horn",
+				"source": "DitLCoT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
 		},
 		{
 			"name": "Illuminator's Tattoo",
@@ -5825,6 +6170,22 @@
 			"value": 120000
 		},
 		{
+			"name": "Inescapable Lash",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Inescapable Lash",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 900000
+		},
+		{
 			"name": "Ink (1-ounce bottle)",
 			"source": "Guarda",
 			"_copy": {
@@ -5854,7 +6215,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
 		},
 		{
 			"name": "Insect Repellent (block of incense)",
@@ -5870,7 +6231,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
 			"name": "Insect Repellent (greasy salve)",
@@ -5887,22 +6248,6 @@
 			},
 			"rarity": "none",
 			"value": 100
-		},
-		{
-			"name": "Insignia of Claws",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Insignia of Claws",
-				"source": "HotDQ",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 140000
 		},
 		{
 			"name": "Instrument of Illusions",
@@ -5937,54 +6282,6 @@
 			"value": 8000
 		},
 		{
-			"name": "Instrument of the Bards, Doss Lute",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Instrument of the Bards, Doss Lute",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 200000
-		},
-		{
-			"name": "Instrument of the Bards, Fochlucan Bandore",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Instrument of the Bards, Fochlucan Bandore",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 250000
-		},
-		{
-			"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 225000
-		},
-		{
 			"name": "Iron",
 			"source": "Guarda",
 			"_copy": {
@@ -5998,13 +6295,29 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
-			"name": "Iron pot",
+			"name": "Iron Bands of Bilarro",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Iron pot",
+				"name": "Iron Bands of Bilarro",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
+			"name": "Iron Pot",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Iron Pot",
 				"source": "PHB",
 				"_preserve": {
 					"page": true,
@@ -6030,7 +6343,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 100
 		},
 		{
 			"name": "Iron Spikes (10)",
@@ -6065,6 +6378,22 @@
 			"value": 10000
 		},
 		{
+			"name": "Izzet Keyrune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Izzet Keyrune",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
+		},
+		{
 			"name": "Javelin",
 			"source": "Guarda",
 			"_copy": {
@@ -6078,23 +6407,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
-		},
-		{
-			"name": "Javelin of Lightning",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Javelin of Lightning",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 50000
+			"value": 0
 		},
 		{
 			"name": "Jeweler's Tools",
@@ -6126,7 +6439,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
+		},
+		{
+			"name": "Kagonesti Forest Shroud",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Kagonesti Forest Shroud",
+				"source": "DSotDQ",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
 		},
 		{
 			"name": "Keelboat",
@@ -6161,22 +6490,6 @@
 			"value": 20000
 		},
 		{
-			"name": "Keoghtom's Ointment",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Keoghtom's Ointment",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 25000
-		},
-		{
 			"name": "Keycharm",
 			"source": "Guarda",
 			"_copy": {
@@ -6193,6 +6506,38 @@
 			"value": 7000
 		},
 		{
+			"name": "Knave's Eye Patch",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Knave's Eye Patch",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 75000
+		},
+		{
+			"name": "Knifewing Cape",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Knifewing Cape",
+				"source": "GHLoE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
+		},
+		{
 			"name": "Ladder (10-foot)",
 			"source": "Guarda",
 			"_copy": {
@@ -6206,7 +6551,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
 			"name": "Lamp",
@@ -6222,7 +6567,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
 			"name": "Lance",
@@ -6241,22 +6586,6 @@
 			"value": 1000
 		},
 		{
-			"name": "Lantern of Revealing",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Lantern of Revealing",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 140000
-		},
-		{
 			"name": "Lantern of Tracking",
 			"source": "Guarda",
 			"_copy": {
@@ -6271,6 +6600,22 @@
 			},
 			"rarity": "common",
 			"value": 40000
+		},
+		{
+			"name": "Lash of Immolation",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Lash of Immolation",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
 		},
 		{
 			"name": "Leather Armor",
@@ -6305,6 +6650,22 @@
 			"value": 500
 		},
 		{
+			"name": "Libram of Souls and Flesh",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Libram of Souls and Flesh",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 160000
+		},
+		{
 			"name": "Light Crossbow",
 			"source": "Guarda",
 			"_copy": {
@@ -6335,6 +6696,38 @@
 			},
 			"rarity": "none",
 			"value": 200
+		},
+		{
+			"name": "Light Repeating Crossbow",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Light Repeating Crossbow",
+				"source": "OotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 5000
+		},
+		{
+			"name": "Lightbringer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Lightbringer",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 140000
 		},
 		{
 			"name": "Linen (1 sq. yd.)",
@@ -6382,7 +6775,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
 		},
 		{
 			"name": "Lock",
@@ -6433,6 +6826,22 @@
 			"value": 5000
 		},
 		{
+			"name": "Longhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Longhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Longship",
 			"source": "Guarda",
 			"_copy": {
@@ -6446,7 +6855,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1000000
+			"value": 1000
 		},
 		{
 			"name": "Longsword",
@@ -6481,6 +6890,22 @@
 			"value": 20000
 		},
 		{
+			"name": "Luminous War Pick",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Luminous War Pick",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
 			"name": "Lute",
 			"source": "Guarda",
 			"_copy": {
@@ -6513,6 +6938,22 @@
 			"value": 3000
 		},
 		{
+			"name": "Lyre of Building",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Lyre of Building",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
 			"name": "Mace",
 			"source": "Guarda",
 			"_copy": {
@@ -6527,6 +6968,38 @@
 			},
 			"rarity": "none",
 			"value": 500
+		},
+		{
+			"name": "Mace of Disruption",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Disruption",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
+		},
+		{
+			"name": "Mace of Smiting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mace of Smiting",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
 		},
 		{
 			"name": "Magnifying Glass",
@@ -6575,6 +7048,22 @@
 			},
 			"rarity": "none",
 			"value": 200
+		},
+		{
+			"name": "Mantle of Spell Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mantle of Spell Resistance",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
 		},
 		{
 			"name": "Map or Scroll Case",
@@ -6671,6 +7160,22 @@
 			},
 			"rarity": "none",
 			"value": 2500
+		},
+		{
+			"name": "Matchless Pipe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Matchless Pipe",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 500
 		},
 		{
 			"name": "Maul",
@@ -6785,11 +7290,11 @@
 			"value": 20000
 		},
 		{
-			"name": "Medallion of Thoughts",
+			"name": "Menga leaves (1 ounce)",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Medallion of Thoughts",
-				"source": "DMG",
+				"name": "Menga leaves (1 ounce)",
+				"source": "ToA",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6797,8 +7302,8 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 20000
+			"rarity": "unknown",
+			"value": 500
 		},
 		{
 			"name": "Merchant's Scale",
@@ -6830,7 +7335,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 20
+			"value": 0
 		},
 		{
 			"name": "Midnight Tears",
@@ -6929,6 +7434,38 @@
 			"value": 20000
 		},
 		{
+			"name": "Mind Crystal (Heightened)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mind Crystal (Heightened)",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
+			"name": "Mind Crystal (Quickened)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mind Crystal (Quickened)",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
 			"name": "Mind Crystal (Subtle)",
 			"source": "Guarda",
 			"_copy": {
@@ -6961,10 +7498,26 @@
 			"value": 200
 		},
 		{
-			"name": "Mizzium Apparatus",
+			"name": "Mirror of the Past",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Mizzium Apparatus",
+				"name": "Mirror of the Past",
+				"source": "TftYP",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
+		},
+		{
+			"name": "Mizzium Mortar",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Mizzium Mortar",
 				"source": "GGR",
 				"_preserve": {
 					"page": true,
@@ -6973,8 +7526,8 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 150000
+			"rarity": "rare",
+			"value": 200000
 		},
 		{
 			"name": "Monster Hunter's Pack",
@@ -7057,6 +7610,22 @@
 			"value": 800
 		},
 		{
+			"name": "Murgaxor's Elixir of Life",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Murgaxor's Elixir of Life",
+				"source": "SCC",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 5000
+		},
+		{
 			"name": "Muroosa Balm",
 			"source": "Guarda",
 			"_copy": {
@@ -7071,6 +7640,22 @@
 			},
 			"rarity": "none",
 			"value": 10000
+		},
+		{
+			"name": "Musket",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Musket",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 20000
 		},
 		{
 			"name": "Narycrash",
@@ -7089,42 +7674,10 @@
 			"value": 10000
 		},
 		{
-			"name": "Nature's Mantle",
+			"name": "Necklace of Fireballs",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Nature's Mantle",
-				"source": "TCE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 50000
-		},
-		{
-			"name": "Navigator's Tools",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Navigator's Tools",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 2500
-		},
-		{
-			"name": "Necklace of Adaptation",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Necklace of Adaptation",
+				"name": "Necklace of Fireballs",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -7133,8 +7686,24 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 100000
+			"rarity": "rare",
+			"value": 50000
+		},
+		{
+			"name": "Needle of Mending",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Needle of Mending",
+				"source": "EGW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
 		},
 		{
 			"name": "Net",
@@ -7151,6 +7720,38 @@
 			},
 			"rarity": "none",
 			"value": 100
+		},
+		{
+			"name": "Netherese Ring of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Netherese Ring of Protection",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 420000
+		},
+		{
+			"name": "Nib",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Nib",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 0
 		},
 		{
 			"name": "Night Caller",
@@ -7182,7 +7783,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
+		},
+		{
+			"name": "Oil of Etherealness",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Oil of Etherealness",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Oil of Slipperiness",
@@ -7233,6 +7850,22 @@
 			"value": 5000
 		},
 		{
+			"name": "Opal of the Ild Rune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Opal of the Ild Rune",
+				"source": "SKT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
 			"name": "Orb",
 			"source": "Guarda",
 			"_copy": {
@@ -7247,22 +7880,6 @@
 			},
 			"rarity": "none",
 			"value": 2000
-		},
-		{
-			"name": "Orb of Direction",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Orb of Direction",
-				"source": "XGE",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "common",
-			"value": 3000
 		},
 		{
 			"name": "Orb of Gonging",
@@ -7281,6 +7898,22 @@
 			"value": 4000
 		},
 		{
+			"name": "Orb of the Stein Rune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Orb of the Stein Rune",
+				"source": "SKT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
 			"name": "Orb of Time",
 			"source": "Guarda",
 			"_copy": {
@@ -7297,6 +7930,22 @@
 			"value": 2000
 		},
 		{
+			"name": "Orc Stone",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Orc Stone",
+				"source": "IDRotF",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 25000
+		},
+		{
 			"name": "Orzhov Guild Signet",
 			"source": "Guarda",
 			"_copy": {
@@ -7311,6 +7960,102 @@
 			},
 			"rarity": "uncommon",
 			"value": 20000
+		},
+		{
+			"name": "Orzhov Keyrune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Orzhov Keyrune",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
+			"name": "Outer Essence Shard (Chaotic)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Outer Essence Shard (Chaotic)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
+			"name": "Outer Essence Shard (Evil)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Outer Essence Shard (Evil)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
+			"name": "Outer Essence Shard (Good)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Outer Essence Shard (Good)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Outer Essence Shard (Lawful)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Outer Essence Shard (Lawful)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
+			"name": "Oversized Longbow",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Oversized Longbow",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 7500
 		},
 		{
 			"name": "Ox",
@@ -7422,7 +8167,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 20
+			"value": 0
+		},
+		{
+			"name": "Paper Bird",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Paper Bird",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 5000
 		},
 		{
 			"name": "Parchment (one sheet)",
@@ -7438,13 +8199,29 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
+			"value": 0
 		},
 		{
-			"name": "Pearl of power",
+			"name": "Pariah's Shield",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Pearl of power",
+				"name": "Pariah's Shield",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
+			"name": "Pearl of Power",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pearl of Power",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -7505,38 +8282,6 @@
 			"value": 7000
 		},
 		{
-			"name": "Periapt of Health",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Periapt of Health",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 100000
-		},
-		{
-			"name": "Periapt of Wound Closure",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Periapt of Wound Closure",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 70000
-		},
-		{
 			"name": "Philter of Love",
 			"source": "Guarda",
 			"_copy": {
@@ -7551,6 +8296,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 12000
+		},
+		{
+			"name": "Piercer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Piercer",
+				"source": "AI",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
 		},
 		{
 			"name": "Pig",
@@ -7649,6 +8410,38 @@
 			"value": 15000
 		},
 		{
+			"name": "Pistol",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pistol",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 10000
+		},
+		{
+			"name": "Pistol (CR)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Pistol (CR)",
+				"source": "CR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 7500
+		},
+		{
 			"name": "Pitcher",
 			"source": "Guarda",
 			"_copy": {
@@ -7662,7 +8455,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
 		},
 		{
 			"name": "Piton",
@@ -7678,7 +8471,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
+		},
+		{
+			"name": "Piwafwi of Fire Resistance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Piwafwi of Fire Resistance",
+				"source": "OotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
 		},
 		{
 			"name": "Pixie Dust",
@@ -7713,6 +8522,22 @@
 			"value": 20000
 		},
 		{
+			"name": "Planecaller's Codex",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Planecaller's Codex",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
 			"name": "Plate Armor",
 			"source": "Guarda",
 			"_copy": {
@@ -7727,6 +8552,22 @@
 			},
 			"rarity": "none",
 			"value": 150000
+		},
+		{
+			"name": "Plate of Knight's Fellowship",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Plate of Knight's Fellowship",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 80000
 		},
 		{
 			"name": "Platinum",
@@ -7758,7 +8599,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
 			"name": "Poisoner's Kit",
@@ -7790,7 +8631,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
 			"name": "Pole of Angling",
@@ -7839,6 +8680,22 @@
 			},
 			"rarity": "none",
 			"value": 3000
+		},
+		{
+			"name": "Portable Hole",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Portable Hole",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
 		},
 		{
 			"name": "Portable Ram",
@@ -7905,10 +8762,26 @@
 			"value": 10000
 		},
 		{
-			"name": "Potion of Animal Friendship",
+			"name": "Potion of Aqueous Form",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Potion of Animal Friendship",
+				"name": "Potion of Aqueous Form",
+				"source": "MOT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
+			"name": "Potion of Clairvoyance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Clairvoyance",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -7917,8 +8790,8 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 10000
+			"rarity": "rare",
+			"value": 40000
 		},
 		{
 			"name": "Potion of Climbing",
@@ -7969,6 +8842,22 @@
 			"value": 7000
 		},
 		{
+			"name": "Potion of Diminution",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Diminution",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 12500
+		},
+		{
 			"name": "Potion of Fire Breath",
 			"source": "Guarda",
 			"_copy": {
@@ -7983,6 +8872,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 15000
+		},
+		{
+			"name": "Potion of Fire Giant Strength",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Fire Giant Strength",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
 		},
 		{
 			"name": "Potion of Fire Resistance",
@@ -8017,6 +8922,38 @@
 			"value": 35000
 		},
 		{
+			"name": "Potion of Frost Giant Strength",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Frost Giant Strength",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
+			"name": "Potion of Gaseous Form",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Gaseous Form",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
 			"name": "Potion of Greater Healing",
 			"source": "Guarda",
 			"_copy": {
@@ -8030,7 +8967,7 @@
 				}
 			},
 			"rarity": "uncommon",
-			"value": 12000
+			"value": 12500
 		},
 		{
 			"name": "Potion of Growth",
@@ -8065,6 +9002,22 @@
 			"value": 5000
 		},
 		{
+			"name": "Potion of Heroism",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Heroism",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 30000
+		},
+		{
 			"name": "Potion of Hill Giant Strength",
 			"source": "Guarda",
 			"_copy": {
@@ -8081,6 +9034,22 @@
 			"value": 20000
 		},
 		{
+			"name": "Potion of Invulnerability",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Invulnerability",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
+		},
+		{
 			"name": "Potion of Lightning Resistance",
 			"source": "Guarda",
 			"_copy": {
@@ -8095,6 +9064,70 @@
 			},
 			"rarity": "uncommon",
 			"value": 30000
+		},
+		{
+			"name": "Potion of Maximum Power",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Maximum Power",
+				"source": "EGW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 35000
+		},
+		{
+			"name": "Potion of Mind Control (beast)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Mind Control (beast)",
+				"source": "TftYP",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 12500
+		},
+		{
+			"name": "Potion of Mind Control (humanoid)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Mind Control (humanoid)",
+				"source": "TftYP",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 25000
+		},
+		{
+			"name": "Potion of Mind Reading",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Mind Reading",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 25000
 		},
 		{
 			"name": "Potion of Necrotic Resistance",
@@ -8177,6 +9210,38 @@
 			"value": 35000
 		},
 		{
+			"name": "Potion of Stone Giant Strength",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Stone Giant Strength",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
+			"name": "Potion of Superior Healing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Potion of Superior Healing",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 30000
+		},
+		{
 			"name": "Potion of Thunder Resistance",
 			"source": "Guarda",
 			"_copy": {
@@ -8209,22 +9274,6 @@
 			"value": 10000
 		},
 		{
-			"name": "Potion of Water Breathing",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Potion of Water Breathing",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 5000
-		},
-		{
 			"name": "Potter's Tools",
 			"source": "Guarda",
 			"_copy": {
@@ -8254,13 +9303,29 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
-			"name": "Prehistoric Figurine of Wondrous power, Pyrite Plesiosaurus",
+			"name": "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Prehistoric Figurine of Wondrous power, Pyrite Plesiosaurus",
+				"name": "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 100000
+		},
+		{
+			"name": "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus",
 				"source": "BGG",
 				"_preserve": {
 					"page": true,
@@ -8334,7 +9399,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1900
+			"value": 3300
 		},
 		{
 			"name": "Prismari Primer",
@@ -8385,6 +9450,22 @@
 			"value": 60000
 		},
 		{
+			"name": "Protective Verses",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Protective Verses",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
 			"name": "Psi Crystal",
 			"source": "Guarda",
 			"_copy": {
@@ -8433,6 +9514,102 @@
 			"value": 40000
 		},
 		{
+			"name": "Quaal's Feather Token, Anchor",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quaal's Feather Token, Anchor",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 10000
+		},
+		{
+			"name": "Quaal's Feather Token, Bird",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quaal's Feather Token, Bird",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
+		},
+		{
+			"name": "Quaal's Feather Token, Fan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quaal's Feather Token, Fan",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 10000
+		},
+		{
+			"name": "Quaal's Feather Token, Swan Boat",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quaal's Feather Token, Swan Boat",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 40000
+		},
+		{
+			"name": "Quaal's Feather Token, Tree",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quaal's Feather Token, Tree",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 8000
+		},
+		{
+			"name": "Quaal's Feather Token, Whip",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Quaal's Feather Token, Whip",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 30000
+		},
+		{
 			"name": "Quandrix Primer",
 			"source": "Guarda",
 			"_copy": {
@@ -8462,7 +9639,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 20
+			"value": 0
 		},
 		{
 			"name": "Quiver",
@@ -8574,7 +9751,39 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
+		},
+		{
+			"name": "Ready Gunk",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ready Gunk",
+				"source": "GHLoE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 10000
+		},
+		{
+			"name": "Red Chromatic Rose",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Red Chromatic Rose",
+				"source": "WBtW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 10000
 		},
 		{
 			"name": "Reliquary",
@@ -8593,6 +9802,38 @@
 			"value": 500
 		},
 		{
+			"name": "Renaissance Bullet",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Renaissance Bullet",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 0
+		},
+		{
+			"name": "Renaissance Bullets (10)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Renaissance Bullets (10)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 300
+		},
+		{
 			"name": "Reszur",
 			"source": "Guarda",
 			"_copy": {
@@ -8607,6 +9848,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 120000
+		},
+		{
+			"name": "Reveler's Concertina",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Reveler's Concertina",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 800000
 		},
 		{
 			"name": "Riding Horse",
@@ -8657,6 +9914,70 @@
 			"value": 3000
 		},
 		{
+			"name": "Ring of Animal Influence",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Animal Influence",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
+		},
+		{
+			"name": "Ring of Evasion",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Evasion",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
+			"name": "Ring of Feather Falling",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Feather Falling",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 35000
+		},
+		{
+			"name": "Ring of Free Action",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Free Action",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 2000000
+		},
+		{
 			"name": "Ring of Jumping",
 			"source": "Guarda",
 			"_copy": {
@@ -8705,6 +10026,70 @@
 			"value": 50000
 		},
 		{
+			"name": "Ring of Protection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Protection",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 280000
+		},
+		{
+			"name": "Ring of protection, +2",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of protection, +2",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 2500000
+		},
+		{
+			"name": "Ring of Puzzler's Wit",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Puzzler's Wit",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 200000
+		},
+		{
+			"name": "Ring of Spell Storing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Spell Storing",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 1200000
+		},
+		{
 			"name": "Ring of Swimming",
 			"source": "Guarda",
 			"_copy": {
@@ -8719,6 +10104,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 60000
+		},
+		{
+			"name": "Ring of Temporal Salvation",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of Temporal Salvation",
+				"source": "EGW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Ring of the Orator",
@@ -8737,6 +10138,22 @@
 			"value": 15000
 		},
 		{
+			"name": "Ring of the Ram",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of the Ram",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 60000
+		},
+		{
 			"name": "Ring of Truth Telling",
 			"source": "Guarda",
 			"_copy": {
@@ -8751,22 +10168,6 @@
 			},
 			"rarity": "uncommon",
 			"value": 10000
-		},
-		{
-			"name": "Ring of Warmth",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Ring of Warmth",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 30000
 		},
 		{
 			"name": "Ring of Water Walking",
@@ -8785,6 +10186,22 @@
 			"value": 40000
 		},
 		{
+			"name": "Ring of X-ray Vision",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ring of X-ray Vision",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
 			"name": "Robe of Serpents",
 			"source": "Guarda",
 			"_copy": {
@@ -8799,6 +10216,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 15000
+		},
+		{
+			"name": "Robe of Summer",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Robe of Summer",
+				"source": "TftYP",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
 		},
 		{
 			"name": "Robes",
@@ -8865,6 +10298,38 @@
 			"value": 30000
 		},
 		{
+			"name": "Rod of Rulership",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rod of Rulership",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Rogue's Mantle",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rogue's Mantle",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
+		},
+		{
 			"name": "Rope of Climbing",
 			"source": "Guarda",
 			"_copy": {
@@ -8879,6 +10344,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 12000
+		},
+		{
+			"name": "Rope of Entanglement",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rope of Entanglement",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 30000
 		},
 		{
 			"name": "Rope of Mending",
@@ -8929,6 +10410,38 @@
 			"value": 15000
 		},
 		{
+			"name": "Ruinous Flail",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ruinous Flail",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
+		},
+		{
+			"name": "Ryath Root",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ryath Root",
+				"source": "ToA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 5000
+		},
+		{
 			"name": "Sack",
 			"source": "Guarda",
 			"_copy": {
@@ -8942,23 +10455,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1
-		},
-		{
-			"name": "Saddle of the Cavalier",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Saddle of the Cavalier",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 40000
+			"value": 0
 		},
 		{
 			"name": "Saddlebags",
@@ -8993,6 +10490,38 @@
 			"value": 1500
 		},
 		{
+			"name": "Sage's Signet (Serpent)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sage's Signet (Serpent)",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
+			"name": "Sage's Signet (Songbird)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sage's Signet (Songbird)",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
 			"name": "Sailing Ship",
 			"source": "Guarda",
 			"_copy": {
@@ -9006,7 +10535,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1000000
+			"value": 1000
 		},
 		{
 			"name": "Salt",
@@ -9022,7 +10551,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
 			"name": "Scale Mail",
@@ -9073,11 +10602,11 @@
 			"value": 2500
 		},
 		{
-			"name": "Sealing Wax",
+			"name": "Scissors of Shadow Snipping",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Sealing Wax",
-				"source": "PHB",
+				"name": "Scissors of Shadow Snipping",
+				"source": "WBtW",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9085,8 +10614,152 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "none",
-			"value": 50
+			"rarity": "rare",
+			"value": 60000
+		},
+		{
+			"name": "Scorpion Armor",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scorpion Armor",
+				"source": "ToA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
+			"name": "Scroll of Protection from Aberrations",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Aberrations",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Scroll of Protection from Beasts",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Beasts",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Scroll of Protection from Celestials",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Celestials",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Scroll of Protection from Elementals",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Elementals",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Scroll of Protection from Fey",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Fey",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Scroll of Protection from Fiends",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Fiends",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Scroll of Protection from Plants",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Plants",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Scroll of Protection from Undead",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Scroll of Protection from Undead",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
 		},
 		{
 			"name": "Seeker Dart",
@@ -9135,6 +10808,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 20000
+		},
+		{
+			"name": "Selesnya Keyrune",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Selesnya Keyrune",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Sending Stones",
@@ -9199,6 +10888,86 @@
 			},
 			"rarity": "none",
 			"value": 5000
+		},
+		{
+			"name": "Serpent's Fang",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Serpent's Fang",
+				"source": "CM",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Shadowfell Brand Tattoo",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shadowfell Brand Tattoo",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
+			"name": "Shadowfell Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shadowfell Shard",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
+			"name": "Shard",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shard",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 0
+		},
+		{
+			"name": "Shard of Xeluan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shard of Xeluan",
+				"source": "KftGV",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 600000
 		},
 		{
 			"name": "Shatterspike",
@@ -9281,6 +11050,38 @@
 			"value": 2500
 		},
 		{
+			"name": "Shield of Missile Attraction",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shield of Missile Attraction",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
+			"name": "Shield of the Silver Dragon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shield of the Silver Dragon",
+				"source": "CoS",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 650000
+		},
+		{
 			"name": "Shiftweave",
 			"source": "Guarda",
 			"_copy": {
@@ -9293,6 +11094,7 @@
 					"lootTables": true
 				}
 			},
+			"rarity": "common",
 			"value": 10000
 		},
 		{
@@ -9344,6 +11146,22 @@
 			"value": 200
 		},
 		{
+			"name": "Shrieking Greaves",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Shrieking Greaves",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 350000
+		},
+		{
 			"name": "Sickle",
 			"source": "Guarda",
 			"_copy": {
@@ -9373,7 +11191,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5
+			"value": 0
 		},
 		{
 			"name": "Signet Ring",
@@ -9488,6 +11306,38 @@
 			"value": 40000
 		},
 		{
+			"name": "Siren Song Lyre",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Siren Song Lyre",
+				"source": "MOT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
+			"name": "Skull of Selfish Knowledge",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Skull of Selfish Knowledge",
+				"source": "CoA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
 			"name": "Skyblinder Staff",
 			"source": "Guarda",
 			"_copy": {
@@ -9504,6 +11354,22 @@
 			"value": 120000
 		},
 		{
+			"name": "Skysail",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Skysail",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
+		},
+		{
 			"name": "Skyship",
 			"source": "Guarda",
 			"_copy": {
@@ -9518,22 +11384,6 @@
 			},
 			"rarity": "none",
 			"value": 10000000
-		},
-		{
-			"name": "Sled",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Sled",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 2000
 		},
 		{
 			"name": "Sled Dog",
@@ -9581,23 +11431,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 10
-		},
-		{
-			"name": "Sling Bullet",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Sling Bullet",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 0.2
+			"value": 0
 		},
 		{
 			"name": "Sling Bullets (20)",
@@ -9613,7 +11447,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 4
+			"value": 0
+		},
+		{
+			"name": "Sling of Giant Felling",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sling of Giant Felling",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 30000
 		},
 		{
 			"name": "Slippers of Spider Climbing",
@@ -9741,7 +11591,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
+		},
+		{
+			"name": "Songhorn",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Songhorn",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Soothsalts",
@@ -9776,6 +11642,22 @@
 			"value": 100
 		},
 		{
+			"name": "Spell Gem (Bloodstone)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Gem (Bloodstone)",
+				"source": "OotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 240000
+		},
+		{
 			"name": "Spell Gem (Lapis lazuli)",
 			"source": "Guarda",
 			"_copy": {
@@ -9808,6 +11690,118 @@
 			"value": 5000
 		},
 		{
+			"name": "Spell Gem (Quartz)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Gem (Quartz)",
+				"source": "OotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
+			"name": "Spell Scroll (1st Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Scroll (1st Level)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 7500
+		},
+		{
+			"name": "Spell Scroll (2nd Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Scroll (2nd Level)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 15000
+		},
+		{
+			"name": "Spell Scroll (3rd Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Scroll (3rd Level)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 30000
+		},
+		{
+			"name": "Spell Scroll (4th Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Scroll (4th Level)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 50000
+		},
+		{
+			"name": "Spell Scroll (5th Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Scroll (5th Level)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 80000
+		},
+		{
+			"name": "Spell Scroll (Cantrip)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spell Scroll (Cantrip)",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 2500
+		},
+		{
 			"name": "Spellbook",
 			"source": "Guarda",
 			"_copy": {
@@ -9824,6 +11818,22 @@
 			"value": 5000
 		},
 		{
+			"name": "Spelljamming Helm",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spelljamming Helm",
+				"source": "AAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
 			"name": "Spellshard",
 			"source": "Guarda",
 			"_copy": {
@@ -9838,6 +11848,118 @@
 			},
 			"rarity": "common",
 			"value": 20000
+		},
+		{
+			"name": "Spellwrought Tattoo (1st Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellwrought Tattoo (1st Level)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 22500
+		},
+		{
+			"name": "Spellwrought Tattoo (2nd Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellwrought Tattoo (2nd Level)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 45000
+		},
+		{
+			"name": "Spellwrought Tattoo (3rd Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellwrought Tattoo (3rd Level)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 90000
+		},
+		{
+			"name": "Spellwrought Tattoo (4th Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellwrought Tattoo (4th Level)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 180000
+		},
+		{
+			"name": "Spellwrought Tattoo (5th Level)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellwrought Tattoo (5th Level)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 360000
+		},
+		{
+			"name": "Spellwrought Tattoo (Cantrip)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spellwrought Tattoo (Cantrip)",
+				"source": "TCE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "common",
+			"value": 7500
+		},
+		{
+			"name": "Spider Staff",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Spider Staff",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Spies' Murmur",
@@ -9904,22 +12026,6 @@
 			"value": 100000
 		},
 		{
-			"name": "Stabling (per day)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Stabling (per day)",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 50
-		},
-		{
 			"name": "Staff",
 			"source": "Guarda",
 			"_copy": {
@@ -9949,8 +12055,7 @@
 				}
 			},
 			"rarity": "common",
-			"value": 15000,
-			"staff": false
+			"value": 1000
 		},
 		{
 			"name": "Staff of Birdcalls",
@@ -9966,7 +12071,39 @@
 				}
 			},
 			"rarity": "common",
-			"value": 15000
+			"value": 1000
+		},
+		{
+			"name": "Staff of Charming",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Charming",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
+			"name": "Staff of Defense",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Defense",
+				"source": "PaBTSO",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 300000
 		},
 		{
 			"name": "Staff of Flowers",
@@ -9982,7 +12119,23 @@
 				}
 			},
 			"rarity": "common",
-			"value": 15000
+			"value": 1000
+		},
+		{
+			"name": "Staff of Healing",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of Healing",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
 		},
 		{
 			"name": "Staff of the Adder",
@@ -10001,6 +12154,22 @@
 			"value": 40000
 		},
 		{
+			"name": "Staff of the Ivory Claw",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Ivory Claw",
+				"source": "EGW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
 			"name": "Staff of the Python",
 			"source": "Guarda",
 			"_copy": {
@@ -10015,6 +12184,22 @@
 			},
 			"rarity": "uncommon",
 			"value": 60000
+		},
+		{
+			"name": "Staff of the Rooted Hills",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Staff of the Rooted Hills",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 150000
 		},
 		{
 			"name": "Steel Mirror",
@@ -10049,6 +12234,86 @@
 			"value": 2500
 		},
 		{
+			"name": "Stirring Dragon Vessel",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stirring Dragon Vessel",
+				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
+		},
+		{
+			"name": "Stirring Dragon-Touched Focus (Chromatic)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stirring Dragon-Touched Focus (Chromatic)",
+				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 350000
+		},
+		{
+			"name": "Stirring Dragon-Touched Focus (Gem)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stirring Dragon-Touched Focus (Gem)",
+				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Stirring Dragon-Touched Focus (Metallic)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stirring Dragon-Touched Focus (Metallic)",
+				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
+		},
+		{
+			"name": "Stirring Scaled Ornament",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stirring Scaled Ornament",
+				"source": "FTD",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
 			"name": "Stone of Good Luck",
 			"source": "Guarda",
 			"_copy": {
@@ -10063,6 +12328,38 @@
 			},
 			"rarity": "uncommon",
 			"value": 100000
+		},
+		{
+			"name": "Stonespeaker Crystal",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stonespeaker Crystal",
+				"source": "OotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
+			"name": "Stormrider Boots",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Stormrider Boots",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 240000
 		},
 		{
 			"name": "Strixhaven Pennant",
@@ -10095,6 +12392,86 @@
 			},
 			"rarity": "none",
 			"value": 4500
+		},
+		{
+			"name": "Summer's Dance",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Summer's Dance",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 240000
+		},
+		{
+			"name": "Sun",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sun",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 1000
+		},
+		{
+			"name": "Sun Blade",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sun Blade",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
+			"name": "Sun Staff",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sun Staff",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 420000
+		},
+		{
+			"name": "Sunforger",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Sunforger",
+				"source": "GGR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
 		},
 		{
 			"name": "Survival Mantle",
@@ -10158,7 +12535,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 2
+			"value": 0
 		},
 		{
 			"name": "Tankard of Sobriety",
@@ -10177,6 +12554,38 @@
 			"value": 3000
 		},
 		{
+			"name": "Tantan",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tantan",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
+			"name": "Taol",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Taol",
+				"source": "WDH",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 0
+		},
+		{
 			"name": "Tej",
 			"source": "Guarda",
 			"_copy": {
@@ -10190,7 +12599,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 5000
+			"value": 0
 		},
 		{
 			"name": "Theki Root",
@@ -10207,6 +12616,22 @@
 			},
 			"rarity": "none",
 			"value": 5000
+		},
+		{
+			"name": "Thelarr",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Thelarr",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Thermal Cube",
@@ -10270,7 +12695,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 50
+			"value": 0
 		},
 		{
 			"name": "Tinker's Tools",
@@ -10289,6 +12714,22 @@
 			"value": 5000
 		},
 		{
+			"name": "Tocken",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Tocken",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		},
+		{
 			"name": "Torch",
 			"source": "Guarda",
 			"_copy": {
@@ -10302,7 +12743,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1
+			"value": 0
 		},
 		{
 			"name": "Torpor",
@@ -10385,22 +12826,6 @@
 			"value": 500
 		},
 		{
-			"name": "Trident of Fish Command",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Trident of Fish Command",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 40000
-		},
-		{
 			"name": "Truth Serum",
 			"source": "Guarda",
 			"_copy": {
@@ -10415,6 +12840,22 @@
 			},
 			"rarity": "none",
 			"value": 5000
+		},
+		{
+			"name": "Two-Birds Sling",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Two-Birds Sling",
+				"source": "MOT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 500000
 		},
 		{
 			"name": "Two-Person Tent",
@@ -10465,6 +12906,38 @@
 			"value": 30000
 		},
 		{
+			"name": "Vanrak's Mithral Shirt",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vanrak's Mithral Shirt",
+				"source": "WDMM",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 120000
+		},
+		{
+			"name": "Ventilating Lungs",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Ventilating Lungs",
+				"source": "ERLW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 50000
+		},
+		{
 			"name": "Vial",
 			"source": "Guarda",
 			"_copy": {
@@ -10481,6 +12954,22 @@
 			"value": 100
 		},
 		{
+			"name": "Vial of Greed",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Vial of Greed",
+				"source": "CoA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 200000
+		},
+		{
 			"name": "Viol",
 			"source": "Guarda",
 			"_copy": {
@@ -10495,6 +12984,22 @@
 			},
 			"rarity": "none",
 			"value": 3000
+		},
+		{
+			"name": "Voidwalker Armor",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Voidwalker Armor",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 120000
 		},
 		{
 			"name": "Voting Kit",
@@ -10561,6 +13066,22 @@
 			"value": 3000
 		},
 		{
+			"name": "Wand of Enemy Detection",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Enemy Detection",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 230000
+		},
+		{
 			"name": "Wand of Entangle",
 			"source": "Guarda",
 			"_copy": {
@@ -10591,22 +13112,6 @@
 			},
 			"rarity": "uncommon",
 			"value": 40000
-		},
-		{
-			"name": "Wand of Magic Missiles",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Wand of Magic Missiles",
-				"source": "DMG",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 150000
 		},
 		{
 			"name": "Wand of Pyrotechnics",
@@ -10657,6 +13162,22 @@
 			"value": 40000
 		},
 		{
+			"name": "Wand of Silence",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Silence",
+				"source": "GHLoE",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "uncommon",
+			"value": 40000
+		},
+		{
 			"name": "Wand of Smiles",
 			"source": "Guarda",
 			"_copy": {
@@ -10671,6 +13192,22 @@
 			},
 			"rarity": "common",
 			"value": 3000
+		},
+		{
+			"name": "Wand of Viscid Globs",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Viscid Globs",
+				"source": "OotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
 		},
 		{
 			"name": "Wand of Web",
@@ -10689,6 +13226,22 @@
 			"value": 40000
 		},
 		{
+			"name": "Wand of Winter",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wand of Winter",
+				"source": "HotDQ",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 350000
+		},
+		{
 			"name": "Wand Sheath",
 			"source": "Guarda",
 			"_copy": {
@@ -10705,6 +13258,22 @@
 			"value": 300000
 		},
 		{
+			"name": "War Horn of Valor",
+			"source": "Guarda",
+			"_copy": {
+				"name": "War Horn of Valor",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
 			"name": "War Pick",
 			"source": "Guarda",
 			"_copy": {
@@ -10719,6 +13288,22 @@
 			},
 			"rarity": "none",
 			"value": 500
+		},
+		{
+			"name": "Wargong",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wargong",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Warhammer",
@@ -10753,6 +13338,22 @@
 			"value": 40000
 		},
 		{
+			"name": "Warrior's Passkey",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Warrior's Passkey",
+				"source": "BMT",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 400000
+		},
+		{
 			"name": "Warship",
 			"source": "Guarda",
 			"_copy": {
@@ -10782,7 +13383,23 @@
 				}
 			},
 			"rarity": "none",
-			"value": 20
+			"value": 0
+		},
+		{
+			"name": "Wayfarer's Boots",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wayfarer's Boots",
+				"source": "BGG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
 		},
 		{
 			"name": "Weaver's Tools",
@@ -10801,6 +13418,22 @@
 			"value": 100
 		},
 		{
+			"name": "Weird Tank",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Weird Tank",
+				"source": "PotA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 250000
+		},
+		{
 			"name": "Wheat",
 			"source": "Guarda",
 			"_copy": {
@@ -10814,7 +13447,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1
+			"value": 0
 		},
 		{
 			"name": "Whetstone",
@@ -10830,7 +13463,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 1
+			"value": 0
 		},
 		{
 			"name": "Whip",
@@ -10847,6 +13480,54 @@
 			},
 			"rarity": "none",
 			"value": 200
+		},
+		{
+			"name": "Whistle-Stick",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Whistle-Stick",
+				"source": "OGA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 200
+		},
+		{
+			"name": "White Chromatic Rose",
+			"source": "Guarda",
+			"_copy": {
+				"name": "White Chromatic Rose",
+				"source": "WBtW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 35000
+		},
+		{
+			"name": "Wildroot",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wildroot",
+				"source": "ToA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 7500
 		},
 		{
 			"name": "Willowshade Oil",
@@ -10881,10 +13562,10 @@
 			"value": 15000
 		},
 		{
-			"name": "Winged Boots",
+			"name": "Wings of Flying",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Winged Boots",
+				"name": "Wings of Flying",
 				"source": "DMG",
 				"_preserve": {
 					"page": true,
@@ -10893,8 +13574,8 @@
 					"lootTables": true
 				}
 			},
-			"rarity": "uncommon",
-			"value": 500000
+			"rarity": "rare",
+			"value": 600000
 		},
 		{
 			"name": "Witherbloom Primer",
@@ -10929,6 +13610,22 @@
 			"value": 100
 		},
 		{
+			"name": "Woodcutter's Axe",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Woodcutter's Axe",
+				"source": "WBtW",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "rare",
+			"value": 160000
+		},
+		{
 			"name": "Wooden Staff",
 			"source": "Guarda",
 			"_copy": {
@@ -10961,6 +13658,22 @@
 			"value": 1500
 		},
 		{
+			"name": "Wukka Nut",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Wukka Nut",
+				"source": "ToA",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "unknown",
+			"value": 100
+		},
+		{
 			"name": "Wyvern Poison",
 			"source": "Guarda",
 			"_copy": {
@@ -10991,6 +13704,22 @@
 			},
 			"rarity": "none",
 			"value": 100
+		},
+		{
+			"name": "Yarting",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Yarting",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
 		},
 		{
 			"name": "Yew Wand",
@@ -11039,8 +13768,24 @@
 			},
 			"rarity": "none",
 			"value": 1000
-		}
-	],
+		},
+		{
+			"name": "Zulkoon",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Zulkoon",
+				"source": "SCAG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 200
+		}		  
+		],
 	"itemGroup": [
 		{
 			"name": "Absorbing Tattoo",
