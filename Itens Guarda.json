@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223774,
+		"dateLastModified": 1695223780,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -5162,6 +5162,22 @@
 			"value": 2000
 		},
 		{
+			"name": "Glamoured Studded Leather",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Glamoured Studded Leather",
+				"source": "DMG",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 450000
+		},
+		{
 			"name": "Glass Bottle",
 			"source": "Guarda",
 			"_copy": {
@@ -7000,6 +7016,22 @@
 			},
 			"rarity": "rare",
 			"value": 250000
+		},
+		{
+			"name": "Magician's Judge",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Magician's Judge",
+				"source": "TDCSR",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 10000
 		},
 		{
 			"name": "Magnifying Glass",
