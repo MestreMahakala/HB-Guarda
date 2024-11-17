@@ -1,0 +1,1511 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "Guarda",
+                "abbreviation": "Guarda",
+                "full": "G.U.A.R.D.A de Tenebris",
+                "authors": [
+                    "Mahakala"
+                ],
+                "convertedBy": [
+                    "Mahakala"
+                ],
+                "version": "1.0"
+            }
+        ],
+        "status": "ready",
+        "edition": "one",
+        "dateAdded": 1608050554,
+        "dateLastModified": 1695223774,
+        "_dateLastModifiedHash": "b6b795e6fb"
+    },
+    "item": [
+        {
+            "name": "Baba Yaga's Mortar and Pestle",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "The archfey Baba Yaga crafted many of these magic brooms. No two appear exactly alike. While holding the broom, you can take a Magic action to transform it into an Animated Broom under your control. The broom then moves into an unoccupied space as close to you as possible. The broom acts immediately after you on your Initiative count and remains animate until you take a Bonus Action and use a command word to render it inanimate. On your turn, you can mentally command the animated broom if it is within 30 feet of you and you don’t have the Incapacitated condition (no action required). You decide what action the broom takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location. If the broom is reduced to 0 Hit Points, it shatters and is destroyed. If the broom reverts to its inanimate form before losing all its Hit Points, it regains all of them."
+            ]
+        },
+        {
+            "name": "Boots of the Winterlands",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "weight": 2,
+            "value": 45000,
+            "source": "Guarda",
+            "entries": [
+                "These furred boots are snug and feel warm. While wearing them, you gain the following benefits.",
+                "Cold Resistance. You have Resistance to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.",
+                "Winter Strider. You ignore Difficult Terrain created by ice or snow."
+            ]
+        },
+        {
+            "name": "Bowl of Commanding Water Elementals",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1200000,
+            "source": "Guarda",
+            "entries": [
+                "While this bowl is filled with water and you are within 5 feet of it, you can take a Magic action to summon a Water Elemental. The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The bowl can’t be used this way again until the next dawn. The bowl is about 1 foot in diameter and half as deep. It holds about 3 gallons."
+            ]
+        },
+        {
+            "name": "Brazier of Commanding Fire Elementals",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1200000,
+            "source": "Guarda",
+            "entries": [
+                "While you are within 5 feet of this brazier, you can take a Magic action to summon a Fire Elemental. The elemental appears in an unoccupied space as close to the brazier as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The brazier can’t be used this way again until the next dawn."
+            ]
+        },
+        {
+            "name": "Broom of Flying",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 1000000,
+            "source": "Guarda",
+            "entries": [
+                "This wooden broom functions like a mundane broom until you stand astride it and take a Magic action to make it hover beneath you, at which time it can be ridden in the air. It has a Fly Speed of 50 feet. It can carry up to 400 pounds, but its Fly Speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land or when you’re no longer riding it. As a Magic action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a Magic action and use a command word if the broom is still within 1 mile of you."
+            ]
+        },
+        {
+            "name": "Censer of Controlling Air Elementals",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1200000,
+            "source": "Guarda",
+            "entries": [
+                "While gently swinging this censer, you can take a Magic action to summon an Air Elemental. The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The censer can’t be used this way again until the next dawn."
+            ]
+        },
+        {
+            "name": "Cube of Force",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 700000,
+            "source": "Guarda",
+            "entries": [
+                "This cube is about an inch across. Each face has a distinct marking on it. You can press one of those faces, expend the number of charges required for it, and thereby cast the spell associated with it (save DC 17), as shown in the Cube of Force Faces table. The cube starts with 10 charges, and it regains 1d6 expended charges daily at dawn."
+            ]
+        },
+        {
+            "name": "Cube of Summoning",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1000000,
+            "source": "Guarda",
+            "entries": [
+                "This Tiny cube looks like a jack-in-the-box. When you wind its crank as a Magic action, a merry tune emits from the box, the lid pops open, a creature appears in the nearest unoccupied space, and the lid closes. The lid can’t otherwise be opened. Roll on the Cube of Summoning table to determine which spell the cube casts to summon the creature. The spell is cast at level 5 (save DC 17, +9 attack bonus) and doesn’t require Concentration, but you otherwise function as the spell’s caster. Once the cube summons a creature, the cube can’t do so again until the next dawn.",
+                "Roll 1d6",
+                "1 - Summon Aberration",
+                "2 - Summon Beast",
+                "3 - Summon Construct",
+                "4 - Summon Dragon",
+                "5 - Summon Elemental",
+                "6 - Summon Fey"
+            ]
+        },
+        {
+            "name": "Daern's Instant Fortress",
+            "type": "SCF",
+            "rarity": "none",
+			"reqAttune": true,
+            "value": 600000,
+            "source": "Guarda",
+            "entries": [
+                "As a Magic action, you can place this 1-inch adamantine statuette on the ground and, using a command word, cause it to grow rapidly into a square adamantine tower. Repeating the command word causes the tower to revert to statuette form, which works only if the tower is empty. Each creature in the area where the tower appears is pushed to an unoccupied space outside but next to the tower. Objects in the area that aren’t being worn or carried are also pushed clear of the tower.",
+                "The tower is 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder, staircase, or ramp (your choice) connecting them. This ladder, staircase, or ramp ends at a trapdoor leading to the roof. When created, the tower has a single door at ground level on the side facing you. The door opens only at your command, which you can issue as a Bonus Action. It is immune to the Knock spell and similar magic.",
+                "Magic prevents the tower from being tipped over. The roof, the door, and the walls each have AC 20; HP 100; Immunity to Bludgeoning, Piercing, and Slashing damage except that which is dealt by siege equipment; and Resistance to all other damage. Shrinking the tower back down to statuette form doesn’t repair damage to the tower. Only a Wish spell can repair the tower (this use of the spell counts as replicating a spell of level 8 or lower). Each casting of Wish causes the tower to regain all its Hit Points."
+            ]
+        },
+        {
+            "name": "Elemental Gem, Blue Sapphire",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This gem contains a mote of elemental energy. When you take a Utilize action to break the gem, an elemental is summoned (see the Monster Manual for its stat block), and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The type of gem determines the elemental, as shown in the following table.",
+                "Blue sapphire - Air Elemental, Emerald - Water Elemental, Red corundum - Fire Elemental, Yellow diamond - Earth Elemental."
+            ]
+        },
+        {
+            "name": "Elemental Gem, Emerald",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This gem contains a mote of elemental energy. When you take a Utilize action to break the gem, an elemental is summoned (see the Monster Manual for its stat block), and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The type of gem determines the elemental, as shown in the following table.",
+                "Blue sapphire - Air Elemental, Emerald - Water Elemental, Red corundum - Fire Elemental, Yellow diamond - Earth Elemental."
+            ]
+        },
+        {
+            "name": "Elemental Gem, Red Corundum",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This gem contains a mote of elemental energy. When you take a Utilize action to break the gem, an elemental is summoned (see the Monster Manual for its stat block), and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The type of gem determines the elemental, as shown in the following table.",
+                "Blue sapphire - Air Elemental, Emerald - Water Elemental, Red corundum - Fire Elemental, Yellow diamond - Earth Elemental."
+            ]
+        },
+        {
+            "name": "Elemental Gem, Yellow Diamond",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This gem contains a mote of elemental energy. When you take a Utilize action to break the gem, an elemental is summoned (see the Monster Manual for its stat block), and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The type of gem determines the elemental, as shown in the following table.",
+                "Blue sapphire - Air Elemental, Emerald - Water Elemental, Red corundum - Fire Elemental, Yellow diamond - Earth Elemental."
+            ]
+        },
+        {
+            "name": "Elixir of Health",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: Blinded, Deafened, Paralyzed, and Poisoned. The clear, red liquid has tiny bubbles of light in it."
+            ]
+        },
+        {
+            "name": "Eyes of Minute seeing",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 10000,
+            "source": "Guarda",
+            "entries": [
+                "These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you Darkvision within that range and Advantage on Intelligence (Investigation) checks made to examine something within that range."
+            ]
+        },
+        {
+            "name": "Folding Boat",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 400000,
+            "source": "Guarda",
+            "entries": [
+                "This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a Magic action to use:",
+                "First Command Word. The box unfolds into a Rowboat",
+                "Second Command Word. The box unfolds into a Keelboat",
+                "Third Command Word. The Folding Boat folds back into a box if no creatures are aboard. Any objects in the vessel that can’t fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.",
+                "When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat. Statistics for the Rowboat and Keelboat appear in the Player’s Handbook. If either vessel is reduced to 0 Hit Points, the Folding Boat is destroyed"
+            ]
+        },
+        {
+            "name": "Heward's Handy Haversack",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 200 pounds of material, not exceeding a volume of 25 cubic feet. The central pouch can hold up to 500 pounds of material, not exceeding a volume of 64 cubic feet. The haversack always weighs 5 pounds, regardless of its contents.",
+                "Retrieving an item from the haversack requires a Utilize action or a Bonus Action (your choice). When you reach into the haversack for a specific item, the item is always magically on top.",
+                "If any of its pouches is overloaded, pierced, or torn, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an Artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth unharmed, and the haversack must be put right before it can be used again.",
+                "Each pouch of the haversack holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.",
+                "Placing the haversack inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened."
+            ]
+        },
+        {
+            "name": "Horn of Valhalla, Brass",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1200000,
+            "source": "Guarda",
+            "entries": [
+                "You can take a Magic action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the Berserker stat block and returns to Ysgard after 1 hour or when it drops to 0 Hit Points. The spirits look like living, breathing warriors, and they have Immunity to the Charmed and Frightened conditions. Once you use the horn, it can’t be used again until 7 days have passed.",
+                "Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn’s type determines how many spirits it summons, as well as the requirement for its use. The DM chooses the horn’s type or determines it randomly by rolling on the following table.",
+                "If you blow the horn without meeting its requirement, the summoned spirits attack you. If you meet the requirement, they are Friendly to you and your allies and follow your commands.",
+                "Spirits: 3, Requirement: Proficiency with all Simple weapons"
+            ]
+        },
+        {
+            "name": "Horn of Valhalla, Silver",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 800000,
+            "source": "Guarda",
+            "entries": [
+                "You can take a Magic action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the Berserker stat block and returns to Ysgard after 1 hour or when it drops to 0 Hit Points. The spirits look like living, breathing warriors, and they have Immunity to the Charmed and Frightened conditions. Once you use the horn, it can’t be used again until 7 days have passed.",
+                "Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn’s type determines how many spirits it summons, as well as the requirement for its use. The DM chooses the horn’s type or determines it randomly by rolling on the following table.",
+                "If you blow the horn without meeting its requirement, the summoned spirits attack you. If you meet the requirement, they are Friendly to you and your allies and follow your commands.",
+                "Spirits: 2, Requirement: None"
+            ]
+        },
+        {
+            "name": "Instrument of the Bards, Canaith Mandolin",
+            "type": "SCF",
+            "rarity": "rare",
+            "reqAttune": "by a bard",
+            "reqAttuneTags": [
+                {
+                    "class": "bard"
+                }
+            ],
+            "value": 480000,
+            "source": "Guarda",
+            "entries": [
+                "An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. The Instruments of the Bards table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 Psychic damage. You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.",
+                "Spells: Cure Wounds (level 3), Dispel Magic, Protection from Energy (Lightning damage only)"
+            ]
+        },
+        {
+            "name": "Instrument of the Bards, Cli Lyre",
+            "type": "SCF",
+            "rarity": "rare",
+            "reqAttune": "by a bard",
+            "reqAttuneTags": [
+                {
+                    "class": "bard"
+                }
+            ],
+            "value": 480000,
+            "source": "Guarda",
+            "entries": [
+                "An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. The Instruments of the Bards table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 Psychic damage. You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.",
+                "Spells: Stone Shape, Wall of Fire, Wind Wall"
+            ]
+        },
+        {
+            "name": "Instrument of the Bards, Doss Lute",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "reqAttune": "by a bard",
+            "reqAttuneTags": [
+                {
+                    "class": "bard"
+                }
+            ],
+            "value": 160000,
+            "source": "Guarda",
+            "entries": [
+                "An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. The Instruments of the Bards table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 Psychic damage. You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.",
+                "Spells: Animal Friendship, Protection from Energy (Fire damage only), Protection from Poison"
+            ]
+        },
+        {
+            "name": "Instrument of the Bards, Fochlucan Bandore",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "reqAttune": "by a bard",
+            "reqAttuneTags": [
+                {
+                    "class": "bard"
+                }
+            ],
+            "value": 210000,
+            "source": "Guarda",
+            "entries": [
+                "An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. The Instruments of the Bards table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 Psychic damage. You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.",
+                "Spells: Entangle, Faerie Fire, Shillelagh, Speak with Animals"
+            ]
+        },
+        {
+            "name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "reqAttune": "by a bard",
+            "reqAttuneTags": [
+                {
+                    "class": "bard"
+                }
+            ],
+            "value": 185000,
+            "source": "Guarda",
+            "entries": [
+                "An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. The Instruments of the Bards table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 Psychic damage. You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.",
+                "Spells: Barkskin, Cure Wounds, Fog Cloud"
+            ]
+        },
+        {
+            "name": "Ioun Stone, Awareness",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 80000,
+            "source": "Guarda",
+            "entries": [
+                "Roughly marble sized, Ioun Stones are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun Stones exist, each type a distinct combination of shape and color. When you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time. Each Ioun Stone orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it. As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it’s orbiting your head, the stone falls as though you had dropped it. The type of stone determines its rarity and effects.",
+                "While this dark-blue rhomboid orbits your head, you have Advantage on Initiative rolls and Wisdom (Perception) checks."
+            ]
+        },
+        {
+            "name": "Ioun Stone, Protection",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "Roughly marble sized, Ioun Stones are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun Stones exist, each type a distinct combination of shape and color. When you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time. Each Ioun Stone orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it. As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it’s orbiting your head, the stone falls as though you had dropped it. The type of stone determines its rarity and effects.",
+                "You gain a +1 bonus to Armor Class while this dusty-rose prism orbits your head"
+            ]
+        },
+        {
+            "name": "Ioun Stone, Reserve",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 800000,
+            "source": "Guarda",
+            "entries": [
+                "Roughly marble sized, Ioun Stones are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun Stones exist, each type a distinct combination of shape and color. When you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time. Each Ioun Stone orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it. As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it’s orbiting your head, the stone falls as though you had dropped it. The type of stone determines its rarity and effects.",
+                "This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains 1d4 levels of stored spells chosen by the DM. Any creature can cast a spell of level 1 through 4 into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can’t hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses. While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space."
+            ]
+        },
+        {
+            "name": "Ioun Stone, Sustenance",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "Roughly marble sized, Ioun Stones are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun Stones exist, each type a distinct combination of shape and color. When you take a Magic action to toss an Ioun Stone into the air, the stone orbits your head at a distance of 1d3 feet, conferring its benefit to you while doing so. You can have up to three Ioun Stones orbiting your head at the same time. Each Ioun Stone orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it. As a Utilize action, you can seize and stow any number of Ioun Stones orbiting your head. If your Attunement to an Ioun Stone ends while it’s orbiting your head, the stone falls as though you had dropped it. The type of stone determines its rarity and effects.",
+                "You don’t need to eat or drink while this clear spindle orbits your head."
+            ]
+        },
+        {
+            "name": "Javelin of Lightning",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage.",
+                "Lightning Bolt. When you throw this weapon at a target no farther than 120 feet from you, you can forgo making a ranged attack roll and instead turn the weapon into a bolt of lightning. This bolt forms a 5-foot-wide Line between you and the target. The target and each other creature in the Line (excluding you) makes a DC 13 Dexterity saving throw, taking 4d6 Lightning damage on a failed save or half as much damage on a successful one. Immediately after dealing this damage, the weapon reappears in your hand. This property can’t be used again until the next dawn."
+            ]
+        },
+        {
+            "name": "Keoghtom's Ointment",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound. As a Utilize action, you can swallow one dose of the ointment or apply it to a creature within 5 feet of yourself. The creature that receives it regains 2d8 + 2 Hit Points and ceases to have the Poisoned condition."
+            ]
+        },
+        {
+            "name": "Lantern of Revealing",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 140000,
+            "source": "Guarda",
+            "entries": [
+                "While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern’s Bright Light. You can take a Utilize action to lower the hood, reducing the lantern’s light to Dim Light in a 5-foot radius."
+            ]
+        },
+        {
+            "name": "Mace of terror",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This magic weapon has 3 charges and regains 1d3 expended charges daily at dawn. While holding the weapon, you can take a Magic action and expend 1 charge to release a wave of terror from it. Each creature of your choice within 30 feet of you must succeed on a DC 15 Wisdom saving throw or have the Frightened condition for 1 minute. While Frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can’t make Opportunity Attacks. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can take the Dodge action. At the end of each of its turns, a creature repeats the save, ending the effect on itself on a success."
+            ]
+        },
+        {
+            "name": "Mariner's armor",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 20000,
+            "source": "Guarda",
+            "entries": [
+                "While wearing this armor, you have a Swim Speed equal to your Speed. In addition, if you start your turn underwater with 0 Hit Points, you immediately regain 1d4 Hit Points. The armor can’t heal anyone again until the next dawn. The armor is decorated with fish and shell motifs."
+            ]
+        },
+        {
+            "name": "Medallion of Thoughts",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 20000,
+            "source": "Guarda",
+            "entries": [
+                "The medallion has 5 charges. While wearing it, you can expend 1 charge to cast Detect Thoughts (save DC 13) from it. The medallion regains 1d4 expended charges daily at dawn."
+            ]
+        },
+        {
+            "name": "Nature's Mantle",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "reqAttune": "by a druid or ranger",
+            "reqAttuneTags": [
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "ranger"
+                }
+            ],
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a Spellcasting Focus for your Druid and Ranger spells. While you are in an area that is Lightly Obscured, you can Hide as a Bonus Action even if you are being directly observed."
+            ]
+        },
+        {
+            "name": "Necklace of Adaptation",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 100000,
+            "source": "Guarda",
+            "entries": [
+                "While wearing this necklace, you can breathe normally in any environment, and you have Advantage on saving throws made to avoid or end the Poisoned condition."
+            ]
+        },
+	{
+            "name": "Necklace of Prayer Beads (Wind Walking)",
+            "source": "DMG",
+            "page": 182,
+            "srd": true,
+            "tier": "major",
+            "rarity": "rare",
+            "reqAttune": "by a cleric, druid, or paladin",
+            "reqAttuneTags": [
+                {
+                    "class": "cleric"
+                },
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "paladin"
+                }
+            ],
+            "value": 400000,
+            "wondrous": true,
+            "weight": 1,
+            "entries": [
+                "This necklace has {@dice 1d4 + 2} magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.",
+                "Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+                {
+                    "type": "table",
+                    "colLabels": [
+                        "{@dice d20}",
+                        "Bead of...",
+                        "Spell"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-2",
+                        "col-9"
+                    ],
+                    "rows": [
+                        [
+                            "1-6",
+                            "Blessing",
+                            "{@spell Bless}"
+                        ],
+                        [
+                            "7-12",
+                            "Curing",
+                            "{@spell Cure wounds} (2nd level) or {@spell lesser restoration}"
+                        ],
+                        [
+                            "13-16",
+                            "Favor",
+                            "{@spell Greater restoration}"
+                        ],
+                        [
+                            "17-18",
+                            "Smiting",
+                            "{@spell Branding smite}"
+                        ],
+                        [
+                            "19",
+                            "Summons",
+                            "{@spell Planar ally}"
+                        ],
+                        [
+                            "20",
+                            "Wind walking",
+                            "{@spell Wind walk}"
+                        ]
+                    ]
+                }
+            ],
+            "attachedSpells": [
+                "bless",
+                "cure wounds",
+                "lesser restoration",
+                "greater restoration",
+                "branding smite",
+                "planar ally",
+                "wind walk"
+            ],
+            "lootTables": [
+                "Magic Item Table G"
+            ],
+            "hasFluffImages": true
+        },
+	{
+            "name": "Necklace of Prayer Beads (Blessing)",
+            "source": "DMG",
+            "page": 182,
+            "srd": true,
+            "tier": "major",
+            "rarity": "rare",
+            "reqAttune": "by a cleric, druid, or paladin",
+            "reqAttuneTags": [
+                {
+                    "class": "cleric"
+                },
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "paladin"
+                }
+            ],
+            "value": 40000,
+            "wondrous": true,
+            "weight": 1,
+            "entries": [
+                "This necklace has {@dice 1d4 + 2} magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.",
+                "Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+                {
+                    "type": "table",
+                    "colLabels": [
+                        "{@dice d20}",
+                        "Bead of...",
+                        "Spell"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-2",
+                        "col-9"
+                    ],
+                    "rows": [
+                        [
+                            "1-6",
+                            "Blessing",
+                            "{@spell Bless}"
+                        ],
+                        [
+                            "7-12",
+                            "Curing",
+                            "{@spell Cure wounds} (2nd level) or {@spell lesser restoration}"
+                        ],
+                        [
+                            "13-16",
+                            "Favor",
+                            "{@spell Greater restoration}"
+                        ],
+                        [
+                            "17-18",
+                            "Smiting",
+                            "{@spell Branding smite}"
+                        ],
+                        [
+                            "19",
+                            "Summons",
+                            "{@spell Planar ally}"
+                        ],
+                        [
+                            "20",
+                            "Wind walking",
+                            "{@spell Wind walk}"
+                        ]
+                    ]
+                }
+            ],
+            "attachedSpells": [
+                "bless",
+                "cure wounds",
+                "lesser restoration",
+                "greater restoration",
+                "branding smite",
+                "planar ally",
+                "wind walk"
+            ],
+            "lootTables": [
+                "Magic Item Table G"
+            ],
+            "hasFluffImages": true
+        },
+	{
+            "name": "Necklace of Prayer Beads (Curing)",
+            "source": "DMG",
+            "page": 182,
+            "srd": true,
+            "tier": "major",
+            "rarity": "rare",
+            "reqAttune": "by a cleric, druid, or paladin",
+            "reqAttuneTags": [
+                {
+                    "class": "cleric"
+                },
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "paladin"
+                }
+            ],
+            "value": 80000,
+            "wondrous": true,
+            "weight": 1,
+            "entries": [
+                "This necklace has {@dice 1d4 + 2} magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.",
+                "Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+                {
+                    "type": "table",
+                    "colLabels": [
+                        "{@dice d20}",
+                        "Bead of...",
+                        "Spell"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-2",
+                        "col-9"
+                    ],
+                    "rows": [
+                        [
+                            "1-6",
+                            "Blessing",
+                            "{@spell Bless}"
+                        ],
+                        [
+                            "7-12",
+                            "Curing",
+                            "{@spell Cure wounds} (2nd level) or {@spell lesser restoration}"
+                        ],
+                        [
+                            "13-16",
+                            "Favor",
+                            "{@spell Greater restoration}"
+                        ],
+                        [
+                            "17-18",
+                            "Smiting",
+                            "{@spell Branding smite}"
+                        ],
+                        [
+                            "19",
+                            "Summons",
+                            "{@spell Planar ally}"
+                        ],
+                        [
+                            "20",
+                            "Wind walking",
+                            "{@spell Wind walk}"
+                        ]
+                    ]
+                }
+            ],
+            "attachedSpells": [
+                "bless",
+                "cure wounds",
+                "lesser restoration",
+                "greater restoration",
+                "branding smite",
+                "planar ally",
+                "wind walk"
+            ],
+            "lootTables": [
+                "Magic Item Table G"
+            ],
+            "hasFluffImages": true
+        },
+	{
+            "name": "Necklace of Prayer Beads (Favor)",
+            "source": "DMG",
+            "page": 182,
+            "srd": true,
+            "tier": "major",
+            "rarity": "rare",
+            "reqAttune": "by a cleric, druid, or paladin",
+            "reqAttuneTags": [
+                {
+                    "class": "cleric"
+                },
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "paladin"
+                }
+            ],
+            "value": 150000,
+            "wondrous": true,
+            "weight": 1,
+            "entries": [
+                "This necklace has {@dice 1d4 + 2} magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.",
+                "Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+                {
+                    "type": "table",
+                    "colLabels": [
+                        "{@dice d20}",
+                        "Bead of...",
+                        "Spell"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-2",
+                        "col-9"
+                    ],
+                    "rows": [
+                        [
+                            "1-6",
+                            "Blessing",
+                            "{@spell Bless}"
+                        ],
+                        [
+                            "7-12",
+                            "Curing",
+                            "{@spell Cure wounds} (2nd level) or {@spell lesser restoration}"
+                        ],
+                        [
+                            "13-16",
+                            "Favor",
+                            "{@spell Greater restoration}"
+                        ],
+                        [
+                            "17-18",
+                            "Smiting",
+                            "{@spell Branding smite}"
+                        ],
+                        [
+                            "19",
+                            "Summons",
+                            "{@spell Planar ally}"
+                        ],
+                        [
+                            "20",
+                            "Wind walking",
+                            "{@spell Wind walk}"
+                        ]
+                    ]
+                }
+            ],
+            "attachedSpells": [
+                "bless",
+                "cure wounds",
+                "lesser restoration",
+                "greater restoration",
+                "branding smite",
+                "planar ally",
+                "wind walk"
+            ],
+            "lootTables": [
+                "Magic Item Table G"
+            ],
+            "hasFluffImages": true
+        },
+	{
+            "name": "Necklace of Prayer Beads (Smiting)",
+            "source": "DMG",
+            "page": 182,
+            "srd": true,
+            "tier": "major",
+            "rarity": "rare",
+            "reqAttune": "by a cleric, druid, or paladin",
+            "reqAttuneTags": [
+                {
+                    "class": "cleric"
+                },
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "paladin"
+                }
+            ],
+            "value": 50000,
+            "wondrous": true,
+            "weight": 1,
+            "entries": [
+                "This necklace has {@dice 1d4 + 2} magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.",
+                "Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+                {
+                    "type": "table",
+                    "colLabels": [
+                        "{@dice d20}",
+                        "Bead of...",
+                        "Spell"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-2",
+                        "col-9"
+                    ],
+                    "rows": [
+                        [
+                            "1-6",
+                            "Blessing",
+                            "{@spell Bless}"
+                        ],
+                        [
+                            "7-12",
+                            "Curing",
+                            "{@spell Cure wounds} (2nd level) or {@spell lesser restoration}"
+                        ],
+                        [
+                            "13-16",
+                            "Favor",
+                            "{@spell Greater restoration}"
+                        ],
+                        [
+                            "17-18",
+                            "Smiting",
+                            "{@spell Branding smite}"
+                        ],
+                        [
+                            "19",
+                            "Summons",
+                            "{@spell Planar ally}"
+                        ],
+                        [
+                            "20",
+                            "Wind walking",
+                            "{@spell Wind walk}"
+                        ]
+                    ]
+                }
+            ],
+            "attachedSpells": [
+                "bless",
+                "cure wounds",
+                "lesser restoration",
+                "greater restoration",
+                "branding smite",
+                "planar ally",
+                "wind walk"
+            ],
+            "lootTables": [
+                "Magic Item Table G"
+            ],
+            "hasFluffImages": true
+        },
+	{
+            "name": "Necklace of Prayer Beads (Summons)",
+            "source": "DMG",
+            "page": 182,
+            "srd": true,
+            "tier": "major",
+            "rarity": "rare",
+            "reqAttune": "by a cleric, druid, or paladin",
+            "reqAttuneTags": [
+                {
+                    "class": "cleric"
+                },
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "paladin"
+                }
+            ],
+            "value": 240000,
+            "wondrous": true,
+            "weight": 1,
+            "entries": [
+                "This necklace has {@dice 1d4 + 2} magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.",
+                "Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+                {
+                    "type": "table",
+                    "colLabels": [
+                        "{@dice d20}",
+                        "Bead of...",
+                        "Spell"
+                    ],
+                    "colStyles": [
+                        "col-1 text-center",
+                        "col-2",
+                        "col-9"
+                    ],
+                    "rows": [
+                        [
+                            "1-6",
+                            "Blessing",
+                            "{@spell Bless}"
+                        ],
+                        [
+                            "7-12",
+                            "Curing",
+                            "{@spell Cure wounds} (2nd level) or {@spell lesser restoration}"
+                        ],
+                        [
+                            "13-16",
+                            "Favor",
+                            "{@spell Greater restoration}"
+                        ],
+                        [
+                            "17-18",
+                            "Smiting",
+                            "{@spell Branding smite}"
+                        ],
+                        [
+                            "19",
+                            "Summons",
+                            "{@spell Planar ally}"
+                        ],
+                        [
+                            "20",
+                            "Wind walking",
+                            "{@spell Wind walk}"
+                        ]
+                    ]
+                }
+            ],
+            "attachedSpells": [
+                "bless",
+                "cure wounds",
+                "lesser restoration",
+                "greater restoration",
+                "branding smite",
+                "planar ally",
+                "wind walk"
+            ],
+            "lootTables": [
+                "Magic Item Table G"
+            ],
+            "hasFluffImages": true
+        },
+        {
+            "name": "Orb of Direction",
+            "type": "SCF",
+            "rarity": "common",
+            "value": 3000,
+            "source": "Guarda",
+            "entries": [
+                "This orb can be used as an Arcane Focus. While holding this orb, you can take a Magic action to determine which way is magnetic north. Nothing happens if the orb is used in a location that has no magnetic north."
+            ]
+        },
+        {
+            "name": "Periapt of health",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "While wearing this pendant, you can take a Magic action to regain 2d4 + 2 Hit Points. Once used, this property can’t be used again until the next dawn. In addition, you have Advantage on saving throws to avoid or end the Poisoned condition while you wear this pendant."
+            ]
+        },
+        {
+            "name": "Periapt of Proof Against Poison",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 1000000,
+            "source": "Guarda",
+            "entries": [
+                "This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, you have Immunity to the Poisoned condition and Poison damage."
+            ]
+        },
+        {
+            "name": "Periapt of Wound Closure",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 70000,
+            "source": "Guarda",
+            "entries": [
+                "While wearing this pendant, you gain the following benefits.",
+                "Life Preservation. Whenever you make a Death Saving Throw, you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.",
+                "Natural Healing Boost. Whenever you roll a Hit Point Die to regain Hit Points, double the number of Hit Points it restores."
+            ]
+        },
+        {
+            "name": "Potion of Animal Friendship",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 10000,
+            "source": "Guarda",
+            "entries": [
+                "When you drink this potion, you can cast the level 3 version of the Animal Friendship spell (save DC 13). Agitating this potion’s muddy liquid brings little bits into view: a fish scale, a hummingbird feather, a cat claw, or a squirrel hair."
+            ]
+        },
+        {
+            "name": "Potion of Water Breathing",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 500000,
+            "source": "Guarda",
+            "entries": [
+                "You can breathe underwater for 24 hours after drinking this potion. This potion’s cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it."
+            ]
+        },
+        {
+            "name": "Ring of Acid Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Cold Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Fire Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Force Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Lightning Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Necrotic Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Poison Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Psychic Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Radiant Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Thunder Resistance",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1500000,
+            "source": "Guarda",
+            "entries": [
+                "You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+                "Acid, Cold, Fire, Force, Lightning, Necrotic, Poison, Psychic, Radiant, Thunder"
+            ]
+        },
+        {
+            "name": "Ring of Warmth",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 30000,
+            "source": "Guarda",
+            "entries": [
+                "If you take Cold damage while wearing this ring, the ring reduces the damage you take by 2d8. In addition, while wearing this ring, you and everything you wear and carry are unharmed by temperatures of 0 degrees Fahrenheit or lower."
+            ]
+        },
+        {
+            "name": "Rival Coin",
+            "type": "SCF",
+            "rarity": "common",
+            "value": 5000,
+            "source": "Guarda",
+            "entries": [
+                "This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a Rival Coin might show Iggwilv on one side and Mordenkainen on the other, or Venger on one side and Tiamat on the other. One of these figures is on the “heads” side of the coin, the other on the “tails” side. The coin has 1 charge and regains its expended charge daily at dawn. You can take a Magic action to toss the coin, expending its charge. Roll any die to determine whether the coin comes up heads (on an even number) or tails (on an odd number). The roll also determines the effect:",
+                "Heads. Target one creature you can see within 60 feet of yourself. The target makes a DC 13 Wisdom saving throw. On a failed save, the target takes 2d4 Psychic damage and has Disadvantage on the next attack roll it makes before the end of its next turn. On a successful save, the target takes half as much damage only.",
+                "Tails. You take 1d4 Psychic damage."
+            ]
+        },
+        {
+            "name": "Robe of Eyes",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 2000000,
+            "source": "Guarda",
+            "entries": [
+                "This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:",
+                "All-Around Vision. The robe gives you Advantage on Wisdom (Perception) checks that rely on sight.",
+                "Special Senses. You have Darkvision and Truesight, both with a range of 120 feet."
+            ]
+        },
+        {
+            "name": "Potion of Pugilism",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 50000,
+            "source": "Guarda",
+            "entries": [
+                "After you drink this potion, each Unarmed Strike you make deals an extra 1d6 Force damage on a hit. This effect lasts 10 minutes. This potion is a thick green fluid that tastes like spinach"
+            ]
+        },
+        {
+            "name": "Saddle of the Cavalier",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This saddle confers the following benefits while you are seated in it and astride a mount. Protected Mount. Attack rolls against the mount have Disadvantage. Secure Rider. You can’t be dismounted against your will. This property is suppressed while you have the Incapacitated condition."
+            ]
+        },
+        {
+            "name": "Silvered Weapon",
+            "type": "SCF",
+            "rarity": "common",
+            "value": 2500,
+            "source": "Guarda",
+            "entries": [
+                "An alchemical process has bonded silver to this magic weapon. When you score a Critical Hit with it against a creature that is shape shifted, the weapon deals one additional die of damage."
+            ]
+        },
+        {
+            "name": "Staff of Swarming Insects",
+            "type": "SCF",
+            "rarity": "rare",
+            "reqAttune": "by a bard, cleric, druid, sorcerer, warlock, or wizard",
+            "reqAttuneTags": [
+                {
+                    "class": "bard"
+                },
+                {
+                    "class": "cleric"
+                },
+                {
+                    "class": "druid"
+                },
+                {
+                    "class": "sorcerer"
+                },
+                {
+                    "class": "warlock"
+                },
+                {
+                    "class": "wizard"
+                }
+            ],
+            "value": 800000,
+            "source": "Guarda",
+            "entries": [
+                "This staff has 10 charges. Insect Cloud. While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by Gust of Wind) disperses the swarm and ends the effect",
+                "Spells. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC and spell attack modifier. The table indicates how many charges you must expend to cast the spell: Giant Insect - 4 charges, Insect Plague - 5 Charges",
+                "Regaining Charges. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses."
+            ]
+        },
+        {
+            "name": "Staff of the Woodlands",
+            "type": "SCF",
+            "rarity": "rare",
+            "reqAttune": "by a druid",
+            "reqAttuneTags": [
+                {
+                    "class": "druid"
+                }
+            ],
+            "value": 1200000,
+            "source": "Guarda",
+            "entries": [
+                "This staff has 6 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls. Spells. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.",
+                "Animal Friendship - 1, Awaken - 5, Barkskin - 2, Locate Animals or Plants - 2, Pass without Trace - 2, Speak with Animals - 1, Speak with Plants - 3, Wall of Thorns - 6.",
+                "Tree Form. You can take a Magic action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the Detect Magic spell. While touching the tree and using a Magic action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff. Regaining Charges. The staff regains 1d6 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff loses its properties and becomes a nonmagical Quarterstaff."
+            ]
+        },
+        {
+            "name": "Staff of Withering",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 200000,
+            "source": "Guarda",
+            "entries": [
+                "This staff has 3 charges and regains 1d3 expended charges daily at dawn. The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a normal Quarterstaff, and you can expend 1 charge to deal an extra 2d10 Necrotic damage to the target and force it to make a DC 15 Constitution saving throw. On a failed save, the target has Disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution."
+            ]
+        },
+        {
+            "name": "Stone of Controlling Earth Elementals",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 1200000,
+            "source": "Guarda",
+            "entries": [
+                "While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone can’t be used this way again until the next dawn."
+            ]
+        },
+        {
+            "name": "Sword of Life Stealing",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 80000,
+            "source": "Guarda",
+            "entries": [
+                "When you attack a creature with this magic weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 15 Necrotic damage if it isn’t a Construct or an Undead, and you gain Temporary Hit Points equal to the amount of Necrotic damage taken."
+            ]
+        },
+        {
+            "name": "Sword of Wounding",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 350000,
+            "source": "Guarda",
+            "entries": [
+                "When you hit a creature with an attack using this magic weapon, the target takes an extra 2d6 Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain Hit Points for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success."
+            ]
+        },
+        {
+            "name": "Tentacle Rod",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 150000,
+            "source": "Guarda",
+            "entries": [
+                "This rod ends in three rubbery tentacles. While holding the rod, you can take a Magic action to direct the tentacles to stretch outward, each one attacking a creature you can see within 15 feet of yourself. For each tentacle, make a melee attack roll with a +9 bonus. A tentacle deals 1d6 Psychic damage on a hit. If you hit the same target with all three tentacles, the target must succeed on a DC 15 Dexterity saving throw or have the Restrained condition until you have the Incapacitated condition, until you take a Bonus Action to release the target, or until the target is no longer within 15 feet of you. While Restrained in this way, the target takes 3d6 Psychic damage at the start of each of its turns. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success."
+            ]
+        },
+        {
+            "name": "Trident of Fish Command",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 20000,
+            "source": "Guarda",
+            "entries": [
+                "This magic weapon has 3 charges, and it regains 1d3 expended charges daily at dawn. While you carry it, you can expend 1 charge to cast Dominate Beast (save DC 15) from it on a Beast that has a Swim Speed."
+            ]
+        },
+        {
+            "name": "Veteran's Cane",
+            "type": "SCF",
+            "rarity": "common",
+            "value": 1000,
+            "source": "Guarda",
+            "entries": [
+                "As a Bonus Action, you can transform this walking cane into an ordinary Longsword or change the Longsword back into a walking cane. In either case, you must be holding the item."
+            ]
+        },
+        {
+            "name": "Vicious Weapon",
+            "type": "SCF",
+            "rarity": "rare",
+            "value": 500000,
+            "source": "Guarda",
+            "entries": [
+                "This magic weapon deals an extra 2d6 damage to any creature it hits. This extra damage is of the same type as the weapon’s normal damage."
+            ]
+        },
+        {
+            "name": "Wand of Binding",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 300000,
+            "source": "Guarda",
+            "entries": [
+                "This wand has 7 charges. Spells. While holding the wand, you can cast one of the spells (save DC 17) on the following table from it. The table indicates how many charges you must expend to cast the spell. Hold Monster - 5, Hold Person - 2. Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed."
+            ]
+        },
+        {
+            "name": "Wand of Fear",
+            "type": "SCF",
+            "rarity": "rare",
+			"reqAttune": true,
+            "value": 320000,
+            "source": "Guarda",
+            "entries": [
+                "This wand has 7 charges. Spells. While holding the wand, you can cast one of the spells (save DC 15) on the following table from it. The table indicates how many charges you must expend to cast the spell. Spells: Command (“flee” or “grovel” only) - 1, Fear (60-foot Cone) - 3. Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed."
+            ]
+        },
+        {
+            "name": "Wand of Paralysis",
+            "type": "SCF",
+            "rarity": "rare",
+            "reqAttune": "by a spellcaster",
+            "reqAttuneTags": [
+                {
+                    "spellcasting": true
+                }
+            ],
+            "value": 350000,
+            "source": "Guarda",
+            "entries": [
+                "This wand has 7 charges. While holding it, you can take a Magic action to expend 1 charge to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of yourself. The target must succeed on a DC 15 Constitution saving throw or have the Paralyzed condition for 1 minute. At the end of each of the target’s turns, it repeats the save, ending the effect on itself on a success. Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed."
+            ]
+        },
+        {
+            "name": "Wand of Magic Missiles",
+            "type": "SCF",
+            "rarity": "uncommon",
+            "value": 150000,
+            "source": "Guarda",
+            "entries": [
+                "This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Magic Missile from it. For 1 charge, you cast the level 1 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend. Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed."
+            ]
+        },
+        {
+            "name": "Wand of Fireballs",
+            "type": "SCF",
+            "rarity": "rare",
+            "reqAttune": "by a spellcaster",
+            "reqAttuneTags": [
+                {
+                    "spellcasting": true
+                }
+            ],
+            "value": 400000,
+            "source": "Guarda",
+            "entries": [
+                "This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Fireball (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend. Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed."
+            ]
+        },
+        {
+            "name": "Wand of Lightning Bolts",
+            "type": "SCF",
+            "rarity": "rare",
+            "reqAttune": "by a spellcaster",
+            "reqAttuneTags": [
+                {
+                    "spellcasting": true
+                }
+            ],
+            "value": 400000,
+            "source": "Guarda",
+            "entries": [
+                "This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast Lightning Bolt (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell’s level by 1 for each additional charge you expend. Regaining Charges. The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed."
+            ]
+        },
+        {
+            "name": "Weapon of Warning",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 90000,
+            "source": "Guarda",
+            "entries": [
+                "As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits. Alarm. The weapon magically awakens each subject who is sleeping naturally when combat begins. This benefit doesn’t wake a subject from magically induced sleep. Supernatural Readiness. Each subject has Advantage on its Initiative rolls."
+            ]
+        },
+        {
+            "name": "Winged Boots",
+            "type": "SCF",
+            "rarity": "uncommon",
+			"reqAttune": true,
+            "value": 700000,
+            "source": "Guarda",
+            "entries": [
+                "These boots have 4 charges and regain 1d4 expended charges daily at dawn. While wearing the boots, you can take a Magic action to expend 1 charge, gaining a Fly Speed of 30 feet for 1 hour. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land."
+            ]
+        }
+    ],
+    "book": [
+        {
+            "name": "Guarda",
+            "id": "Guarda",
+            "source": "Guarda",
+            "group": "homebrew",
+            "cover": {
+                "type": "external",
+                "url": "https://i.ibb.co/0tpKVHh/smi-cover.png"
+            },
+            "published": "2023-12-01",
+            "author": "Mahakala",
+            "contents": [
+                {
+                    "name": "Sane Magic Item Prices: Expanded",
+                    "headers": [
+                        "Introduction",
+                        "Consumables",
+                        "Combat Items",
+                        "Non-combat Items",
+                        "Summoning Items",
+                        "Gamechanging Items",
+                        "Items that Won't be priced",
+                        "Expansion: Guildmaster's Guide to Ravnica",
+                        "Expansion: Tasha's Cauldron of Everything"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bookData": [
+        {
+            "id": "Guarda",
+            "source": "Guarda",
+            "data": [
+                {
+                    "type": "section",
+                    "name": "Guarda",
+                    "entries": [
+                        "#TODO"
+                    ]
+                }
+            ]
+        }
+    ]
+}
