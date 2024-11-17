@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223780,
+		"dateLastModified": 1695223782,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -2616,38 +2616,6 @@
 			},
 			"rarity": "none",
 			"value": 7500
-		},
-		{
-			"name": "Chain Mail of the Fallen",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Chain Mail of the Fallen",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 67500
-		},
-		{
-			"name": "Chain Mail of Weightlessness",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Chain Mail of Weightlessness",
-				"source": "BMT",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "uncommon",
-			"value": 57500
 		},
 		{
 			"name": "Chain Shirt",
