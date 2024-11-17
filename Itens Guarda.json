@@ -14086,7 +14086,7 @@
 				"page": 8,
 				"tier": "minor",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 1200",
+				"valueExpression": "[[baseItem.value]] + 800",
 				"bonusWeapon": "+1",
 				"entries": [
 					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
@@ -14142,7 +14142,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 120000",
+				"valueExpression": "[[baseItem.value]] + 160000",
 				"bonusAc": "+1",
 				"entries": [
 					"While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
@@ -14194,7 +14194,7 @@
 				"page": 8,
 				"tier": "minor",
 				"rarity": "rare",
-				"valueExpression": "[[baseItem.value]] + 10000",
+				"valueExpression": "[[baseItem.value]] + 2000",
 				"bonusWeapon": "+2",
 				"entries": [
 					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
@@ -14264,6 +14264,220 @@
 			}
 		},
 		{
+			"name": "+2 Weapon (no damage)",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"net": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "+2 ",
+				"source": "DMG",
+				"page": 213,
+				"tier": "major",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 300000",
+				"bonusWeaponAttack": "+2",
+				"entries": [
+					"You have a {=bonusWeaponAttack} bonus to attack rolls made with this weapon."
+				]
+			}
+		},
+		{
+			"name": "+3 Ammunition",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF|DMG"
+				}
+			],
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "+3 ",
+				"source": "DMG",
+				"page": 150,
+				"srd": true,
+				"tier": "minor",
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 40000000",
+				"bonusWeapon": "+3",
+				"entries": [
+					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical."
+				],
+				"lootTables": [
+					"Magic Item Table D"
+				]
+			}
+		},
+		{
+			"name": "+3 Armor",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "+3 ",
+				"source": "DMG",
+				"page": 152,
+				"srd": true,
+				"basicRules": true,
+				"tier": "major",
+				"rarity": "legendary",
+				"valueExpression": "[[baseItem.value]] + 40000000",
+				"bonusAc": "+3",
+				"entries": [
+					"You have a {=bonusAc} bonus to AC while wearing this armor."
+				]
+			}
+		},
+		{
+			"name": "+3 Shield (*)",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "S"
+				}
+			],
+			"entries": [
+				"{@note * This generic variant has the same name and source as the item {@item +3 shield}}.",
+				"While holding this shield, you have a +3 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+			],
+			"inherits": {
+				"namePrefix": "+3 ",
+				"source": "DMG",
+				"page": 200,
+				"srd": true,
+				"tier": "major",
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 40000000",
+				"bonusAc": "+3",
+				"entries": [
+					"While holding this shield, you have a {=bonusAc} bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
+				]
+			}
+		},
+		{
+			"name": "+3 Weapon",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"excludes": {
+				"net": true
+			},
+			"inherits": {
+				"namePrefix": "+3 ",
+				"source": "DMG",
+				"page": 213,
+				"srd": true,
+				"basicRules": true,
+				"tier": "major",
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 40000000",
+				"bonusWeapon": "+3",
+				"entries": [
+					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon."
+				],
+				"lootTables": [
+					"Magic Item Table H"
+				]
+			}
+		},
+		{
+			"name": "+3 Weapon (no damage)",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"net": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "+3 ",
+				"source": "DMG",
+				"page": 213,
+				"tier": "major",
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 40000000",
+				"bonusWeaponAttack": "+3",
+				"entries": [
+					"You have a {=bonusWeaponAttack} bonus to attack rolls made with this weapon."
+				]
+			}
+		},
+		{
+			"name": "Acheron Blade",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Acheron Blade ",
+				"source": "EGW",
+				"page": 265,
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 200000",
+				"reqAttune": true,
+				"bonusWeapon": "+1",
+				"entries": [
+					"The black blade of this sword is crafted from a mysterious arcane alloy. You gain a {=bonusWeapon} bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you are immune to effects that turn undead.",
+					{
+						"type": "entries",
+						"name": "Dark Blessing",
+						"entries": [
+							"While holding the sword, you can use an action to give yourself {@dice 1d4 + 4} temporary hit points. This property can't be used again until the next dusk."
+						]
+					},
+					{
+						"type": "entries",
+						"name": "Disheartening Strike",
+						"entries": [
+							"When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it's immune to the {@condition frightened} condition. Once you use this property, you can't do so again until the next dusk."
+						]
+					}
+				]
+			}
+		},
+		{
+			"name": "Adamantine Ammunition",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF|DMG"
+				}
+			],
+			"excludes": {
+				"name": "Energy Cell"
+			},
+			"ammo": true,
+			"entries": [
+				"Ammunition made of or coated with adamantine is unusually effective when used to break objects. Whenever a piece of adamantine ammunition hits an object, the hit is a critical hit.",
+				"The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it."
+			],
+			"inherits": {
+				"namePrefix": "Adamantine ",
+				"source": "XGE",
+				"page": 78,
+				"tier": "minor",
+				"rarity": "unknown",
+				"entries": [
+					"Whenever you hit an object using this ammunition, the hit is a critical hit."
+				]
+			}
+		},
+		{
 			"name": "Adamantine Armor",
 			"type": "GV",
 			"requires": [
@@ -14283,7 +14497,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 150000",
+				"valueExpression": "[[baseItem.value]] + 5000",
 				"entries": [
 					"This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
 				]
@@ -14321,6 +14535,33 @@
 			}
 		},
 		{
+			"name": "Adamantine Armor",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "HA"
+				},
+				{
+					"type": "MA"
+				}
+			],
+			"excludes": {
+				"name": "Hide Armor"
+			},
+			"inherits": {
+				"namePrefix": "Adamantine ",
+				"source": "DMG",
+				"page": 150,
+				"srd": true,
+				"tier": "major",
+				"rarity": "uncommon",
+				"valueExpression": "[[baseItem.value]] + 150000",
+				"entries": [
+					"This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
+				]
+			}
+		},
+		{
 			"name": "Adamantine Weapon",
 			"type": "GV",
 			"requires": [
@@ -14348,6 +14589,66 @@
 			}
 		},
 		{
+			"name": "Antimagic Armor",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "LA"
+				},
+				{
+					"type": "MA"
+				},
+				{
+					"type": "HA"
+				}
+			],
+			"inherits": {
+				"namePrefix": "Antimagic ",
+				"source": "BMT",
+				"page": 65,
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 150000000",
+				"reqAttune": true,
+				"entries": [
+					"While wearing this armor, you can use your reaction to give yourself advantage on a saving throw you make against a spell. Once this property is used, it can't be used again until the next dawn.",
+					"In addition, while you wear this armor, you can use it to cast {@spell Antimagic Field}, requiring no spell components. Once this property is used, it can't be used again until the next dawn."
+				],
+				"attachedSpells": [
+					"antimagic field"
+				]
+			}
+		},
+		{
+			"name": "Armblade",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "M"
+				}
+			],
+			"excludes": {
+				"property": "2H"
+			},
+			"inherits": {
+				"nameSuffix": " Armblade",
+				"source": "ERLW",
+				"page": 276,
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 3500",
+				"reqAttune": "by a warforged",
+				"reqAttuneTags": [
+					{
+						"race": "warforged|erlw"
+					}
+				],
+				"entries": [
+					"An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.",
+					"As a bonus action, you can retract the armblade into your forearm or extend it from there. While it is extended, you can use the weapon as if you were holding it, and you can't use that hand for other purposes."
+				]
+			},
+			"hasFluffImages": true
+		},
+		{
 			"name": "Armor of Acid Resistance",
 			"type": "GV",
 			"requires": [
@@ -14365,7 +14666,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14390,7 +14691,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14415,7 +14716,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14440,7 +14741,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14468,6 +14769,29 @@
 			"hasFluffImages": true
 		},
 		{
+			"name": "Armor of Gleaming",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "HA"
+				},
+				{
+					"type": "MA"
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Gleaming",
+				"source": "XGE",
+				"page": 136,
+				"tier": "minor",
+				"rarity": "common",
+				"valueExpression": "[[baseItem.value]] + 5000",
+				"entries": [
+					"This armor never gets dirty."
+				]
+			}
+		},
+		{
 			"name": "Armor of Lightning Resistance",
 			"type": "GV",
 			"requires": [
@@ -14485,7 +14809,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14510,7 +14834,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14535,7 +14859,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14560,7 +14884,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14585,10 +14909,41 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
+				]
+			}
+		},
+		{
+			"name": "Armor of Safeguarding",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "HA"
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of Safeguarding",
+				"source": "BGG",
+				"page": 111,
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 100000000",
+				"reqAttune": true,
+				"entries": [
+					"Set in the center of this armor's chest is a citrine engraved with the shield rune.",
+					"While wearing this armor, your hit point maximum increases by an amount equal to 10 + your level.",
+					{
+						"type": "entries",
+						"name": "Invoking the Rune",
+						"entries": [
+							"As an action, you can invoke the armor's rune to cast the {@spell beacon of hope} spell with it; the spell has a duration of 1 minute and doesn't require {@status concentration}. Once the rune has been invoked, it can't be invoked again until the next dawn."
+						]
+					}
+				],
+				"attachedSpells": [
+					"beacon of hope"
 				]
 			}
 		},
@@ -14635,7 +14990,7 @@
 				"tier": "major",
 				"rarity": "rare",
 				"reqAttune": true,
-				"valueExpression": "[[baseItem.value]] + 600000",
+				"valueExpression": "[[baseItem.value]] + 100000",
 				"hasRefs": true,
 				"entries": [
 					"{#itemEntry Armor of Resistance}"
@@ -14673,6 +15028,187 @@
 				"attachedSpells": [
 					"jump",
 					"levitate"
+				]
+			}
+		},
+		{
+			"name": "Arrow of Slaying (*)",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"arrow": true
+				},
+				{
+					"bolt": true
+				}
+			],
+			"excludes": {
+				"name": [
+					"Energy Cell",
+					"Modern Bullet",
+					"Modern Bullets (10)",
+					"Renaissance Bullet",
+					"Renaissance Bullets (10)"
+				]
+			},
+			"ammo": true,
+			"entries": [
+				"{@note * This generic variant has the same name and source as the item {@item arrow of slaying}}.",
+				"An {@i arrow of slaying} is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both {@i arrows of dragon slaying} and {@i arrows of blue dragon slaying}. If a creature belonging to the type, race, or group associated with an {@i arrow of slaying} takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra {@dice 6d10} piercing damage on a failed save, or half as much extra damage on a successful one.",
+				"Once an {@i arrow of slaying} deals its extra damage to a creature, it becomes a nonmagical arrow.",
+				"Other types of magic ammunition of this kind exist, such as bolts of slaying meant for a crossbow, though arrows are most common."
+			],
+			"inherits": {
+				"nameSuffix": " of Slaying",
+				"source": "DMG",
+				"page": 152,
+				"srd": true,
+				"tier": "minor",
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 10000000",
+				"entries": [
+					"{=baseName/at} {=baseName/l} of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both {@i {=baseName/l}s of dragon slaying} and {@i {=baseName/l}s of blue dragon slaying}. If a creature belonging to the type, race, or group associated with {=baseName/a} {=baseName/l} of slaying takes damage from the {=baseName/l}, the creature must make a DC 17 Constitution saving throw, taking an extra {@dice 6d10} piercing damage on a failed save, or half as much extra damage on a successful one.",
+					"Once {=baseName/a} {=baseName/l} of slaying deals its extra damage to a creature, it becomes a nonmagical {=baseName/l}."
+				]
+			},
+			"hasFluffImages": true
+		},
+		{
+			"name": "Ascendant Dragon's Wrath Weapon",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"weapon": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Ascendant Dragon's Wrath ",
+				"source": "FTD",
+				"page": 25,
+				"rarity": "legendary",
+				"valueExpression": "[[baseItem.value]] + 10000000",
+				"reqAttune": true,
+				"bonusWeapon": "+3",
+				"entries": [
+					"This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties.",
+					"Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon.",
+					"You gain a {=bonusWeapon} bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra {@damage 3d6} damage of the type dealt by the dragon's breath weapon.",
+					"As an action, you can unleash a 60-foot cone of destructive energy from the weapon. Each creature in that area must make a DC 18 Dexterity saving throw, taking {@damage 12d6} damage of the type dealt by the dragon's breath weapon on a failed save, or half as much damage on a successful one. Once this action is used, it can't be used again until the next dawn."
+				]
+			}
+		},
+		{
+			"name": "Barding",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"armor": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " Barding",
+				"nameRemove": " Armor",
+				"source": "PHB",
+				"page": 157,
+				"srd": true,
+				"basicRules": true,
+				"type": "TAH",
+				"rarity": "none",
+				"weightMult": 2,
+				"weightExpression": "[[baseItem.weight]] * 2",
+				"valueMult": 4,
+				"valueExpression": "[[baseItem.value]] * 4",
+				"barding": true,
+				"entries": [
+					"Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
+				]
+			}
+		},
+		{
+			"name": "Berserker Axe (Removido)",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"axe": true
+				}
+			],
+			"inherits": {
+				"namePrefix": "Berserker ",
+				"source": "DMG",
+				"page": 155,
+				"srd": true,
+				"tier": "major",
+				"rarity": "rare",
+				"valueExpression": "[[baseItem.value]] + 10000000",
+				"reqAttune": true,
+				"curse": true,
+				"bonusWeapon": "+1",
+				"entries": [
+					"You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.",
+					{
+						"type": "entries",
+						"name": "Curse",
+						"entries": [
+							"This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear."
+						]
+					},
+					"Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the {@action Attack} action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear."
+				],
+				"lootTables": [
+					"Magic Item Table G"
+				]
+			},
+			"hasFluffImages": true
+		},
+		{
+			"name": "Blade of the Medusa",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"sword": true
+				}
+			],
+			"inherits": {
+				"nameSuffix": " of the Medusa",
+				"source": "LLK",
+				"page": 53,
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 10000000",
+				"reqAttune": true,
+				"curse": true,
+				"entries": [
+					"When you attack a creature with this magic weapon and roll a 20 on the attack roll, the creature must make a DC 15 Constitution saving throw in addition to suffering the attack's normal effects. On a failed save, the creature is restrained and must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this effect three times, the effect ends. If it fails its saves three times, it is turned to stone and subjected to the {@condition petrified} condition for 1 hour.",
+					"A creature is immune to this effect if it is immune to damage of the weapon's type, does not have a body made of flesh, or has legendary actions.",
+					{
+						"name": "Curse",
+						"type": "entries",
+						"entries": [
+							"This weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with a {@spell remove curse} spell or similar magic, you are unwilling to part with the weapon. Whenever you attack a creature with this weapon and roll a 1 on the attack roll, you must succeed on a DC 15 Constitution saving throw or be {@condition restrained} and forced to make additional saves against being {@condition petrified}, as above."
+						]
+					}
+				]
+			}
+		},
+		{
+			"name": "Bloodseeker Ammunition",
+			"type": "GV|DMG",
+			"requires": [
+				{
+					"type": "A"
+				},
+				{
+					"type": "AF|DMG"
+				}
+			],
+			"ammo": true,
+			"inherits": {
+				"namePrefix": "Bloodseeker ",
+				"source": "BMT",
+				"page": 66,
+				"rarity": "very rare",
+				"valueExpression": "[[baseItem.value]] + 1000000",
+				"entries": [
+					"Ranged attack rolls made with this ammunition have advantage against any creature that doesn't have all its hit points."
 				]
 			}
 		},
