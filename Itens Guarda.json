@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223791,
+		"dateLastModified": 1695223793,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -12216,54 +12216,6 @@
 			},
 			"rarity": "rare",
 			"value": 120000
-		},
-		{
-			"name": "Stirring Dragon-Touched Focus (Chromatic)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Stirring Dragon-Touched Focus (Chromatic)",
-				"source": "FTD",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "rare",
-			"value": 350000
-		},
-		{
-			"name": "Stirring Dragon-Touched Focus (Gem)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Stirring Dragon-Touched Focus (Gem)",
-				"source": "FTD",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "rare",
-			"value": 400000
-		},
-		{
-			"name": "Stirring Dragon-Touched Focus (Metallic)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Stirring Dragon-Touched Focus (Metallic)",
-				"source": "FTD",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "rare",
-			"value": 500000
 		},
 		{
 			"name": "Stirring Scaled Ornament",
