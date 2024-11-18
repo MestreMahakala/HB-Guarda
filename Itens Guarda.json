@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223782,
+		"dateLastModified": 1695223784,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -3864,22 +3864,6 @@
 			},
 			"rarity": "none",
 			"value": 100
-		},
-		{
-			"name": "Dragon Wing Bow",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Dragon Wing Bow",
-				"source": "FTD",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "rare",
-			"value": 400000
 		},
 		{
 			"name": "Dragonchess Set",
