@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223786,
+		"dateLastModified": 1695223789,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -8408,22 +8408,6 @@
 			},
 			"rarity": "none",
 			"value": 10000
-		},
-		{
-			"name": "Pistol (CR)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Pistol (CR)",
-				"source": "CR",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 7500
 		},
 		{
 			"name": "Pitcher",
