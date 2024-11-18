@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223801,
+		"dateLastModified": 1695223803,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -14051,7 +14051,7 @@
 				"page": 8,
 				"tier": "minor",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 800",
+				"valueExpression": "800",
 				"bonusWeapon": "+1",
 				"entries": [
 					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
@@ -14159,7 +14159,7 @@
 				"page": 8,
 				"tier": "minor",
 				"rarity": "rare",
-				"valueExpression": "[[baseItem.value]] + 2000",
+				"valueExpression": "2000",
 				"bonusWeapon": "+2",
 				"entries": [
 					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.",
