@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223789,
+		"dateLastModified": 1695223791,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -10010,10 +10010,10 @@
 			"value": 280000
 		},
 		{
-			"name": "Ring of protection, +2",
+			"name": "+2 Ring of Protection",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Ring of protection, +2",
+				"name": "+2 Ring of Protection",
 				"source": "TDCSR",
 				"_preserve": {
 					"page": true,
