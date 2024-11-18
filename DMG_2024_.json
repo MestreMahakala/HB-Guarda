@@ -17,7 +17,7 @@
         "status": "ready",
         "edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223791,
+        "dateLastModified": 1695223793,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "item": [
@@ -474,7 +474,7 @@
         },
 	{
             "name": "Necklace of Prayer Beads (Wind Walking)",
-            "source": "DMG",
+            "source": "Guarda",
             "page": 182,
             "srd": true,
             "tier": "major",
@@ -559,7 +559,7 @@
         },
 	{
             "name": "Necklace of Prayer Beads (Blessing)",
-            "source": "DMG",
+            "source": "Guarda",
             "page": 182,
             "srd": true,
             "tier": "major",
@@ -644,7 +644,7 @@
         },
 	{
             "name": "Necklace of Prayer Beads (Curing)",
-            "source": "DMG",
+            "source": "Guarda",
             "page": 182,
             "srd": true,
             "tier": "major",
@@ -729,7 +729,7 @@
         },
 	{
             "name": "Necklace of Prayer Beads (Favor)",
-            "source": "DMG",
+            "source": "Guarda",
             "page": 182,
             "srd": true,
             "tier": "major",
@@ -814,7 +814,7 @@
         },
 	{
             "name": "Necklace of Prayer Beads (Smiting)",
-            "source": "DMG",
+            "source": "Guarda",
             "page": 182,
             "srd": true,
             "tier": "major",
@@ -899,7 +899,7 @@
         },
 	{
             "name": "Necklace of Prayer Beads (Summons)",
-            "source": "DMG",
+            "source": "Guarda",
             "page": 182,
             "srd": true,
             "tier": "major",
