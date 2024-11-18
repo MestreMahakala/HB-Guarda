@@ -17,7 +17,7 @@
         "status": "ready",
         "edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223779,
+        "dateLastModified": 1695223781,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "item": [
@@ -1289,13 +1289,6 @@
         {
 			"name": "Stirring Dragon-Touched Focus (Chromatic)",
 			"source": "FTD",
-			"_copy": {
-				"name": "Slumbering Dragon-Touched Focus",
-				"source": "FTD",
-				"_preserve": {
-					"page": true
-				}
-			},
 			"rarity": "rare",
             "reqAttune": true,
             "value": 350000,
@@ -1335,13 +1328,6 @@
         {
 			"name": "Stirring Dragon-Touched Focus (Gem)",
 			"source": "FTD",
-			"_copy": {
-				"name": "Slumbering Dragon-Touched Focus",
-				"source": "FTD",
-				"_preserve": {
-					"page": true
-				}
-			},
 			"rarity": "rare",
             "reqAttune": true,
             "value": 400000,
@@ -1381,13 +1367,6 @@
         {
 			"name": "Stirring Dragon-Touched Focus (Metallic)",
 			"source": "FTD",
-			"_copy": {
-				"name": "Slumbering Dragon-Touched Focus",
-				"source": "FTD",
-				"_preserve": {
-					"page": true
-				}
-			},
 			"rarity": "rare",
             "reqAttune": true,
             "value": 500000,
