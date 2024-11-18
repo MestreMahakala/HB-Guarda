@@ -17,7 +17,7 @@
         "status": "ready",
         "edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223783,
+        "dateLastModified": 1695223785,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "item": [
@@ -1288,7 +1288,7 @@
         },
         {
 			"name": "Stirring Dragon-Touched Focus (Chromatic)",
-			"source": "FTD",
+			"type": "SCF",
 			"rarity": "rare",
             "reqAttune": true,
             "value": 350000,
@@ -1327,7 +1327,7 @@
 		},
         {
 			"name": "Stirring Dragon-Touched Focus (Gem)",
-			"source": "FTD",
+			"type": "SCF",
 			"rarity": "rare",
             "reqAttune": true,
             "value": 400000,
@@ -1366,7 +1366,7 @@
 		},        
         {
 			"name": "Stirring Dragon-Touched Focus (Metallic)",
-			"source": "FTD",
+			"type": "SCF",
 			"rarity": "rare",
             "reqAttune": true,
             "value": 500000,
