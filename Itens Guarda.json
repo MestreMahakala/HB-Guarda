@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223795,
+		"dateLastModified": 1695223798,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -13739,7 +13739,7 @@
 					"wondrous": true
 				}
 			},
-			"value": 600000,
+			"value": 100000,
 			"hasFluffImages": true,
 			"fluff": {
 				"_itemFluff": {
@@ -17003,7 +17003,7 @@
 				"page": 209,
 				"tier": "major",
 				"rarity": "rare",
-				"valueExpression": "[[baseItem.value]] + 35000",
+				"valueExpression": "[[baseItem.value]] + 15000",
 				"entries": [
 					"When you roll a 20 with this magic weapon, the target takes an extra 7 {=dmgType} damage.",
 					"{@i Note: According to the SRD, it is an extra {@dice 2d6} {=dmgType} damage.}"
