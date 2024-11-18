@@ -17,7 +17,7 @@
         "status": "ready",
         "edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223789,
+        "dateLastModified": 1695223791,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "item": [
@@ -1292,6 +1292,7 @@
 			"rarity": "rare",
             "reqAttune": true,
             "value": 350000,
+            "source": "Guarda",
 			"entries": [
 				"This wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely crafted object. It typically incorporates imagery of dragons' wings, claws, teeth, or scales.",
 				"You have advantage on initiative rolls. While you are holding the focus, it can function as a spellcasting focus for all your spells.",
@@ -1331,6 +1332,7 @@
 			"rarity": "rare",
             "reqAttune": true,
             "value": 400000,
+            "source": "Guarda",
 			"entries": [
 				"This wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely crafted object. It typically incorporates imagery of dragons' wings, claws, teeth, or scales.",
 				"You have advantage on initiative rolls. While you are holding the focus, it can function as a spellcasting focus for all your spells.",
@@ -1370,6 +1372,7 @@
 			"rarity": "rare",
             "reqAttune": true,
             "value": 500000,
+            "source": "Guarda",
 			"entries": [
 				"This wondrous item can be a scepter, an orb, an amulet, a crystal, or another finely crafted object. It typically incorporates imagery of dragons' wings, claws, teeth, or scales.",
 				"You have advantage on initiative rolls. While you are holding the focus, it can function as a spellcasting focus for all your spells.",
