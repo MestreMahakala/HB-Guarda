@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223803,
+		"dateLastModified": 1695223809,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -246,6 +246,23 @@
 			},
 			"rarity": "none",
 			"value": 200
+		},
+		
+		{
+			"name": "Rations (1 day)",
+			"source": "Guarda",
+			"_copy": {
+				"name": "Rations (1 day)",
+				"source": "PHB",
+				"_preserve": {
+					"page": true,
+					"type": true,
+					"tier": true,
+					"lootTables": true
+				}
+			},
+			"rarity": "none",
+			"value": 0
 		},
 		{
 			"name": "Songhorn",
@@ -9688,22 +9705,6 @@
 			},
 			"rarity": "none",
 			"value": 2500
-		},
-		{
-			"name": "Rations (1 day)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Rations (1 day)",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 0
 		},
 		{
 			"name": "Ready Gunk",
