@@ -17,7 +17,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223569,
+		"dateLastModified": 1695223573,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -607,10 +607,107 @@
 								]
 							}
 						}
-					 },
+					},
 					"speed":30
 				}
 			]
+		},
+		{
+			"name": "Mirrorkin",
+			"source": "Guarda",
+			"page": 18,
+			"lineage": true,
+			
+			"creatureTypes": [
+				"construct"
+			],
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": 30,
+			"skillProficiencies": [
+				{
+					"any": 2
+				}
+			],
+			
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Creature Type",
+					"entries": [
+						"Você é um constructo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Você é médio ou pequeno, escolhendo no momento da criação de personagem."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Legado Ancestral",
+					"entries": [
+						"Você ganha proficiência em duas perícias de sua escolha."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Imaterial",
+					"entries": [
+						"Você é resistente a dano de force. Além disso, você é imune a efeitos de envelhecimento sobrenatural, magias que mudariam sua forma física, você não precisa comer, beber ou respirar, além de não possuir carne para nenhum efeito mecânico."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Forma instável",
+					"entries": [
+						"Com uma ação bônus, você se torna invisível até o início do seu próximo turno, ou até realizar um ataque ou conjurar uma magia. Você pode usar essa habilidade uma quantidade de vezes igual seu bônus de proficiência."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Nascido do caos",
+					"entries": [
+						"Quando tirar um 1 natural em um 'D20 test', role 1d4 e sofra o efeito correspondente abaixo.",
+						{
+							"type": "table",
+							"caption": "Nascido do Caos",
+							"colLabels": [
+								"1d4",
+								"Efeito"
+							],
+							"colStyles": [
+								"col-2 text-center",
+								"col-10"
+							],
+							"rows": [
+								[
+									"1",
+									"Você teleporta 10 pés em linha reta para uma posição aleatória em um espaço desocupado."
+								],
+								[
+									"2",
+									"Você irradia 5 pés de luz plena, piscando em todas as cores do arco-iris pelo próximo minuto."
+								],
+								[
+									"3",
+									"Você e todas as criaturas a 5 pés, recebem dano de force igual sua proficiência."
+								],
+								[
+									"4",
+									"Você refaz a rolagem que você acabou de realizar, com vantagem."
+								]
+							]
+						}
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
 		}
 	]
 }
