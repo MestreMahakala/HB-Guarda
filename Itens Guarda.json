@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223823,
+		"dateLastModified": 1695223825,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -15928,7 +15928,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -15958,7 +15958,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -15988,7 +15988,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16018,7 +16018,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16048,7 +16048,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16078,7 +16078,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16108,7 +16108,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16138,7 +16138,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16500,7 +16500,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16536,7 +16536,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16572,7 +16572,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16608,7 +16608,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16644,7 +16644,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16680,7 +16680,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16716,7 +16716,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
@@ -16752,7 +16752,7 @@
 			"type": "GV",
 			"requires": [
 				{
-					"type": "SCF",
+					"type": "SCF|XPHB",
 					"scfType": "arcane"
 				}
 			],
