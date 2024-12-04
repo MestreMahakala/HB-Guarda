@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223811,
+		"dateLastModified": 1695223819,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -3192,7 +3192,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Common Glamerweave",
@@ -14083,7 +14083,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "rare",
-				"valueExpression": "[[baseItem.value]] + 150000",
+				"valueExpression": "[[baseItem.value]] + 400000",
 				"bonusAc": "+1",
 				"entries": [
 					"You have a {=bonusAc} bonus to AC while wearing this armor."
@@ -14463,7 +14463,7 @@
 				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
-				"valueExpression": "[[baseItem.value]] + 5000",
+				"valueExpression": "[[baseItem.value]] + 150000",
 				"entries": [
 					"This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
 				]
