@@ -128,10 +128,29 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223821,
+		"dateLastModified": 1695223823,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
+		{
+			"name": "Shield",
+			"source": "Guarda",
+			"page": 144,
+			"srd": true,
+			"basicRules": true,
+			"reprintedAs": [
+				"Shield|XPHB"
+			],
+			"edition": "classic",
+			"type": "S",
+			"rarity": "none",
+			"weight": 6,
+			"value": 1000,
+			"ac": 2,
+			"entries": [
+				"A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time."
+			]
+		},
 		{
 			"name": "Pistol",
 			"source": "Guarda",
