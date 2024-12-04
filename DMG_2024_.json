@@ -17,13 +17,13 @@
         "status": "ready",
         "edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223795,
+        "dateLastModified": 1695223799,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "item": [
         {
             "name": "Baba Yaga's Mortar and Pestle",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 50000,
@@ -34,7 +34,7 @@
         },
         {
             "name": "Boots of the Winterlands",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "weight": 2,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Bowl of Commanding Water Elementals",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1200000,
             "source": "Guarda",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Brazier of Commanding Fire Elementals",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1200000,
             "source": "Guarda",
@@ -68,7 +68,7 @@
         },
         {
             "name": "Broom of Flying",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 1000000,
@@ -79,7 +79,7 @@
         },
         {
             "name": "Censer of Controlling Air Elementals",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1200000,
             "source": "Guarda",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Cube of Force",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 700000,
@@ -100,7 +100,7 @@
         },
         {
             "name": "Cube of Summoning",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1000000,
             "source": "Guarda",
@@ -117,7 +117,7 @@
         },
         {
             "name": "Daern's Instant Fortress",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "none",
 			"reqAttune": true,
             "value": 600000,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Elemental Gem, Blue Sapphire",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 200000,
             "source": "Guarda",
@@ -141,7 +141,7 @@
         },
         {
             "name": "Elemental Gem, Emerald",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 200000,
             "source": "Guarda",
@@ -152,7 +152,7 @@
         },
         {
             "name": "Elemental Gem, Red Corundum",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 200000,
             "source": "Guarda",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Elemental Gem, Yellow Diamond",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 200000,
             "source": "Guarda",
@@ -174,7 +174,7 @@
         },
         {
             "name": "Elixir of Health",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 50000,
             "source": "Guarda",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Eyes of Minute seeing",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 10000,
             "source": "Guarda",
@@ -194,7 +194,7 @@
         },
         {
             "name": "Folding Boat",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 400000,
             "source": "Guarda",
@@ -208,7 +208,7 @@
         },
         {
             "name": "Heward's Handy Haversack",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 200000,
             "source": "Guarda",
@@ -222,7 +222,7 @@
         },
         {
             "name": "Horn of Valhalla, Brass",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1200000,
             "source": "Guarda",
@@ -235,7 +235,7 @@
         },
         {
             "name": "Horn of Valhalla, Silver",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 800000,
             "source": "Guarda",
@@ -248,7 +248,7 @@
         },
         {
             "name": "Instrument of the Bards, Canaith Mandolin",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "reqAttune": "by a bard",
             "reqAttuneTags": [
@@ -265,7 +265,7 @@
         },
         {
             "name": "Instrument of the Bards, Cli Lyre",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "reqAttune": "by a bard",
             "reqAttuneTags": [
@@ -282,7 +282,7 @@
         },
         {
             "name": "Instrument of the Bards, Doss Lute",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "reqAttune": "by a bard",
             "reqAttuneTags": [
@@ -299,7 +299,7 @@
         },
         {
             "name": "Instrument of the Bards, Fochlucan Bandore",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "reqAttune": "by a bard",
             "reqAttuneTags": [
@@ -316,7 +316,7 @@
         },
         {
             "name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "reqAttune": "by a bard",
             "reqAttuneTags": [
@@ -333,7 +333,7 @@
         },
         {
             "name": "Ioun Stone, Awareness",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 80000,
@@ -345,7 +345,7 @@
         },
         {
             "name": "Ioun Stone, Protection",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 200000,
@@ -357,7 +357,7 @@
         },
         {
             "name": "Ioun Stone, Reserve",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 800000,
@@ -369,7 +369,7 @@
         },
         {
             "name": "Ioun Stone, Sustenance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 50000,
@@ -381,7 +381,7 @@
         },
         {
             "name": "Javelin of Lightning",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 50000,
             "source": "Guarda",
@@ -392,7 +392,7 @@
         },
         {
             "name": "Keoghtom's Ointment",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 50000,
             "source": "Guarda",
@@ -402,7 +402,7 @@
         },
         {
             "name": "Lantern of Revealing",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 140000,
             "source": "Guarda",
@@ -412,7 +412,7 @@
         },
         {
             "name": "Mace of terror",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 200000,
@@ -423,7 +423,7 @@
         },
         {
             "name": "Mariner's armor",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 20000,
             "source": "Guarda",
@@ -433,7 +433,7 @@
         },
         {
             "name": "Medallion of Thoughts",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 20000,
@@ -444,7 +444,7 @@
         },
         {
             "name": "Nature's Mantle",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "reqAttune": "by a druid or ranger",
             "reqAttuneTags": [
@@ -463,7 +463,7 @@
         },
         {
             "name": "Necklace of Adaptation",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 100000,
@@ -984,7 +984,7 @@
         },
         {
             "name": "Orb of Direction",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "common",
             "value": 3000,
             "source": "Guarda",
@@ -994,7 +994,7 @@
         },
         {
             "name": "Periapt of health",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 50000,
@@ -1005,7 +1005,7 @@
         },
         {
             "name": "Periapt of Proof Against Poison",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 1000000,
@@ -1016,7 +1016,7 @@
         },
         {
             "name": "Periapt of Wound Closure",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 70000,
@@ -1029,7 +1029,7 @@
         },
         {
             "name": "Potion of Animal Friendship",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 10000,
             "source": "Guarda",
@@ -1039,7 +1039,7 @@
         },
         {
             "name": "Potion of Water Breathing",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 500000,
             "source": "Guarda",
@@ -1049,7 +1049,7 @@
         },
         {
             "name": "Ring of Acid Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1060,7 +1060,7 @@
         },
         {
             "name": "Ring of Cold Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1071,7 +1071,7 @@
         },
         {
             "name": "Ring of Fire Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1082,7 +1082,7 @@
         },
         {
             "name": "Ring of Force Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1093,7 +1093,7 @@
         },
         {
             "name": "Ring of Lightning Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1104,7 +1104,7 @@
         },
         {
             "name": "Ring of Necrotic Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1115,7 +1115,7 @@
         },
         {
             "name": "Ring of Poison Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1126,7 +1126,7 @@
         },
         {
             "name": "Ring of Psychic Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1137,7 +1137,7 @@
         },
         {
             "name": "Ring of Radiant Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1148,7 +1148,7 @@
         },
         {
             "name": "Ring of Thunder Resistance",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1500000,
             "source": "Guarda",
@@ -1159,7 +1159,7 @@
         },
         {
             "name": "Ring of Warmth",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 30000,
@@ -1170,7 +1170,7 @@
         },
         {
             "name": "Rival Coin",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "common",
             "value": 5000,
             "source": "Guarda",
@@ -1182,7 +1182,7 @@
         },
         {
             "name": "Robe of Eyes",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 2000000,
@@ -1195,7 +1195,7 @@
         },
         {
             "name": "Potion of Pugilism",
-            "type": "SCF",
+            "type": "P|XPHB",
             "rarity": "uncommon",
             "value": 50000,
             "source": "Guarda",
@@ -1205,8 +1205,8 @@
         },
         {
             "name": "Saddle of the Cavalier",
-            "type": "SCF",
             "rarity": "uncommon",
+            "wondrous": true,
 			"reqAttune": true,
             "value": 200000,
             "source": "Guarda",
@@ -1216,7 +1216,7 @@
         },
         {
             "name": "Silvered Weapon",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "common",
             "value": 2500,
             "source": "Guarda",
@@ -1226,7 +1226,7 @@
         },
         {
             "name": "Staff of Swarming Insects",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "reqAttune": "by a bard, cleric, druid, sorcerer, warlock, or wizard",
             "reqAttuneTags": [
@@ -1259,7 +1259,7 @@
         },
         {
             "name": "Staff of the Woodlands",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "reqAttune": "by a druid",
             "reqAttuneTags": [
@@ -1277,7 +1277,7 @@
         },
         {
             "name": "Staff of Withering",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 200000,
@@ -1288,7 +1288,7 @@
         },
         {
 			"name": "Stirring Dragon-Touched Focus (Chromatic)",
-			"type": "SCF",
+			"type": "SCF|XPHB",
 			"rarity": "rare",
             "reqAttune": true,
             "value": 350000,
@@ -1328,7 +1328,7 @@
 		},
         {
 			"name": "Stirring Dragon-Touched Focus (Gem)",
-			"type": "SCF",
+			"type": "SCF|XPHB",
 			"rarity": "rare",
             "reqAttune": true,
             "value": 400000,
@@ -1368,7 +1368,7 @@
 		},        
         {
 			"name": "Stirring Dragon-Touched Focus (Metallic)",
-			"type": "SCF",
+			"type": "SCF|XPHB",
 			"rarity": "rare",
             "reqAttune": true,
             "value": 500000,
@@ -1408,7 +1408,7 @@
 		},
         {
             "name": "Stone of Controlling Earth Elementals",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 1200000,
             "source": "Guarda",
@@ -1418,7 +1418,7 @@
         },
         {
             "name": "Sword of Life Stealing",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 80000,
@@ -1429,7 +1429,7 @@
         },
         {
             "name": "Sword of Wounding",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 350000,
@@ -1440,7 +1440,7 @@
         },
         {
             "name": "Tentacle Rod",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 150000,
@@ -1451,7 +1451,7 @@
         },
         {
             "name": "Trident of Fish Command",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 20000,
@@ -1462,7 +1462,7 @@
         },
         {
             "name": "Veteran's Cane",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "common",
             "value": 1000,
             "source": "Guarda",
@@ -1472,7 +1472,7 @@
         },
         {
             "name": "Vicious Weapon",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "value": 500000,
             "source": "Guarda",
@@ -1482,7 +1482,7 @@
         },
         {
             "name": "Wand of Binding",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 300000,
@@ -1493,7 +1493,7 @@
         },
         {
             "name": "Wand of Fear",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
 			"reqAttune": true,
             "value": 320000,
@@ -1504,7 +1504,7 @@
         },
         {
             "name": "Wand of Paralysis",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "reqAttune": "by a spellcaster",
             "reqAttuneTags": [
@@ -1520,7 +1520,7 @@
         },
         {
             "name": "Wand of Magic Missiles",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
             "value": 150000,
             "source": "Guarda",
@@ -1530,7 +1530,7 @@
         },
         {
             "name": "Wand of Fireballs",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "reqAttune": "by a spellcaster",
             "reqAttuneTags": [
@@ -1546,7 +1546,7 @@
         },
         {
             "name": "Wand of Lightning Bolts",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "rare",
             "reqAttune": "by a spellcaster",
             "reqAttuneTags": [
@@ -1562,7 +1562,7 @@
         },
         {
             "name": "Weapon of Warning",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 90000,
@@ -1573,7 +1573,7 @@
         },
         {
             "name": "Winged Boots",
-            "type": "SCF",
+            "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
             "value": 700000,
