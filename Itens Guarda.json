@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223829,
+		"dateLastModified": 1695223834,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -142,7 +142,7 @@
 				"Shield|XPHB"
 			],
 			"edition": "classic",
-			"type": "S",
+			"type": "S|XPHB",
 			"rarity": "none",
 			"weight": 6,
 			"value": 1000,
@@ -14098,11 +14098,11 @@
 			"type": "GV|XDMG",
 			"requires": [
 				{
-					"type": "S"
+					"type": "S|XPHB"
 				}
 			],
 			"entries": [
-				"{@note * This generic variant has the same name and source as the item {@item +1 shield|Guarda}}.",
+				"{@note * This generic variant has the same name and source as the item {@item +1 Shield|Guarda}}.",
 				"While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
 			],
 			"inherits": {
@@ -14185,7 +14185,7 @@
 			"type": "GV|XDMG",
 			"requires": [
 				{
-					"type": "S"
+					"type": "S|XPHB"
 				}
 			],
 			"entries": [
@@ -14310,7 +14310,7 @@
 			"type": "GV|DMG",
 			"requires": [
 				{
-					"type": "S"
+					"type": "S|XPHB"
 				}
 			],
 			"entries": [
