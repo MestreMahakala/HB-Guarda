@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223827,
+		"dateLastModified": 1695223829,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -10990,22 +10990,6 @@
 			"value": 200
 		},
 		{
-			"name": "Shield",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Shield",
-				"source": "PHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 1000
-		},
-		{
 			"name": "Shield of Expression",
 			"source": "Guarda",
 			"_copy": {
@@ -14111,28 +14095,20 @@
 		},
 		{
 			"name": "+1 Shield (*)",
-			"edition": "classic",
-			"type": "GV|DMG",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "S"
-				},
-				{
-					"type": "S|XPHB"
 				}
 			],
 			"entries": [
-				"{@note * This generic variant has the same name and source as the item {@item +1 shield}}.",
+				"{@note * This generic variant has the same name and source as the item {@item +1 shield|Guarda}}.",
 				"While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
 			],
 			"inherits": {
 				"namePrefix": "+1 ",
-				"source": "DMG",
-				"page": 200,
-				"srd": true,
-				"reprintedAs": [
-					"+1 Shield (*)|XDMG"
-				],
+				"source": "Guarda",
+				"page": 8,
 				"tier": "major",
 				"rarity": "uncommon",
 				"valueExpression": "[[baseItem.value]] + 160000",
