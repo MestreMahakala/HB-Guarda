@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223825,
+		"dateLastModified": 1695223827,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -891,7 +891,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 20
 		},
 		{
 			"name": "Ale (Mug)",
@@ -907,7 +907,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 4
 		},
 		{
 			"name": "Amulet",
@@ -1035,7 +1035,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Arrow-Catching Shield",
@@ -1419,7 +1419,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Basic Poison (vial)",
@@ -1451,7 +1451,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 40
 		},
 		{
 			"name": "Battering Shield",
@@ -1723,7 +1723,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Blasted Goggles",
@@ -1851,7 +1851,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Blowgun Needles (50)",
@@ -2251,7 +2251,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Bullseye Lantern",
@@ -2347,7 +2347,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Caltrops (bag of 20)",
@@ -2395,7 +2395,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 1
 		},
 		{
 			"name": "Candle of the Deep",
@@ -2459,7 +2459,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Cap of Water Breathing",
@@ -2683,7 +2683,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 1
 		},
 		{
 			"name": "Chariot",
@@ -2779,7 +2779,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Chime of Opening",
@@ -2811,7 +2811,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 30
 		},
 		{
 			"name": "Cinnamon",
@@ -3115,7 +3115,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Coat of Lies",
@@ -3243,7 +3243,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 20
 		},
 		{
 			"name": "Component Pouch",
@@ -3307,7 +3307,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Costume Clothes",
@@ -3339,7 +3339,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Cow",
@@ -3403,7 +3403,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Crossbow Bolt Case",
@@ -3595,7 +3595,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Deck of Illusions",
@@ -3675,7 +3675,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Dimensional Shackles",
@@ -4635,7 +4635,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Feywild Shard",
@@ -4891,7 +4891,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Flayer Slayer",
@@ -4923,7 +4923,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Flute",
@@ -5435,7 +5435,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 20
 		},
 		{
 			"name": "Greatsword",
@@ -5979,7 +5979,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Horn",
@@ -6091,7 +6091,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Hunting Trap",
@@ -6203,7 +6203,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Insect Repellent (block of incense)",
@@ -6219,7 +6219,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Insect Repellent (greasy salve)",
@@ -6283,7 +6283,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Iron Bands of Bilarro",
@@ -6395,7 +6395,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Jeweler's Tools",
@@ -6427,7 +6427,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Kagonesti Forest Shroud",
@@ -6539,7 +6539,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Lamp",
@@ -6555,7 +6555,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Lance",
@@ -6763,7 +6763,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Lock",
@@ -7339,7 +7339,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 20
 		},
 		{
 			"name": "Midnight Tears",
@@ -7755,7 +7755,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 1
 		},
 		{
 			"name": "Night Caller",
@@ -7787,7 +7787,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Oil of Etherealness",
@@ -8171,7 +8171,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Paper Bird",
@@ -8203,7 +8203,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Pariah's Shield",
@@ -8443,7 +8443,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Piton",
@@ -8459,7 +8459,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Piwafwi of Fire Resistance",
@@ -8587,7 +8587,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Poisoner's Kit",
@@ -8619,7 +8619,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Pole of Angling",
@@ -9291,7 +9291,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon",
@@ -9627,7 +9627,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 20
 		},
 		{
 			"name": "Quiver",
@@ -9787,7 +9787,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 30
 		},
 		{
 			"name": "Renaissance Bullets (10)",
@@ -10427,7 +10427,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 1
 		},
 		{
 			"name": "Saddlebags",
@@ -10523,7 +10523,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Scale Mail",
@@ -10923,7 +10923,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Shard of Xeluan",
@@ -11163,7 +11163,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Signet Ring",
@@ -11403,7 +11403,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 10
 		},
 		{
 			"name": "Sling Bullets (20)",
@@ -11419,7 +11419,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 40
 		},
 		{
 			"name": "Sling of Giant Felling",
@@ -11563,7 +11563,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Songhorn",
@@ -12459,7 +12459,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 2
 		},
 		{
 			"name": "Tankard of Sobriety",
@@ -12507,7 +12507,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 20
 		},
 		{
 			"name": "Tej",
@@ -12523,7 +12523,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 50
 		},
 		{
 			"name": "Theki Root",
@@ -12619,7 +12619,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 5
 		},
 		{
 			"name": "Tinker's Tools",
@@ -12667,7 +12667,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 1
 		},
 		{
 			"name": "Torpor",
@@ -13307,7 +13307,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 20
 		},
 		{
 			"name": "Wayfarer's Boots",
@@ -13371,7 +13371,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 1
 		},
 		{
 			"name": "Whetstone",
@@ -13387,7 +13387,7 @@
 				}
 			},
 			"rarity": "none",
-			"value": 0
+			"value": 1
 		},
 		{
 			"name": "Whip",
@@ -14055,7 +14055,7 @@
 	"magicvariant": [
 		{
 			"name": "+1 Ammunition",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "A"
@@ -14090,7 +14090,7 @@
 		},
 		{
 			"name": "+1 Armor",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14144,7 +14144,7 @@
 		},
 		{
 			"name": "+1 Weapon",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"weapon": true
@@ -14171,7 +14171,7 @@
 		},
 		{
 			"name": "+2 Ammunition",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "A"
@@ -14206,7 +14206,7 @@
 		},
 		{
 			"name": "+2 Shield (*)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "S"
@@ -14231,7 +14231,7 @@
 		},
 		{
 			"name": "+2 Weapon",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"weapon": true
@@ -14472,7 +14472,7 @@
 		},
 		{
 			"name": "Adamantine Armor",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "HA"
@@ -14498,7 +14498,7 @@
 		},
 		{
 			"name": "Adamantine Ammunition",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "A"
@@ -14556,7 +14556,7 @@
 		},
 		{
 			"name": "Adamantine Weapon",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"weapon": true
@@ -14643,7 +14643,7 @@
 		},
 		{
 			"name": "Armor of Acid Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14668,7 +14668,7 @@
 		},
 		{
 			"name": "Armor of Cold Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14693,7 +14693,7 @@
 		},
 		{
 			"name": "Armor of Fire Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14718,7 +14718,7 @@
 		},
 		{
 			"name": "Armor of Force Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14743,7 +14743,7 @@
 		},
 		{
 			"name": "Armor of Fungal Spores",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "MA"
@@ -14786,7 +14786,7 @@
 		},
 		{
 			"name": "Armor of Lightning Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14811,7 +14811,7 @@
 		},
 		{
 			"name": "Armor of Necrotic Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14836,7 +14836,7 @@
 		},
 		{
 			"name": "Armor of Poison Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14861,7 +14861,7 @@
 		},
 		{
 			"name": "Armor of Psychic Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14886,7 +14886,7 @@
 		},
 		{
 			"name": "Armor of Radiant Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14942,7 +14942,7 @@
 		},
 		{
 			"name": "Armor of the Fallen",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "MA"
@@ -14967,7 +14967,7 @@
 		},
 		{
 			"name": "Armor of Thunder Resistance",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -14992,7 +14992,7 @@
 		},
 		{
 			"name": "Armor of Weightlessness",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "LA"
@@ -15528,7 +15528,7 @@
 	},
 		{
 			"name": "Dragon Slayer",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"sword": true
@@ -15561,7 +15561,7 @@
 		},
 		{
 			"name": "Dried Leech",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "A"
@@ -15675,7 +15675,7 @@
 		},
 		{
 			"name": "Flame Tongue",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"sword": true
@@ -15925,7 +15925,7 @@
 		},
 		{
 			"name": "Imbued Wood (Fernian Ash)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -15955,7 +15955,7 @@
 		},
 		{
 			"name": "Imbued Wood (Irian Rosewood)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -15985,7 +15985,7 @@
 		},
 		{
 			"name": "Imbued Wood (Kythrian Manchineel)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16015,7 +16015,7 @@
 		},
 		{
 			"name": "Imbued Wood (Lamannian Oak)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16045,7 +16045,7 @@
 		},
 		{
 			"name": "Imbued Wood (Mabaran Ebony)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16075,7 +16075,7 @@
 		},
 		{
 			"name": "Imbued Wood (Risian Pine)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16105,7 +16105,7 @@
 		},
 		{
 			"name": "Imbued Wood (Shavarran Birch)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16135,7 +16135,7 @@
 		},
 		{
 			"name": "Imbued Wood (Xorian Wenge)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16264,7 +16264,7 @@
 		},
 		{
 			"name": "Mariner's Armor",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"armor": true
@@ -16321,7 +16321,7 @@
 		},
 		{
 			"name": "Mithral Armor",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "HA"
@@ -16352,7 +16352,7 @@
 		},
 		{
 			"name": "Mizzium Armor",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "HA"
@@ -16411,7 +16411,7 @@
 		},
 		{
 			"name": "Moon-Touched Weapon",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"weapon": true
@@ -16497,7 +16497,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Fernian Basalt)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16533,7 +16533,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Irian Quartz)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16569,7 +16569,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Kythrian Skarn)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16605,7 +16605,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Lamannian Flint)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16641,7 +16641,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Mabaran Obsidian)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16677,7 +16677,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Risian Shale)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16713,7 +16713,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Shavarran Chert)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16749,7 +16749,7 @@
 		},
 		{
 			"name": "Orb of Shielding (Xorian Marble)",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "SCF|XPHB",
@@ -16785,7 +16785,7 @@
 		},
 		{
 			"name": "Slumbering Dragon's Wrath Weapon",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"weapon": true
@@ -16955,7 +16955,7 @@
 
 		{
 			"name": "Sword of Life Stealing",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"sword": true
@@ -16987,7 +16987,7 @@
 		},
 		{
 			"name": "Sword of Wounding",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"sword": true
@@ -17012,45 +17012,30 @@
 		},
 		{
 			"name": "Vicious Weapon",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
-					"weapon": true
+					"weaponCategory": "simple"
+				},
+				{
+					"weaponCategory": "martial"
 				}
-			],
-			"excludes": {
-				"net": true
-			},
-			"entries": [
-				"When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.",
-				"{@i Note: According to the SRD, it is an extra {@dice 2d6} damage.}"
 			],
 			"inherits": {
 				"namePrefix": "Vicious ",
 				"source": "Guarda",
-				"page": 209,
-				"tier": "major",
+				"page": 318,
 				"rarity": "rare",
 				"valueExpression": "[[baseItem.value]] + 500000",
 				"entries": [
-					"When you roll a 20 with this magic weapon, the target takes an extra 7 {=dmgType} damage.",
-					"{@i Note: According to the SRD, it is an extra {@dice 2d6} {=dmgType} damage.}"
-				],
-				"lootTables": [
-					"Magic Item Table G"
+					"This magic weapon deals an extra {@damage 2d6} damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage."
 				]
 			},
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Vicious Weapon",
-					"source": "Guarda"
-				}
-			}
+			"hasFluffImages": true
 		},
 		{
 			"name": "Walloping Ammunition",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "A"
@@ -17074,7 +17059,7 @@
 		},
 		{
 			"name": "Weapon of Warning",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"weapon": true
@@ -17105,7 +17090,7 @@
 		},
 		{
 			"name": "Winged Ammunition",
-			"type": "GV",
+			"type": "GV|XDMG",
 			"requires": [
 				{
 					"type": "A"
