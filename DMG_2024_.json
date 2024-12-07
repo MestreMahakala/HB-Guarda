@@ -17,7 +17,7 @@
         "status": "ready",
         "edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223801,
+        "dateLastModified": 1695223803,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "item": [
@@ -1019,7 +1019,7 @@
             "type": "SCF|XPHB",
             "rarity": "uncommon",
 			"reqAttune": true,
-            "value": 70000,
+            "value": 160000,
             "source": "Guarda",
             "entries": [
                 "While wearing this pendant, you gain the following benefits.",
