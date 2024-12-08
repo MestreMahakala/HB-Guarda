@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223842,
+		"dateLastModified": 1695223843,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -750,10 +750,10 @@
 			"value": 200
 		},
 		{
-			"name": "Acid (vial)",
+			"name": "Acid",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Acid (vial)",
+				"name": "Acid",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
