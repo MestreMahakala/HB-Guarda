@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223845,
+		"dateLastModified": 1695223847,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -1838,11 +1838,11 @@
 			"value": 1000
 		},
 		{
-			"name": "Blowgun Needle",
+			"name": "Needle",
 			"source": "Guarda",
 			"_copy": {
 				"name": "Blowgun Needle",
-				"source": "XPHB",
+				"source": "PHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1854,11 +1854,11 @@
 			"value": 2
 		},
 		{
-			"name": "Blowgun Needles (50)",
+			"name": "Needles (50)",
 			"source": "Guarda",
 			"_copy": {
 				"name": "Blowgun Needles (50)",
-				"source": "XPHB",
+				"source": "PHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
