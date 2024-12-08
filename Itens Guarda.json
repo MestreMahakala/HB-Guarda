@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223843,
+		"dateLastModified": 1695223844,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -846,10 +846,10 @@
 			"value": 7500
 		},
 		{
-			"name": "Alchemist's Fire (flask)",
+			"name": "Alchemist's Fire",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Alchemist's Fire (flask)",
+				"name": "Alchemist's Fire",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
