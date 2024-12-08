@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223844,
+		"dateLastModified": 1695223845,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -990,10 +990,10 @@
 			"value": 90000
 		},
 		{
-			"name": "Antitoxin (vial)",
+			"name": "Antitoxin",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Antitoxin (vial)",
+				"name": "Antitoxin",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
@@ -1310,10 +1310,10 @@
 			"value": 20000
 		},
 		{
-			"name": "Ball Bearings (bag of 1,000)",
+			"name": "Ball Bearings",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Ball Bearings (bag of 1,000)",
+				"name": "Ball Bearings",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
@@ -1422,10 +1422,10 @@
 			"value": 10
 		},
 		{
-			"name": "Basic Poison (vial)",
+			"name": "Basic Poison",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Basic Poison (vial)",
+				"name": "Basic Poison",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
@@ -2334,10 +2334,10 @@
 			"value": 1000
 		},
 		{
-			"name": "Caltrop",
+			"name": "Caltrops",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Caltrop",
+				"name": "Caltrops",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
@@ -2348,22 +2348,6 @@
 			},
 			"rarity": "none",
 			"value": 5
-		},
-		{
-			"name": "Caltrops (bag of 20)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Caltrops (bag of 20)",
-				"source": "XPHB",
-				"_preserve": {
-					"page": true,
-					"type": true,
-					"tier": true,
-					"lootTables": true
-				}
-			},
-			"rarity": "none",
-			"value": 100
 		},
 		{
 			"name": "Camel",
@@ -5902,10 +5886,10 @@
 			"value": 1000
 		},
 		{
-			"name": "Holy Water (flask)",
+			"name": "Holy Water",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Holy Water (flask)",
+				"name": "Holy Water",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
@@ -7758,10 +7742,10 @@
 			"value": 120000
 		},
 		{
-			"name": "Oil (flask)",
+			"name": "Oil",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Oil (flask)",
+				"name": "Oil",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
@@ -8238,10 +8222,10 @@
 			"value": 200
 		},
 		{
-			"name": "Perfume (vial)",
+			"name": "Perfume",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Perfume (vial)",
+				"name": "Perfume",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
