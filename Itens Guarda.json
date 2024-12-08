@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223840,
+		"dateLastModified": 1695223842,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -272,7 +272,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Rations (1 day)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -754,7 +754,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Acid (vial)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -850,7 +850,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Alchemist's Fire (flask)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -898,7 +898,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Ale (Mug)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -914,7 +914,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Amulet",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -994,7 +994,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Antitoxin (vial)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1026,7 +1026,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Arrow",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1058,7 +1058,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Arrows (20)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1186,7 +1186,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Backpack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1314,7 +1314,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Ball Bearings (bag of 1,000)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1362,7 +1362,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Barrel",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1426,7 +1426,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Basic Poison (vial)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1442,7 +1442,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Basket",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1474,7 +1474,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Battleaxe",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1538,7 +1538,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Bedroll",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1554,7 +1554,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Bell",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1714,7 +1714,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Blanket",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1778,7 +1778,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Block and Tackle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1826,7 +1826,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Blowgun",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1842,7 +1842,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Blowgun Needle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1858,7 +1858,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Blowgun Needles (50)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -1890,7 +1890,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Book",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2146,7 +2146,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Breastplate",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2242,7 +2242,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Bucket",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2258,7 +2258,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Bullseye Lantern",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2274,7 +2274,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Burglar's Pack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2338,7 +2338,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Caltrop",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2354,7 +2354,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Caltrops (bag of 20)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2370,7 +2370,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Camel",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2386,7 +2386,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Candle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2530,7 +2530,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Carriage",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2562,7 +2562,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Cart",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2626,7 +2626,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Chain (10 feet)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2642,7 +2642,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Chain Mail",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2658,7 +2658,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Chain Shirt",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2690,7 +2690,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Chariot",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2738,7 +2738,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Chest",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -2914,7 +2914,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Climber's Kit",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3106,7 +3106,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Club",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3234,7 +3234,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Common Wine (Pitcher)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3250,7 +3250,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Component Pouch",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3282,7 +3282,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Cook's Utensils",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3314,7 +3314,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Costume Clothes",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3394,7 +3394,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Crossbow Bolt",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3410,7 +3410,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Crossbow Bolt Case",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3426,7 +3426,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Crossbow Bolts (20)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3442,7 +3442,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Crowbar",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3474,7 +3474,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Crystal",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3506,7 +3506,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Dagger",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3586,7 +3586,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Dart",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3666,7 +3666,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Dice Set",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3714,7 +3714,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Diplomat's Pack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3858,7 +3858,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Draft Horse",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -3890,7 +3890,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Dragonchess Set",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4018,7 +4018,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Dungeoneer's Pack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4306,7 +4306,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Elephant",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4338,7 +4338,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Emblem",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4386,7 +4386,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Entertainer's Pack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4466,7 +4466,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Exotic Saddle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4482,7 +4482,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Explorer's Pack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4626,7 +4626,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Feed (per day)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4802,7 +4802,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Fine Clothes",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4818,7 +4818,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Fine Wine (Bottle)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4850,7 +4850,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Flail",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -4882,7 +4882,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Flask",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5122,7 +5122,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Glaive",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5154,7 +5154,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Glass Bottle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5378,7 +5378,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Grappling Hook",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5410,7 +5410,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Greataxe",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5426,7 +5426,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Greatclub",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5442,7 +5442,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Greatsword",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5522,7 +5522,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Halberd",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5538,7 +5538,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Half Plate Armor",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5570,7 +5570,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Hand Crossbow",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5602,7 +5602,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Handaxe",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5730,7 +5730,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Heavy Crossbow",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5826,7 +5826,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Hempen Rope (50 feet)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5890,7 +5890,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Hide Armor",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5906,7 +5906,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Holy Water (flask)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -5922,7 +5922,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Hooded Lantern",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6082,7 +6082,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Hunk of Cheese",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6098,7 +6098,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Hunting Trap",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6178,7 +6178,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Ink (1-ounce bottle)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6194,7 +6194,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Ink Pen",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6306,7 +6306,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Iron Pot",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6322,7 +6322,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Iron Spike",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6338,7 +6338,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Iron Spikes (10)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6386,7 +6386,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Javelin",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6418,7 +6418,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Jug",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6530,7 +6530,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Ladder (10-foot)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6546,7 +6546,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Lamp",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6562,7 +6562,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Lance",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6610,7 +6610,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Leather Armor",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6658,7 +6658,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Light Crossbow",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6674,7 +6674,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Light Hammer",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6754,7 +6754,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Loaf of Bread",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6770,7 +6770,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Lock",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6802,7 +6802,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Longbow",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6850,7 +6850,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Longsword",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -6946,7 +6946,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Mace",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7010,7 +7010,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Magnifying Glass",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7042,7 +7042,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Manacles",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7074,7 +7074,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Map or Scroll Case",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7154,7 +7154,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Mastiff",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7186,7 +7186,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Maul",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7362,7 +7362,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Military Saddle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7586,7 +7586,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Morningstar",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7602,7 +7602,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Mule",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7714,7 +7714,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Net",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7762,7 +7762,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Oil (flask)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -7858,7 +7858,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Orb",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8082,7 +8082,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Padded Armor",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8146,7 +8146,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Paper (one sheet)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8178,7 +8178,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Parchment (one sheet)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8242,7 +8242,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Perfume (vial)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8322,7 +8322,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Pike",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8514,7 +8514,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Plate Armor",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8562,7 +8562,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Playing Card Set",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8594,7 +8594,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Pole (10-foot)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8642,7 +8642,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Pony",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -8674,7 +8674,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Portable Ram",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9266,7 +9266,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Pouch",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9362,7 +9362,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Priest's Pack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9602,7 +9602,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Quarterstaff",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9618,7 +9618,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Quiver",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9698,7 +9698,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Rapier",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9746,7 +9746,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Reliquary",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9826,7 +9826,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Riding Horse",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9842,7 +9842,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Riding Saddle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -9858,7 +9858,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Ring Mail",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -10194,7 +10194,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Robes",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -10210,7 +10210,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Rod",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -10402,7 +10402,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Sack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -10514,7 +10514,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Scale Mail",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -10530,7 +10530,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Scholar's Pack",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -10546,7 +10546,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Scimitar",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11042,7 +11042,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Shortbow",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11058,7 +11058,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Shortsword",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11074,7 +11074,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Shovel",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11106,7 +11106,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Sickle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11122,7 +11122,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Signal Whistle",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11362,7 +11362,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Sling",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11378,7 +11378,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Sling Bullets (20)",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11570,7 +11570,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Spear",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11922,7 +11922,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Splint Armor",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11938,7 +11938,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Sprig of Mistletoe",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11954,7 +11954,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Spyglass",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -11970,7 +11970,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Staff",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12146,7 +12146,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Steel Mirror",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12274,7 +12274,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Studded Leather Armor",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12562,7 +12562,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Three-Dragon Ante Set",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12578,7 +12578,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Tinderbox",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12626,7 +12626,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Torch",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12690,7 +12690,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Traveler's Clothes",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12706,7 +12706,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Trident",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12754,7 +12754,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Two-Person Tent",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12834,7 +12834,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Vial",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12914,7 +12914,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Wagon",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -12930,7 +12930,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Wand",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -13170,7 +13170,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "War Pick",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -13202,7 +13202,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Warhammer",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -13218,7 +13218,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Warhorse",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -13266,7 +13266,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Waterskin",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -13362,7 +13362,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Whip",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -13522,7 +13522,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Wooden Staff",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
@@ -13618,7 +13618,7 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Yew Wand",
-				"source": "PHB",
+				"source": "XPHB",
 				"_preserve": {
 					"page": true,
 					"type": true,
