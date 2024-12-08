@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223847,
+		"dateLastModified": 1695223848,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -2606,10 +2606,10 @@
 			"value": 80000
 		},
 		{
-			"name": "Chain (10 feet)",
+			"name": "Chain",
 			"source": "Guarda",
 			"_copy": {
-				"name": "Chain (10 feet)",
+				"name": "Chain",
 				"source": "XPHB",
 				"_preserve": {
 					"page": true,
