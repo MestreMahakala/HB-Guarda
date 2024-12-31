@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223851,
+		"dateLastModified": 1695223852,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -14969,48 +14969,6 @@
 			}
 		},
 		{
-			"name": "Arrow of Slaying (*)",
-			"type": "GV|DMG",
-			"requires": [
-				{
-					"arrow": true
-				},
-				{
-					"bolt": true
-				}
-			],
-			"excludes": {
-				"name": [
-					"Energy Cell",
-					"Modern Bullet",
-					"Modern Bullets (10)",
-					"Renaissance Bullet",
-					"Renaissance Bullets (10)"
-				]
-			},
-			"ammo": true,
-			"entries": [
-				"{@note * This generic variant has the same name and source as the item {@item arrow of slaying}}.",
-				"An {@i arrow of slaying} is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both {@i arrows of dragon slaying} and {@i arrows of blue dragon slaying}. If a creature belonging to the type, race, or group associated with an {@i arrow of slaying} takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra {@dice 6d10} piercing damage on a failed save, or half as much extra damage on a successful one.",
-				"Once an {@i arrow of slaying} deals its extra damage to a creature, it becomes a nonmagical arrow.",
-				"Other types of magic ammunition of this kind exist, such as bolts of slaying meant for a crossbow, though arrows are most common."
-			],
-			"inherits": {
-				"nameSuffix": " of Slaying",
-				"source": "XDMG",
-				"page": 152,
-				"srd": true,
-				"tier": "minor",
-				"rarity": "very rare",
-				"valueExpression": "[[baseItem.value]] + 10000000",
-				"entries": [
-					"{=baseName/at} {=baseName/l} of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both {@i {=baseName/l}s of dragon slaying} and {@i {=baseName/l}s of blue dragon slaying}. If a creature belonging to the type, race, or group associated with {=baseName/a} {=baseName/l} of slaying takes damage from the {=baseName/l}, the creature must make a DC 17 Constitution saving throw, taking an extra {@dice 6d10} piercing damage on a failed save, or half as much extra damage on a successful one.",
-					"Once {=baseName/a} {=baseName/l} of slaying deals its extra damage to a creature, it becomes a nonmagical {=baseName/l}."
-				]
-			},
-			"hasFluffImages": true
-		},
-		{
 			"name": "Ascendant Dragon's Wrath Weapon",
 			"type": "GV|DMG",
 			"requires": [
@@ -17153,14 +17111,6 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Armor of Resistance",
-				"source": "XDMG"
-			}
-		},
-		{
-			"name": "Arrow of Slaying (*)",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Arrow of Slaying (*)",
 				"source": "XDMG"
 			}
 		},
