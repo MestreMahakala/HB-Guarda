@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223854,
+		"dateLastModified": 1695223855,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -13922,36 +13922,96 @@
 		},
 		{
 			"name": "Ring of Resistance",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Ring of Resistance",
-				"source": "XDMG",
-				"_mod": {
-					"items": [
-						{
-							"mode": "replaceTxt",
-							"replace": "$",
-							"with": "|Guarda",
-							"flags": "i"
-						}
-					]
-				},
-				"_preserve": {
-					"page": true,
-					"tier": true,
-					"lootTables": true,
-					"wondrous": true,
-					"hasFluffImages": true
-				}
-			},
+			"source": "XDMG",
+			"page": 294,
+			"freeRules2024": true,
+			"type": "RG|XDMG",
+			"rarity": "rare",
 			"value": 600000,
-			"hasFluffImages": true,
-			"fluff": {
-				"_itemFluff": {
-					"name": "Ring of Resistance",
-					"source": "Guarda"
+			"entries": [
+				"You have {@variantrule Resistance|XPHB} to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.",
+				{
+					"type": "table",
+					"colStyles": [
+						"col-2 text-center",
+						"col-5",
+						"col-5"
+					],
+					"colLabels": [
+						"d10",
+						"Damage Type",
+						"Gem"
+					],
+					"rows": [
+						[
+							"1",
+							"{@item Ring of Acid Resistance|XDMG|Acid}",
+							"Pearl"
+						],
+						[
+							"2",
+							"{@item Ring of Cold Resistance|XDMG|Cold}",
+							"Tourmaline"
+						],
+						[
+							"3",
+							"{@item Ring of Fire Resistance|XDMG|Fire}",
+							"Garnet"
+						],
+						[
+							"4",
+							"{@item Ring of Force Resistance|XDMG|Force}",
+							"Sapphire"
+						],
+						[
+							"5",
+							"{@item Ring of Lightning Resistance|XDMG|Lightning}",
+							"Citrine"
+						],
+						[
+							"6",
+							"{@item Ring of Necrotic Resistance|XDMG|Necrotic}",
+							"Jet"
+						],
+						[
+							"7",
+							"{@item Ring of Poison Resistance|XDMG|Poison}",
+							"Amethyst"
+						],
+						[
+							"8",
+							"{@item Ring of Psychic Resistance|XDMG|Psychic}",
+							"Jade"
+						],
+						[
+							"9",
+							"{@item Ring of Radiant Resistance|XDMG|Radiant}",
+							"Topaz"
+						],
+						[
+							"10",
+							"{@item Ring of Thunder Resistance|XDMG|Thunder}",
+							"Spinel"
+						]
+					]
 				}
-			}
+			],
+			"items": [
+				"Ring of Acid Resistance|XDMG",
+				"Ring of Cold Resistance|XDMG",
+				"Ring of Fire Resistance|XDMG",
+				"Ring of Force Resistance|XDMG",
+				"Ring of Lightning Resistance|XDMG",
+				"Ring of Necrotic Resistance|XDMG",
+				"Ring of Poison Resistance|XDMG",
+				"Ring of Psychic Resistance|XDMG",
+				"Ring of Radiant Resistance|XDMG",
+				"Ring of Thunder Resistance|XDMG"
+			],
+			"itemsHidden": true,
+			"lootTables": [
+				"Relics - Rare|XDMG"
+			]
 		},
 		{
 			"name": "Scroll of Protection",
@@ -18015,14 +18075,6 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Ring of Regeneration",
-				"source": "XDMG"
-			}
-		},
-		{
-			"name": "Ring of Resistance",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Ring of Resistance",
 				"source": "XDMG"
 			}
 		},
