@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223852,
+		"dateLastModified": 1695223853,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -17951,14 +17951,6 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Quiver of Ehlonna",
-				"source": "XDMG"
-			}
-		},
-		{
-			"name": "Ring of Air Elemental Command",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Ring of Air Elemental Command",
 				"source": "XDMG"
 			}
 		},
