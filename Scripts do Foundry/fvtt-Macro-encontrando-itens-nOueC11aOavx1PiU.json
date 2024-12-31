@@ -1,0 +1,29 @@
+{
+  "name": "Encontrando Itens",
+  "type": "script",
+  "command": "let searchDialog = null; // Variável para armazenar o diálogo atual\n\n// Função para formatar valores em PO\nconst formatValue = (value) => {\n  return value.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + \" PO\";\n};\n\n// Função para abrir o diálogo solicitando o nome do item\nconst requestItemName = () => {\n  new Dialog({\n    title: \"Procurar Item\",\n    content: `\n      <div>\n        <label>Nome do Item:</label>\n        <input type=\"text\" id=\"itemNameInput\" style=\"width: 100%;\" placeholder=\"Digite o nome do item\" />\n      </div>\n    `,\n    buttons: {\n      search: {\n        label: \"Pesquisar\",\n        callback: (html) => {\n          let itemName = html.find('#itemNameInput').val().trim();\n          if (itemName) {\n            findActorsWithItem(itemName);\n          } else {\n            ui.notifications.error(\"Por favor, insira o nome de um item.\");\n          }\n        }\n      },\n      cancel: {\n        label: \"Cancelar\"\n      }\n    }\n  }).render(true);\n};\n\n// Função para encontrar atores com o item no inventário\nconst findActorsWithItem = (itemName) => {\n  let actorsWithItem = [];\n  \n  // Itera sobre todos os atores no jogo\n  for (let actor of game.actors) {\n    // Filtra o inventário para encontrar o item\n    let items = actor.items.filter(item => item.name.toLowerCase().includes(itemName.toLowerCase()));\n    if (items.length > 0) {\n      // Adiciona o ator e os itens encontrados\n      for (let item of items) {\n        let price = item.system?.price?.value || 0;\n        let denomination = item.system?.price?.denomination || \"gp\";\n        let quantity = item.system?.quantity || 1;\n        let totalPrice = price * quantity;\n\n        // Ajusta o preço para PO\n        switch (denomination) {\n          case \"cp\": totalPrice /= 100; break;\n          case \"sp\": totalPrice /= 10; break;\n          case \"ep\": totalPrice /= 2; break;\n          case \"pp\": totalPrice *= 10; break;\n        }\n\n        actorsWithItem.push({\n          actorName: actor.name,\n          itemName: item.name,\n          price: totalPrice\n        });\n      }\n    }\n  }\n\n  // Renderiza os resultados\n  displaySearchResults(itemName, actorsWithItem);\n};\n\n// Função para exibir os resultados em um diálogo\nconst displaySearchResults = (itemName, results) => {\n  let resultRows = results.map(result => {\n    return `<tr>\n              <td>${result.actorName}</td>\n              <td>${formatValue(result.price)}</td>\n            </tr>`;\n  }).join(\"\");\n\n  let content = `\n    <h3>Resultados para: \"${itemName}\"</h3>\n    <table style=\"width: 100%; text-align: left; border-collapse: collapse;\">\n      <thead>\n        <tr>\n          <th style=\"border-bottom: 1px solid #ccc;\">Ator</th>\n          <th style=\"border-bottom: 1px solid #ccc;\">Valor Total (PO)</th>\n        </tr>\n      </thead>\n      <tbody>\n        ${resultRows || '<tr><td colspan=\"2\">Nenhum item encontrado.</td></tr>'}\n      </tbody>\n    </table>\n  `;\n\n  if (searchDialog) {\n    searchDialog.data.content = content;\n    searchDialog.render(true);\n  } else {\n    searchDialog = new Dialog({\n      title: \"Resultados da Pesquisa\",\n      content: content,\n      buttons: {\n        close: {\n          label: \"Fechar\"\n        }\n      }\n    }).render(true);\n  }\n};\n\n// Chama o diálogo inicial para solicitar o nome do item\nrequestItemName();",
+  "img": "icons/tools/navigation/spyglass-telescope-brass.webp",
+  "author": "RNT73MOi4EKOqeYu",
+  "scope": "global",
+  "folder": "rEjsvJVi4jZ2t0FD",
+  "flags": {
+    "scene-packer": {
+      "hash": "bba1924ce2365513e3502008165f6776b7e369e0",
+      "sourceId": "Macro.nOueC11aOavx1PiU"
+    },
+    "exportSource": {
+      "world": "samsara-server",
+      "system": "dnd5e",
+      "coreVersion": "12.331",
+      "systemVersion": "3.3.1"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "3.3.1",
+    "createdTime": 1733769235664,
+    "modifiedTime": 1733769289270,
+    "lastModifiedBy": "RNT73MOi4EKOqeYu"
+  }
+}
