@@ -128,7 +128,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223862,
+		"dateLastModified": 1695223864,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -10180,7 +10180,7 @@
         },
         {
             "name": "Heartstone",
-            "source": "MM'14",
+            "source": "MM",
             "_copy": {
                 "name": "Heartstone",
                 "source": "Guarda",
@@ -19756,7 +19756,7 @@
         },
         {
             "name": "Soul Bag",
-            "source": "MM'14",
+            "source": "MM",
             "_copy": {
                 "name": "Soul Bag",
                 "source": "Guarda",
