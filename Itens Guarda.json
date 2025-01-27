@@ -67,7 +67,9 @@
 				"WBtW",
 				"WDH",
 				"WDMM",
-				"XGE"
+				"XGE",
+                "DMG",
+                "XPHB"
 			],
 			"itemGroup": [
 				"BGG",
@@ -128,7 +130,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223864,
+		"dateLastModified": 1695223866,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
