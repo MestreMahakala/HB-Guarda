@@ -130,7 +130,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223871,
+		"dateLastModified": 1695223873,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -3339,24 +3339,6 @@
             "rarity": "very rare",
             "weight": 1,
             "value": 200000
-        },
-        {
-            "name": "Ball Bearing (2014)",
-            "source": "Guarda",
-            "_copy": {
-                "name": "Ball Bearing (2014)",
-                "source": "PHB",
-                "_preserve": {
-                    "baseItem": true,
-                    "page": true,
-                    "type": true,
-                    "tier": true,
-                    "lootTables": true
-                }
-            },
-            "rarity": "none",
-            "weight": 0,
-            "value": 1
         },
         {
             "name": "Ball Bearings",
