@@ -130,7 +130,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223876,
+		"dateLastModified": 1695223877,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -28202,14 +28202,6 @@
 			"source": "Guarda",
 			"_copy": {
 				"name": "Vorpal Sword",
-				"source": "XDMG"
-			}
-		},
-		{
-			"name": "Wand of Binding",
-			"source": "Guarda",
-			"_copy": {
-				"name": "Wand of Binding",
 				"source": "XDMG"
 			}
 		},
