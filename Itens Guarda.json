@@ -130,7 +130,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223873,
+		"dateLastModified": 1695223874,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"baseitem": [
@@ -22185,24 +22185,6 @@
             "rarity": "none",
             "weight": 400,
             "value": 3500
-        },
-        {
-            "name": "Wand of Binding",
-            "source": "Guarda",
-            "_copy": {
-                "name": "Wand of Binding",
-                "source": "XDMG",
-                "_preserve": {
-                    "baseItem": true,
-                    "page": true,
-                    "type": true,
-                    "tier": true,
-                    "lootTables": true
-                }
-            },
-            "rarity": "rare",
-            "weight": 1,
-            "value": 300000
         },
         {
             "name": "Wand of Conducting",
