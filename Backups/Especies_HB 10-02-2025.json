@@ -17,7 +17,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223573,
+		"dateLastModified": 1695223574,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -261,7 +261,7 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Ratling (Rato da Cidade)",
+					"name": "Rato da Cidade",
 					"source": "Guarda",
 					"_mod": {
 						"entries": {
@@ -287,7 +287,7 @@
 					]
 				},
 				{
-					"name": "Ratling (Camundongo)",
+					"name": "Camundongo",
 					"source": "Guarda",
 					"_mod": {
 						"entries": {
@@ -310,7 +310,7 @@
 					]
 				},
 				{
-					"name": "Ratling (Rato dos Esgotos)",
+					"name": "Rato dos Esgotos",
 					"source": "Guarda",
 					"_mod": {
 						"entries": {
@@ -706,7 +706,7 @@
 		},
 		{
 			"name": "Transcendido (Demodand)",
-			"source": "Guarda",
+			"source": "XPHB",
 			"page": 188,
 			"freeRules2024": true,
 			"edition": "one",
@@ -764,7 +764,7 @@
 		},
 		{
 			"name": "Transcendido (Hordling)",
-			"source": "Guarda",
+			"source": "XPHB",
 			"page": 188,
 			"freeRules2024": true,
 			"edition": "one",
@@ -822,7 +822,7 @@
 		},
 		{
 			"name": "Transcendido (Baatezu)",
-			"source": "Guarda",
+			"source": "XPHB",
 			"page": 188,
 			"freeRules2024": true,
 			"edition": "one",
@@ -880,7 +880,7 @@
 		},
 		{
 			"name": "Transcendido (Tanar'ri)",
-			"source": "Guarda",
+			"source": "XPHB",
 			"page": 188,
 			"freeRules2024": true,
 			"edition": "one",
@@ -938,7 +938,7 @@
 		},
 		{
 			"name": "Plantae (Arborae)",
-			"source": "Guarda",
+			"source": "XPHB",
 			"page": 188,
 			"freeRules2024": true,
 			"edition": "one",
@@ -1019,7 +1019,7 @@
 		},
 		{
 			"name": "Plantae (Florae)",
-			"source": "Guarda",
+			"source": "XPHB",
 			"page": 188,
 			"freeRules2024": true,
 			"edition": "one",
@@ -1129,7 +1129,7 @@
 		},
 		{
 			"name": "Plantae (Fungi)",
-			"source": "Guarda",
+			"source": "XPHB",
 			"page": 188,
 			"freeRules2024": true,
 			"edition": "one",
@@ -1230,644 +1230,6 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
-		},
-		{
-			"name": "Praetorian da Luz (Lightforged)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"elemental"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 35,
-			"darkvision": 60,
-            "resist": [
-				"radiant"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Resistência Elemental",
-					"entries": [
-						"Você tem resistência a dano Radiante."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Nascido do espaço",
-					"entries": [
-						"Você não recebe nenhuma penalidade por andar no espaço e tem deslocamento de voo em locais sem gravidade (igual sua movimentação base), além disso você não precisa respirar."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Luz celestial",
-					"entries": [
-						"Sua conexão com a energia radiante aumenta sua mobilidade. Seu deslocamento aumenta em 5 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Corte Luminoso",
-					"entries": [
-						"Quando você usa Ação de Ataque, você pode substituir um de seus ataques para realizar um corte luminoso em um cone de 15 pés na sua frente Cada criatura na área deve realizar uma salvaguarda de Destreza (CD = 8 + seu modificador de carisma sabedoria ou inteligência + seu bônus de proficiência). Em caso de falha, a criatura sofre 1d8 de dano radiante se for bem-sucedida, sofre metade do dano. O dano aumenta conforme você avança de nível: 1d8 no 5º nível, 2d8 no 11º nível e 4d8 no 17º nível.",
-						"Você pode usar o Corte luminoso um número de vezes igual ao seu bônus de proficiência, recuperando todos os usos gastos após um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Praetorian de Força (Forcebound)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"elemental"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-            "resist": [
-				"force"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Resistência Elemental",
-					"entries": [
-						"Você tem resistência a dano Radiante."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Nascido do espaço",
-					"entries": [
-						"Você não recebe nenhuma penalidade por andar no espaço e tem deslocamento de voo em locais sem gravidade (igual sua movimentação base), além disso você não precisa respirar."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Campo de Estabilidade",
-					"entries": [
-						"Sua conexão com a energia de força torna você extremamente difícil de ser deslocado. Você tem vantagem em testes de salvaguarda contra efeitos que tentem empurrá-lo, derrubá-lo agarra-lo ou movê-lo contra sua vontade."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Pulso Gravitacional",
-					"entries": [
-						" Quando você acertar uma criatura com um ataque corpo-a-corpo, você pode criar uma onda gravitacional. A criatura atingida deve passar em um teste de Força (CD = 8 + seu bônus de proficiência + sua constituição) ou ficará restrita até o final do seu próximo turno.",
-						"Você pode usar o Pulso Gravitacional um número de vezes igual ao seu bônus de proficiência, recuperando todos os usos gastos após um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Praetorian da mente (Mindbound)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"elemental"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-            "resist": [
-				"Psychic"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Resistência Elemental",
-					"entries": [
-						"Você tem resistência a dano Psíquico."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Nascido do espaço",
-					"entries": [
-						"Você não recebe nenhuma penalidade por andar no espaço e tem deslocamento de voo em locais sem gravidade (igual sua movimentação base), além disso você não precisa respirar."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Braço imaterial",
-					"entries": [
-						"Você recebe um terceiro braço espectral adicional esse braço pode ser usado para segurar e usar armas com a propriedade leve manipular objetos abrir ou fechar portas ou um objeto tiny."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Toque psíquico",
-					"entries": [
-						"Uma vez por turno, quando você atinge uma criatura com uma arma leve usando o braço imaterial, você pode causar dano Psíquico adicional igual ao seu modificador de proficiência.",
-						"Você pode usar o Toque psíquico um número de vezes igual ao seu bônus de proficiência, recuperando todos os usos gastos após um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Profundo",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"aberration"
-			],
-			"size": [
-				"S",
-                "M"
-			],
-			"speed": {
-				"walk": 30,
-				"swim": true
-			},
-			"darkvision": 120,
-            "resist": [
-				"psychic"
-			],
-			"additionalSpells": [
-				{
-					"innate": {
-						"3": [
-							"alter self"
-						]
-					},
-					"ability": {
-						"choose": [
-							"int",
-							"wis",
-							"cha"
-						]
-					}
-				}
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Pequeno e Médio."
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 120 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Anfíbio",
-					"entries": [
-						"Recebe deslocamento de nado igual deslocamento de caminhada. Respira ar e água. Por fim, você não recebe nenhuma penalidade por nadar em águas frias ou profundas."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Psionismo inato",
-					"entries": [
-						"Você recebe resistência a dano psíquico. Além disso, possui telepatia com criaturas que você possa ver a até 120 pés. Caso a criatura não fale nenhum idioma, desde que ela possua deslocamento de nado inato, vocês podem trocar ideias simples."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Dependência de Água",
-					"entries": [
-						"Você recebe um terceiro braço espectral adicional esse braço pode ser usado para segurar e usar armas com a propriedade leve manipular objetos abrir ou fechar portas ou um objeto tiny."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Biologia marítima",
-					"entries": [
-						"Essa espécie não simboliza um único tipo de criatura e sim uma diversidade de seres que habitam as profundezas, e suas especializações durante o desenvolvimento. Escolha um dos seguintes traços ao alcançar o terceiro nível de personagem:",
-						{
-							"type": "list",
-							"items": [
-								{
-									"type": "item",
-									"name": "Apêndice de Agarramento",
-									"entry": "Você tem apêndices adicionais em alguma parte do corpo como pinças ou tentáculos. Você pode utiliza-los para fazer ataques desarmados, causando 1d6 + seu modificador de Força, em dano de concussão. Imediatamente após acertar, você pode tentar agarrar o alvo como uma ação bônus. Esses apêndices não podem manipular nada precisamente, apenas segurar um objeto de forma desajeitada, sem poder realizar nenhuma ação além de segurar e largar, e podem agarrar um alvo por vez."
-								},
-								{
-									"type": "item",
-									"name": "Disfarce natural",
-									"entry": "Como uma ação, você pode mudar a cor do seu corpo, o que lhe dá vantagem em testes de Destreza (Furtividade) feitos para se esconder naquele ambiente. Além disso, você possui sempre preparada a magia 'Alter self', pode utilizá-la sem gastar espaços de magia, e sem necessidade de concentração. Uma vez usada dessa maneira, você não pode utiliza-la assim até o fim de um descanso curto ou longo."
-								},
-								{
-									"type": "item",
-									"name": "Frenesi de Sangue",
-									"entry": "Quando você faz uma jogada de ataque contra uma criatura {@condition bloodied|XPHB}, você pode receber vantagem nessa rolagem. Você pode usar essa característica um número de vezes igual ao seu bônus de proficiência, e você recupera todos os usos gastos quando termina um descanso longo."
-								},
-                                {
-									"type": "item",
-									"name": "Carapaça",
-									"entry": "Sua pele em alguns lugares é coberta por uma casca grossa. Você ganha um bônus de +1 na CA quando não estiver usando armadura média ou pesada."
-								}
-							],
-							"style": "list-hang-notitle"
-						}
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true,
-			"_versions": [
-				{
-					"name": "Profundo (Constritor)",
-					"source": "Guarda",
-					"_mod": {
-						"entries": {
-							"mode": "replaceArr",
-							"replace": "Biologia marítima",
-							"items": {
-								"name": "Apêndice de Agarramento",
-								"type": "entries",
-								"entries": [
-									"Você tem apêndices adicionais em alguma parte do corpo como pinças ou tentáculos. Você pode utiliza-los para fazer ataques desarmados, causando 1d6 + seu modificador de Força, em dano de concussão. Imediatamente após acertar, você pode tentar agarrar o alvo como uma ação bônus. Esses apêndices não podem manipular nada precisamente, apenas segurar um objeto de forma desajeitada, sem poder realizar nenhuma ação além de segurar e largar, e podem agarrar um alvo por vez."
-								]
-							}
-						}
-					},
-					"additionalSpells": null
-				},
-				{
-					"name": "Profundo (Espreitador)",
-					"source": "Guarda",
-					"_mod": {
-						"entries": {
-							"mode": "replaceArr",
-							"replace": "Biologia marítima",
-							"items": {
-								"name": "Disfarce natural",
-								"type": "entries",
-								"entries": [
-									"Como uma ação, você pode mudar a cor do seu corpo, o que lhe dá vantagem em testes de Destreza (Furtividade) feitos para se esconder naquele ambiente. Além disso, você possui sempre preparada a magia 'Alter self', pode utilizá-la sem gastar espaços de magia, e sem necessidade de concentração. Uma vez usada dessa maneira, você não pode utiliza-la assim até o fim de um descanso curto ou longo."
-								]
-							}
-						}
-					}
-				},
-				{
-					"name": "Profundo (Predador)",
-					"source": "Guarda",
-					"_mod": {
-						"entries": {
-							"mode": "replaceArr",
-							"replace": "Biologia marítima",
-							"items": {
-								"name": "Frenesi de sangue",
-								"type": "entries",
-								"entries": [
-									"Quando você faz uma jogada de ataque contra uma criatura {@condition bloodied|XPHB}, você pode receber vantagem nessa rolagem. Você pode usar essa característica um número de vezes igual ao seu bônus de proficiência, e você recupera todos os usos gastos quando termina um descanso longo."
-								]
-							}
-						}
-					},
-					"additionalSpells": null
-				},
-				{
-					"name": "Profundo (Encouraçado)",
-					"source": "Guarda",
-					"_mod": {
-						"entries": {
-							"mode": "replaceArr",
-							"replace": "Biologia marítima",
-							"items": {
-								"name": "Carapaça",
-								"type": "entries",
-								"entries": [
-									"Sua pele em alguns lugares é coberta por uma casca grossa. Você ganha um bônus de +1 na CA quando não estiver usando armadura média ou pesada."
-								]
-							}
-						}
-					},
-					"additionalSpells": null
-				}
-			]
-		},
-		{
-			"name": "Tireno (Lupino)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"humanoid"
-			],
-			"size": [
-                "M"
-			],
-			"speed": {
-				"walk": 35
-			},
-			"darkvision": 60,
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Médio."
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Instinto animal",
-					"entries": [
-						"Você recebe duas proficiências com perícia, entre, Altetismo, Acrobacia, Intuição, Natureza, Sobrevivência, Percepção ou Furtividade."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Resiliente e adaptável",
-					"entries": [
-						"Com um corpo acostumado a resistir ao éter, e a outros efeitos provocados por terrenos nocivos. Você recebe vantagem em testes de resistência de constituição para resistir a efeitos provocados pelo ambiente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Movimento Lupino",
-					"entries": [
-						"Você têm movimento de 35 fts."
-					]
-				},
-                {
-					"type": "entries",
-					"name": "Mordida",
-					"entries": [
-						"Você atacar com suas mordidas, causando 1d6 no lugar do dano de seus ataques desarmados. Uma vez por turno, caso acerte, você pode obrigar o alvo a realizar um save de força, igual a 8 + prof + Força, caso falhe o alvo estará 'prone' ou 'grappled' (a sua escolha). Só é possível derrubar ou agarrar criaturas de até 1 tamanho maior que o seu com esse ataque, e a mordida pode ser usada dessa maneira um número de vezes, a cada descanso longo, igual seu modificador de proficiência."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Tireno (Felino)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"humanoid"
-			],
-			"size": [
-                "M"
-			],
-			"speed": {
-				"walk": 30
-			},
-			"darkvision": 60,
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Médio."
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Instinto animal",
-					"entries": [
-						"Você recebe duas proficiências com perícia, entre, Altetismo, Acrobacia, Intuição, Natureza, Sobrevivência, Percepção ou Furtividade."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Resiliente e adaptável",
-					"entries": [
-						"Com um corpo acostumado a resistir ao éter, e a outros efeitos provocados por terrenos nocivos. Você recebe vantagem em testes de resistência de constituição para resistir a efeitos provocados pelo ambiente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Queda felina",
-					"entries": [
-						"Você possui resistência a danos de queda, e não fica 'prone' por cair."
-					]
-				},
-                {
-					"type": "entries",
-					"name": "Predador Nato",
-					"entries": [
-						"Ao sentir cheiro de sangue de um inimigo 'bloodied' num raio de 120ft, você ganha 10ft de movimento, desde que o inimigo possua sangue."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Tireno (Hystrix Espinhoso)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"humanoid"
-			],
-			"size": [
-                "M"
-			],
-			"speed": {
-				"walk": 30
-			},
-			"darkvision": 60,
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Médio."
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Instinto animal",
-					"entries": [
-						"Você recebe duas proficiências com perícia, entre, Altetismo, Acrobacia, Intuição, Natureza, Sobrevivência, Percepção ou Furtividade."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Espinhos",
-					"entries": [
-						"Seus espinhos são uma arma natural, que conta como uma arma corpo a corpo simples com a qual você é proficiente. Eles causam 1d4 de dano perfurante no acerto, e contam como uma arma com propriedade de arremesso, e finess (alcance 30/120. Mastery: Slow). Novos espinhos constantemente crescem para repor os que forem arremessados. Porém, uma vez disparados, eles não podem mais ser usados como armas."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Abraço fatal",
-					"entries": [
-						"Sempre que uma criatura o agarra, ou você agarra uma criatura, a mesma recebe 1d4 de dano perfurante no início de cada turno que o agarrão for mantido."
-					]
-				},
-                		{
-					"type": "entries",
-					"name": "Resiliente e adaptável",
-					"entries": [
-						"Com um corpo acostumado a resistir ao éter, e a outros efeitos provocados por terrenos nocivos. Você recebe vantagem em testes de resistência de constituição para resistir a efeitos provocados pelo ambiente."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Tireno (Escamado)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"humanoid"
-			],
-			"size": [
-                "M"
-			],
-			"speed": {
-				"walk": 30
-			},
-			"darkvision": 60,
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Médio."
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Instinto animal",
-					"entries": [
-						"Você recebe duas proficiências com perícia, entre, Altetismo, Acrobacia, Intuição, Natureza, Sobrevivência, Percepção ou Furtividade."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Resiliente e adaptável",
-					"entries": [
-						"Com um corpo acostumado a resistir ao éter, e a outros efeitos provocados por terrenos nocivos. Você recebe vantagem em testes de resistência de constituição para resistir a efeitos provocados pelo ambiente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Pele adaptativa",
-					"entries": [
-						"Você pode usar sua ação bônus pra se esconder. Você pode tentar se esconder em qualquer ambiente levemente obscurecido, mesmo que não possua cobertura."
-					]
-				},
-                {
-					"type": "entries",
-					"name": "Moldando o ambiente",
-					"entries": [
-						"Gastando um minuto, você pode mudar sua aparência e sua voz. Você determina as especificidades das mudanças, incluindo sua coloração, comprimento do cabelo e sexo. Você também pode ajustar sua altura e peso, mas não tanto que seu tamanho mude. Você pode se fazer parecer um membro de outra raça, embora nenhuma de suas estatísticas de jogo mude. Você não pode duplicar a aparência de uma criatura que nunca viu, e deve adotar uma forma que tenha o mesmo arranjo básico de membros que você tem. Suas roupas e equipamentos não são alterados por esta característica. Caso você morra, você retorna ao normal. Você pode se transformar um número de vezes igual a sua Proficiência por descanso longo, e a transformação dura no máximo 1 hora."
-					]
-				},
-                {
-					"type": "entries",
-					"name": "Troca de calor",
-					"entries": [
-						"Seu corpo tem dificuldade em gerar calor devendo se esquentar por pelo menos 2 horas próximo a fogueiras ou outras fontes de calor uma vez a cada descanso longo, ou seu corpo ficará lento, e receberá desvantagem em todas suas jogadas de D20 até se esquentar. Se expor a luz do sol lhe esquenta em 1 hora."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
 		}
-
 	]
 }
