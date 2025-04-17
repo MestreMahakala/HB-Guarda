@@ -17,7 +17,7 @@
         "status": "ready",
 		"edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223576,
+        "dateLastModified": 1695223579,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "background": [
@@ -467,10 +467,10 @@
                 {
                     "choose": {
                         "from": [
-                            "Athletics",
-                            "Insight",
-                            "Investigation",
-                            "Perception"
+                            "athletics",
+                            "insight",
+                            "investigation",
+                            "perception"
                         ],
                         "count": 2
                     }
@@ -597,45 +597,38 @@
 					}
 				}
 			],
-			"system": {
-				"toolProficiencies": {
-					"value": []
-				},
-				"configuration": {
-				"choices": [
-					{
-						"type": "tool",
-						"label": "Escolha uma ferramenta artística",
-						"options": [
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
 							"calligrapher's supplies",
 							"painter's supplies"
 						],
 						"count": 1
 					}
-				]
-				}
-			},
-		"languageProficiencies": [
-		{
-		"common": true,
-		"anyStandard": 2
-		}
-		],
-			"entries": [
-				{
-					"name": "Talento de antecedente: Workaholic",
-					"type": "entries",
-					"entries": [
-						"Você, antes de ser um aventureiro, já trabalhava para a grande e competente G.U.A.R.D.A. Seja como arquivista, entrevistador, recepcionista, retratista, veterinário ou qualquer outra função, você sempre esteve próximo aos aventureiros - e talvez seja por isso que você tenha resolvido se tornar um, mas sem se esquecer da sua antiga função.",
-						"Você tem mais facilidade para se lembrar de quaisquer informações vinculadas a G.U.A.R.D.A. e seus membros, contanto que elas tenham sido notificadas de alguma forma através de meios de comunicação ou registro - e algumas que nem mesmo foram abertas ao público."
-					],
-					"data": {
-						"isFeature": true
-					}
 				}
 			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		}
-    ]
-}
+			"languageProficiencies": [
+			{
+			"common": true,
+			"anyStandard": 2
+			}
+			],
+				"entries": [
+					{
+						"name": "Talento de antecedente: Workaholic",
+						"type": "entries",
+						"entries": [
+							"Você, antes de ser um aventureiro, já trabalhava para a grande e competente G.U.A.R.D.A. Seja como arquivista, entrevistador, recepcionista, retratista, veterinário ou qualquer outra função, você sempre esteve próximo aos aventureiros - e talvez seja por isso que você tenha resolvido se tornar um, mas sem se esquecer da sua antiga função.",
+							"Você tem mais facilidade para se lembrar de quaisquer informações vinculadas a G.U.A.R.D.A. e seus membros, contanto que elas tenham sido notificadas de alguma forma através de meios de comunicação ou registro - e algumas que nem mesmo foram abertas ao público."
+						],
+						"data": {
+							"isFeature": true
+						}
+					}
+				],
+				"hasFluff": true,
+				"hasFluffImages": true
+			}
+		]
+	}

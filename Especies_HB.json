@@ -17,7 +17,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223578,
+		"dateLastModified": 1695223583,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -350,7 +350,7 @@
 				{
 					"choose": {
 						"from": [
-							"Insight",
+							"insight",
 							"perception",
 							"survival"
 						]
@@ -1168,12 +1168,9 @@
 			"darkvision": 60,
 			"skillProficiencies": [
 				{
-					"choose": {
-						"from": [
-							"Athletics"
-						]
+					"athletics":true
+					
 					}
-				}
 			],
 			"sizeEntry": {
 				"type": "item",
@@ -1246,11 +1243,7 @@
 			"darkvision": 60,
 			"skillProficiencies": [
 				{
-					"choose": {
-						"from": [
-							"Persuasion"
-						]
-					}
+					"persuasion":true
 				}
 			],
 		"additionalSpells": [
@@ -1588,7 +1581,7 @@
 			"speed": 30,
 			"darkvision": 60,
             "resist": [
-				"Psychic"
+				"psychic"
 			],
 			"sizeEntry": {
 				"type": "item",
