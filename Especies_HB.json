@@ -17,7 +17,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223583,
+		"dateLastModified": 1695223587,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -2072,7 +2072,159 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
-		}
+		},
+		{
 
+			"name": "Viridianos",
+
+			"source": "Guarda",
+
+			"page": 194,
+
+			"edition": "one",
+
+			"creatureTypes": [
+
+				"plant"
+
+			],
+
+			"size": [
+
+				"S"
+
+			],
+
+			"speed": 25,
+
+			"tremorsense": 90,
+
+			"sizeEntry": {
+
+				"type": "item",
+
+				"name": "Size:",
+
+				"entries": [
+
+					"Small (crescem conforme feature crescimento natural)."
+
+				]
+
+			},
+
+			"entries": [
+
+				{
+
+					"name": "Crescimento natural",
+
+					"type": "entries",
+
+					"entries": [
+
+						"O tamanho de um homem planta depende da força Zoé que reside em seu interior, não do tempo de vida. Assim, conforme um personagem evolui sua força, ele cresce da seguinte forma:",
+
+						"Do level 1 ao 7: Seu tamanho é small e sua velocidade base é 25 feets;",
+
+						"Do level 8 a 14: Seu tamanho é médio e sua velocidade base é 30 feets;",
+
+						"Do level 15 ao 20: Seu tamanho é médio, mas sua velocidade é 35 feets e desbloqueia a feature ascendido."
+
+						]
+
+				},
+
+				{
+
+					"name": "Sentidis Sísmicos",
+
+					"type": "entries",
+
+					"entries": [
+
+						"Sua biologia única impede que você enxergue da maneira convencional, tornando-o incapaz de se beneficiar de {@sense Blindsight|XPHB}, {@sense Truesight|XPHB} ou {@sense Darkvision|XPHB}. Em vez disso, você possui {@sense Tremorsense|XPHB} com alcance de 90 pés. Caso um efeito conceda Blindsight, ele aumenta o alcance do seu Tremorsense na mesma quantidade, em vez de conceder um novo sentido. Para efeitos mecânicos, tudo que você percebe através do Tremorsense é tratado como visão, permitindo que você ataque, use magias e interaja normalmente com o ambiente, desde que o alvo esteja tocando o solo ou uma superfície sólida conectada a você."
+
+						]
+
+				},
+
+				{
+
+					"name": "Fotossíntese",
+
+					"type": "entries",
+
+					"entries": [
+
+						"Os homens planta se alimentam via fotossíntese, somente precisando de água, 4 horas de luz e fixar suas raízes em solo ou pedra durante 4 horas que equivale ao tempo de descanso. Luz mágica pode ser usada para a fotossíntese."
+
+					]
+
+				},
+
+				{
+
+					"name": "Ausência de boca, olhos e ouvidos",
+
+					"type": "entries",
+
+					"entries": [
+
+						"Você não possui a capacidade de ouvir, falar de forma vocal, ou ver o ambiente. Desta forma, você tem desvantagem em testes de savaguarda de destreza."
+
+					]
+
+				},
+
+				{
+
+					"name": "Comunicação Viridiana",
+
+					"type": "entries",
+
+					"entries": [
+
+						"Os Viridianos são incapazes de falar de forma verbalizada e, em vez disso, utilizam telepatia para se comunicar.  Você possui a habilidade mágica de estabelecer um vínculo telepático com um número de criaturas igual ao seu bônus de proficiência, desde que estejam a até 90 pés de distância. Enquanto o vínculo estiver ativo, sempre que uma criatura falar em voz alta, você compreende mentalmente suas palavras, desde que conheça o idioma falado. Da mesma forma, você pode se comunicar telepaticamente com a criatura, mas ela só entenderá se conhecer o idioma que você deseja transmitir. O vínculo telepático é quebrado se você e a criatura se afastarem mais de 90 pés, se um dos dois ficar incapacitado ou se você decidir encerrar o contato (nenhuma ação necessária)."
+
+					]
+
+				},
+
+				{
+
+					"name": "Componentes Verbais",
+
+					"type": "entries",
+
+					"entries": [
+
+						"Se habitualmente as criaturas ao conjurar magias fazem o componente verbal com a boca, no lugar, os viridianos fazem sons com ranger de seus galhos que ficam em sua cabeça. Esse som, que lembra o canto de uma cigarra, é claramente perceptível e serve como substituto para os componentes verbais ao conjurar magias e ativar itens mágicos."
+
+					]
+
+				},
+
+				{
+
+					"name": "Ascendido",
+
+					"type": "entries",
+
+					"entries": [
+
+						"Poucos viridianos cultivam a zoé ao ponto de atingir a ascensão. Quando chega no lvl 15, um viridiano passa a ser considerado uma categoria de tamanho acima para o cálculo de carga e para o grapple."
+
+					]
+
+				}
+
+			],
+
+			"hasFluff": true,
+
+			"hasFluffImages": true
+
+		}
 	]
 }
