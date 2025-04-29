@@ -17,7 +17,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223587,
+		"dateLastModified": 1695223573,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -350,7 +350,7 @@
 				{
 					"choose": {
 						"from": [
-							"insight",
+							"Insight",
 							"perception",
 							"survival"
 						]
@@ -606,218 +606,6 @@
 					"speed":30
 				}
 			]
-		},
-		{
-			"name": "Espectro (Esqueleto)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Armado até os dentes",
-					"entries": [
-						"Caso você use sua ação de ataque, pode tirar uma de suas costelas para usar como arma confiável. A costela arrancada possui as mesmas propriedades de uma adaga, seu dano é 1d6 Bludgeoning. Você pode ter seu numero de BP costelas arrancadas, pode usar uma ação bônus para recolocar até duas costelas de uma vez. Caso não consiga recuperá-las, novas costelas surgem a partir do efeito que te mantém vivo após um descanso longo."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vai uma mãozinha ai?",
-					"entries": [
-						"Sua mão é extremamente útil, de várias formas. Como uma ação, você pode retirar sua mão inteira e ela pode ser usada como um Thieve's Tools  Sua mão pode ser acoplada novamente com uma ação bônus."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Só o pó",
-					"entries": [
-						"Quando você for reduzido a 0 pontos de vida, mas não for morto de imediato, pode optar por cair para 1 ponto de vida em vez disso. Se fizer isso, você se reduz a uma pilha de ossos, fica prone e é considerado sob um efeito similar ao feitiço Feign Death. Enquanto estiver sob essa condição, você mantém todos seus sentidos, não pode se mover ou realizar ações, exceto usar uma ação para terminar esse efeito. Você não pode usar essa habilidade novamente até concluir um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Espectro (Revenant)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vingança Eterna",
-					"entries": [
-						"Escolha um tipo de inimigo (Ex: Humanoid [especificar qual tipo]) Você tem vantagem em testes de Sabedoria (Sobrevivência) para rastrear seus capatazes, assim como em testes de Inteligência para recordar informações sobre eles."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Fúria do pós-vida",
-					"entries": [
-						"Ao cair a 0 pontos de vida, você pode escolher voltar com 1 ponto de vida. Ao escolher voltar, você ganha pontos de vida temporários igual seu nível+mod de CON e tem vantagens em ataques enquanto possuir THP dado por essa habilidade. Esse THP dura 1 minuto.  Você não pode usar essa habilidade novamente até concluir um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Espectro (Fantasma)",
-			"source": "Guarda",
-			"page": 188,
-			"freeRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": {
-				"walk": 30,
-				"fly": 30,
-				"canHover": true
-			},
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vôo Fantasmagórico",
-					"entries": [
-						"Você tem velocidade de voo (hover) igual o seu deslocamento de caminhada, contudo esse deslocamento não te permite voar a mais do que 5 pés de uma superfície solida"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Passo Incorpóreo",
-					"entries": [
-						" Você é quase um fantasma completo, conseguindo atravessar objetos e criaturas como se fosse terreno difícil. Passivamente você não consegue atravessar mais que 5cm de pedra, terra ou madeira ou 3 cm de metal. Uma vez por descanso curto você pode tentar suprimir sua energia vital que mantém sua materialidade, passando a conseguir atravessar qualquer objeto sólido pelo tempo de 6 segundos. Se o efeito terminar com você dentro de um objeto, você sofre 1d10 de dano force e é deslocado para o local desocupado mais próximo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
 		},
 		{
 			"name": "Mirrorkin",
@@ -1168,9 +956,12 @@
 			"darkvision": 60,
 			"skillProficiencies": [
 				{
-					"athletics":true
-					
+					"choose": {
+						"from": [
+							"Athletics"
+						]
 					}
+				}
 			],
 			"sizeEntry": {
 				"type": "item",
@@ -1243,7 +1034,11 @@
 			"darkvision": 60,
 			"skillProficiencies": [
 				{
-					"persuasion":true
+					"choose": {
+						"from": [
+							"Persuasion"
+						]
+					}
 				}
 			],
 		"additionalSpells": [
@@ -1581,7 +1376,7 @@
 			"speed": 30,
 			"darkvision": 60,
             "resist": [
-				"psychic"
+				"Psychic"
 			],
 			"sizeEntry": {
 				"type": "item",
@@ -2225,6 +2020,524 @@
 
 			"hasFluffImages": true
 
+		},
+		{
+		    "name": "Espectro (Esqueleto)",
+		    "source": "Guarda",
+		    "page": 188,
+		    "freeRules2024": true,
+		    "edition": "one",
+		    "creatureTypes": [
+		        "undead"
+		    ],
+		    "size": [
+		        "M"
+		    ],
+		    "speed": 30,
+		    "darkvision": 60,
+		    "resist": [
+		        "poison"
+		    ],
+		    "sizeEntry": {
+		        "type": "item",
+		        "name": "Size:",
+		        "entries": [
+		            "pequeno ou médio"
+		        ]
+		    },
+		    "entries": [
+		        {
+		            "type": "entries",
+		            "name": "Darkvision",
+		            "entries": [
+		                "Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Sem-Sangue",
+		            "entries": [
+		                "Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Morto-Vivo",
+		            "entries": [
+		                "Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
+		                "-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
+		                "-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
+		                "-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Armado até os dentes",
+		            "entries": [
+		                "Caso você use sua ação de ataque, pode tirar uma de suas costelas para usar como arma confiável. A costela arrancada possui as mesmas propriedades de uma adaga, seu dano é 1d6 Bludgeoning. Você pode ter seu numero de BP costelas arrancadas, pode usar uma ação bônus para recolocar até duas costelas de uma vez. Caso não consiga recuperá-las, novas costelas surgem a partir do efeito que te mantém vivo após um descanso longo."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Vai uma mãozinha ai?",
+		            "entries": [
+		                "Sua mão é extremamente útil, de várias formas. Como uma ação, você pode retirar sua mão inteira e ela pode ser usada como um Thieve's Tools  Sua mão pode ser acoplada novamente com uma ação bônus."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Só o pó",
+		            "entries": [
+		                "Quando você for reduzido a 0 pontos de vida, mas não for morto de imediato, pode optar por cair para 1 ponto de vida em vez disso. Se fizer isso, você se reduz a uma pilha de ossos, fica prone e é considerado sob um efeito similar ao feitiço Feign Death. Enquanto estiver sob essa condição, você mantém todos seus sentidos, não pode se mover ou realizar ações, exceto usar uma ação para terminar esse efeito. Você não pode usar essa habilidade novamente até concluir um descanso longo."
+		            ]
+		        }
+		    ],
+		    "hasFluff": true,
+		    "hasFluffImages": true
+		},
+		{
+		    "name": "Espectro (Revenant)",
+		    "source": "Guarda",
+		    "page": 188,
+		    "freeRules2024": true,
+		    "edition": "one",
+		    "creatureTypes": [
+		        "undead"
+		    ],
+		    "size": [
+		        "M"
+		    ],
+		    "speed": 30,
+		    "darkvision": 60,
+		    "resist": [
+		        "poison"
+		    ],
+		    "sizeEntry": {
+		        "type": "item",
+		        "name": "Size:",
+		        "entries": [
+		            "pequeno ou médio"
+		        ]
+		    },
+		    "entries": [
+		        {
+		            "type": "entries",
+		            "name": "Darkvision",
+		            "entries": [
+		                "Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Sem-Sangue",
+		            "entries": [
+		                "Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Morto-Vivo",
+		            "entries": [
+		                "Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
+		                "-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
+		                "-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
+		                "-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Vingança Eterna",
+		            "entries": [
+		                "Escolha um tipo de inimigo (Ex: Humanoid [especificar qual tipo]) Você tem vantagem em testes de Sabedoria (Sobrevivência) para rastrear seus capatazes, assim como em testes de Inteligência para recordar informações sobre eles."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Fúria do pós-vida",
+		            "entries": [
+		                "Ao cair a 0 pontos de vida, você pode escolher voltar com 1 ponto de vida. Ao escolher voltar, você ganha pontos de vida temporários igual seu nível+mod de CON e tem vantagens em ataques enquanto possuir THP dado por essa habilidade. Esse THP dura 1 minuto.  Você não pode usar essa habilidade novamente até concluir um descanso longo."
+		            ]
+		        }
+		    ],
+		    "hasFluff": true,
+		    "hasFluffImages": true
+		},
+		{
+		    "name": "Espectro (Fantasma)",
+		    "source": "Guarda",
+		    "page": 188,
+		    "freeRules2024": true,
+		    "edition": "one",
+		    "creatureTypes": [
+		        "undead"
+		    ],
+		    "size": [
+		        "M"
+		    ],
+		    "speed": {
+		        "walk": 30,
+		        "fly": 30,
+		        "canHover": true
+		    },
+		    "darkvision": 60,
+		    "resist": [
+		        "poison"
+		    ],
+		    "sizeEntry": {
+		        "type": "item",
+		        "name": "Size:",
+		        "entries": [
+		            "pequeno ou médio"
+		        ]
+		    },
+		    "entries": [
+		        {
+		            "type": "entries",
+		            "name": "Darkvision",
+		            "entries": [
+		                "Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Sem-Sangue",
+		            "entries": [
+		                "Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Morto-Vivo",
+		            "entries": [
+		                "Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
+		                "-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
+		                "-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
+		                "-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Vôo Fantasmagórico",
+		            "entries": [
+		                "Você tem velocidade de voo (hover) igual o seu deslocamento de caminhada, contudo esse deslocamento não te permite voar a mais do que 5 pés de uma superfície solida"
+		            ]
+		        },
+		        {
+		            "type": "entries",
+		            "name": "Passo Incorpóreo",
+		            "entries": [
+		                " Você é quase um fantasma completo, conseguindo atravessar objetos e criaturas como se fosse terreno difícil. Passivamente você não consegue atravessar mais que 5cm de pedra, terra ou madeira ou 3 cm de metal. Uma vez por descanso curto você pode tentar suprimir sua energia vital que mantém sua materialidade, passando a conseguir atravessar qualquer objeto sólido pelo tempo de 6 segundos. Se o efeito terminar com você dentro de um objeto, você sofre 1d10 de dano force e é deslocado para o local desocupado mais próximo."
+		            ]
+		        }
+		    ],
+		    "hasFluff": true,
+		    "hasFluffImages": true
+		},
+		{
+			"name": "Warpuppet (Títere Arcanizado)",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"construct"
+			],
+			"size": [
+				"S, M"
+			],
+			"speed": 30,
+			"resist": [
+				"poison", "lightning"
+			],
+			"vulnerable": [
+				"fire"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"additionalSpells": [
+				{
+					"known": {
+						"1": [
+							"prestidigitation#c"
+						]
+					},
+					"innate": {
+						"3": {
+							"daily": {
+								"1": [
+									"command|phb"
+								]
+							}
+						},
+						"5": {
+							"daily": {
+								"1": [
+									"suggestion|phb"
+								]
+							}
+						}
+					}	
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Corpo de Madeira",
+					"entries": [
+						"Seu corpo é construído de madeira encantada.",
+						"Você tem vulnerabilidade a dano de fogo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência Natural:",
+					"entries": [
+						"Sua constituição única confere resistências e imunidades incomuns. ",
+						"-Você tem resistência a dano Lightning e Poison.",
+						"-Você tem vantagem em testes de resistência para evitar ficar envenenado, e para se livrar dessa condição caso esteja afetado."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Brincar para Viver:",
+					"entries": [
+						"Você não precisa comer, beber ou respirar.",
+						"No entanto, para se recompor, você deve gastar 4 horas por dia brincando com pequenos fantoches, representando um teatro de convivência ou aventura.",
+						"Durante esse tempo, você está consciente e em repouso, funcionando como um descanso longo para você."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Magia da Trama Viva",
+					"entries": [
+					  "Você conhece o truque *Prestidigitação*.",
+					  "A partir do 3º nível, você pode conjurar a magia *Command* com esta característica. A partir do 5º nível, você também pode conjurar a magia *Suggestion* com esta característica.",
+					  "Depois de conjurar uma dessas magias com esta característica, você não pode fazê-lo novamente até terminar um descanso longo.",
+					  "Você também pode conjurar qualquer uma dessas magias usando quaisquer espaços de magia que possua, desde que tenha o nível apropriado."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ligação com os Fios da Trama",
+					"entries": [
+					  "Com uma ação bônus, você tenta prender uma criatura com fios mágicos. Ela deve realizar um teste de resistência de Força. Se falhar, fica com deslocamento 0 até o final do próximo turno.</p><p>CD = 8 + bônus de proficiência + modificador do atributo escolhido (Int, Wis ou Cha)."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Warpuppet (Ferramenta de Guerra)",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"construct"
+			],
+			"size": [
+				"S, M"
+			],
+			"speed": 30,
+			"resist": [
+				"poison", "lightning"
+			],
+			"vulnerable": [
+				"acid"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Corpo Metálico",
+					"entries": [
+						"Forjado em aço, bronze ou ferro, você é uma arma viva.",
+						"- Substitua a vulnerabilidade a fogo por vulnerabilidade a dano de ácido.",
+						"- Você é considerado uma criatura de metal para efeitos de magias como Heat Metal.",
+						"- Você pode adicionar 1d4 em testes de Athleties"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência Natural:",
+					"entries": [
+						"Sua constituição única confere resistências e imunidades incomuns. ",
+						"-Você tem resistência a dano Lightning e Poison.",
+						"-Você tem vantagem em testes de resistência para evitar ficar envenenado, e para se livrar dessa condição caso esteja afetado."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Brincar para Viver:",
+					"entries": [
+						"Você não precisa comer, beber ou respirar.",
+						"No entanto, para se recompor, você deve gastar 4 horas por dia brincando com pequenos fantoches, representando um teatro de convivência ou aventura.",
+						"Durante esse tempo, você está consciente e em repouso, funcionando como um descanso longo para você."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Arma Acoplável",
+					"entries": [
+						"Durante um descanso longo, você acoplar até duas armas corpo-a-corpo de uma mão ou uma arma de duas mãos. Essas armas são acopladas e não podem ser arremessadas, além de você não pode ser desarmado enquanto segura elas. Você é considerado proficiente em qualquer arma acoplada. Armas acopladas ficam ocultas em seu corpo até serem ativadas ou desativadas com uma ação bônus"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Casca Inabalável",
+					"entries": [
+						"Quando não estiver vestindo armadura, sua CA é igual a 12 + seu modificador de Constituição. Você pode usar armaduras normalmente."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Warpuppet (Fragmento do Teatro Perdido)",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"construct"
+			],
+			"size": [
+				"S, M"
+			],
+			"speed": 30,
+			"resist": [
+				"poison", "lightning"
+			],
+			"vulnerable": [
+				"fire"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Corpo de Madeira",
+					"entries": [
+						"Seu corpo é construído de madeira encantada.",
+						"Você tem vulnerabilidade a dano de fogo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência Natural:",
+					"entries": [
+						"Sua constituição única confere resistências e imunidades incomuns. ",
+						"-Você tem resistência a dano Lightning e Poison.",
+						"-Você tem vantagem em testes de resistência para evitar ficar envenenado, e para se livrar dessa condição caso esteja afetado."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Brincar para Viver:",
+					"entries": [
+						"Você não precisa comer, beber ou respirar.",
+						"No entanto, para se recompor, você deve gastar 4 horas por dia brincando com pequenos fantoches, representando um teatro de convivência ou aventura.",
+						"Durante esse tempo, você está consciente e em repouso, funcionando como um descanso longo para você."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Máscara Multifacetada",
+					"entries": [
+						"Uma vez por descanso curto ou longo, você pode alterar sua máscara facial para substitur por uma de suas máscaras de teatro internas (Ex: Alegria, Medo, Tristeza, Raiva, etc.).",
+						"- Enquanto estiver com uma dessas expressões, você tem 1d4 em testes sociais relacionados a ela (Persuasão com Tristeza, Intimidação com Raiva, Enganação com Medo, e Atuação com Alegria)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Voz do Vazio Encenado",
+					"entries": [
+						"Você pode se comunicar telepaticamente com criaturas até 18 metros (60 pés) de você, mas apenas se estiver interpretando uma cena teatral ou um personagem durante essa interação."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Miraluka",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"S, M"
+			],
+			"speed": 30,
+			"blindsight": 30,
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Visão às Cegas",
+					"entries": [
+						" Você possui 30 feets (9 metros) de Visão às Cegas {@sense blindsight|XPHB}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ecolocalização",
+					"entries": [
+						"Você é incapaz de enxergar, mas utiliza os demais sentidos para se guiar, especialmente a audição. Quando sobre a condição Ensurdecido (Deafened), você não pode utilizar sua característica Visão às Cegas e, portanto, passa a estar sob a condição Cegueira (Blinded)"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Alerta",
+					"entries": [
+						"Outras criaturas não ganham vantagem nas jogadas de ataque contra você como decorrência de estarem imperceptíveis."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sexto Sentido",
+					"entries": [
+						"Você ganha proficiência nas perícias de Intuição (Insight) e Percepção (Perception)"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sétimo Sentido",
+					"entries": [
+						"Você expande sua consciência para além do limite. Com uma ação bônus, você recebe mais 30 feets de Visão às Cegas. Essa expansão dura por 1 minuto ou até você encerrá-la (não requer ação). Você pode utilizar essa característica um número de vezes igual ao seu Bônus de Proficiência e recupera todos os usos após terminar um descanso longo."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
 		}
+
 	]
 }
