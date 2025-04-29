@@ -2022,6 +2022,258 @@
 
 		},
 		{
+			"name": "Half-Dragon",
+			"source": "GUARDA",
+			"page": 187,
+			"edition": "one",
+			"creatureTypes": [
+				"Dragon"
+			],
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"darkvision": 60,
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"Medium (about 5-7 feet tall)"
+				]
+			},
+			"additionalSpells": [
+						{
+						"known": {
+							"1": [
+								"Elementalism|xphb#c"
+							]
+						}}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Ancestralidade Dracônica",
+					"entries": [
+						"Sua linhagem vem de um progenitor dragão. Escolha o tipo de dragão na tabela Ancestrais Dracônicos. Sua escolha afeta suas características de Arma de Sopro e Resistência a Dano, bem como sua aparência.",
+						{
+							"type": "table",
+							"colLabels": [
+								"Dragon",
+								"Damage Type"
+							],
+							"colStyles": [
+								"col-6",
+								"col-6"
+							],
+							"rows": [
+								[
+									"Black",
+									"Acid"
+								],
+								[
+									"Blue",
+									"Lightning"
+								],
+								[
+									"Brass",
+									"Fire"
+								],
+								[
+									"Bronze",
+									"Lightning"
+								],
+								[
+									"Copper",
+									"Acid"
+								],
+								[
+									"Gold",
+									"Fire"
+								],
+								[
+									"Green",
+									"Poison"
+								],
+								[
+									"Red",
+									"Fire"
+								],
+								[
+									"Silver",
+									"Cold"
+								],
+								[
+									"White",
+									"Cold"
+								]
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Conexão mágica",
+					"entries": [
+						"Como seres antigos muito ligados a magia, sua herança permite ter um contato mais próximo com os elementos. Você aprende o truque {@spell Elementalism}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência a Dano",
+					"entries": [
+						"Você tem {@variantrule Resistance|XPHB} ao tipo de dano determinado pelo seu traço Ancestralidade Dracônica"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} de 60 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Arma natural",
+					"entries": [
+						"Você ganha uma arma natural de Dilacerar que pode ser usada pelas garras ou boca. Ele usa seu modificador de força para ataque ou dano e confere {@damage 1d6} de dano Slashing."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Transformação dracônica",
+					"entries": [
+						"Você pode chamar a magia ancestral para mudar o seu corpo como uma ação bônus. Durante um minuto ou até que fique incapacitado, você ganha as seguintes características:",
+						"Você possui blindsight de 15 pés",
+						"Seu tamanho torna-se Large e assume a aparência de um dragão igual ao ancestral escolhido. Todo seu equipamento é mesclado em sua nova forma, não permitindo se beneficiar deles (Ainda é possível conjurar feitiços, desde que os mesmos não possuam componentes materiais.);",
+						"Como uma Magic Action, você pode exalar sopro em um cone de 15 feets {@variantrule Cone [Area of Effect]|XPHB|Cone} do elemento de seu ancestral dracônico. Cada criatura naquela área deve fazer um teste de resistência de Destreza ({@dc 8} mais seu modificador de Constituição e {@variantrule Proficiency|XPHB|Proficiency Bonus}). Em uma falha, uma criatura sofre {@damage 1d6} de dano do tipo determinado pelo seu traço Ancestralidade Dracônica. Em uma resistência bem-sucedida, uma criatura sofre metade do dano. Este dano aumenta em {@damage 1d6} quando você atinge os níveis de personagem 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6}).",
+						"Você possui asas em suas costas, que te fornecem 30 pés de {@variantrule Fly Speed|XPHB}",
+						"Após o uso dessa característica, só poderá usá-la novamente após um {@variantrule Long Rest|XPHB}"
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true,
+			"_versions": [
+				{
+					"_abstract": {
+						"name": "Half-Dragon ({{color}})",
+						"source": "XPHB",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "removeArr",
+									"names": "Ancestralidade Dracônica"
+								},
+								{
+									"mode": "replaceArr",
+									"replace": "Resistência a Dano",
+									"items": {
+										"type": "entries",
+										"name": "Resistência a Dano",
+										"entries": [
+											"You have {@variantrule Resistance|XPHB} to {{damageType}} damage."
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"color": "Black",
+								"damageType": "Acid"
+							},
+							"resist": [
+								"acid"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Blue",
+								"damageType": "Lightning"
+							},
+							"resist": [
+								"lightning"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Brass",
+								"damageType": "Fire"
+							},
+							"resist": [
+								"fire"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Bronze",
+								"damageType": "Lightning"
+							},
+							"resist": [
+								"lightning"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Copper",
+								"damageType": "Acid"
+							},
+							"resist": [
+								"acid"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Gold",
+								"damageType": "Fire"
+							},
+							"resist": [
+								"fire"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Green",
+								"damageType": "Poison"
+							},
+							"resist": [
+								"poison"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Red",
+								"damageType": "Fire"
+							},
+							"resist": [
+								"fire"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Silver",
+								"damageType": "Cold"
+							},
+							"resist": [
+								"cold"
+							]
+						},
+						{
+							"_variables": {
+								"color": "White",
+								"damageType": "Cold"
+							},
+							"resist": [
+								"cold"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
 		    "name": "Espectro (Esqueleto)",
 		    "source": "Guarda",
 		    "page": 188,
