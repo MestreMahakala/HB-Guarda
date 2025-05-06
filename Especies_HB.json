@@ -2537,7 +2537,108 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
+		},
+		{
+			"name": "Sanguines",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"M, S"
+			],
+			"speed": 30,
+			"darkvision": 120,
+			"resist": [
+				"poison",
+				"necrotic"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"additionalSpells": [
+				{
+					"innate": {
+						"3": {
+							"daily": {
+								"1": [
+									"charm person|phb"
+								]
+							}
+						}
+					}	
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Visão no Escuro Superior",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} com alcance de 120 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resiliência Sobrenatural",
+					"entries": [
+						"Você tem vantagem em testes de resistência contra doenças e envenenamento, e você tem resistência a dano necrótico e venenoso."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Fraqueza à Luz Solar",
+					"entries": [
+						"Sob luz solar direta:",
+						"-Você tem desvantagem em ataques e testes de habilidade.",
+						"-No início de cada turno, sofre 1d6 de dano radiante",
+						"Essa fraqueza pode ser evitada com roupas (Mantos, capas) ou magias que bloqueiem totalmente a luz solar."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Dependência de Sangue",
+					"entries": [
+						"Você não precisa comer, respirar ou beber, mas ao passar 24 horas sem consumir sangue, você entra em estado de fome:",
+						"-Desvantagem em testes de resistência de Constituição e Carisma.",
+						"Essa condição é removida ao beber o sangue de alguma criatura viva, não sendo um constructo ou morto-vivo. E também, sangue fresco de algum recipiente."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Restrição de Convite",
+					"entries": [
+						"Você não pode entrar voluntariamente em uma residência com dono vivo sem ser convidado, ao tentar entrar, acaba sendo bloqueado por uma parede ou força invisível. ",
+						"Um dono se refere a uma criatura viva que reivindicou o local como seu e tem um vínculo com a residência, por forma física, emocional ou espiritual. Exemplos: Um inquilino, ou um senhor feudal que mantém posse sobre um castelo ou até um padre que tem posse sobre uma igreja ativa.",
+						"Para poder entrar:",
+						"-Seja convidado por uma criatura, independente qual.",
+						"-A casa não tenha um dono atual (abandonada, ruínas, etc.).",
+						"Ser teleportado ou entrar de alguma outra forma não descrita anteriormente na residência sem ser antes convidado, momentaneamente é perdido o controle do seu corpo, o fazendo correr o mais rápido possível para a saída do lugar, sem poder utilizar ação, ação bônus ou reação sem ser para Dash, Disengage ou utilizar alguma mágia para sair."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Passos de Sombra",
+					"entries": [
+						"Como uma ação bônus, você pode se teletransportar magicamente se transformando em vários morcegos até 30 pés para um espaço desocupado que você possa ver. Você pode usar esta característica um número de vezes igual ao seu bônus de proficiência e recupera todos os usos gastos ao terminar um descanso longo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Compulsão Vampírica",
+					"entries": [
+						"No 3º nivel, você pode conjurar a magia Charm Person 1 vez por descanso longo, sem gastar espaço de magia. Você também pode conjurar essa magia usando quaiquer espaços de magia que você tenha do nível apropriado. Carisma, Inteligência ou Sabedoria é sua habilidade de conjuração para essa magia."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
 		}
-
 	]
 }
