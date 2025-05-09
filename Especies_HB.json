@@ -2891,6 +2891,117 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
+<<<<<<< HEAD
+=======
+		},
+		{
+			"name": "Tetrakyn (Terceiro Olho)",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"M, S"
+			],
+			"speed": 30,
+			"darkvision": 120,
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Quatro Braços",
+					"entries": [
+						"Você possui um par extra de braços. Seus braços extras podem manipular objetos, abrir portas, carregar cargas além de equipar e manipular armas leves. Você não pode equipar escudos nos braços extras."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Corpo Ágil",
+					"entries": [
+						"Você possui deslocamento de escalada igual ao seu deslocamento normal, podendo também escalar superfícies verticais e até de cabeça para baixo, mas precisando manter os braços secundários em contato com a superfície."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Marca de Nascença",
+					"entries": [
+						"A maioria dos Tetrakyn nasce com uma cicatriz vertical no centro da testa, essa cicatriz é conhecida como a marca da força, já alguns poucos membros da espécie nascem sem essa cicatriz e no lugar um leve brilho da cor de seus olhos é emitido por de baixo da pele, esse brilho é chamado de marca da mente."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Terceiro Olho",
+					"entries": [
+						"Seu terceiro olho concede visão no escuro superior, estendendo seu alcance para 36 metros (120 pés), e você tem vantagem em testes de Sabedoria (Percepção) que dependam da visão."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Tetrakyn (Marca da Força )",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"M, S"
+			],
+			"speed": 30,
+			"darkvision": 60,
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Quatro Braços",
+					"entries": [
+						"Você possui um par extra de braços. Seus braços extras podem manipular objetos, abrir portas, carregar cargas além de equipar e manipular armas leves. Você não pode equipar escudos nos braços extras."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Corpo Ágil",
+					"entries": [
+						"Você possui deslocamento de escalada igual ao seu deslocamento normal, podendo também escalar superfícies verticais e até de cabeça para baixo, mas precisando manter os braços secundários em contato com a superfície."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Marca de Nascença",
+					"entries": [
+						"A maioria dos Tetrakyn nasce com uma cicatriz vertical no centro da testa, essa cicatriz é conhecida como a marca da força, já alguns poucos membros da espécie nascem sem essa cicatriz e no lugar um leve brilho da cor de seus olhos é emitido por de baixo da pele, esse brilho é chamado de marca da mente."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Braço Forte",
+					"entries": [
+						"Você conta como um tamanho maior ao determinar sua capacidade de carga, o peso que pode puxar, empurrar ou erguer, também tem vantagem em testes de Força para resistir a ser agarrado ou derrubad"
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+>>>>>>> Wiik
 		}
 				
 	]
