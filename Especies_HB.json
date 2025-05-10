@@ -2747,6 +2747,119 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
+		},
+		{
+			"name": "Mermaid",
+			"source": "Guarda",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"M, S"
+			],
+			"speed": 30,
+			"swim": 40,
+			"darkvision": 60,
+			"resist": [
+				"cold"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"pequeno ou médio"
+				]
+			},
+			"additionalSpells": [
+				{
+					"known": {
+						"1": [
+							"thaumaturgy#c"
+						]
+					},
+					"innate": {
+						"3": {
+							"daily": {
+								"1": [
+									" create or destroy water|phb"
+								]
+							}
+						}
+					}	
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Speed",
+					"entries": [
+						"Seu deslocamento base de caminhada é de 10 feet. Por causa de sua cauda, você também tem um deslocamento de natação de 40 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Amphibious",
+					"entries": [
+						"Você pode respirar ar e água."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Land and Sea",
+					"entries": [
+						"Enquanto você não estiver submerso na água, você pode usar uma ação bônus para transformar a parte inferior do seu corpo. Sua cauda se torna um par de pernas, seu deslocamento base de caminhada e seu deslocamento de natação se tornam 30 feet, e você parece ser humano. Essa transformação dura até que você use uma ação bônus enquanto estiver submerso na água para reverter à sua forma de cauda."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Siren Song",
+					"entries": [
+						"Você ganha proficiência em Performance"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Voice of the Ocean",
+					"entries": [
+						"Você pode compreender e se comunicar verbalmente com qualquer criatura que tenha velocidade inata de natação. Você pode falar com a criatura, independentemente de ela entender um idioma ou não, embora qualquer informação que ela possa lhe dar possa ser limitada por sua inteligência."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Born in the Sea",
+					"entries": [
+						"Adaptado às profundezas gélidas do oceano, você tem resistência a danos causados pelo frio. E resistência a locais com alta pressão atmosférica."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Song of the Tides",
+					"entries": [
+						"A música e as ondas fazem parte de você. Você aprende a Cantrip Thaumaturgy à vontade. No 3° nível você pode conjurar a magia Create and Destroy Water uma vez por descanso longo, sem gastar espaço de magia. Carisma, Inteligência ou Sabedoria é sua habilidade de conjuração para essa magia."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Charming Voice",
+					"entries": [
+						"Como uma ação bônus, você pode escolher uma criatura a 60fts de você que possa te ouvir. Ela deve fazer um teste de resistência de Sabedoria (CD = 8 + prof + mod de int, Wis ou Cha, que você determina quando escolhe essa raça.). Numa falha, a criatura fica magicamente enfeitiçada (charmed) por um minuto. Se o alvo sofrer qualquer dano, o efeito acaba imediatamente.",
+						"Você pode consumir usos adicionais dessa habilidade para adicionar 1d4 em testes de Carisma feitos para interagir com a criatura enquanto ela estiver sob o efeito dessa habilidade.",
+						"Você pode usar essa característica um número de vezes igual ao seu bônus de proficiência e recupera todos os usos ao terminar um descanso longo."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
 		}
 				
 	]
