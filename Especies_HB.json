@@ -17,7 +17,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223573,
+		"dateLastModified": 1695223585,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -608,221 +608,6 @@
 			]
 		},
 		{
-<<<<<<< HEAD
-			"name": "Espectro (Esqueleto)",
-			"source": "Guarda",
-			"page": 188,
-			"basicRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Armado até os dentes",
-					"entries": [
-						"Caso você use sua ação de ataque, pode tirar uma de suas costelas para usar como arma confiável. A costela arrancada possui as mesmas propriedades de uma adaga, seu dano é 1d6 Bludgeoning. Você pode ter seu numero de BP costelas arrancadas, pode usar uma ação bônus para recolocar até duas costelas de uma vez. Caso não consiga recuperá-las, novas costelas surgem a partir do efeito que te mantém vivo após um descanso longo."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vai uma mãozinha ai?",
-					"entries": [
-						"Sua mão é extremamente útil, de várias formas. Como uma ação, você pode retirar sua mão inteira e ela pode ser usada como um Thieve's Tools  Sua mão pode ser acoplada novamente com uma ação bônus."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Só o pó",
-					"entries": [
-						"Quando você for reduzido a 0 pontos de vida, mas não for morto de imediato, pode optar por cair para 1 ponto de vida em vez disso. Se fizer isso, você se reduz a uma pilha de ossos, fica prone e é considerado sob um efeito similar ao feitiço Feign Death. Enquanto estiver sob essa condição, você mantém todos seus sentidos, não pode se mover ou realizar ações, exceto usar uma ação para terminar esse efeito. Você não pode usar essa habilidade novamente até concluir um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Espectro (Revenant)",
-			"source": "Guarda",
-			"page": 188,
-			"basicRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vingança Eterna",
-					"entries": [
-						"Escolha um tipo de inimigo (Ex: Humanoid [especificar qual tipo]) Você tem vantagem em testes de Sabedoria (Sobrevivência) para rastrear seus capatazes, assim como em testes de Inteligência para recordar informações sobre eles."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Fúria do pós-vida",
-					"entries": [
-						"Ao cair a 0 pontos de vida, você pode escolher voltar com 1 ponto de vida. Ao escolher voltar, você ganha pontos de vida temporários igual seu nível+mod de CON e tem vantagens em ataques enquanto possuir THP dado por essa habilidade. Esse THP dura 1 minuto.  Você não pode usar essa habilidade novamente até concluir um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Espectro (Fantasma)",
-			"source": "Guarda",
-			"page": 188,
-			"basicRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": {
-				"walk": 30,
-				"fly": 30,
-				"canHover": true
-			},
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vôo Fantasmagórico",
-					"entries": [
-						"Você tem velocidade de voo (hover) igual o seu deslocamento de caminhada, contudo esse deslocamento não te permite voar a mais do que 5 pés de uma superfície solida"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Passo Incorpóreo",
-					"entries": [
-						" Você é quase um fantasma completo, conseguindo atravessar objetos e criaturas como se fosse terreno difícil. Passivamente você não consegue atravessar mais que 5cm de pedra, terra ou madeira ou 3 cm de metal. Uma vez por descanso curto você pode tentar suprimir sua energia vital que mantém sua materialidade, passando a conseguir atravessar qualquer objeto sólido pelo tempo de 6 segundos. Se o efeito terminar com você dentro de um objeto, você sofre 1d10 de dano force e é deslocado para o local desocupado mais próximo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-=======
->>>>>>> d6018365df42bfbb9d0250a1a477efb47ccbe7d5
 			"name": "Mirrorkin",
 			"source": "Guarda",
 			"page": 18,
@@ -2492,7 +2277,7 @@
 		    "name": "Espectro (Esqueleto)",
 		    "source": "Guarda",
 		    "page": 188,
-		    "freeRules2024": true,
+		    "basicRules2024": true,
 		    "edition": "one",
 		    "creatureTypes": [
 		        "undead"
@@ -2566,7 +2351,7 @@
 		    "name": "Espectro (Revenant)",
 		    "source": "Guarda",
 		    "page": 188,
-		    "freeRules2024": true,
+		    "basicRules2024": true,
 		    "edition": "one",
 		    "creatureTypes": [
 		        "undead"
@@ -2633,7 +2418,7 @@
 		    "name": "Espectro (Fantasma)",
 		    "source": "Guarda",
 		    "page": 188,
-		    "freeRules2024": true,
+		    "basicRules2024": true,
 		    "edition": "one",
 		    "creatureTypes": [
 		        "undead"
@@ -2704,7 +2489,7 @@
 			"name": "Warpuppet (Títere Arcanizado)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"construct"
@@ -2803,7 +2588,7 @@
 			"name": "Warpuppet (Ferramenta de Guerra)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"construct"
@@ -2876,7 +2661,7 @@
 			"name": "Warpuppet (Fragmento do Teatro Perdido)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"construct"
@@ -2948,7 +2733,7 @@
 			"name": "Miraluka",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -3009,7 +2794,7 @@
 			"name": "Sanguines",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -3111,7 +2896,7 @@
 			"name": "Tetrakyn (Marca da Mente)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -3165,7 +2950,7 @@
 			"name": "Tetrakyn (Marca da Força)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -3219,7 +3004,7 @@
 			"name": "Mermaid",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
