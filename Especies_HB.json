@@ -611,7 +611,7 @@
 			"name": "Espectro (Esqueleto)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"undead"
@@ -685,7 +685,7 @@
 			"name": "Espectro (Revenant)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"undead"
@@ -752,7 +752,7 @@
 			"name": "Espectro (Fantasma)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"undead"
@@ -920,7 +920,7 @@
 			"name": "Transcendido (Demodand)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -978,7 +978,7 @@
 			"name": "Transcendido (Hordling)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1036,7 +1036,7 @@
 			"name": "Transcendido (Baatezu)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1094,7 +1094,7 @@
 			"name": "Transcendido (Tanar'ri)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1152,7 +1152,7 @@
 			"name": "Plantae (Arborae)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1230,7 +1230,7 @@
 			"name": "Plantae (Florae)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1336,7 +1336,7 @@
 			"name": "Plantae (Fungi)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1440,7 +1440,7 @@
 			"name": "Praetorian da Luz (Lightforged)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1505,7 +1505,7 @@
 			"name": "Praetorian de Força (Forcebound)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1570,7 +1570,7 @@
 			"name": "Praetorian da mente (Mindbound)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1635,7 +1635,7 @@
 			"name": "Profundo",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"aberration"
@@ -1818,7 +1818,7 @@
 			"name": "Tireno (Lupino)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1881,7 +1881,7 @@
 			"name": "Tireno (Felino)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1944,7 +1944,7 @@
 			"name": "Tireno (Hystrix Espinhoso)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -2007,7 +2007,7 @@
 			"name": "Tireno (Escamado)",
 			"source": "Guarda",
 			"page": 188,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
