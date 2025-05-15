@@ -25,7 +25,7 @@
             "name": "Undertaker",
             "source": "GUARDA",
             "page": 178,
-            "freeRules2024": true,
+            "basicRules2024": true,
             "edition": "one",
 			"feats": [
 				{
@@ -146,7 +146,7 @@
             "name": "Burocrata",
             "source": "GUARDA",
             "page": 178,
-            "freeRules2024": true,
+            "basicRules2024": true,
             "edition": "one",
 			"feats": [
 				{
@@ -265,7 +265,7 @@
             "name": "Pirata de Narrowgate",
             "source": "GUARDA",
             "page": 178,
-            "freeRules2024": true,
+            "basicRules2024": true,
             "edition": "one",
 			"feats": [
 				{
@@ -387,7 +387,7 @@
             "name": "Faxineiro",
             "source": "GUARDA",
             "page": 178,
-            "freeRules2024": true,
+            "basicRules2024": true,
             "edition": "one",
 			"feats": [
 				{
@@ -512,7 +512,7 @@
 
 	"page": 178,
 
-	"freeRules2024": true,
+	"basicRules2024": true,
 
 	"edition": "one",
 
@@ -753,7 +753,7 @@
 
     "page": 178,
 
-    "freeRules2024": true,
+    "basicRules2024": true,
 
     "edition": "one",
 
@@ -992,7 +992,7 @@
 			"name": "Ganancioso",
 			"source": "GUARDA",
 			"page": 178,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"feats": [
 				{
@@ -1119,7 +1119,7 @@
 			"name": "Possuído",
 			"source": "GUARDA",
 			"page": 178,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"feats": [
 				{
@@ -1241,7 +1241,7 @@
 			"name": "The Lord of the Edge",
 			"source": "GUARDA",
 			"page": 178,
-			"freeRules2024": true,
+			"basicRules2024": true,
 			"edition": "one",
 			"feats": [
 				{
