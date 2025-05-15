@@ -17,7 +17,7 @@
         "status": "ready",
 		"edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223569,
+        "dateLastModified": 1695223571,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "background": [
@@ -25,7 +25,8 @@
             "name": "Acolyte",
             "source": "GUARDA",
             "page": 178,
-            "basicRules": true,
+        	"srd": true,
+		    "basicRules": true,
             "edition": "one",
 			"feats": [
 				{
@@ -145,7 +146,8 @@
             "name": "Archaeologist",
             "source": "GUARDA",
             "page": 178,
-            "basicRules": true,
+        	"srd": true,
+    		"basicRules": true,
             "edition": "one",
 			"feats": [
 				{
@@ -265,6 +267,7 @@
     "name": "Anthropologist",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -385,6 +388,7 @@
     "name": "Athlete",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -505,6 +509,7 @@
     "name": "Celebrity Adventurer's Scion",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -625,6 +630,7 @@
     "name": "Charlatan",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -745,6 +751,7 @@
     "name": "Courtier",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -865,6 +872,7 @@
     "name": "Criminal",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -985,6 +993,7 @@
     "name": "Entertainer",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1105,6 +1114,7 @@
     "name": "Merchant",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1225,6 +1235,7 @@
     "name": "Far Traveler",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1345,6 +1356,7 @@
     "name": "Farmer",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1465,6 +1477,7 @@
     "name": "Feylost",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1585,6 +1598,7 @@
     "name": "Fisher",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1705,6 +1719,7 @@
     "name": "Folk hero",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1826,6 +1841,7 @@
     "name": "Gambler",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -1946,6 +1962,7 @@
     "name": "Gladiator",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2066,6 +2083,7 @@
     "name": "Guard",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2186,6 +2204,7 @@
     "name": "Guide",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2306,6 +2325,7 @@
     "name": "Guild Artisan",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2426,6 +2446,7 @@
     "name": "Haunted One",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2546,6 +2567,7 @@
     "name": "Hermit",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2667,6 +2689,7 @@
     "name": "Investigator",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2787,6 +2810,7 @@
     "name": "Knight",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -2908,6 +2932,7 @@
     "name": "Mercenary Veteran",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3028,6 +3053,7 @@
     "name": "Noble",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3148,6 +3174,7 @@
     "name": "Pirate",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3268,6 +3295,7 @@
     "name": "Rewarded",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3389,6 +3417,7 @@
     "name": "Ruined",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3509,6 +3538,7 @@
     "name": "Sailor",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3629,6 +3659,7 @@
     "name": "Sage",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3749,6 +3780,7 @@
     "name": "Scribe",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3869,6 +3901,7 @@
     "name": "Soldier",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -3990,6 +4023,7 @@
     "name": "Spy",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -4110,6 +4144,7 @@
     "name": "Urban Bounty Hunter",
     "source": "GUARDA",
     "page": 178,
+	"srd": true,
     "basicRules": true,
     "edition": "one",
 			"feats": [
@@ -4230,7 +4265,8 @@
             "name": "Wayfarer",
             "source": "GUARDA",
             "page": 178,
-            "basicRules": true,
+        	"srd": true,
+    "basicRules": true,
             "edition": "one",
             "feats": [
                 {
