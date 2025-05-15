@@ -608,221 +608,6 @@
 			]
 		},
 		{
-<<<<<<< HEAD
-			"name": "Espectro (Esqueleto)",
-			"source": "Guarda",
-			"page": 188,
-			"basicRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Armado até os dentes",
-					"entries": [
-						"Caso você use sua ação de ataque, pode tirar uma de suas costelas para usar como arma confiável. A costela arrancada possui as mesmas propriedades de uma adaga, seu dano é 1d6 Bludgeoning. Você pode ter seu numero de BP costelas arrancadas, pode usar uma ação bônus para recolocar até duas costelas de uma vez. Caso não consiga recuperá-las, novas costelas surgem a partir do efeito que te mantém vivo após um descanso longo."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vai uma mãozinha ai?",
-					"entries": [
-						"Sua mão é extremamente útil, de várias formas. Como uma ação, você pode retirar sua mão inteira e ela pode ser usada como um Thieve's Tools  Sua mão pode ser acoplada novamente com uma ação bônus."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Só o pó",
-					"entries": [
-						"Quando você for reduzido a 0 pontos de vida, mas não for morto de imediato, pode optar por cair para 1 ponto de vida em vez disso. Se fizer isso, você se reduz a uma pilha de ossos, fica prone e é considerado sob um efeito similar ao feitiço Feign Death. Enquanto estiver sob essa condição, você mantém todos seus sentidos, não pode se mover ou realizar ações, exceto usar uma ação para terminar esse efeito. Você não pode usar essa habilidade novamente até concluir um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Espectro (Revenant)",
-			"source": "Guarda",
-			"page": 188,
-			"basicRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vingança Eterna",
-					"entries": [
-						"Escolha um tipo de inimigo (Ex: Humanoid [especificar qual tipo]) Você tem vantagem em testes de Sabedoria (Sobrevivência) para rastrear seus capatazes, assim como em testes de Inteligência para recordar informações sobre eles."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Fúria do pós-vida",
-					"entries": [
-						"Ao cair a 0 pontos de vida, você pode escolher voltar com 1 ponto de vida. Ao escolher voltar, você ganha pontos de vida temporários igual seu nível+mod de CON e tem vantagens em ataques enquanto possuir THP dado por essa habilidade. Esse THP dura 1 minuto.  Você não pode usar essa habilidade novamente até concluir um descanso longo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-			"name": "Espectro (Fantasma)",
-			"source": "Guarda",
-			"page": 188,
-			"basicRules2024": true,
-			"edition": "one",
-			"creatureTypes": [
-				"undead"
-			],
-			"size": [
-				"M"
-			],
-			"speed": {
-				"walk": 30,
-				"fly": 30,
-				"canHover": true
-			},
-			"darkvision": 60,
-			"resist": [
-				"poison"
-			],
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"pequeno ou médio"
-				]
-			},
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sem-Sangue",
-					"entries": [
-						"Você tem resistência a dano de veneno e vantagem em testes contra ficar com a condição envenenado."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Morto-Vivo",
-					"entries": [
-						"Você conta como uma criatura morta-viva para todos os feitiços e habilidades que afetam mortos-vivos.",
-						"-Você é imune a doenças e trata a exaustão como se fosse um nível a menos.",
-						"-Você não precisa comer ou respirar, mas pode ingerir comida e bebida se desejar. ",
-						"-Em vez de dormir, você entra em um estado inativo por 4 horas a cada dia. Você não sonha nesse estado; está totalmente ciente de1 seus arredores e percebe inimigos e outros eventos se aproximando normalmente."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Vôo Fantasmagórico",
-					"entries": [
-						"Você tem velocidade de voo (hover) igual o seu deslocamento de caminhada, contudo esse deslocamento não te permite voar a mais do que 5 pés de uma superfície solida"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Passo Incorpóreo",
-					"entries": [
-						" Você é quase um fantasma completo, conseguindo atravessar objetos e criaturas como se fosse terreno difícil. Passivamente você não consegue atravessar mais que 5cm de pedra, terra ou madeira ou 3 cm de metal. Uma vez por descanso curto você pode tentar suprimir sua energia vital que mantém sua materialidade, passando a conseguir atravessar qualquer objeto sólido pelo tempo de 6 segundos. Se o efeito terminar com você dentro de um objeto, você sofre 1d10 de dano force e é deslocado para o local desocupado mais próximo."
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true
-		},
-		{
-=======
->>>>>>> d6018365df42bfbb9d0250a1a477efb47ccbe7d5
 			"name": "Mirrorkin",
 			"source": "Guarda",
 			"page": 18,
@@ -923,7 +708,7 @@
 			"name": "Transcendido (Demodand)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -981,7 +766,7 @@
 			"name": "Transcendido (Hordling)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1039,7 +824,7 @@
 			"name": "Transcendido (Baatezu)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1097,7 +882,7 @@
 			"name": "Transcendido (Tanar'ri)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1155,7 +940,7 @@
 			"name": "Plantae (Arborae)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1236,7 +1021,7 @@
 			"name": "Plantae (Florae)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1346,7 +1131,7 @@
 			"name": "Plantae (Fungi)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1450,7 +1235,7 @@
 			"name": "Praetorian da Luz (Lightforged)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1515,7 +1300,7 @@
 			"name": "Praetorian de Força (Forcebound)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1580,7 +1365,7 @@
 			"name": "Praetorian da mente (Mindbound)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1645,7 +1430,7 @@
 			"name": "Profundo",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"aberration"
@@ -1828,7 +1613,7 @@
 			"name": "Tireno (Lupino)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1891,7 +1676,7 @@
 			"name": "Tireno (Felino)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1954,7 +1739,7 @@
 			"name": "Tireno (Hystrix Espinhoso)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -2017,7 +1802,7 @@
 			"name": "Tireno (Escamado)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -2235,258 +2020,6 @@
 
 			"hasFluffImages": true
 
-		},
-		{
-			"name": "Half-Dragon",
-			"source": "GUARDA",
-			"page": 187,
-			"edition": "one",
-			"creatureTypes": [
-				"Dragon"
-			],
-			"size": [
-				"M"
-			],
-			"speed": 30,
-			"darkvision": 60,
-			"sizeEntry": {
-				"type": "item",
-				"name": "Size:",
-				"entries": [
-					"Medium (about 5-7 feet tall)"
-				]
-			},
-			"additionalSpells": [
-						{
-						"known": {
-							"1": [
-								"Elementalism|xphb#c"
-							]
-						}}
-			],
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Ancestralidade Dracônica",
-					"entries": [
-						"Sua linhagem vem de um progenitor dragão. Escolha o tipo de dragão na tabela Ancestrais Dracônicos. Sua escolha afeta suas características de Arma de Sopro e Resistência a Dano, bem como sua aparência.",
-						{
-							"type": "table",
-							"colLabels": [
-								"Dragon",
-								"Damage Type"
-							],
-							"colStyles": [
-								"col-6",
-								"col-6"
-							],
-							"rows": [
-								[
-									"Black",
-									"Acid"
-								],
-								[
-									"Blue",
-									"Lightning"
-								],
-								[
-									"Brass",
-									"Fire"
-								],
-								[
-									"Bronze",
-									"Lightning"
-								],
-								[
-									"Copper",
-									"Acid"
-								],
-								[
-									"Gold",
-									"Fire"
-								],
-								[
-									"Green",
-									"Poison"
-								],
-								[
-									"Red",
-									"Fire"
-								],
-								[
-									"Silver",
-									"Cold"
-								],
-								[
-									"White",
-									"Cold"
-								]
-							]
-						}
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Conexão mágica",
-					"entries": [
-						"Como seres antigos muito ligados a magia, sua herança permite ter um contato mais próximo com os elementos. Você aprende o truque {@spell Elementalism}"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Resistência a Dano",
-					"entries": [
-						"Você tem {@variantrule Resistance|XPHB} ao tipo de dano determinado pelo seu traço Ancestralidade Dracônica"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"Você tem {@sense Darkvision|XPHB} de 60 feet."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Arma natural",
-					"entries": [
-						"Você ganha uma arma natural de Dilacerar que pode ser usada pelas garras ou boca. Ele usa seu modificador de força para ataque ou dano e confere {@damage 1d6} de dano Slashing."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Transformação dracônica",
-					"entries": [
-						"Você pode chamar a magia ancestral para mudar o seu corpo como uma ação bônus. Durante um minuto ou até que fique incapacitado, você ganha as seguintes características:",
-						"Você possui blindsight de 15 pés",
-						"Seu tamanho torna-se Large e assume a aparência de um dragão igual ao ancestral escolhido. Todo seu equipamento é mesclado em sua nova forma, não permitindo se beneficiar deles (Ainda é possível conjurar feitiços, desde que os mesmos não possuam componentes materiais.);",
-						"Como uma Magic Action, você pode exalar sopro em um cone de 15 feets {@variantrule Cone [Area of Effect]|XPHB|Cone} do elemento de seu ancestral dracônico. Cada criatura naquela área deve fazer um teste de resistência de Destreza ({@dc 8} mais seu modificador de Constituição e {@variantrule Proficiency|XPHB|Proficiency Bonus}). Em uma falha, uma criatura sofre {@damage 1d6} de dano do tipo determinado pelo seu traço Ancestralidade Dracônica. Em uma resistência bem-sucedida, uma criatura sofre metade do dano. Este dano aumenta em {@damage 1d6} quando você atinge os níveis de personagem 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6}).",
-						"Você possui asas em suas costas, que te fornecem 30 pés de {@variantrule Fly Speed|XPHB}",
-						"Após o uso dessa característica, só poderá usá-la novamente após um {@variantrule Long Rest|XPHB}"
-					]
-				}
-			],
-			"hasFluff": true,
-			"hasFluffImages": true,
-			"_versions": [
-				{
-					"_abstract": {
-						"name": "Half-Dragon ({{color}})",
-						"source": "GUARDA",
-						"_mod": {
-							"entries": [
-								{
-									"mode": "removeArr",
-									"names": "Ancestralidade Dracônica"
-								},
-								{
-									"mode": "replaceArr",
-									"replace": "Resistência a Dano",
-									"items": {
-										"type": "entries",
-										"name": "Resistência a Dano",
-										"entries": [
-											"You have {@variantrule Resistance|XPHB} to {{damageType}} damage."
-										]
-									}
-								}
-							]
-						}
-					},
-					"_implementations": [
-						{
-							"_variables": {
-								"color": "Black",
-								"damageType": "Acid"
-							},
-							"resist": [
-								"acid"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Blue",
-								"damageType": "Lightning"
-							},
-							"resist": [
-								"lightning"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Brass",
-								"damageType": "Fire"
-							},
-							"resist": [
-								"fire"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Bronze",
-								"damageType": "Lightning"
-							},
-							"resist": [
-								"lightning"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Copper",
-								"damageType": "Acid"
-							},
-							"resist": [
-								"acid"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Gold",
-								"damageType": "Fire"
-							},
-							"resist": [
-								"fire"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Green",
-								"damageType": "Poison"
-							},
-							"resist": [
-								"poison"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Red",
-								"damageType": "Fire"
-							},
-							"resist": [
-								"fire"
-							]
-						},
-						{
-							"_variables": {
-								"color": "Silver",
-								"damageType": "Cold"
-							},
-							"resist": [
-								"cold"
-							]
-						},
-						{
-							"_variables": {
-								"color": "White",
-								"damageType": "Cold"
-							},
-							"resist": [
-								"cold"
-							]
-						}
-					]
-				}
-			]
 		},
 		{
 		    "name": "Espectro (Esqueleto)",
