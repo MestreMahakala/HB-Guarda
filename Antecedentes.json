@@ -17,7 +17,7 @@
         "status": "ready",
 		"edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223571,
+        "dateLastModified": 1695223574,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "background": [
@@ -25,9 +25,6 @@
             "name": "Acolyte",
             "source": "GUARDA",
             "page": 178,
-        	"srd": true,
-		    "basicRules": true,
-            "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -146,9 +143,6 @@
             "name": "Archaeologist",
             "source": "GUARDA",
             "page": 178,
-        	"srd": true,
-    		"basicRules": true,
-            "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -267,9 +261,6 @@
     "name": "Anthropologist",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -388,9 +379,6 @@
     "name": "Athlete",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -509,9 +497,6 @@
     "name": "Celebrity Adventurer's Scion",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -630,9 +615,6 @@
     "name": "Charlatan",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -751,9 +733,6 @@
     "name": "Courtier",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -872,9 +851,6 @@
     "name": "Criminal",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -993,9 +969,6 @@
     "name": "Entertainer",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1114,9 +1087,6 @@
     "name": "Merchant",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1235,9 +1205,6 @@
     "name": "Far Traveler",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1356,9 +1323,6 @@
     "name": "Farmer",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1477,9 +1441,6 @@
     "name": "Feylost",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1598,9 +1559,6 @@
     "name": "Fisher",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1719,9 +1677,6 @@
     "name": "Folk hero",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1841,9 +1796,6 @@
     "name": "Gambler",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1962,9 +1914,6 @@
     "name": "Gladiator",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2083,9 +2032,6 @@
     "name": "Guard",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2204,9 +2150,6 @@
     "name": "Guide",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2325,9 +2268,6 @@
     "name": "Guild Artisan",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2446,9 +2386,6 @@
     "name": "Haunted One",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2567,9 +2504,6 @@
     "name": "Hermit",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2689,9 +2623,6 @@
     "name": "Investigator",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2810,9 +2741,6 @@
     "name": "Knight",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -2932,9 +2860,6 @@
     "name": "Mercenary Veteran",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3053,9 +2978,6 @@
     "name": "Noble",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3174,9 +3096,6 @@
     "name": "Pirate",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3295,9 +3214,6 @@
     "name": "Rewarded",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3417,9 +3333,6 @@
     "name": "Ruined",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3538,9 +3451,6 @@
     "name": "Sailor",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3659,9 +3569,6 @@
     "name": "Sage",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3780,9 +3687,6 @@
     "name": "Scribe",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -3901,9 +3805,6 @@
     "name": "Soldier",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -4023,9 +3924,6 @@
     "name": "Spy",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -4144,9 +4042,6 @@
     "name": "Urban Bounty Hunter",
     "source": "GUARDA",
     "page": 178,
-	"srd": true,
-    "basicRules": true,
-    "edition": "one",
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
