@@ -17,7 +17,7 @@
 		"status": "ready",
 		"edition": "one",
 		"dateAdded": 1608050554,
-		"dateLastModified": 1695223585,
+		"dateLastModified": 1695223573,
 		"_dateLastModifiedHash": "b6b795e6fb"
 	},
 	"race": [
@@ -708,7 +708,7 @@
 			"name": "Transcendido (Demodand)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -766,7 +766,7 @@
 			"name": "Transcendido (Hordling)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -824,7 +824,7 @@
 			"name": "Transcendido (Baatezu)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -882,7 +882,7 @@
 			"name": "Transcendido (Tanar'ri)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -940,7 +940,7 @@
 			"name": "Plantae (Arborae)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1021,7 +1021,7 @@
 			"name": "Plantae (Florae)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1131,7 +1131,7 @@
 			"name": "Plantae (Fungi)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"plant"
@@ -1235,7 +1235,7 @@
 			"name": "Praetorian da Luz (Lightforged)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1300,7 +1300,7 @@
 			"name": "Praetorian de Força (Forcebound)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1365,7 +1365,7 @@
 			"name": "Praetorian da mente (Mindbound)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"elemental"
@@ -1430,7 +1430,7 @@
 			"name": "Profundo",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"aberration"
@@ -1613,7 +1613,7 @@
 			"name": "Tireno (Lupino)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1676,7 +1676,7 @@
 			"name": "Tireno (Felino)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1739,7 +1739,7 @@
 			"name": "Tireno (Hystrix Espinhoso)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -1802,7 +1802,7 @@
 			"name": "Tireno (Escamado)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -2277,7 +2277,7 @@
 		    "name": "Espectro (Esqueleto)",
 		    "source": "Guarda",
 		    "page": 188,
-		    "basicRules2024": true,
+		    "freeRules2024": true,
 		    "edition": "one",
 		    "creatureTypes": [
 		        "undead"
@@ -2351,7 +2351,7 @@
 		    "name": "Espectro (Revenant)",
 		    "source": "Guarda",
 		    "page": 188,
-		    "basicRules2024": true,
+		    "freeRules2024": true,
 		    "edition": "one",
 		    "creatureTypes": [
 		        "undead"
@@ -2418,7 +2418,7 @@
 		    "name": "Espectro (Fantasma)",
 		    "source": "Guarda",
 		    "page": 188,
-		    "basicRules2024": true,
+		    "freeRules2024": true,
 		    "edition": "one",
 		    "creatureTypes": [
 		        "undead"
@@ -2489,7 +2489,7 @@
 			"name": "Warpuppet (Títere Arcanizado)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"construct"
@@ -2588,7 +2588,7 @@
 			"name": "Warpuppet (Ferramenta de Guerra)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"construct"
@@ -2661,7 +2661,7 @@
 			"name": "Warpuppet (Fragmento do Teatro Perdido)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"construct"
@@ -2733,7 +2733,7 @@
 			"name": "Miraluka",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -2794,7 +2794,7 @@
 			"name": "Sanguines",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -2896,7 +2896,7 @@
 			"name": "Tetrakyn (Marca da Mente)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -2950,7 +2950,7 @@
 			"name": "Tetrakyn (Marca da Força)",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
@@ -3004,7 +3004,7 @@
 			"name": "Mermaid",
 			"source": "Guarda",
 			"page": 188,
-			"basicRules2024": true,
+			"freeRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
 				"humanoid"
