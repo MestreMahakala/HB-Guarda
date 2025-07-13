@@ -17,7 +17,7 @@
         "status": "ready",
 		"edition": "one",
         "dateAdded": 1608050554,
-        "dateLastModified": 1695223570,
+        "dateLastModified": 1695223581,
         "_dateLastModifiedHash": "b6b795e6fb"
     },
     "background": [
@@ -27,6 +27,45 @@
             "page": 178,
             "freeRules2024": true,
             "edition": "one",
+						"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
+			],
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -119,12 +158,20 @@
                     "any": 1
                 }
             ],
-"languageProficiencies": [
-{
-"common": true,
-"anyStandard": 2
-}
-],
+			"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
             "entries": [
                 {
                     "name": "Talento de antecedente: Legista Espiritual",
@@ -148,6 +195,45 @@
             "page": 178,
             "freeRules2024": true,
             "edition": "one",
+						"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
+			],
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -240,12 +326,20 @@
                     "any": 1
                 }
             ],
-"languageProficiencies": [
-{
-"common": true,
-"anyStandard": 2
-}
-],
+			"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
             "entries": [
                 {
                     "name": "Talento de antecedente: Legalês barato",
@@ -267,6 +361,45 @@
             "page": 178,
             "freeRules2024": true,
             "edition": "one",
+						"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
+			],
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -359,12 +492,20 @@
                     "any": 1
                 }
             ],
-"languageProficiencies": [
-{
-"common": true,
-"anyStandard": 2
-}
-],
+						"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
             "entries": [
                 {
                     "name": "Talento de antecedente: Pirata em Tenebris",
@@ -389,6 +530,45 @@
             "page": 178,
             "freeRules2024": true,
             "edition": "one",
+						"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
+			],
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -467,10 +647,10 @@
                 {
                     "choose": {
                         "from": [
-                            "Athletics",
-                            "Insight",
-                            "Investigation",
-                            "Perception"
+                            "athletics",
+                            "insight",
+                            "investigation",
+                            "perception"
                         ],
                         "count": 2
                     }
@@ -481,12 +661,20 @@
                     "any": 1
                 }
             ],
-"languageProficiencies": [
-{
-"common": true,
-"anyStandard": 2
-}
-],
+						"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
             "entries": [
                 {
                     "name": "Talento de antecedente: Faxina perfeita",
@@ -505,488 +693,335 @@
             "hasFluffImages": true
         },
 		{
-
-	"name": "Universitário",
-
-	"source": "GUARDA",
-
-	"page": 178,
-
-	"freeRules2024": true,
-
-	"edition": "one",
-
-	"feats": [
-
-		{
-
-			"Scion of the Outer Planes [Inicial]|guarda": true
-
-						
-
-		},
-
-		{
-
-			"Squire of Solamnia [Inicial]|guarda": true
-
-						
-
-		},
-
-		{
-
-			"Initiate of High Sorcery [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Rune Shaper [Inicial]|Guarda": true 
-
-		}, 
-
-		{
-
-			"Strike of the Giants [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Strixhaven Initiate [Inicial]|Guarda": true 
-
-		},
-
-		{
-
-			"Tough [Inicial]|guarda": true
-
-						
-
-		},
-
-		{
-
-			"Tavern Brawler [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Skilled (Dex, con wis) [Inicial]|Guarda": true 
-
-		},
-
-		{
-
-			"Skilled (str, int, cha) [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Savage Attacker [Inicial]|Guarda": true 
-
-		},
-
-		{
-
-			"Musician [Inicial]|guarda": true
-
-						
-
-		},
-
-		{
-
-			"Magic Initiate (wizard) [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Magic Initiate (Druid) [Inicial]|Guarda": true 
-
-		},
-
-		{
-
-			"Magic Initiate (Cleric) [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
-
-		},
-
-		{
-
-			"Lucky (dex, wis, cha) [Inicial]|Guarda": true
-
-						
-
-		},
-
-		{
-
-			"Healer [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Crafter [Inicial]|Guarda": true 
-
-		},
-
-		{
-
-			"Alert (Str, dex, int) [Inicial]|Guarda": true
-
-						
-
-		},
-
-		{
-
-			"Alert (dex, con, int) [Inicial]|Guarda": true
-
-		},
-
-		{
-
-			"Artificer Initiate [Inicial]|Guarda": true 
-
-		}
-
-	],
-
-	"skillProficiencies": [
-
-		{
-
-			"choose": {
-
-				"from": [
-
-					"history",
-
-					"persuasion",
-
-					"arcana",
-
-					"religion"
-
-				],
-
-				"count": 2
-
-			}
-
-		}
-
-	],
-
-	"toolProficiencies": [
-
-		{
-
-			"any": 1
-
-		}
-
-	],
-
-"languageProficiencies": [
-
-{
-
-"common": true,
-
-"anyStandard": 2
-
-}
-
-],
-
-	"entries": [
-
-		{
-
-			"name": "Talento de antecedente: Vida de Cão",
-
-			"type": "entries",
-
-			"entries": [
-
-				"A rotina universitária te ensinou a lidar com o tédio como ninguém. Você pode discorrer sobre qualquer assunto acadêmico ou teórico por horas a fio,",
-
-				"tornando a percepção do tempo para quem te escuta estranhamente mais lenta. Seus monólogos podem ser usados para:",
-
-				"Cansar a Oposição: Em negociações prolongadas, você pode desgastar mentalmente seu interlocutor, aumentando as chances de ele ceder só para que a conversa termine."
-
+			"name": "Universitário",
+			"source": "GUARDA",
+			"page": 178,
+			"freeRules2024": true,
+			"edition": "one",
+			"ability": [
+			{
+				"choose": {
+					"weighted": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"weights": [
+							2,
+							1
+						]
+					}
+				}
+			},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
 			],
-
-			"data": {
-
-				"isFeature": true
-
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true		
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+	"skillProficiencies": [
+		{
+			"choose": {
+				"from": [
+					"history",
+					"persuasion",
+					"arcana",
+					"religion"
+				],
+				"count": 2
 			}
-
 		}
-
 	],
-
+	"toolProficiencies": [
+		{
+			"any": 1
+		}
+	],
+				"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
+	"entries": [
+		{
+			"name": "Talento de antecedente: Vida de Cão",
+			"type": "entries",
+			"entries": [
+				"A rotina universitária te ensinou a lidar com o tédio como ninguém. Você pode discorrer sobre qualquer assunto acadêmico ou teórico por horas a fio,",
+				"tornando a percepção do tempo para quem te escuta estranhamente mais lenta. Seus monólogos podem ser usados para:",
+				"Cansar a Oposição: Em negociações prolongadas, você pode desgastar mentalmente seu interlocutor, aumentando as chances de ele ceder só para que a conversa termine."
+			],
+			"data": {
+				"isFeature": true
+			}
+		}
+	],
 	"hasFluff": true,
-
 	"hasFluffImages": true
-
 		},
 		{
-
     "name": "Nascido Dragão",
-
     "source": "GUARDA",
-
     "page": 178,
-
     "freeRules2024": true,
-
     "edition": "one",
-
-    "feats": [
-
-        {
-
-            "Scion of the Outer Planes [Inicial]|guarda": true
-
-                        
-
-        },
-
-        {
-
-            "Squire of Solamnia [Inicial]|guarda": true
-
-                        
-
-        },
-
-        {
-
-            "Initiate of High Sorcery [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Rune Shaper [Inicial]|Guarda": true 
-
-        }, 
-
-        {
-
-            "Strike of the Giants [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Strixhaven Initiate [Inicial]|Guarda": true 
-
-        },
-
-        {
-
-            "Tough [Inicial]|guarda": true
-
-                        
-
-        },
-
-        {
-
-            "Tavern Brawler [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Skilled (Dex, con wis) [Inicial]|Guarda": true 
-
-        },
-
-        {
-
-            "Skilled (str, int, cha) [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Savage Attacker [Inicial]|Guarda": true 
-
-        },
-
-        {
-
-            "Musician [Inicial]|guarda": true
-
-                        
-
-        },
-
-        {
-
-            "Magic Initiate (wizard) [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Magic Initiate (Druid) [Inicial]|Guarda": true 
-
-        },
-
-        {
-
-            "Magic Initiate (Cleric) [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
-
-        },
-
-        {
-
-            "Lucky (dex, wis, cha) [Inicial]|Guarda": true
-
-                        
-
-        },
-
-        {
-
-            "Healer [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Crafter [Inicial]|Guarda": true 
-
-        },
-
-        {
-
-            "Alert (Str, dex, int) [Inicial]|Guarda": true
-
-                        
-
-        },
-
-        {
-
-            "Alert (dex, con, int) [Inicial]|Guarda": true
-
-        },
-
-        {
-
-            "Artificer Initiate [Inicial]|Guarda": true 
-
-        }
-
-    ],
-
-    "skillProficiencies": [
-
-        {
-
-            "choose": {
-
-                "from": [
-
-                    "history",
-
-                    "persuasion",
-
-                    "intimidation",
-
-                    "insight"
-
-                ],
-
-                "count": 2
-
-            }
-
-        }
-
-    ],
-
-    "toolProficiencies": [
-
-        {
-
-            "any": 1
-
-        }
-
-    ],
-
-"languageProficiencies": [
-
-{
-
-"common": true,
-
-"anyStandard": 2
-
-}
-
-],
-
-    "entries": [
-
-        {
-
-            "name": "Talento de antecedente: Ecos Ancestrais",
-
-            "type": "entries",
-
-            "entries": [
-
-                "Ao carregar o sangue de dragão, você tem um elo tênue com os ecos de realidades alternativas onde dragões antigos dominam o tempo e o espaço. Esse vínculo permite que você capte fragmentos distantes dessas linhas do tempo.",
-
-                "Uma vez a cada 7 dias, você pode recorrer ao seu sangue dracônico para ter um breve vislumbre do que aconteceu em uma realidade alternativa do lugar onde você está (esse poder não é capaz de prever o futuro, apenas mostra uma perspectiva diferente das coisas ao seu redor). A duração dessa visão é bem curta, mas sempre envolve elementos do cenário onde você se encontra e serve para te dar perspectivas diferentes de um lugar ou pessoa.",
-
-                "Exemplos podem ser: visualizar uma realidade alternativa onde ruínas não são ruínas. Ou uma realidade alternativa onde em um cemitério existe o túmulo de um herói, e devido a isso tudo ao redor está destruído.",
-
-                "Dragões podem sentir sua ascendência e demonstrar um tratamento diferente, a depender do dragão. Os dragões mais bondosos podem tratá-lo melhor, ao mesmo tempo que dragões malignos podem odiá-lo por ser um mestiço. Entretanto eles sempre sabem que você é parte do que eles são."
-
-            ],
-
-            "data": {
-
-                "isFeature": true
-
-            }
-
-        }
-
-    ],
-
-    "hasFluff": true,
-
-    "hasFluffImages": true
-
+				"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
+			],
+			"feats": [
+				{
+					"Scion of the Outer Planes [Inicial]|guarda": true
+								
+				},
+				{
+					"Squire of Solamnia [Inicial]|guarda": true
+								
+				},
+				{
+					"Initiate of High Sorcery [Inicial]|Guarda": true
+				},
+				{
+					"Rune Shaper [Inicial]|Guarda": true 
+				}, 
+				{
+					"Strike of the Giants [Inicial]|Guarda": true
+				},
+				{
+					"Strixhaven Initiate [Inicial]|Guarda": true 
+				},
+				{
+					"Tough [Inicial]|guarda": true
+								
+				},
+				{
+					"Tavern Brawler [Inicial]|Guarda": true
+				},
+				{
+					"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+				},
+				{
+					"Skilled (str, int, cha) [Inicial]|Guarda": true
+				},
+				{
+					"Savage Attacker [Inicial]|Guarda": true 
+				},
+				{
+					"Musician [Inicial]|guarda": true
+								
+				},
+				{
+					"Magic Initiate (wizard) [Inicial]|Guarda": true
+				},
+				{
+					"Magic Initiate (Druid) [Inicial]|Guarda": true 
+				},
+				{
+					"Magic Initiate (Cleric) [Inicial]|Guarda": true
+				},
+				{
+					"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+				},
+				{
+					"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Healer [Inicial]|Guarda": true
+				},
+				{
+					"Crafter [Inicial]|Guarda": true 
+				},
+				{
+					"Alert (Str, dex, int) [Inicial]|Guarda": true
+								
+				},
+				{
+					"Alert (dex, con, int) [Inicial]|Guarda": true
+				},
+				{
+					"Artificer Initiate [Inicial]|Guarda": true 
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"history",
+							"persuasion",
+							"intimidation",
+							"insight"
+					],
+					"count": 2
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"any": 1
+				}
+			],
+						"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"name": "Talento de antecedente: Ecos Ancestrais",
+					"type": "entries",
+					"entries": [
+						"Ao carregar o sangue de dragão, você tem um elo tênue com os ecos de realidades alternativas onde dragões antigos dominam o tempo e o espaço. Esse vínculo permite que você capte fragmentos distantes dessas linhas do tempo.",
+						"Uma vez a cada 7 dias, você pode recorrer ao seu sangue dracônico para ter um breve vislumbre do que aconteceu em uma realidade alternativa do lugar onde você está (esse poder não é capaz de prever o futuro, apenas mostra uma perspectiva diferente das coisas ao seu redor). A duração dessa visão é bem curta, mas sempre envolve elementos do cenário onde você se encontra e serve para te dar perspectivas diferentes de um lugar ou pessoa.",
+						"Exemplos podem ser: visualizar uma realidade alternativa onde ruínas não são ruínas. Ou uma realidade alternativa onde em um cemitério existe o túmulo de um herói, e devido a isso tudo ao redor está destruído.",
+						"Dragões podem sentir sua ascendência e demonstrar um tratamento diferente, a depender do dragão. Os dragões mais bondosos podem tratá-lo melhor, ao mesmo tempo que dragões malignos podem odiá-lo por ser um mestiço. Entretanto eles sempre sabem que você é parte do que eles são."
+					],
+					"data": {
+						"isFeature": true
+					}
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ganancioso",
@@ -994,6 +1029,45 @@
 			"page": 178,
 			"freeRules2024": true,
 			"edition": "one",
+						"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
+			],
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1093,12 +1167,20 @@
 					}
 				}
 			],
-		"languageProficiencies": [
-		{
-		"common": true,
-		"anyStandard": 2
-		}
-		],
+						"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
 			"entries": [
 				{
 					"name": "Talento de antecedente: Rei da Ganância",
@@ -1121,6 +1203,45 @@
 			"page": 178,
 			"freeRules2024": true,
 			"edition": "one",
+			"ability": [
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0
+							]
+						}
+					}
+				},
+				{
+					"choose": {
+						"weighted": {
+							"from": [
+								"str",
+								"dex",
+								"con",
+								"int",
+								"wis",
+								"cha"
+							],
+							"weights": [
+								0,
+								0,
+								0
+							]
+						}
+					}
+				}
+			],
 			"feats": [
 				{
 					"Scion of the Outer Planes [Inicial]|guarda": true
@@ -1214,12 +1335,20 @@
 					"any": 1
 				}
 			],
-		"languageProficiencies": [
-		{
-		"common": true,
-		"anyStandard": 2
-		}
-		],
+						"startingEquipment": [
+				{
+					"A": [
+						{
+							"value": 15000
+						}
+					],
+					"B": [
+						{
+							"value": 15000
+						}
+					]
+				}
+			],
 			"entries": [
 				{
 					"name": "Talento de antecedente: visão dos possuidos",
@@ -1236,6 +1365,7 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
+
 		},
 		{
 			"name": "The Lord of the Edge",
@@ -1446,10 +1576,10 @@
 				{
 					"choose": {
 						"from": [
-							"Survival",
-							"Perception",
-							"Insight",
-							"Deception"
+							"survival",
+							"perception",
+							"insight",
+							"deception"
 						],
 						"count": 2
 					}
@@ -1473,6 +1603,130 @@
 					"entries": [
 						"Você passou por um treinamento especial para interrogatórios. Utilizando meias verdades mesmo os mais atentos tem dificuldade para identificar suas mentiras.", 
 						"Quando sobre efeito de uma magia ou efeito que te obriga a dizer a verdade ou identifica uma mentira, você pode utilizar psicológicas para convencer a si mesmo da narrativa que está contando, tornando ela uma verdade para si mesmo"
+					],
+					"data": {
+						"isFeature": true
+					}
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Caçador",
+			"source": "GUARDA",
+			"page": 178,
+			"freeRules2024": true,
+			"edition": "one",
+					"feats": [
+						{
+							"Scion of the Outer Planes [Inicial]|guarda": true
+										
+						},
+						{
+							"Squire of Solamnia [Inicial]|guarda": true
+										
+						},
+						{
+							"Initiate of High Sorcery [Inicial]|Guarda": true
+						},
+						{
+							"Rune Shaper [Inicial]|Guarda": true 
+						}, 
+						{
+							"Strike of the Giants [Inicial]|Guarda": true
+						},
+						{
+							"Strixhaven Initiate [Inicial]|Guarda": true 
+						},
+						{
+							"Tough [Inicial]|guarda": true
+										
+						},
+						{
+							"Tavern Brawler [Inicial]|Guarda": true
+						},
+						{
+							"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+						},
+						{
+							"Skilled (str, int, cha) [Inicial]|Guarda": true
+						},
+						{
+							"Savage Attacker [Inicial]|Guarda": true 
+						},
+						{
+							"Musician [Inicial]|guarda": true
+										
+						},
+						{
+							"Magic Initiate (wizard) [Inicial]|Guarda": true
+						},
+						{
+							"Magic Initiate (Druid) [Inicial]|Guarda": true 
+						},
+						{
+							"Magic Initiate (Cleric) [Inicial]|Guarda": true
+						},
+						{
+							"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+						},
+						{
+							"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+										
+						},
+						{
+							"Healer [Inicial]|Guarda": true
+						},
+						{
+							"Crafter [Inicial]|Guarda": true 
+						},
+						{
+							"Alert (Str, dex, int) [Inicial]|Guarda": true
+										
+						},
+						{
+							"Alert (dex, con, int) [Inicial]|Guarda": true
+						},
+						{
+							"Artificer Initiate [Inicial]|Guarda": true 
+						}
+					],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"survival",
+							"perception",
+							"insight",
+							"nature"
+						],
+						"count": 2
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"herbalism kit": true
+				}
+			],
+		"languageProficiencies": [
+		{
+		"common": true,
+		"anyStandard": 2
+		}
+		],
+			"entries": [
+				{
+					"name": "Talento de antecedente: Instinto do Caçador",
+					"type": "entries",
+					"entries": [
+						"Você desenvolveu uma sensibilidade aguçada para os rastros deixados por criaturas. Seus olhos, ouvidos e sentidos em geral identificam com naturalidade detalhes que a maioria ignora.", 
+						"Ao passar 10 minutos analisando um terreno você consegue identificar sinais de criaturas recentes, descobrindo as seguintes informações:",
+						"* Quantidade Aproximada de Criaturas",
+						"* Tamanho das Criaturas",
+						"* Características (bípede, quadrúpede, etc)",
+						"Essa feature não é capaz de encontrar rastros que foram ativamente escondidos ou de ambientes que não deixam vestígios, e ainda é necessário um teste para seguir os rastros."
 					],
 					"data": {
 						"isFeature": true
