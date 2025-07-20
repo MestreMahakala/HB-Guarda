@@ -23136,6 +23136,7 @@
                 "page": 44,
                 "tier": "minor",
                 "rarity": "common",
+                "valueExpression": "500",
                 "entries": [
                     "As an action, you can fire this piece of magic ammunition into the air above you, causing it to disappear into a dusting of feathers and be destroyed. The ammunition creates an invisible sensor in an unoccupied space that you can see up to 120 feet directly above you. The sensor remains for 1 minute or until you move more than 120 feet away from where you first fired the ammunition. For the duration, you can use an action to see and hear through the sensor as if you were in its space until the start of your next turn. If the ammunition hits a target, it's no longer magical.",
                     "A creature that can see the sensor (such as a creature benefiting from {@spell see invisibility|PHB} or {@sense truesight|PHB}) sees a luminous, intangible bird about the size of a fist fluttering in the air."
@@ -23173,6 +23174,7 @@
                 "page": 50,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "200000",
                 "reqAttune": true,
                 "recharge": "dawn",
                 "rechargeAmount": "{@dice 1d4}",
@@ -23214,6 +23216,7 @@
                 "page": 50,
                 "tier": "major",
                 "rarity": "very rare",
+                "valueExpression": "400000",
                 "reqAttune": true,
                 "entries": [
                     "This gilded bow creates hazy illusions of the cosmos when drawn. Attacks made with this magic bow deal an extra {@damage 1d4} force damage to any target hit by it.",
@@ -23252,6 +23255,7 @@
                 "page": 50,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "500000",
                 "entries": [
                     "This bow balances the positive and negative magics from the upper and lower planes of existence. Once on each of your turns when you make an attack with the bow as part of the {@action Attack} action, you can channel either positive or negative energy into the attack. When you do, you take a –5 penalty to the attack roll. If you channeled positive energy into the attack and hit, the target takes an extra {@damage 2d6} radiant damage, and the next attack roll made against it by a creature other than you before the start of your next turn has advantage. If you channeled negative energy into the attack, the target takes an extra {@damage 2d6} necrotic damage, and the next attack roll the target makes before the end of your next turn has disadvantage."
                 ],
@@ -23300,6 +23304,7 @@
                 "page": 56,
                 "tier": "major",
                 "rarity": "uncommon",
+                "valueExpression": "200000",
                 "reqAttune": true,
                 "entries": [
                     "Wrought from metal in the likeness of a brazier, this ranged weapon's grip has been covered in wax and has a simple candle positioned in front of where the arrow or bolt is fired from. The candle is magic and never runs out of wax, nor can it be removed from the weapon. You can use a bonus action to speak the weapon's command word to cause the candle to light itself, shedding light like a normal candle while ablaze. While the candle is lit, this magic weapon deals an extra 2 fire damage to any target it hits with a ranged attack. The candle's flame lasts until you use a bonus action to speak the command word again or until you drop or stow the weapon.",
@@ -23346,6 +23351,7 @@
                 ],
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "400000",
                 "reqAttune": true,
                 "entries": [
                     "This well-crafted leather armor comes with a sturdy, enveloping longcoat, bearing on its back the insignia of a well-known pirate captain. When you attune to it, the insignia changes to one that represents you instead. While wearing this armor, climbing and swimming don't cost you extra movement, and you can breathe underwater.",
@@ -23394,6 +23400,7 @@
                 "type": "TAH",
                 "tier": "major",
                 "rarity": "very rare",
+                "valueExpression": "160000",
                 "weightMult": 2,
                 "weightExpression": "[[baseItem.weight]] * 2",
                 "barding": true,
@@ -23441,6 +23448,7 @@
                 "page": 74,
                 "tier": "minor",
                 "rarity": "rare",
+                "valueExpression": "30000",
                 "entries": [
                     "This metallic ammunition flies effortlessly on its own when fired. When you take the {@action Attack} action and make a ranged weapon attack, you can instead fire this ammunition at a point you can see within range. The arrow or bolt explodes when it reaches the point, destroying the ammunition and creating either a cone or 5-foot-wide line of dragon's breath in the direction it was fired. The created effect depends on the metal it was cast from. Each creature in that area must make a DC 15 Dexterity saving throw, taking {@damage 4d8} damage of the associated type on a failed save, or half as much damage on a successful one. Use the table below to determine the effect's area of effect and damage type:",
                     {
@@ -23514,6 +23522,7 @@
                 "page": 78,
                 "tier": "major",
                 "rarity": "legendary",
+                "valueExpression": "2200000",
                 "reqAttune": true,
                 "bonusWeapon": "+2",
                 "entries": [
@@ -23550,6 +23559,7 @@
                 "page": 85,
                 "tier": "minor",
                 "rarity": "common",
+                "valueExpression": "[[baseItem.value]] + 4500",
                 "entries": [
                     "While wearing this armor, you feel light on your feet and agile. When you make a {@quickref long jump|PHB|4} onto or alongside a wall or similar surface that isn't slippery for the first time on your turn, you can move along that wall for the length of the jump during the move. While on that surface, you can make a second jump, provided you have the movement to do so."
                 ],
@@ -23586,6 +23596,7 @@
                 "page": 87,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "200000",
                 "reqAttune": true,
                 "bonusWeapon": "+1",
                 "recharge": "dawn",
@@ -23628,6 +23639,7 @@
                 "page": 92,
                 "tier": "major",
                 "rarity": "legendary",
+                "valueExpression": "1400000",
                 "reqAttune": true,
                 "bonusWeapon": "+2",
                 "entries": [
@@ -23668,6 +23680,7 @@
                 "page": 111,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "120000",
                 "reqAttune": true,
                 "bonusWeapon": "+1",
                 "recharge": "dawn",
@@ -23713,6 +23726,7 @@
                 "page": 111,
                 "tier": "major",
                 "rarity": "uncommon",
+                "valueExpression": "100000",
                 "reqAttune": "by a creature of neutral alignment",
                 "reqAttuneTags": [
                     {
@@ -23812,6 +23826,7 @@
                 "page": 124,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "100000",
                 "reqAttune": true,
                 "recharge": "dawn",
                 "rechargeAmount": "{@dice 1d4 + 2}",
@@ -23861,6 +23876,7 @@
                 ],
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "800000",
                 "reqAttune": true,
                 "curse": true,
                 "entries": [
@@ -23909,6 +23925,7 @@
                 "page": 130,
                 "tier": "major",
                 "rarity": "very rare",
+                "valueExpression": "80000",
                 "reqAttune": true,
                 "bonusAc": "+1",
                 "entries": [
@@ -23952,6 +23969,7 @@
                 "page": 135,
                 "tier": "major",
                 "rarity": "very rare",
+                "valueExpression": "150000",
                 "reqAttune": true,
                 "recharge": "dawn",
                 "rechargeAmount": 5,
@@ -23995,6 +24013,7 @@
                 ],
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "150000",
                 "reqAttune": true,
                 "recharge": "dawn",
                 "rechargeAmount": 3,
@@ -24038,6 +24057,7 @@
                 "page": 138,
                 "tier": "major",
                 "rarity": "uncommon",
+                "valueExpression": "400000",
                 "reqAttune": "by a druid or ranger",
                 "reqAttuneTags": [
                     {
@@ -24098,6 +24118,7 @@
                 "page": 153,
                 "tier": "major",
                 "rarity": "uncommon",
+                "valueExpression": "60000",
                 "reqAttune": "by a cleric or paladin",
                 "reqAttuneTags": [
                     {
@@ -24160,6 +24181,7 @@
                 "page": 155,
                 "tier": "major",
                 "rarity": "uncommon",
+                "valueExpression": "80000",
                 "reqAttune": true,
                 "entries": [
                     "This armor is made from the treated carapace of a giant scorpion. You can benefit from the armor, as described below, even if you aren't attuned to it.",
@@ -24202,6 +24224,7 @@
                 ],
                 "tier": "major",
                 "rarity": "legendary",
+                "valueExpression": "2000000",
                 "reqAttune": true,
                 "ac": 15,
                 "bonusAc": "+2",
@@ -24253,6 +24276,7 @@
                 "page": 180,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "140000",
                 "bonusWeapon": "+1",
                 "entries": [
                     "A verax weapon has been made by quenching its metal in the blood of a particular creature while being forged, enchanting the weapon with a magic that hunts down creatures of the chosen type. You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
@@ -24341,6 +24365,7 @@
                 "page": 186,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "300000",
                 "bonusWeapon": "+1",
                 "entries": [
                     "This axe has a single pearl set at the center of its blade. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you take the {@action Attack} action using this axe, you can forgo one of your attacks to swing the axe in front of you and speak its command word. When you do, the axe emits a crashing wave of magical water. The wave is 10 feet tall and extends from you in a 30-foot cone, after which it spreads out across the ground in all directions, extinguishing unprotected flames in the area within 30 feet of it before the water vanishes. Each creature within the cone must make a DC 15 Dexterity saving throw. On a failed save, a creature takes {@damage 4d8} bludgeoning damage and is knocked {@condition prone}. On a successful save, a creature takes half as much damage and isn't knocked {@condition prone}. This property can't be used again until the next dawn."
@@ -24375,6 +24400,7 @@
                 "page": 187,
                 "tier": "major",
                 "rarity": "uncommon",
+                "valueExpression": "130000",
                 "reqAttune": "by a creature of good alignment",
                 "reqAttuneTags": [
                     {
@@ -24433,6 +24459,7 @@
                 "page": 188,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "170000",
                 "reqAttune": true,
                 "recharge": "dawn",
                 "rechargeAmount": 3,
@@ -24483,6 +24510,7 @@
                 "page": 188,
                 "tier": "major",
                 "rarity": "rare",
+                "valueExpression": "1000000",
                 "entries": [
                     "These magic weapons were forged with lightweight metals and designed for speed rather than brute force. Whirling weapons have the finesse and light properties and whistle softly when swung through the air. When you take the {@action Attack} action and attack with a {@i whirling weapon} that you're holding in one hand, you can use a bonus action to make another attack with the same weapon. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative. If you're holding a different {@i whirling weapon} in each hand and engage in two-weapon fighting, you can make one attack with each weapon when you use a bonus action in this way.",
                     "In addition, if you have the Two-Weapon Fighting fighting style, you can add your ability modifier to the damage of the bonus attacks."
@@ -24520,6 +24548,7 @@
                 "page": 189,
                 "tier": "minor",
                 "rarity": "rare",
+                "valueExpression": "40000",
                 "entries": [
                     "This ammunition smolders while you hold it, sparking softly with simmering embers. When you use this arrow or bolt to make a ranged weapon attack, it vanishes in a scattering of sparks immediately after it's fired: disappearing into a special extradimensional space without hitting a target. The ammunition's flames burn hotter the longer it remains in this space and can stay there for up to 3 rounds.",
                     "You can use a bonus action on your turn to speak the ammunition's command word and choose a point you can see within 120 feet of where you fired it from. When you do, the arrow or bolt reappears directly above the point and explodes, creating a 20-foot-radius, 40-foothigh cylinder of searing flames centered on that point. Each creature in the area must make a DC 15 Dexterity saving throw. On a failed save, a creature takes {@damage 4d8} fire damage, plus an extra {@damage 2d8} fire damage for every round the ammunition remained in its pocket dimension. On a successful save, a creature takes half as much damage.",
@@ -24559,6 +24588,7 @@
                 "page": 194,
                 "tier": "major",
                 "rarity": "very rare",
+                "valueExpression": "400000",
                 "reqAttune": "by a creature with a Dexterity score of 17 or higher",
                 "reqAttuneTags": [
                     {
