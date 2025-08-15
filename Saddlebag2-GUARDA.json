@@ -28,7 +28,7 @@
         },
         "edition": "classic",
         "dateAdded": 1722887888,
-        "dateLastModified": 1746523372,
+        "dateLastModified": 1746523378,
         "_dateLastModifiedHash": "2807cd86b3"
     },
     "subclass": [
@@ -18077,7 +18077,7 @@
             "type": "M",
             "tier": "major",
             "rarity": "uncommon",
-            "value": 200,
+            "value": 60000,
             "weight": 3,
             "reqAttune": true,
             "weaponCategory": "martial",
@@ -19698,7 +19698,7 @@
             "type": "M",
             "tier": "major",
             "rarity": "legendary",
-            "value": 200,
+            "value": 1400200,
             "weight": 1,
             "reqAttune": "by a rogue",
             "reqAttuneTags": [
@@ -21406,7 +21406,7 @@
             "type": "M",
             "tier": "major",
             "rarity": "rare",
-            "value": 2500,
+            "value": 600000,
             "weight": 3,
             "weaponCategory": "martial",
             "property": [
