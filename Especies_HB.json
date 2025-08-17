@@ -3112,6 +3112,241 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
+		},
+		{
+			"name": "Dragonborn (Outer)",
+			"source": "GUARDA",
+			"page": 187,
+			"edition": "one",
+			"creatureTypes": [
+				"Humanoid"
+			],
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"darkvision": 60,
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"Medium (2.10m até 2.90m)"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Outer Ancestry",
+					"entries": [
+						"Você possui um ancestral draconico o que lhe concede uma afinidade mágica especial. Escolha um tipo de dragão da Tabela de Ascendência draconica. Isso determina o tipo de dano de seus outros traços, conforme indicado na tabela, e você tem resistência ao dano escolhido.",
+						{
+							"type": "table",
+							"colLabels": [
+								"Dragon",
+								"Damage Type"
+							],
+							"colStyles": [
+								"col-6",
+								"col-6"
+							],
+							"rows": [
+								[
+									"Outer; Mercury",
+									"poison"
+								],
+								[
+									"Outer; Cobalt",
+									"force"
+								],
+								[
+									"Outer; Deep",
+									"psychic"
+								],
+								[
+									"Outer; Sand",
+									"fire"
+								],
+								[
+									"Outer; Moonstone",
+									"Radiant"
+								],
+								[
+									"Outer; Shadow",
+									"Necrotic"
+								],
+								[
+									"Outer; Solar",
+									"Radiant"
+								],
+								[
+									"Outer; Lunar",
+									"Cold"
+								],
+								[
+									"Outer; Iron",
+									"Thunder"
+								],
+								[
+									"Outer; Styx",
+									"Acid"
+								]
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Tail Weapon",
+					"entries": [
+						"Você possui uma cauda poderosa que pode ser usada como arma natural, você causa dano contundente igual a 1d6 + seu modificador de Força e você pode usar sua cauda para jogadas de 'grapple', seu rabo pode apenas ter 1 criatura grappled por vez."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência a Dano",
+					"entries": [
+						"Você tem {@variantrule Resistance|XPHB} ao tipo de dano determinado pelo seu traço Ancestralidade Dracônica"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} de 60 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Outer Breath",
+					"entries": [
+						"Quando você realiza a ação de Ataque no seu turno, pode substituir um de seus ataques por uma exalação de energia mágica em uma linha de 20 pés (6 metros) de comprimento por 5 pés (1,5 metro) de largura.",
+						"Cada criatura na área deve fazer um teste de resistência de Destreza (CD 8 + seu bônus de proficiência + o modificador de Inteligência, Sabedoria ou Carisma — à sua escolha, feita ao selecionar sua Ascendência Extraplanar).",
+						"Em uma falha, a criatura sofre 1d10 de dano do tipo determinado pela sua Ascendência Extraplanar. Em um sucesso, a criatura sofre metade desse dano. Esse dano aumenta em 1d10 quando você atinge os níveis 5 (2d10), 11 (3d10) e 17 (4d10).", 
+						"Você pode usar este traço um número de vezes igual ao seu bônus de proficiência, e recupera todos os usos gastos quando termina um descanso longo. "
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true,
+			"_versions": [
+				{
+					"_abstract": {
+						"name": "Dragonborn ({{color}})",
+						"source": "GUARDA",
+						"_mod": {
+							"entries": [
+								{
+									"mode": "removeArr",
+									"names": "Outer Ancestry"
+								},
+								{
+									"mode": "replaceArr",
+									"replace": "Resistência a Dano",
+									"items": {
+										"type": "entries",
+										"name": "Resistência a Dano",
+										"entries": [
+											"You have {@variantrule Resistance|XPHB} to {{damageType}} damage."
+										]
+									}
+								}
+							]
+						}
+					},
+					"_implementations": [
+						{
+							"_variables": {
+								"color": "Outer; Styx",
+								"damageType": "Acid"
+							},
+							"resist": [
+								"acid"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Mercury",
+								"damageType": "Poison"
+							},
+							"resist": [
+								"poison"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; sand",
+								"damageType": "Fire"
+							},
+							"resist": [
+								"fire"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Deep",
+								"damageType": "Psychic"
+							},
+							"resist": [
+								"psychic"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Cobalt",
+								"damageType": "Force"
+							},
+							"resist": [
+								"force"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Moonsotne",
+								"damageType": "Radiant"
+							},
+							"resist": [
+								"radiant"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Shadow",
+								"damageType": "Necrotic"
+							},
+							"resist": [
+								"necrotic"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Solar",
+								"damageType": "Radiant"
+							},
+							"resist": [
+								"radiant"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Lunar",
+								"damageType": "Cold"
+							},
+							"resist": [
+								"cold"
+							]
+						},
+						{
+							"_variables": {
+								"color": "Outer; Iron",
+								"damageType": "Thunder"
+							},
+							"resist": [
+								"thunder"
+							]
+						}
+					]
+				}
+			]
 		}
 				
 	]
