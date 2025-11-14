@@ -1854,6 +1854,139 @@
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
-		}
+		},
+		{
+		"name": "Funcionário da G.U.A.R.D.A.",
+		"source": "GUARDA",
+		"page": 178,
+		"freeRules2024": true,
+		"edition": "one",
+		"feats": [
+			{
+				"Scion of the Outer Planes [Inicial]|guarda": true
+							
+			},
+			{
+				"Squire of Solamnia [Inicial]|guarda": true
+							
+			},
+			{
+				"Initiate of High Sorcery [Inicial]|Guarda": true
+			},
+			{
+				"Rune Shaper [Inicial]|Guarda": true 
+			}, 
+			{
+				"Strike of the Giants [Inicial]|Guarda": true
+			},
+			{
+				"Strixhaven Initiate [Inicial]|Guarda": true 
+			},
+			{
+				"Tough [Inicial]|guarda": true
+							
+			},
+			{
+				"Tavern Brawler [Inicial]|Guarda": true
+			},
+			{
+				"Skilled (Dex, con wis) [Inicial]|Guarda": true 
+			},
+			{
+				"Skilled (str, int, cha) [Inicial]|Guarda": true
+			},
+			{
+				"Savage Attacker [Inicial]|Guarda": true 
+			},
+			{
+				"Musician [Inicial]|guarda": true
+							
+			},
+			{
+				"Magic Initiate (wizard) [Inicial]|Guarda": true
+			},
+			{
+				"Magic Initiate (Druid) [Inicial]|Guarda": true 
+			},
+			{
+				"Magic Initiate (Cleric) [Inicial]|Guarda": true
+			},
+			{
+				"Lucky (Con, Int, Cha) [Inicial]|Guarda": true 
+			},
+			{
+				"Lucky (dex, wis, cha) [Inicial]|Guarda": true
+							
+			},
+			{
+				"Healer [Inicial]|Guarda": true
+			},
+			{
+				"Crafter [Inicial]|Guarda": true 
+			},
+			{
+				"Alert (Str, dex, int) [Inicial]|Guarda": true
+							
+			},
+			{
+				"Alert (dex, con, int) [Inicial]|Guarda": true
+			},
+			{
+				"Artificer Initiate [Inicial]|Guarda": true 
+			}
+		],
+		"skillProficiencies": [
+			{
+				"choose": {
+					"from": [
+						"animal handling",
+						"perception",
+						"sleight of hand",
+						"insight"
+					],
+					"count": 2
+				}
+			}
+		],
+		"system": {
+			"toolProficiencies": {
+				"value": []
+			},
+			"configuration": {
+			"choices": [
+				{
+					"type": "tool",
+					"label": "Escolha uma ferramenta artística",
+					"options": [
+						"calligrapher's supplies",
+						"painter's supplies"
+					],
+					"count": 1
+				}
+			]
+			}
+		},
+	"languageProficiencies": [
+	{
+	"common": true,
+	"anyStandard": 2
+	}
+	],
+		"entries": [
+			{
+				"name": "Talento de antecedente: Workaholic",
+				"type": "entries",
+				"entries": [
+					"Você, antes de ser um aventureiro, já trabalhava para a grande e competente G.U.A.R.D.A. Seja como arquivista, entrevistador, recepcionista, retratista, veterinário ou qualquer outra função, você sempre esteve próximo aos aventureiros - e talvez seja por isso que você tenha resolvido se tornar um, mas sem se esquecer da sua antiga função.",
+					"Você tem mais facilidade para se lembrar de quaisquer informações vinculadas a G.U.A.R.D.A. e seus membros, contanto que elas tenham sido notificadas de alguma forma através de meios de comunicação ou registro - e algumas que nem mesmo foram abertas ao público."
+				],
+				"data": {
+					"isFeature": true
+				}
+			}
+		],
+		"hasFluff": true,
+		"hasFluffImages": true
+	}
     ]
 }
