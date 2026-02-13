@@ -1260,6 +1260,7 @@
 			{
 			"name": "Skilled (Dex, Con, Cha) [Inicial]",
 			"source": "Guarda",
+			"edition": "one",
 			"page": 201,
 			    "ability": [
         {
